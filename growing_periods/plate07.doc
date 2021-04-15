@@ -1,0 +1,38 @@
+file title  : Length of Growing Period Zones (0.5*PET; CRU)
+data type   : byte
+file type   : binary
+columns     : 720
+rows        : 360
+ref. system : latlong
+ref. units  : deg
+unit dist.  : 1.0000000
+min. X      : -180.00000
+max. X      : 180.00000
+min. Y      : -90.00000
+max. Y      : 90.00000
+pos'n error : unknown
+resolution  : 0.5000000
+min. value  : 1
+max. value  : 16
+value units : unknown
+value error : unknown
+flag value  : 0
+flag def'n  : background
+legend cats : 17
+Class 0     : Undefined
+Class 1     :     0 days
+Class 2     :   1 -  29 days
+Class 3     :  30 -  59 days
+Class 4     :  60 -  89 days
+Class 5     :  90 - 119 days
+Class 6     : 120 - 149 days
+Class 7     : 150 - 179 days
+Class 8     : 180 - 209 days
+Class 9     : 210 - 239 days
+Class 10    : 240 - 269 days
+Class 11    : 270 - 299 days
+Class 12    : 300 - 329 days
+Class 13    : 330 - 364 days
+Class 14    :  365- days
+Class 15    :  365  days
+Class 16    :  365+ days

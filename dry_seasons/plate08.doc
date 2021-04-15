@@ -1,0 +1,26 @@
+file title  : Growing period patterns
+data type   : byte
+file type   : binary
+columns     : 720
+rows        : 360
+ref. system : latlong
+ref. units  : deg
+unit dist.  : 1.0000000
+min. X      : -180.00000
+max. X      : 180.00000
+min. Y      : -90.00000
+max. Y      : 90.00000
+pos'n error : unknown
+resolution  : 0.5000000
+min. value  : 0
+max. value  : 4
+value units : unknown
+value error : unknown
+flag value  : 0
+flag def'n  : background
+legend cats : 5
+Category 0  : Undefined
+Category 1  : LGP < 60 days
+Category 2  : Dominantly no break
+Category 3  : Dominantly 1 break
+Category 4  : Dominantly 2 breaks
