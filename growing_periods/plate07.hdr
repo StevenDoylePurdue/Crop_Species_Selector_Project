@@ -1,9 +1,0 @@
-BYTEORDER      I
-LAYOUT       BIL
-NROWS         360
-NCOLS         720
-NBANDS        1
-NBITS         8
-BANDROWBYTES         720
-TOTALROWBYTES        720
-BANDGAPBYTES         0
