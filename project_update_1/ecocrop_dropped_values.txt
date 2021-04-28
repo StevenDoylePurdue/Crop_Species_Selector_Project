@@ -1,0 +1,4 @@
+	Temp_Opt_Min	Temp_Opt_Max	Temp_Abs_Min	Temp_Abs_Max	Rain_Opt_Min	Rain_Opt_Max	Rain_Abs_Min	Rain_Abs_Max	Alt_Abs_Max	pH_Opt_Min	pH_Opt_Max	pH_Abs_Min	pH_Abs_Max	Texture_Opt	Texture_Abs	Fertility_Opt	Fertility_Abs	Salinity_Opt	Salinity_AbsCycle_Min	Cycle_Max	Cycle_Min
+1. No Data	496	496	499	499	500	500	502	502	792	487	487	487	487	0	0	0	0	0	0	0	0.0
+2. Gross Error	2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	687.0
+3. Swapped	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0
