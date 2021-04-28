@@ -23631,9 +23631,9 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 925,Xk4-2ab,TJK,Tajikistan,TJK.4_1,Leninabad,Region
 925,Xk4-2ab,TJK,Tajikistan,TJK.4_1,Leninabad,Region
 863,Gc4-3a,TJK,Tajikistan,TJK.4_1,Leninabad,Region
-863,Gc4-3a,UZB,Uzbekistan,UZB.3_1,Ferghana,Region
-863,Gc4-3a,UZB,Uzbekistan,UZB.3_1,Ferghana,Region
-925,Xk4-2ab,UZB,Uzbekistan,UZB.1_1,Andijon,Region
+863,G,UZB,Uzbekistan,UZB.3_1,Ferghana,Region
+863,G,UZB,Uzbekistan,UZB.3_1,Ferghana,Region
+925,X,UZB,Uzbekistan,UZB.1_1,Andijon,Region
 925,Xk4-2ab,KGZ,Kyrgyzstan,KGZ.7_1,Osh,Province
 831,I-Bc-2c,KGZ,Kyrgyzstan,KGZ.7_1,Osh,Province
 189,I-Bh-2c,KGZ,Kyrgyzstan,KGZ.7_1,Osh,Province
@@ -42889,9 +42889,9 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2678,Ge28-1a,AGO,Angola,AGO.5_1,Cuando Cubango,Province
 2693,Qc29-1a,AGO,Angola,AGO.5_1,Cuando Cubango,Province
 2693,Qc29-1a,AGO,Angola,AGO.5_1,Cuando Cubango,Province
-2693,Qc29-1a,NAM,Namibia,NAM.13_1,Zambezi,Region
-2693,Qc29-1a,NAM,Namibia,NAM.13_1,Zambezi,Region
-2693,Qc29-1a,NAM,Namibia,NAM.13_1,Zambezi,Region
+2693,Q,NAM,Namibia,NAM.13_1,Zambezi,Region
+2693,Q,NAM,Namibia,NAM.13_1,Zambezi,Region
+2693,Q,NAM,Namibia,NAM.13_1,Zambezi,Region
 1250,Vp20-3a,ZMB,Zambia,ZMB.9_1,Southern,Province
 2693,Qc29-1a,ZMB,Zambia,ZMB.9_1,Southern,Province
 2743,Fo77-2/3a,ZMB,Zambia,ZMB.9_1,Southern,Province
@@ -43042,7 +43042,7 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2693,Qc29-1a,NAM,Namibia,NAM.4_1,Kavango,Region
 2693,Qc29-1a,BWA,Botswana,BWA.12_1,North-West,District
 2693,Qc29-1a,BWA,Botswana,BWA.12_1,North-West,District
-2693,Qc29-1a,NAM,Namibia,NAM.13_1,Zambezi,Region
+2693,Q,NAM,Namibia,NAM.13_1,Zambezi,Region
 2693,Qc29-1a,BWA,Botswana,BWA.2_1,Chobe,District
 2693,Qc29-1a,BWA,Botswana,BWA.2_1,Chobe,District
 2837,V10-3a,BWA,Botswana,BWA.2_1,Chobe,District
@@ -44559,19 +44559,19 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2815,Qc38-1a,NAM,Namibia,NAM.3_1,Hardap,Region
 2815,Qc38-1a,NAM,Namibia,NAM.3_1,Hardap,Region
 2815,Qc38-1a,NAM,Namibia,NAM.8_1,Omaheke,Region
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
 2815,Qc38-1a,BWA,Botswana,BWA.9_1,Kweneng,District
 2957,Qa5-1a,BWA,Botswana,BWA.9_1,Kweneng,District
 2957,Qa5-1a,BWA,Botswana,BWA.9_1,Kweneng,District
 2815,Qc38-1a,BWA,Botswana,BWA.9_1,Kweneng,District
 2815,Qc38-1a,BWA,Botswana,BWA.9_1,Kweneng,District
-2911,Qc40-1a,BWA,Botswana,BWA.8_1,Kgatleng,District
-2911,Qc40-1a,BWA,Botswana,BWA.8_1,Kgatleng,District
+2911,Q,BWA,Botswana,BWA.8_1,Kgatleng,District
+2911,Q,BWA,Botswana,BWA.8_1,Kgatleng,District
 2938,Qc42-1a,ZAF,South Africa,ZAF.5_1,Limpopo,Province
 2938,Qc42-1a,ZAF,South Africa,ZAF.5_1,Limpopo,Province
 2938,Qc42-1a,ZAF,South Africa,ZAF.5_1,Limpopo,Province
@@ -44711,18 +44711,18 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2815,Qc38-1a,NAM,Namibia,NAM.3_1,Hardap,Region
 2815,Qc38-1a,NAM,Namibia,NAM.3_1,Hardap,Region
 2815,Qc38-1a,NAM,Namibia,NAM.3_1,Hardap,Region
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
 2815,Qc38-1a,BWA,Botswana,BWA.15_1,Southern,District
 2815,Qc38-1a,BWA,Botswana,BWA.15_1,Southern,District
 2815,Qc38-1a,BWA,Botswana,BWA.9_1,Kweneng,District
 2815,Qc38-1a,BWA,Botswana,BWA.9_1,Kweneng,District
 2943,Lc68-2/3a,BWA,Botswana,BWA.9_1,Kweneng,District
-2871,Qc32-1ab,BWA,Botswana,BWA.8_1,Kgatleng,District
+2871,Q,BWA,Botswana,BWA.8_1,Kgatleng,District
 2938,Qc42-1a,ZAF,South Africa,ZAF.5_1,Limpopo,Province
 2938,Qc42-1a,ZAF,South Africa,ZAF.5_1,Limpopo,Province
 2938,Qc42-1a,ZAF,South Africa,ZAF.5_1,Limpopo,Province
@@ -44863,13 +44863,13 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2815,Qc38-1a,NAM,Namibia,NAM.3_1,Hardap,Region
 2815,Qc38-1a,NAM,Namibia,NAM.3_1,Hardap,Region
 2815,Qc38-1a,ZAF,South Africa,ZAF.8_1,Northern Cape,Province
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
 2815,Qc38-1a,BWA,Botswana,BWA.15_1,Southern,District
 2653,I-Bc,BWA,Botswana,BWA.15_1,Southern,District
 2653,I-Bc,BWA,Botswana,BWA.14_1,South-East,District
@@ -45011,13 +45011,13 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2809,Xk24-2ab,NAM,Namibia,NAM.3_1,Hardap,Region
 2815,Qc38-1a,NAM,Namibia,NAM.3_1,Hardap,Region
 2815,Qc38-1a,ZAF,South Africa,ZAF.8_1,Northern Cape,Province
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
 2815,Qc38-1a,ZAF,South Africa,ZAF.7_1,North West,Province
 2815,Qc38-1a,ZAF,South Africa,ZAF.7_1,North West,Province
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
 2815,Qc38-1a,BWA,Botswana,BWA.15_1,Southern,District
 2886,Ql25-1/2a,BWA,Botswana,BWA.15_1,Southern,District
 2975,Lc66-1a,ZAF,South Africa,ZAF.7_1,North West,Province
@@ -45152,9 +45152,9 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2815,Qc38-1a,NAM,Namibia,NAM.1_1,!Karas,Region
 2815,Qc38-1a,ZAF,South Africa,ZAF.8_1,Northern Cape,Province
 2815,Qc38-1a,ZAF,South Africa,ZAF.8_1,Northern Cape,Province
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
 2815,Qc38-1a,ZAF,South Africa,ZAF.7_1,North West,Province
 2815,Qc38-1a,ZAF,South Africa,ZAF.7_1,North West,Province
 2815,Qc38-1a,ZAF,South Africa,ZAF.7_1,North West,Province
@@ -45172,7 +45172,7 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2969,Lc64-2b,ZAF,South Africa,ZAF.6_1,Mpumalanga,Province
 2942,Fr20-3bc,SWZ,Swaziland,SWZ.1_1,Hhohho,District
 2964,We18-1/2a,SWZ,Swaziland,SWZ.2_1,Lubombo,District
-2918,Qc44-1a,MOZ,Mozambique,MOZ.5_1,Maputo City,Province
+2918,Q,MOZ,Mozambique,MOZ.5_1,Maputo City,Province
 2666,Qf41-1ab,AUS,Australia,AUS.11_1,Western Australia,State
 2666,Qf41-1ab,AUS,Australia,AUS.11_1,Western Australia,State
 2697,Yl21-1/2a,AUS,Australia,AUS.11_1,Western Australia,State
@@ -45290,9 +45290,9 @@ grid_code,FAOSOIL,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
 2809,Xk24-2ab,NAM,Namibia,NAM.1_1,!Karas,Region
 2815,Qc38-1a,NAM,Namibia,NAM.1_1,!Karas,Region
 2815,Qc38-1a,ZAF,South Africa,ZAF.8_1,Northern Cape,Province
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
-2815,Qc38-1a,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
+2815,Q,BWA,Botswana,BWA.7_1,Kgalagadi,District
 2815,Qc38-1a,ZAF,South Africa,ZAF.8_1,Northern Cape,Province
 2815,Qc38-1a,ZAF,South Africa,ZAF.8_1,Northern Cape,Province
 2815,Qc38-1a,ZAF,South Africa,ZAF.8_1,Northern Cape,Province

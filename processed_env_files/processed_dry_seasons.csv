@@ -1,0 +1,2587 @@
+,dry_season_type,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
+GRL.2_1,GRL,Greenland,GRL.2_1,Northeast Greenland National Park,National Park,0.9806590257879656
+CAN.8_1,CAN,Canada,CAN.8_1,Nunavut,Territory,1.2179980750721848
+RUS.4_1,RUS,Russia,RUS.4_1,Arkhangel'sk,Region,1.6518105849582172
+RUS.35_1,RUS,Russia,RUS.35_1,Krasnoyarsk,Territory,1.9037871033776868
+GRL.3_1,GRL,Greenland,GRL.3_1,Qaasuitsup,Commune,1.021180030257186
+SJM.2_1,SJM,Svalbard and Jan Mayen,SJM.2_1,Svalbard,Territory,0.9333333333333333
+CAN.6_1,CAN,Canada,CAN.6_1,Northwest Territories,Territory,1.8063021316033365
+RUS.60_1,RUS,Russia,RUS.60_1,Sakha,Republic,1.9689795918367348
+RUS.80_1,RUS,Russia,RUS.80_1,Yamal-Nenets,Autonomous Province,2.0
+GRL.5_1,GRL,Greenland,GRL.5_1,Sermersooq,Commune,1.002169197396963
+RUS.12_1,RUS,Russia,RUS.12_1,Chukot,Autonomous Province,1.7525773195876289
+USA.2_1,USA,United States,USA.2_1,Alaska,State,1.8924444444444444
+NOR.5_1,NOR,Norway,NOR.5_1,Finnmark,County,1.9574468085106382
+NOR.17_1,NOR,Norway,NOR.17_1,Troms,County,1.84
+RUS.46_1,RUS,Russia,RUS.46_1,Nenets,Autonomous Province,2.0
+FIN.2_1,FIN,Finland,FIN.2_1,Lapland,Province,2.0
+RUS.45_1,RUS,Russia,RUS.45_1,Murmansk,Region,2.0
+CAN.13_1,CAN,Canada,CAN.13_1,Yukon,Territory,1.9742857142857142
+NOR.10_1,NOR,Norway,NOR.10_1,Nordland,County,1.6875
+SWE.10_1,SWE,Sweden,SWE.10_1,Norrbotten,County,1.988235294117647
+RUS.32_1,RUS,Russia,RUS.32_1,Komi,Republic,2.0
+GRL.4_1,GRL,Greenland,GRL.4_1,Qeqqata,Commune,1.2142857142857142
+ISL.7_1,ISL,Iceland,ISL.7_1,Vestfirðir,Region,2.0
+ISL.2_1,ISL,Iceland,ISL.2_1,Hálshreppur,Region,1.8888888888888888
+SWE.18_1,SWE,Sweden,SWE.18_1,Västerbotten,County,2.0
+FIN.3_1,FIN,Finland,FIN.3_1,Oulu,Province,2.0
+RUS.26_1,RUS,Russia,RUS.26_1,Karelia,Republic,1.8225806451612903
+RUS.40_1,RUS,Russia,RUS.40_1,Maga Buryatdan,Region,1.98125
+ISL.4_1,ISL,Iceland,ISL.4_1,Norðurland vestra,Region,2.0
+ISL.1_1,ISL,Iceland,ISL.1_1,Austurland,Region,1.8666666666666667
+ISL.8_1,ISL,Iceland,ISL.8_1,Vesturland,Region,1.75
+RUS.30_1,RUS,Russia,RUS.30_1,Khanty-Mansiy,Autonomous Province,2.0
+ISL.5_1,ISL,Iceland,ISL.5_1,Suðurland,Region,2.0
+NOR.9_1,NOR,Norway,NOR.9_1,Nord-Trøndelag,County,2.0
+SWE.6_1,SWE,Sweden,SWE.6_1,Jämtland,County,2.0
+RUS.24_1,RUS,Russia,RUS.24_1,Kamchatka,Territory,1.9726027397260273
+ISL.3_1,ISL,Iceland,ISL.3_1,Höfuðborgarsvæði,Region,2.0
+NOR.15_1,NOR,Norway,NOR.15_1,Sør-Trøndelag,County,2.0
+SWE.19_1,SWE,Sweden,SWE.19_1,Västernorrland,County,2.0
+FIN.5_1,FIN,Finland,FIN.5_1,Western Finland,Province,2.0
+FIN.1_1,FIN,Finland,FIN.1_1,Eastern Finland,Province,2.0
+RUS.18_1,RUS,Russia,RUS.18_1,Irkutsk,Region,1.9824561403508771
+CAN.11_1,CAN,Canada,CAN.11_1,Québec,Province,1.9300361881785284
+NOR.8_1,NOR,Norway,NOR.8_1,Møre og Romsdal,County,2.0
+GRL.1_1,GRL,Greenland,GRL.1_1,Kujalleq,Commune,1.096774193548387
+NOR.11_1,NOR,Norway,NOR.11_1,Oppland,County,2.0
+NOR.6_1,NOR,Norway,NOR.6_1,Hedmark,County,2.0
+SWE.3_1,SWE,Sweden,SWE.3_1,Gävleborg,County,2.0
+RUS.28_1,RUS,Russia,RUS.28_1,Khabarovsk,Territory,1.9655963302752293
+NOR.14_1,NOR,Norway,NOR.14_1,Sogn og Fjordane,County,2.0
+SWE.2_1,SWE,Sweden,SWE.2_1,Dalarna,County,2.0
+FIN.4_1,FIN,Finland,FIN.4_1,Southern Finland,Province,2.0
+RUS.66_1,RUS,Russia,RUS.66_1,Sverdlovsk,Region,2.0256410256410255
+RUS.38_1,RUS,Russia,RUS.38_1,Leningrad,Region,1.8181818181818181
+RUS.78_1,RUS,Russia,RUS.78_1,Vologda,Region,2.0
+RUS.55_1,RUS,Russia,RUS.55_1,Perm',Territory,2.0
+NOR.7_1,NOR,Norway,NOR.7_1,Hordaland,County,2.0
+NOR.4_1,NOR,Norway,NOR.4_1,Buskerud,County,2.0
+SWE.17_1,SWE,Sweden,SWE.17_1,Värmland,County,1.7333333333333334
+RUS.31_1,RUS,Russia,RUS.31_1,Kirov,Region,2.0
+RUS.69_1,RUS,Russia,RUS.69_1,Tomsk,Region,2.0050251256281406
+CAN.5_1,CAN,Canada,CAN.5_1,Newfoundland and Labrador,Province,1.9428571428571428
+GBR.3_1,GBR,United Kingdom,GBR.3_1,Scotland,Kingdom,1.8222222222222222
+NOR.1_1,NOR,Norway,NOR.1_1,Akershus,County,2.0
+SWE.20_1,SWE,Sweden,SWE.20_1,Västmanland,County,2.0
+SWE.16_1,SWE,Sweden,SWE.16_1,Uppsala,County,2.0
+ALA.6_1,ALA,Åland,ALA.6_1,Hammarland,Municipality,0.0
+ALA.15_1,ALA,Åland,ALA.15_1,Sund,Municipality,0.0
+CAN.2_1,CAN,Canada,CAN.2_1,British Columbia,Province,2.0528301886792453
+CAN.1_1,CAN,Canada,CAN.1_1,Alberta,Province,2.1117021276595747
+CAN.12_1,CAN,Canada,CAN.12_1,Saskatchewan,Province,2.063711911357341
+CAN.3_1,CAN,Canada,CAN.3_1,Manitoba,Province,2.114130434782609
+NOR.16_1,NOR,Norway,NOR.16_1,Telemark,County,2.0
+NOR.2_1,NOR,Norway,NOR.2_1,Ãstfold,County,2.0
+SWE.11_1,SWE,Sweden,SWE.11_1,Orebro,County,2.0
+SWE.15_1,SWE,Sweden,SWE.15_1,Stockholm,County,2.0
+RUS.14_1,RUS,Russia,RUS.14_1,City of St. Petersburg,City,2.0
+RUS.73_1,RUS,Russia,RUS.73_1,Tyumen',Region,2.4086021505376345
+NOR.13_1,NOR,Norway,NOR.13_1,Rogaland,County,1.6
+NOR.3_1,NOR,Norway,NOR.3_1,Aust-Agder,County,2.0
+NOR.19_1,NOR,Norway,NOR.19_1,Vestfold,County,2.0
+SWE.14_1,SWE,Sweden,SWE.14_1,Södermanland,County,2.0
+EST.1_1,EST,Estonia,EST.1_1,Harju,County,2.0
+EST.4_1,EST,Estonia,EST.4_1,Järva,County,2.0
+EST.6_1,EST,Estonia,EST.6_1,Lääne-Viru,County,2.0
+EST.3_1,EST,Estonia,EST.3_1,Ida-Viru,County,2.0
+RUS.49_1,RUS,Russia,RUS.49_1,Novgorod,Region,2.0
+RUS.33_1,RUS,Russia,RUS.33_1,Kostroma,Region,2.0
+NOR.18_1,NOR,Norway,NOR.18_1,Vest-Agder,County,2.0
+SWE.21_1,SWE,Sweden,SWE.21_1,Västra Götaland,County,1.8823529411764706
+SWE.12_1,SWE,Sweden,SWE.12_1,Östergötland,County,2.0
+EST.7_1,EST,Estonia,EST.7_1,Lääne,County,2.0
+EST.11_1,EST,Estonia,EST.11_1,Rapla,County,2.0
+EST.5_1,EST,Estonia,EST.5_1,Jõgeva,County,2.0
+EST.9_1,EST,Estonia,EST.9_1,Peipsi,Water body,0.0
+RUS.57_1,RUS,Russia,RUS.57_1,Pskov,Region,2.0
+RUS.81_1,RUS,Russia,RUS.81_1,Yaroslavl',Region,2.0
+EST.12_1,EST,Estonia,EST.12_1,Saare,County,2.0
+EST.8_1,EST,Estonia,EST.8_1,Pärnu,County,2.0
+EST.15_1,EST,Estonia,EST.15_1,Viljandi,County,2.0
+EST.13_1,EST,Estonia,EST.13_1,Tartu,County,2.0
+RUS.72_1,RUS,Russia,RUS.72_1,Tver',Region,2.0
+RUS.74_1,RUS,Russia,RUS.74_1,Udmurt,Republic,2.0
+RUS.51_1,RUS,Russia,RUS.51_1,Omsk,Region,2.75
+RUS.83_1,RUS,Russia,RUS.83_1,Zabaykal'ye,Territory,2.0598290598290596
+SWE.7_1,SWE,Sweden,SWE.7_1,Jönköping,County,2.0
+SWE.8_1,SWE,Sweden,SWE.8_1,Kalmar,County,2.0
+SWE.4_1,SWE,Sweden,SWE.4_1,Gotland,County,2.0
+LVA.3_1,LVA,Latvia,LVA.3_1,Riga,Province,2.0
+LVA.4_1,LVA,Latvia,LVA.4_1,Vidzeme,Province,2.0
+EST.14_1,EST,Estonia,EST.14_1,Valga,County,2.0
+EST.16_1,EST,Estonia,EST.16_1,Võru,County,2.0
+RUS.47_1,RUS,Russia,RUS.47_1,Nizhegorod,Region,2.0
+DNK.3_1,DNK,Denmark,DNK.3_1,Nordjylland,Region,2.0
+SWE.5_1,SWE,Sweden,SWE.5_1,Halland,County,2.0
+LVA.1_1,LVA,Latvia,LVA.1_1,Kurzeme,Province,2.0
+LVA.2_1,LVA,Latvia,LVA.2_1,Latgale,Province,2.0
+RUS.19_1,RUS,Russia,RUS.19_1,Ivanovo,Region,2.0
+CAN.9_1,CAN,Canada,CAN.9_1,Ontario,Province,1.8500914076782449
+SWE.9_1,SWE,Sweden,SWE.9_1,Kronoberg,County,2.0
+LVA.5_1,LVA,Latvia,LVA.5_1,Zemgale,Province,2.0
+RUS.44_1,RUS,Russia,RUS.44_1,Moskva,Region,2.0
+RUS.76_1,RUS,Russia,RUS.76_1,Vladimir,Region,2.0
+RUS.41_1,RUS,Russia,RUS.41_1,Mariy-El,Republic,2.0
+RUS.36_1,RUS,Russia,RUS.36_1,Kurgan,Region,2.9523809523809526
+RUS.50_1,RUS,Russia,RUS.50_1,Novosibirsk,Region,2.712871287128713
+RUS.9_1,RUS,Russia,RUS.9_1,Buryat,Republic,2.0
+RUS.3_1,RUS,Russia,RUS.3_1,Amur,Region,2.0
+DNK.2_1,DNK,Denmark,DNK.2_1,Midtjylland,Region,1.75
+SWE.13_1,SWE,Sweden,SWE.13_1,Skåne,County,2.0
+SWE.1_1,SWE,Sweden,SWE.1_1,Blekinge,County,2.0
+LTU.3_1,LTU,Lithuania,LTU.3_1,Klaipedos,County,2.0
+LTU.8_1,LTU,Lithuania,LTU.8_1,Telšiai,County,2.0
+LTU.6_1,LTU,Lithuania,LTU.6_1,Šiauliai,County,2.0
+LTU.5_1,LTU,Lithuania,LTU.5_1,Panevezio,County,2.0
+RUS.13_1,RUS,Russia,RUS.13_1,Chuvash,Republic,2.0
+RUS.68_1,RUS,Russia,RUS.68_1,Tatarstan,Republic,2.1315789473684212
+RUS.6_1,RUS,Russia,RUS.6_1,Bashkortostan,Republic,2.358974358974359
+RUS.11_1,RUS,Russia,RUS.11_1,Chelyabinsk,Region,2.3469387755102042
+RUS.27_1,RUS,Russia,RUS.27_1,Kemerovo,Region,2.1153846153846154
+DNK.5_1,DNK,Denmark,DNK.5_1,Syddanmark,Region,2.0
+DNK.4_1,DNK,Denmark,DNK.4_1,Sjælland,Region,2.0
+DNK.1_1,DNK,Denmark,DNK.1_1,Hovedstaden,Region,1.0
+LTU.9_1,LTU,Lithuania,LTU.9_1,Utenos,County,2.0
+BLR.6_1,BLR,Belarus,BLR.6_1,Vitsyebsk,Region,2.0
+RUS.64_1,RUS,Russia,RUS.64_1,Smolensk,Region,2.0
+RUS.43_1,RUS,Russia,RUS.43_1,Moscow City,City,2.0
+IRL.5_1,IRL,Ireland,IRL.5_1,Donegal,County,1.5
+GBR.1_1,GBR,United Kingdom,GBR.1_1,England,Kingdom,2.0144927536231885
+LTU.7_1,LTU,Lithuania,LTU.7_1,Taurages,County,2.0
+LTU.2_1,LTU,Lithuania,LTU.2_1,Kauno,County,2.0
+LTU.10_1,LTU,Lithuania,LTU.10_1,Vilniaus,County,2.0
+RUS.59_1,RUS,Russia,RUS.59_1,Ryazan',Region,2.05
+KAZ.7_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,Region,2.037037037037037
+RUS.29_1,RUS,Russia,RUS.29_1,Khakass,Republic,2.0
+GBR.2_1,GBR,United Kingdom,GBR.2_1,Northern Ireland,Province,2.0
+DEU.15_1,DEU,Germany,DEU.15_1,Schleswig-Holstein,State,2.0
+POL.11_1,POL,Poland,POL.11_1,Pomorskie,Province|Voivodeship,2.0
+RUS.21_1,RUS,Russia,RUS.21_1,Kaliningrad,Region,2.0
+LTU.4_1,LTU,Lithuania,LTU.4_1,Marijampoles,County,2.0
+BLR.3_1,BLR,Belarus,BLR.3_1,Hrodna,Region,2.0
+BLR.5_1,BLR,Belarus,BLR.5_1,Minsk,Region,2.0
+RUS.23_1,RUS,Russia,RUS.23_1,Kaluga,Region,2.0
+RUS.70_1,RUS,Russia,RUS.70_1,Tula,Region,2.0
+RUS.42_1,RUS,Russia,RUS.42_1,Mordovia,Republic,2.2
+RUS.75_1,RUS,Russia,RUS.75_1,Ul'yanovsk,Region,2.5
+IRL.16_1,IRL,Ireland,IRL.16_1,Mayo,County,2.0
+IRL.21_1,IRL,Ireland,IRL.21_1,Sligo,County,2.0
+IRL.12_1,IRL,Ireland,IRL.12_1,Leitrim,County,2.0
+DEU.8_1,DEU,Germany,DEU.8_1,Mecklenburg-Vorpommern,State,2.0833333333333335
+POL.16_1,POL,Poland,POL.16_1,Zachodniopomorskie,Province|Voivodeship,2.0
+POL.14_1,POL,Poland,POL.14_1,Warmińsko-Mazurskie,Province|Voivodeship,2.0
+POL.10_1,POL,Poland,POL.10_1,Podlaskie,Province|Voivodeship,2.0
+LTU.1_1,LTU,Lithuania,LTU.1_1,Alytaus,County,2.0
+BLR.4_1,BLR,Belarus,BLR.4_1,Mahilyow,Region,2.0
+RUS.62_1,RUS,Russia,RUS.62_1,Samara,Region,2.357142857142857
+RUS.53_1,RUS,Russia,RUS.53_1,Orenburg,Region,1.8309859154929577
+KAZ.10_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,Region,1.2307692307692308
+KAZ.8_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,Region,1.028169014084507
+RUS.2_1,RUS,Russia,RUS.2_1,Altay,Territory,2.4823529411764707
+RUS.61_1,RUS,Russia,RUS.61_1,Sakhalin,Region,1.7391304347826086
+IRL.20_1,IRL,Ireland,IRL.20_1,Roscommon,County,2.0
+IRL.14_1,IRL,Ireland,IRL.14_1,Longford,County,2.0
+IRL.17_1,IRL,Ireland,IRL.17_1,Meath,County,2.0
+DEU.9_1,DEU,Germany,DEU.9_1,Niedersachsen,State,2.0
+RUS.8_1,RUS,Russia,RUS.8_1,Bryansk,Region,2.0
+RUS.67_1,RUS,Russia,RUS.67_1,Tambov,Region,2.5789473684210527
+RUS.54_1,RUS,Russia,RUS.54_1,Penza,Region,2.8
+RUS.71_1,RUS,Russia,RUS.71_1,Tuva,Republic,2.011111111111111
+IRL.7_1,IRL,Ireland,IRL.7_1,Galway,County,2.0
+IRL.19_1,IRL,Ireland,IRL.19_1,Offaly,County,2.0
+IRL.9_1,IRL,Ireland,IRL.9_1,Kildare,County,2.0
+IRL.6_1,IRL,Ireland,IRL.6_1,Dublin,County,2.0
+GBR.4_1,GBR,United Kingdom,GBR.4_1,Wales,Principality,2.0
+NLD.3_1,NLD,Netherlands,NLD.3_1,Friesland,Province,1.0
+NLD.5_1,NLD,Netherlands,NLD.5_1,Groningen,Province,2.0
+DEU.4_1,DEU,Germany,DEU.4_1,Brandenburg,State,2.1176470588235294
+POL.15_1,POL,Poland,POL.15_1,Wielkopolskie,Province|Voivodeship,2.0
+POL.2_1,POL,Poland,POL.2_1,Kujawsko-Pomorskie,Province|Voivodeship,2.0
+POL.7_1,POL,Poland,POL.7_1,Mazowieckie,Province|Voivodeship,2.0
+BLR.1_1,BLR,Belarus,BLR.1_1,Brest,Region,2.0
+BLR.2_1,BLR,Belarus,BLR.2_1,Homyel',Region,2.0
+RUS.52_1,RUS,Russia,RUS.52_1,Orel,Region,2.0
+RUS.39_1,RUS,Russia,RUS.39_1,Lipetsk,Region,2.5384615384615383
+KAZ.2_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,Region,1.0
+CHN.19_1,CHN,China,CHN.19_1,Nei Mongol,Autonomous Region,1.6634241245136188
+CHN.11_1,CHN,China,CHN.11_1,Heilongjiang,Province,2.125
+IRL.3_1,IRL,Ireland,IRL.3_1,Clare,County,2.0
+IRL.22_1,IRL,Ireland,IRL.22_1,Tipperary,County,2.0
+IRL.10_1,IRL,Ireland,IRL.10_1,Kilkenny,County,2.0
+IRL.1_1,IRL,Ireland,IRL.1_1,Carlow,County,2.0
+IRL.25_1,IRL,Ireland,IRL.25_1,Wexford,County,2.0
+NLD.9_1,NLD,Netherlands,NLD.9_1,Noord-Holland,Province,1.3333333333333333
+NLD.2_1,NLD,Netherlands,NLD.2_1,Flevoland,Province,2.0
+NLD.1_1,NLD,Netherlands,NLD.1_1,Drenthe,Province,2.0
+DEU.13_1,DEU,Germany,DEU.13_1,Sachsen-Anhalt,State,2.0
+POL.5_1,POL,Poland,POL.5_1,Lubuskie,Province|Voivodeship,2.0
+RUS.63_1,RUS,Russia,RUS.63_1,Saratov,Region,2.326923076923077
+IRL.8_1,IRL,Ireland,IRL.8_1,Kerry,County,1.0
+IRL.4_1,IRL,Ireland,IRL.4_1,Cork,County,2.0
+IRL.23_1,IRL,Ireland,IRL.23_1,Waterford,County,2.0
+NLD.11_1,NLD,Netherlands,NLD.11_1,Utrecht,Province,2.0
+NLD.4_1,NLD,Netherlands,NLD.4_1,Gelderland,Province,2.0
+NLD.10_1,NLD,Netherlands,NLD.10_1,Overijssel,Province,2.0
+DEU.10_1,DEU,Germany,DEU.10_1,Nordrhein-Westfalen,State,2.0
+POL.3_1,POL,Poland,POL.3_1,Łódzkie,Province|Voivodeship,2.0
+UKR.2_1,UKR,Ukraine,UKR.2_1,Chernihiv,Region,2.0
+UKR.21_1,UKR,Ukraine,UKR.21_1,Sumy,Region,2.0714285714285716
+RUS.37_1,RUS,Russia,RUS.37_1,Kursk,Region,2.0
+RUS.16_1,RUS,Russia,RUS.16_1,Gorno-Altay,Republic,2.0408163265306123
+NLD.13_1,NLD,Netherlands,NLD.13_1,Zeeuwse meren,Water body,2.0
+NLD.8_1,NLD,Netherlands,NLD.8_1,Noord-Brabant,Province,2.0
+POL.4_1,POL,Poland,POL.4_1,Lubelskie,Province|Voivodeship,2.0
+UKR.25_1,UKR,Ukraine,UKR.25_1,Volyn,Region,2.0
+UKR.19_1,UKR,Ukraine,UKR.19_1,Rivne,Region,2.0
+RUS.79_1,RUS,Russia,RUS.79_1,Voronezh,Region,2.6666666666666665
+KAZ.13_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,Region,1.0375
+MNG.14_1,MNG,Mongolia,MNG.14_1,Hövsgöl,Province,2.0
+BEL.2_1,BEL,Belgium,BEL.2_1,Vlaanderen,Region,2.0
+NLD.7_1,NLD,Netherlands,NLD.7_1,Limburg,Province,2.0
+DEU.7_1,DEU,Germany,DEU.7_1,Hessen,State,2.0
+DEU.16_1,DEU,Germany,DEU.16_1,Thüringen,State,2.0
+DEU.14_1,DEU,Germany,DEU.14_1,Sachsen,State,2.1818181818181817
+POL.1_1,POL,Poland,POL.1_1,Dolnośląskie,Province|Voivodeship,2.0
+POL.13_1,POL,Poland,POL.13_1,Świętokrzyskie,Province|Voivodeship,2.0
+UKR.27_1,UKR,Ukraine,UKR.27_1,Zhytomyr,Region,2.0
+UKR.12_1,UKR,Ukraine,UKR.12_1,Kiev,Region,2.0
+RUS.7_1,RUS,Russia,RUS.7_1,Belgorod,Region,2.769230769230769
+KAZ.5_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,Region,1.525179856115108
+FRA.7_1,FRA,France,FRA.7_1,Hauts-de-France,Region,2.1176470588235294
+BEL.3_1,BEL,Belgium,BEL.3_1,Wallonie,Region,2.0
+DEU.11_1,DEU,Germany,DEU.11_1,Rheinland-Pfalz,State,2.0
+CZE.13_1,CZE,Czech Republic,CZE.13_1,Ústecký,Region,2.5
+CZE.6_1,CZE,Czech Republic,CZE.6_1,Liberecký,Region,2.0
+POL.8_1,POL,Poland,POL.8_1,Opolskie,Province|Voivodeship,2.0
+POL.12_1,POL,Poland,POL.12_1,Śląskie,Province|Voivodeship,2.0
+RUS.77_1,RUS,Russia,RUS.77_1,Volgograd,Region,1.6363636363636365
+KAZ.3_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,Region,1.0
+KAZ.9_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,Region,0.9951923076923077
+MNG.22_1,MNG,Mongolia,MNG.22_1,Uvs,Province,2.1515151515151514
+DEU.2_1,DEU,Germany,DEU.2_1,Bayern, ,2.0
+CZE.3_1,CZE,Czech Republic,CZE.3_1,Karlovarský,Region,2.5
+CZE.12_1,CZE,Czech Republic,CZE.12_1,Středočeský,Region,2.4
+CZE.5_1,CZE,Czech Republic,CZE.5_1,Královéhradecký,Region,2.0
+CZE.8_1,CZE,Czech Republic,CZE.8_1,Olomoucký,Region,2.0
+POL.6_1,POL,Poland,POL.6_1,Małopolskie,Province|Voivodeship,2.0
+POL.9_1,POL,Poland,POL.9_1,Podkarpackie,Province|Voivodeship,2.0
+UKR.14_1,UKR,Ukraine,UKR.14_1,L'viv,Region,2.0
+UKR.10_1,UKR,Ukraine,UKR.10_1,Khmel'nyts'kyy,Region,2.5384615384615383
+UKR.18_1,UKR,Ukraine,UKR.18_1,Poltava,Region,2.5
+UKR.8_1,UKR,Ukraine,UKR.8_1,Kharkiv,Region,2.8823529411764706
+MNG.4_1,MNG,Mongolia,MNG.4_1,Bulgan,Province,2.0434782608695654
+MNG.18_1,MNG,Mongolia,MNG.18_1,Selenge,Province,2.391304347826087
+MNG.6_1,MNG,Mongolia,MNG.6_1,Dornod,Province,1.9384615384615385
+FRA.9_1,FRA,France,FRA.9_1,Normandie,Region,2.2142857142857144
+FRA.6_1,FRA,France,FRA.6_1,Grand Est,Region,2.0
+LUX.3_1,LUX,Luxembourg,LUX.3_1,Luxembourg,District,2.0
+CZE.10_1,CZE,Czech Republic,CZE.10_1,Plzeňský,Region,2.0
+CZE.4_1,CZE,Czech Republic,CZE.4_1,Kraj Vysočina,Region,2.0
+CZE.9_1,CZE,Czech Republic,CZE.9_1,Pardubický,Region,2.0
+CZE.7_1,CZE,Czech Republic,CZE.7_1,Moravskoslezský,Region,2.0
+UKR.22_1,UKR,Ukraine,UKR.22_1,Ternopil',Region,2.0
+UKR.24_1,UKR,Ukraine,UKR.24_1,Vinnytsya,Region,2.142857142857143
+UKR.1_1,UKR,Ukraine,UKR.1_1,Cherkasy,Region,2.2222222222222223
+UKR.15_1,UKR,Ukraine,UKR.15_1,Luhans'k,Region,2.4166666666666665
+RUS.58_1,RUS,Russia,RUS.58_1,Rostov,Region,1.9791666666666667
+MNG.2_1,MNG,Mongolia,MNG.2_1,Bayan-Ölgiy,Province,1.72
+MNG.9_1,MNG,Mongolia,MNG.9_1,Dzavhan,Province,1.8205128205128205
+JEY.9_1,JEY,Jersey,JEY.9_1,Saint Ouen,Parish,0.0
+DEU.12_1,DEU,Germany,DEU.12_1,Saarland,State,2.0
+DEU.1_1,DEU,Germany,DEU.1_1,Baden-Württemberg,State,2.0
+CZE.1_1,CZE,Czech Republic,CZE.1_1,Jihočeský,Region,2.0
+CZE.2_1,CZE,Czech Republic,CZE.2_1,Jihomoravský,Region,2.6666666666666665
+CZE.14_1,CZE,Czech Republic,CZE.14_1,Zlínský,Region,2.0
+SVK.6_1,SVK,Slovakia,SVK.6_1,Trenčiansky,Region,2.0
+SVK.8_1,SVK,Slovakia,SVK.8_1,Žilinský,Region,2.0
+SVK.5_1,SVK,Slovakia,SVK.5_1,Prešovský,Region,2.0
+UKR.7_1,UKR,Ukraine,UKR.7_1,Ivano-Frankivs'k,Region,2.0
+MNG.5_1,MNG,Mongolia,MNG.5_1,Darhan-Uul,Municipality,2.5
+MNG.12_1,MNG,Mongolia,MNG.12_1,Hentiy,Province,1.8
+RUS.82_1,RUS,Russia,RUS.82_1,Yevrey,Autonomous Region,2.0
+USA.48_1,USA,United States,USA.48_1,Washington,State,1.776470588235294
+USA.13_1,USA,United States,USA.13_1,Idaho,State,1.3333333333333333
+USA.27_1,USA,United States,USA.27_1,Montana,State,1.5769230769230769
+USA.35_1,USA,United States,USA.35_1,North Dakota,State,2.635294117647059
+USA.24_1,USA,United States,USA.24_1,Minnesota,State,2.53
+FRA.3_1,FRA,France,FRA.3_1,Bretagne,Region,2.0
+FRA.4_1,FRA,France,FRA.4_1,Centre-Val de Loire,Region,2.0
+FRA.8_1,FRA,France,FRA.8_1,Île-de-France,Region,2.4
+AUT.3_1,AUT,Austria,AUT.3_1,Niederösterreich,State,2.0
+SVK.7_1,SVK,Slovakia,SVK.7_1,Trnavský,Region,2.0
+SVK.1_1,SVK,Slovakia,SVK.1_1,Banskobystrický,Region,2.0
+SVK.3_1,SVK,Slovakia,SVK.3_1,Košický,Region,2.0
+UKR.23_1,UKR,Ukraine,UKR.23_1,Transcarpathia,Region,2.0
+UKR.13_1,UKR,Ukraine,UKR.13_1,Kirovohrad,Region,2.6923076923076925
+UKR.5_1,UKR,Ukraine,UKR.5_1,Dnipropetrovs'k,Region,2.533333333333333
+UKR.6_1,UKR,Ukraine,UKR.6_1,Donets'k,Region,2.6666666666666665
+RUS.5_1,RUS,Russia,RUS.5_1,Astrakhan',Region,1.0
+KAZ.4_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,Region,0.9454545454545454
+CHN.28_1,CHN,China,CHN.28_1,Xinjiang Uygur,Autonomous Region,1.0115107913669066
+MNG.13_1,MNG,Mongolia,MNG.13_1,Hovd,Province,1.0285714285714285
+MNG.1_1,MNG,Mongolia,MNG.1_1,Arhangay,Province,2.0
+MNG.20_1,MNG,Mongolia,MNG.20_1,Töv,Province,1.8529411764705883
+USA.23_1,USA,United States,USA.23_1,Michigan,State,1.2792792792792793
+FRA.12_1,FRA,France,FRA.12_1,Pays de la Loire,Region,2.0714285714285716
+FRA.2_1,FRA,France,FRA.2_1,Bourgogne-Franche-Comté,Region,2.0
+AUT.4_1,AUT,Austria,AUT.4_1,Oberösterreich,State,2.0
+SVK.2_1,SVK,Slovakia,SVK.2_1,Bratislavský,Region,2.0
+SVK.4_1,SVK,Slovakia,SVK.4_1,Nitriansky,Region,2.3333333333333335
+HUN.4_1,HUN,Hungary,HUN.4_1,Borsod-Abaúj-Zemplén,County,2.2
+HUN.16_1,HUN,Hungary,HUN.16_1,Szabolcs-Szatmár-Bereg,County,2.0
+UKR.3_1,UKR,Ukraine,UKR.3_1,Chernivtsi,Region,2.0
+MDA.5_1,MDA,Moldova,MDA.5_1,Briceni,District,3.0
+MDA.13_1,MDA,Moldova,MDA.13_1,Donduseni,District,2.0
+RUS.56_1,RUS,Russia,RUS.56_1,Primor'ye,Territory,2.0
+CAN.4_1,CAN,Canada,CAN.4_1,New Brunswick,Province,2.0
+AUT.5_1,AUT,Austria,AUT.5_1,Salzburg,State,2.0
+AUT.6_1,AUT,Austria,AUT.6_1,Steiermark,State,2.0
+AUT.1_1,AUT,Austria,AUT.1_1,Burgenland,State,2.0
+HUN.8_1,HUN,Hungary,HUN.8_1,Gyor-Moson-Sopron,County,2.0
+HUN.12_1,HUN,Hungary,HUN.12_1,Komárom-Esztergom,County,2.0
+HUN.14_1,HUN,Hungary,HUN.14_1,Pest,County,2.6666666666666665
+HUN.10_1,HUN,Hungary,HUN.10_1,Heves,County,2.0
+HUN.9_1,HUN,Hungary,HUN.9_1,Hajdú-Bihar,County,2.6666666666666665
+ROU.34_1,ROU,Romania,ROU.34_1,Satu Mare,County,2.0
+ROU.27_1,ROU,Romania,ROU.27_1,Maramureș,County,2.0
+ROU.36_1,ROU,Romania,ROU.36_1,Suceava,County,2.0
+ROU.7_1,ROU,Romania,ROU.7_1,Botoșani,County,2.5
+MDA.20_1,MDA,Moldova,MDA.20_1,Glodeni,District,3.0
+MDA.29_1,MDA,Moldova,MDA.29_1,Sîngerei,District,3.0
+MDA.30_1,MDA,Moldova,MDA.30_1,Şoldăneşti,District,2.0
+MDA.36_1,MDA,Moldova,MDA.36_1,Transnistria,Territorial Unit,2.6666666666666665
+UKR.17_1,UKR,Ukraine,UKR.17_1,Odessa,Region,2.5714285714285716
+UKR.16_1,UKR,Ukraine,UKR.16_1,Mykolayiv,Region,2.8181818181818183
+UKR.26_1,UKR,Ukraine,UKR.26_1,Zaporizhzhya,Region,2.3636363636363638
+RUS.22_1,RUS,Russia,RUS.22_1,Kalmyk,Republic,1.09375
+KAZ.11_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,Region,0.8703703703703703
+MNG.10_1,MNG,Mongolia,MNG.10_1,Govi-Altay,Province,1.0923076923076922
+MNG.21_1,MNG,Mongolia,MNG.21_1,Ulaanbaatar,Municipality,2.0
+USA.50_1,USA,United States,USA.50_1,Wisconsin,State,1.7777777777777777
+USA.20_1,USA,United States,USA.20_1,Maine,State,2.0
+CHE.6_1,CHE,Switzerland,CHE.6_1,Bern,Canton,2.0
+CHE.12_1,CHE,Switzerland,CHE.12_1,Lucerne,Canton,2.0
+CHE.26_1,CHE,Switzerland,CHE.26_1,Zürich,Canton,2.0
+CHE.16_1,CHE,Switzerland,CHE.16_1,Sankt Gallen,Canton,2.0
+AUT.8_1,AUT,Austria,AUT.8_1,Vorarlberg,State,2.0
+AUT.7_1,AUT,Austria,AUT.7_1,Tirol,State,2.0
+HUN.18_1,HUN,Hungary,HUN.18_1,Vas,County,2.0
+HUN.19_1,HUN,Hungary,HUN.19_1,Veszprém,County,2.0
+HUN.7_1,HUN,Hungary,HUN.7_1,Fejér,County,3.0
+HUN.11_1,HUN,Hungary,HUN.11_1,Jász-Nagykun-Szolnok,County,3.0
+ROU.5_1,ROU,Romania,ROU.5_1,Bihor,County,2.3333333333333335
+ROU.33_1,ROU,Romania,ROU.33_1,Sălaj,County,2.0
+ROU.6_1,ROU,Romania,ROU.6_1,Bistrița-Năsăud,County,2.0
+ROU.30_1,ROU,Romania,ROU.30_1,Neamț,County,2.0
+ROU.24_1,ROU,Romania,ROU.24_1,Iași,County,2.3333333333333335
+MDA.7_1,MDA,Moldova,MDA.7_1,Calarasi,District,2.0
+MDA.33_1,MDA,Moldova,MDA.33_1,Străşeni,District,3.0
+UKR.9_1,UKR,Ukraine,UKR.9_1,Kherson,Region,2.066666666666667
+KAZ.1_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,Region,1.5148514851485149
+MNG.3_1,MNG,Mongolia,MNG.3_1,Bayanhongor,Province,1.2830188679245282
+MNG.17_1,MNG,Mongolia,MNG.17_1,Övörhangay,Province,1.3548387096774193
+MNG.19_1,MNG,Mongolia,MNG.19_1,Sühbaatar,Province,1.135135135135135
+CAN.10_1,CAN,Canada,CAN.10_1,Prince Edward Island,Province,2.0
+CAN.7_1,CAN,Canada,CAN.7_1,Nova Scotia,Province,1.9166666666666667
+FRA.10_1,FRA,France,FRA.10_1,Nouvelle-Aquitaine,Region,2.0
+CHE.24_1,CHE,Switzerland,CHE.24_1,Vaud,Canton,2.0
+CHE.7_1,CHE,Switzerland,CHE.7_1,Fribourg,Canton,2.0
+CHE.22_1,CHE,Switzerland,CHE.22_1,Uri,Canton,2.0
+CHE.10_1,CHE,Switzerland,CHE.10_1,Graubünden,Canton,1.6666666666666667
+ITA.17_1,ITA,Italy,ITA.17_1,Trentino-Alto Adige,Autonomous Region,2.0
+AUT.2_1,AUT,Austria,AUT.2_1,Kärnten,State,2.0
+SVN.9_1,SVN,Slovenia,SVN.9_1,Pomurska,Statistical Region,2.0
+HUN.20_1,HUN,Hungary,HUN.20_1,Zala,County,2.0
+HUN.15_1,HUN,Hungary,HUN.15_1,Somogy,County,2.0
+HUN.17_1,HUN,Hungary,HUN.17_1,Tolna,County,2.0
+HUN.1_1,HUN,Hungary,HUN.1_1,Bács-Kiskun,County,2.6666666666666665
+HUN.6_1,HUN,Hungary,HUN.6_1,Csongrád,County,3.0
+HUN.3_1,HUN,Hungary,HUN.3_1,Békés,County,2.5
+ROU.14_1,ROU,Romania,ROU.14_1,Cluj,County,2.0
+ROU.29_1,ROU,Romania,ROU.29_1,Mureș,County,2.0
+ROU.22_1,ROU,Romania,ROU.22_1,Harghita,County,2.0
+ROU.4_1,ROU,Romania,ROU.4_1,Bacău,County,2.0
+ROU.41_1,ROU,Romania,ROU.41_1,Vaslui,County,2.3333333333333335
+MDA.21_1,MDA,Moldova,MDA.21_1,Hîncesti,District,3.0
+MDA.11_1,MDA,Moldova,MDA.11_1,Cimişlia,District,3.0
+MDA.9_1,MDA,Moldova,MDA.9_1,Causeni,District,3.0
+RUS.34_1,RUS,Russia,RUS.34_1,Krasnodar,Territory,2.085714285714286
+MNG.11_1,MNG,Mongolia,MNG.11_1,Govisümber,Municipality,1.0
+FRA.1_1,FRA,France,FRA.1_1,Auvergne-Rhône-Alpes,Region,2.0
+CHE.8_1,CHE,Switzerland,CHE.8_1,Genève,Canton,2.0
+CHE.23_1,CHE,Switzerland,CHE.23_1,Valais,Canton,2.0
+ITA.13_1,ITA,Italy,ITA.13_1,Piemonte,Region,2.0
+CHE.21_1,CHE,Switzerland,CHE.21_1,Ticino,Canton,2.0
+ITA.10_1,ITA,Italy,ITA.10_1,Lombardia,Region,2.0
+ITA.20_1,ITA,Italy,ITA.20_1,Veneto,Region,2.0
+ITA.7_1,ITA,Italy,ITA.7_1,Friuli-Venezia Giulia,Autonomous Region,2.0
+SVN.2_1,SVN,Slovenia,SVN.2_1,Goriška,Statistical Region,2.0
+SVN.1_1,SVN,Slovenia,SVN.1_1,Gorenjska,Statistical Region,2.0
+SVN.7_1,SVN,Slovenia,SVN.7_1,Osrednjeslovenska,Statistical Region,2.0
+SVN.10_1,SVN,Slovenia,SVN.10_1,Savinjska,Statistical Region,2.0
+HRV.17_1,HRV,Croatia,HRV.17_1,Varaždinska,County,2.0
+HRV.7_1,HRV,Croatia,HRV.7_1,Koprivničko-Križevačka,County,2.0
+HUN.2_1,HUN,Hungary,HUN.2_1,Baranya,County,2.0
+ROU.2_1,ROU,Romania,ROU.2_1,Arad,County,2.0
+ROU.23_1,ROU,Romania,ROU.23_1,Hunedoara,County,2.0
+ROU.1_1,ROU,Romania,ROU.1_1,Alba,County,2.0
+ROU.35_1,ROU,Romania,ROU.35_1,Sibiu,County,2.0
+MDA.8_1,MDA,Moldova,MDA.8_1,Cantemir,District,3.0
+MDA.19_1,MDA,Moldova,MDA.19_1,Găgăuzia,Autonomous Territory,3.0
+KAZ.6_1,KAZ,Kazakhstan,KAZ.6_1,Mangghystau,Region,1.0
+MNG.8_1,MNG,Mongolia,MNG.8_1,Dundgovi,Province,1.0
+MNG.7_1,MNG,Mongolia,MNG.7_1,Dornogovi,Province,1.0
+CHN.17_1,CHN,China,CHN.17_1,Jilin,Province,2.211764705882353
+USA.38_1,USA,United States,USA.38_1,Oregon,State,1.5225225225225225
+USA.42_1,USA,United States,USA.42_1,South Dakota,State,2.340659340659341
+ITA.19_1,ITA,Italy,ITA.19_1,Valle d'Aosta,Autonomous Region,2.0
+SVN.5_1,SVN,Slovenia,SVN.5_1,Notranjsko-kraška,Statistical Region,2.0
+SVN.3_1,SVN,Slovenia,SVN.3_1,Jugovzhodna Slovenija,Statistical Region,2.0
+HRV.21_1,HRV,Croatia,HRV.21_1,Zagrebačka,County,2.0
+HRV.1_1,HRV,Croatia,HRV.1_1,Bjelovarska-Bilogorska,County,2.0
+HRV.18_1,HRV,Croatia,HRV.18_1,Viroviticko-Podravska,County,2.0
+HRV.11_1,HRV,Croatia,HRV.11_1,Osjecko-Baranjska,County,2.0
+SRB.24_1,SRB,Serbia,SRB.24_1,Zapadno-Bački,District,3.0
+SRB.17_1,SRB,Serbia,SRB.17_1,Severno-Bački,District,3.0
+SRB.19_1,SRB,Serbia,SRB.19_1,Srednje-Banatski,District,2.6666666666666665
+ROU.38_1,ROU,Romania,ROU.38_1,Timiș,County,2.25
+ROU.8_1,ROU,Romania,ROU.8_1,Brașov,County,2.0
+ROU.16_1,ROU,Romania,ROU.16_1,Covasna,County,2.0
+ROU.42_1,ROU,Romania,ROU.42_1,Vrancea,County,2.0
+ROU.19_1,ROU,Romania,ROU.19_1,Galați,County,3.0
+MDA.6_1,MDA,Moldova,MDA.6_1,Cahul,District,2.0
+UKR.4_1,UKR,Ukraine,UKR.4_1,Crimea,Autonomous Republic,2.0
+RUS.65_1,RUS,Russia,RUS.65_1,Stavropol',Territory,2.107142857142857
+KAZ.12_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,Region,1.462962962962963
+KAZ.14_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,Region,1.4761904761904763
+USA.30_1,USA,United States,USA.30_1,New Hampshire,State,2.0
+HRV.5_1,HRV,Croatia,HRV.5_1,Istarska,County,2.0
+HRV.13_1,HRV,Croatia,HRV.13_1,Primorsko-Goranska,County,2.0
+HRV.6_1,HRV,Croatia,HRV.6_1,Karlovacka,County,2.0
+HRV.15_1,HRV,Croatia,HRV.15_1,Sisacko-Moslavacka,County,2.0
+HRV.2_1,HRV,Croatia,HRV.2_1,Brodsko-Posavska,County,2.0
+HRV.12_1,HRV,Croatia,HRV.12_1,Požeško-Slavonska,County,2.0
+HRV.19_1,HRV,Croatia,HRV.19_1,Vukovarsko-Srijemska,County,2.0
+SRB.5_1,SRB,Serbia,SRB.5_1,Južno-Bački,District,2.0
+ROU.13_1,ROU,Romania,ROU.13_1,Caraș-Severin,County,2.0
+ROU.21_1,ROU,Romania,ROU.21_1,Gorj,County,2.0
+ROU.40_1,ROU,Romania,ROU.40_1,Vâlcea,County,2.0
+ROU.3_1,ROU,Romania,ROU.3_1,Argeș,County,2.0
+ROU.32_1,ROU,Romania,ROU.32_1,Prahova,County,2.0
+ROU.11_1,ROU,Romania,ROU.11_1,Buzău,County,2.0
+ROU.9_1,ROU,Romania,ROU.9_1,Brăila,County,3.0
+ROU.39_1,ROU,Romania,ROU.39_1,Tulcea,County,2.0
+UZB.5_1,UZB,Uzbekistan,UZB.5_1,Karakalpakstan,Autononous Region,0.8472222222222222
+JPN.12_1,JPN,Japan,JPN.12_1,Hokkaido,Circuit,1.9428571428571428
+USA.51_1,USA,United States,USA.51_1,Wyoming,State,1.1517857142857142
+USA.33_1,USA,United States,USA.33_1,New York,State,2.0
+USA.46_1,USA,United States,USA.46_1,Vermont,State,2.0
+FRA.11_1,FRA,France,FRA.11_1,Occitanie,Region,2.03125
+FRA.13_1,FRA,France,FRA.13_1,Provence-Alpes-Côte d'Azur,Region,2.0
+ITA.6_1,ITA,Italy,ITA.6_1,Emilia-Romagna,Region,2.0
+HRV.9_1,HRV,Croatia,HRV.9_1,Licko-Senjska,County,2.0
+BIH.2_1,BIH,Bosnia and Herzegovina,BIH.2_1,Federacija Bosna i Hercegovina,Entity,2.0
+BIH.3_1,BIH,Bosnia and Herzegovina,BIH.3_1,Repuplika Srpska,Entity,2.0
+SRB.20_1,SRB,Serbia,SRB.20_1,Sremski,District,2.0
+SRB.3_1,SRB,Serbia,SRB.3_1,Grad Beograd,City,3.0
+SRB.6_1,SRB,Serbia,SRB.6_1,Južno-Banatski,District,2.0
+SRB.2_1,SRB,Serbia,SRB.2_1,Braničevski,District,2.0
+ROU.28_1,ROU,Romania,ROU.28_1,Mehedinți,County,2.0
+ROU.17_1,ROU,Romania,ROU.17_1,Dâmbovița,County,2.0
+ROU.25_1,ROU,Romania,ROU.25_1,Ialomița,County,2.3333333333333335
+RUS.1_1,RUS,Russia,RUS.1_1,Adygey,Republic,2.0
+RUS.15_1,RUS,Russia,RUS.15_1,Dagestan,Republic,2.0454545454545454
+MNG.15_1,MNG,Mongolia,MNG.15_1,Ömnögovi,Province,1.0
+ITA.9_1,ITA,Italy,ITA.9_1,Liguria,Region,2.0
+ITA.16_1,ITA,Italy,ITA.16_1,Toscana,Region,1.8181818181818181
+HRV.20_1,HRV,Croatia,HRV.20_1,Zadarska,County,2.0
+SRB.7_1,SRB,Serbia,SRB.7_1,Kolubarski,District,2.0
+SRB.21_1,SRB,Serbia,SRB.21_1,Šumadijski,District,2.0
+SRB.1_1,SRB,Serbia,SRB.1_1,Borski,District,2.0
+ROU.18_1,ROU,Romania,ROU.18_1,Dolj,County,2.0
+ROU.31_1,ROU,Romania,ROU.31_1,Olt,County,2.0
+ROU.37_1,ROU,Romania,ROU.37_1,Teleorman,County,2.0
+ROU.20_1,ROU,Romania,ROU.20_1,Giurgiu,County,2.3333333333333335
+ROU.12_1,ROU,Romania,ROU.12_1,Călărași,County,2.6666666666666665
+ROU.15_1,ROU,Romania,ROU.15_1,Constanța,County,2.0
+RUS.25_1,RUS,Russia,RUS.25_1,Karachay-Cherkess,Republic,2.0
+ITA.11_1,ITA,Italy,ITA.11_1,Marche,Region,2.0
+HRV.14_1,HRV,Croatia,HRV.14_1,Šibensko-Kninska,County,2.0
+HRV.16_1,HRV,Croatia,HRV.16_1,Splitsko-Dalmatinska,County,2.0
+SRB.25_1,SRB,Serbia,SRB.25_1,Zlatiborski,District,2.0
+SRB.9_1,SRB,Serbia,SRB.9_1,Moravički,District,2.0
+SRB.16_1,SRB,Serbia,SRB.16_1,Raški,District,2.0
+SRB.15_1,SRB,Serbia,SRB.15_1,Rasinski,District,2.0
+SRB.23_1,SRB,Serbia,SRB.23_1,Zaječarski,District,2.0
+BGR.26_1,BGR,Bulgaria,BGR.26_1,Vidin,Province,2.0
+BGR.10_1,BGR,Bulgaria,BGR.10_1,Montana,Province,2.5
+BGR.27_1,BGR,Bulgaria,BGR.27_1,Vratsa,Province,2.5
+BGR.16_1,BGR,Bulgaria,BGR.16_1,Ruse,Province,2.0
+BGR.15_1,BGR,Bulgaria,BGR.15_1,Razgrad,Province,2.0
+BGR.3_1,BGR,Bulgaria,BGR.3_1,Dobrich,Province,2.0
+RUS.20_1,RUS,Russia,RUS.20_1,Kabardin-Balkar,Republic,2.0
+RUS.48_1,RUS,Russia,RUS.48_1,North Ossetia,Republic,2.0
+RUS.10_1,RUS,Russia,RUS.10_1,Chechnya,Republic,2.2857142857142856
+USA.16_1,USA,United States,USA.16_1,Iowa,State,2.2
+ESP.12_1,ESP,Spain,ESP.12_1,Galicia,Autonomous Community,2.0
+ESP.17_1,ESP,Spain,ESP.17_1,Principado de Asturias,Autonomous Community,2.0
+ESP.3_1,ESP,Spain,ESP.3_1,Cantabria,Autonomous Community,2.0
+ESP.16_1,ESP,Spain,ESP.16_1,País Vasco,Autonomous Community,2.0
+ESP.9_1,ESP,Spain,ESP.9_1,Comunidad Foral de Navarra,Autonomous Community,2.0
+ITA.18_1,ITA,Italy,ITA.18_1,Umbria,Region,2.0
+MNE.15_1,MNE,Montenegro,MNE.15_1,Plužine,Municipality,2.0
+MNE.14_1,MNE,Montenegro,MNE.14_1,Pljevlja,Municipality,2.0
+SRB.22_1,SRB,Serbia,SRB.22_1,Toplički,District,2.0
+SRB.10_1,SRB,Serbia,SRB.10_1,Nišavski,District,2.0
+SRB.12_1,SRB,Serbia,SRB.12_1,Pirotski,District,2.0
+BGR.9_1,BGR,Bulgaria,BGR.9_1,Lovech,Province,2.0
+BGR.25_1,BGR,Bulgaria,BGR.25_1,Veliko Tarnovo,Province,2.0
+BGR.23_1,BGR,Bulgaria,BGR.23_1,Targovishte,Province,2.0
+BGR.17_1,BGR,Bulgaria,BGR.17_1,Shumen,Province,2.0
+BGR.24_1,BGR,Bulgaria,BGR.24_1,Varna,Province,2.0
+GEO.1_1,GEO,Georgia,GEO.1_1,Abkhazia,Autonomous Republic,2.0
+RUS.17_1,RUS,Russia,RUS.17_1,Ingush,Republic,2.0
+UZB.9_1,UZB,Uzbekistan,UZB.9_1,Navoi,Region,1.065217391304348
+CHN.18_1,CHN,China,CHN.18_1,Liaoning,Province,2.3174603174603177
+USA.28_1,USA,United States,USA.28_1,Nebraska,State,2.383720930232558
+ESP.5_1,ESP,Spain,ESP.5_1,Castilla y León,Autonomous Community,2.0
+ESP.2_1,ESP,Spain,ESP.2_1,Aragón,Autonomous Community,2.0
+ESP.6_1,ESP,Spain,ESP.6_1,Cataluña,Autonomous Community,2.2941176470588234
+ITA.1_1,ITA,Italy,ITA.1_1,Abruzzo,Region,2.0
+MNE.12_1,MNE,Montenegro,MNE.12_1,Nikšic,Municipality,2.0
+MNE.9_1,MNE,Montenegro,MNE.9_1,Kolašin,Municipality,2.0
+MNE.1_1,MNE,Montenegro,MNE.1_1,Andrijevica,Municipality,2.0
+XKO.4_1,XKO,Kosovo,XKO.4_1,Pećki,District,2.0
+XKO.3_1,XKO,Kosovo,XKO.3_1,Kosovska Mitrovica,District,2.0
+XKO.5_1,XKO,Kosovo,XKO.5_1,Pristina,District,2.0
+SRB.4_1,SRB,Serbia,SRB.4_1,Jablanički,District,2.0
+BGR.12_1,BGR,Bulgaria,BGR.12_1,Pernik,Province,2.0
+BGR.5_1,BGR,Bulgaria,BGR.5_1,Grad Sofiya,Province,2.0
+BGR.21_1,BGR,Bulgaria,BGR.21_1,Sofia,Province,2.0
+BGR.22_1,BGR,Bulgaria,BGR.22_1,Stara Zagora,Province,2.0
+BGR.19_1,BGR,Bulgaria,BGR.19_1,Sliven,Province,2.0
+BGR.2_1,BGR,Bulgaria,BGR.2_1,Burgas,Province,2.0
+GEO.9_1,GEO,Georgia,GEO.9_1,Samegrelo-Zemo Svaneti,Region,2.0
+GEO.8_1,GEO,Georgia,GEO.8_1,Racha-Lechkhumi-Kvemo Svaneti,Region,2.0
+KGZ.8_1,KGZ,Kyrgyzstan,KGZ.8_1,Talas,Province,1.8333333333333333
+KGZ.3_1,KGZ,Kyrgyzstan,KGZ.3_1,Chüy,Province,1.7777777777777777
+KGZ.9_1,KGZ,Kyrgyzstan,KGZ.9_1,Ysyk-Köl,Province,1.25
+USA.14_1,USA,United States,USA.14_1,Illinois,State,2.015625
+USA.36_1,USA,United States,USA.36_1,Ohio,State,1.8846153846153846
+USA.22_1,USA,United States,USA.22_1,Massachusetts,State,2.0
+ESP.15_1,ESP,Spain,ESP.15_1,La Rioja,Autonomous Community,2.0
+FRA.5_1,FRA,France,FRA.5_1,Corse,Region,2.0
+ITA.8_1,ITA,Italy,ITA.8_1,Lazio,Region,2.0
+MNE.16_1,MNE,Montenegro,MNE.16_1,Podgorica,Municipality,2.0
+ALB.10_1,ALB,Albania,ALB.10_1,Shkodër,County,2.0
+ALB.8_1,ALB,Albania,ALB.8_1,Kukës,County,2.0
+XKO.6_1,XKO,Kosovo,XKO.6_1,Prizren,District,2.0
+XKO.7_1,XKO,Kosovo,XKO.7_1,Uroševac,District,2.0
+SRB.11_1,SRB,Serbia,SRB.11_1,Pčinjski,District,2.0
+MKD.38_1,MKD,Macedonia,MKD.38_1,Kriva Palanka,Municipality,2.0
+BGR.8_1,BGR,Bulgaria,BGR.8_1,Kyustendil,Province,2.0
+BGR.11_1,BGR,Bulgaria,BGR.11_1,Pazardzhik,Province,2.0
+BGR.14_1,BGR,Bulgaria,BGR.14_1,Plovdiv,Province,2.0
+BGR.28_1,BGR,Bulgaria,BGR.28_1,Yambol,Province,2.0
+GEO.4_1,GEO,Georgia,GEO.4_1,Imereti,Region,2.0
+GEO.11_1,GEO,Georgia,GEO.11_1,Shida Kartli,Region,2.0
+GEO.7_1,GEO,Georgia,GEO.7_1,Mtskheta-Mtianeti,Region,2.0
+GEO.5_1,GEO,Georgia,GEO.5_1,Kakheti,Region,2.0
+TKM.3_1,TKM,Turkmenistan,TKM.3_1,Balkan,Province,0.9649122807017544
+TKM.6_1,TKM,Turkmenistan,TKM.6_1,Tashauz,Province,1.0
+KGZ.5_1,KGZ,Kyrgyzstan,KGZ.5_1,Naryn,Province,1.5555555555555556
+CHN.5_1,CHN,China,CHN.5_1,Gansu,Province,1.4787878787878788
+CHN.10_1,CHN,China,CHN.10_1,Hebei,Province,2.0
+PRK.2_1,PRK,North Korea,PRK.2_1,Hamgyŏng-bukto,Province,2.0
+PRK.12_1,PRK,North Korea,PRK.12_1,Rasŏn,Directly Governed City,2.0
+USA.5_1,USA,United States,USA.5_1,California,State,1.697674418604651
+USA.29_1,USA,United States,USA.29_1,Nevada,State,1.0
+USA.45_1,USA,United States,USA.45_1,Utah,State,1.108695652173913
+USA.15_1,USA,United States,USA.15_1,Indiana,State,1.9487179487179487
+USA.39_1,USA,United States,USA.39_1,Pennsylvania,State,2.0
+USA.7_1,USA,United States,USA.7_1,Connecticut,State,2.0
+USA.40_1,USA,United States,USA.40_1,Rhode Island,State,2.0
+PRT.18_1,PRT,Portugal,PRT.18_1,Viana do Castelo,District,2.0
+PRT.4_1,PRT,Portugal,PRT.4_1,Braga,District,2.0
+PRT.19_1,PRT,Portugal,PRT.19_1,Vila Real,District,2.0
+PRT.5_1,PRT,Portugal,PRT.5_1,Bragança,District,2.0
+ITA.12_1,ITA,Italy,ITA.12_1,Molise,Region,2.0
+ITA.2_1,ITA,Italy,ITA.2_1,Apulia,Region,2.0
+ALB.9_1,ALB,Albania,ALB.9_1,Lezhë,County,2.0
+ALB.2_1,ALB,Albania,ALB.2_1,Dibër,County,2.0
+MKD.47_1,MKD,Macedonia,MKD.47_1,Mavrovo and Rostuša,Municipality,2.0
+MKD.46_1,MKD,Macedonia,MKD.46_1,Makedonski Brod,Municipality,2.0
+MKD.77_1,MKD,Macedonia,MKD.77_1,Veles,Municipality,2.0
+MKD.30_1,MKD,Macedonia,MKD.30_1,Karbinci,Municipality,2.0
+MKD.3_1,MKD,Macedonia,MKD.3_1,Berovo,Municipality,2.0
+BGR.1_1,BGR,Bulgaria,BGR.1_1,Blagoevgrad,Province,2.0
+BGR.20_1,BGR,Bulgaria,BGR.20_1,Smolyan,Province,2.0
+BGR.7_1,BGR,Bulgaria,BGR.7_1,Kardzhali,Province,2.0
+BGR.6_1,BGR,Bulgaria,BGR.6_1,Haskovo,Province,2.0
+TUR.28_1,TUR,Turkey,TUR.28_1,Edirne,Province,2.0
+TUR.50_1,TUR,Turkey,TUR.50_1,Kirklareli,Province,2.0
+TUR.46_1,TUR,Turkey,TUR.46_1,Kastamonu,Province,2.0
+TUR.70_1,TUR,Turkey,TUR.70_1,Sinop,Province,2.0
+GEO.2_1,GEO,Georgia,GEO.2_1,Ajaria,Autonomous Republic,2.0
+GEO.10_1,GEO,Georgia,GEO.10_1,Samtskhe-Javakheti,Region,2.0
+GEO.12_1,GEO,Georgia,GEO.12_1,Tbilisi,Independent City,2.0
+AZE.9_1,AZE,Azerbaijan,AZE.9_1,Shaki-Zaqatala,Region,2.0
+UZB.7_1,UZB,Uzbekistan,UZB.7_1,Khorezm,Region,1.0
+UZB.14_1,UZB,Uzbekistan,UZB.14_1,Tashkent,Region,1.6666666666666667
+KGZ.4_1,KGZ,Kyrgyzstan,KGZ.4_1,Jalal-Abad,Province,1.9230769230769231
+PRK.13_1,PRK,North Korea,PRK.13_1,Ryanggang,Province,2.0
+USA.31_1,USA,United States,USA.31_1,New Jersey,State,2.0
+PRT.15_1,PRT,Portugal,PRT.15_1,Porto,District,2.0
+ESP.4_1,ESP,Spain,ESP.4_1,Castilla-La Mancha,Autonomous Community,2.0
+ITA.5_1,ITA,Italy,ITA.5_1,Campania,Region,2.0
+ALB.11_1,ALB,Albania,ALB.11_1,Tiranë,County,2.0
+ALB.4_1,ALB,Albania,ALB.4_1,Elbasan,County,2.0
+MKD.68_1,MKD,Macedonia,MKD.68_1,Struga,Municipality,2.0
+MKD.19_1,MKD,Macedonia,MKD.19_1,Demir Hisar,Municipality,2.0
+MKD.57_1,MKD,Macedonia,MKD.57_1,Prilep,Municipality,2.0
+MKD.32_1,MKD,Macedonia,MKD.32_1,Kavadartsi,Municipality,2.0
+MKD.65_1,MKD,Macedonia,MKD.65_1,Star Dojran,Municipality,2.0
+GRC.6_1,GRC,Greece,GRC.6_1,Macedonia and Thrace,Decentralized administration,2.0
+TUR.73_1,TUR,Turkey,TUR.73_1,Tekirdag,Province,2.0
+TUR.40_1,TUR,Turkey,TUR.40_1,Istanbul,Province,2.0
+TUR.81_1,TUR,Turkey,TUR.81_1,Zinguldak,Province,2.0
+TUR.43_1,TUR,Turkey,TUR.43_1,Karabük,Province,2.0
+TUR.67_1,TUR,Turkey,TUR.67_1,Samsun,Province,2.0
+TUR.10_1,TUR,Turkey,TUR.10_1,Artvin,Province,2.0
+TUR.9_1,TUR,Turkey,TUR.9_1,Ardahan,Province,2.0
+GEO.6_1,GEO,Georgia,GEO.6_1,Kvemo Kartli,Region,2.0
+AZE.4_1,AZE,Azerbaijan,AZE.4_1,Ganja-Qazakh,Region,2.0
+AZE.8_1,AZE,Azerbaijan,AZE.8_1,Quba-Khachmaz,Region,2.0
+UZB.2_1,UZB,Uzbekistan,UZB.2_1,Bukhoro,Region,1.0
+UZB.13_1,UZB,Uzbekistan,UZB.13_1,Tashkent City,City,2.0
+UZB.8_1,UZB,Uzbekistan,UZB.8_1,Namangan,Region,1.6666666666666667
+PRK.1_1,PRK,North Korea,PRK.1_1,Chagang-do,Province,2.0
+JPN.3_1,JPN,Japan,JPN.3_1,Aomori,Prefecture,2.0
+USA.6_1,USA,United States,USA.6_1,Colorado,State,1.0803571428571428
+PRT.20_1,PRT,Portugal,PRT.20_1,Viseu,District,2.0
+PRT.10_1,PRT,Portugal,PRT.10_1,Guarda,District,2.0
+ESP.8_1,ESP,Spain,ESP.8_1,Comunidad de Madrid,Autonomous Community,2.0
+ITA.14_1,ITA,Italy,ITA.14_1,Sardegna,Autonomous Region,2.0
+ITA.3_1,ITA,Italy,ITA.3_1,Basilicata,Region,2.0
+ALB.5_1,ALB,Albania,ALB.5_1,Fier,County,2.0
+ALB.7_1,ALB,Albania,ALB.7_1,Korçë,County,2.0
+GRC.5_1,GRC,Greece,GRC.5_1,Epirus and Western Macedonia,Decentralized administration,2.0
+TUR.52_1,TUR,Turkey,TUR.52_1,Kocaeli,Province,2.0
+TUR.66_1,TUR,Turkey,TUR.66_1,Sakarya,Province,2.0
+TUR.27_1,TUR,Turkey,TUR.27_1,Düzce,Province,2.0
+TUR.19_1,TUR,Turkey,TUR.19_1,Bolu,Province,2.0
+TUR.23_1,TUR,Turkey,TUR.23_1,Çankiri,Province,2.0
+TUR.24_1,TUR,Turkey,TUR.24_1,Çorum,Province,2.0
+TUR.6_1,TUR,Turkey,TUR.6_1,Amasya,Province,2.0
+TUR.74_1,TUR,Turkey,TUR.74_1,Tokat,Province,2.0
+TUR.63_1,TUR,Turkey,TUR.63_1,Ordu,Province,2.0
+TUR.34_1,TUR,Turkey,TUR.34_1,Giresun,Province,2.0
+TUR.75_1,TUR,Turkey,TUR.75_1,Trabzon,Province,2.0
+TUR.65_1,TUR,Turkey,TUR.65_1,Rize,Province,2.0
+TUR.31_1,TUR,Turkey,TUR.31_1,Erzurum,Province,2.0
+TUR.45_1,TUR,Turkey,TUR.45_1,Kars,Province,2.0
+ARM.8_1,ARM,Armenia,ARM.8_1,Shirak,Province,3.0
+ARM.7_1,ARM,Armenia,ARM.7_1,Lori,Province,3.0
+ARM.10_1,ARM,Armenia,ARM.10_1,Tavush,Province,2.0
+AZE.2_1,AZE,Azerbaijan,AZE.2_1,Aran,Region,2.090909090909091
+AZE.3_1,AZE,Azerbaijan,AZE.3_1,Daglig-Shirvan,Region,2.0
+AZE.1_1,AZE,Azerbaijan,AZE.1_1,Absheron,Region,2.0
+TKM.4_1,TKM,Turkmenistan,TKM.4_1,Chardzhou,Province,1.0526315789473684
+UZB.4_1,UZB,Uzbekistan,UZB.4_1,Jizzakh,Region,2.0
+UZB.11_1,UZB,Uzbekistan,UZB.11_1,Sirdaryo,Region,2.0
+TJK.4_1,TJK,Tajikistan,TJK.4_1,Leninabad,Region,1.5454545454545454
+UZB.1_1,UZB,Uzbekistan,UZB.1_1,Andijon,Region,2.0
+KGZ.7_1,KGZ,Kyrgyzstan,KGZ.7_1,Osh,Province,1.5
+CHN.2_1,CHN,China,CHN.2_1,Beijing,Municipality,2.0
+PRK.3_1,PRK,North Korea,PRK.3_1,Hamgyŏng-namdo,Province,2.0
+USA.26_1,USA,United States,USA.26_1,Missouri,State,2.1780821917808217
+PRT.7_1,PRT,Portugal,PRT.7_1,Coimbra,District,2.0
+PRT.6_1,PRT,Portugal,PRT.6_1,Castelo Branco,District,2.0
+ESP.11_1,ESP,Spain,ESP.11_1,Extremadura,Autonomous Community,2.0
+ESP.10_1,ESP,Spain,ESP.10_1,Comunidad Valenciana,Autonomous Community,2.2222222222222223
+ALB.12_1,ALB,Albania,ALB.12_1,Vlorë,County,2.0
+ALB.6_1,ALB,Albania,ALB.6_1,Gjirokastër,County,2.0
+GRC.2_1,GRC,Greece,GRC.2_1,Athos,Decentralized administration,0.0
+TUR.22_1,TUR,Turkey,TUR.22_1,Çanakkale,Province,2.0
+TUR.12_1,TUR,Turkey,TUR.12_1,Balikesir,Province,2.0
+TUR.21_1,TUR,Turkey,TUR.21_1,Bursa,Province,2.0
+TUR.16_1,TUR,Turkey,TUR.16_1,Bilecik,Province,2.0
+TUR.7_1,TUR,Turkey,TUR.7_1,Ankara,Province,2.0
+TUR.49_1,TUR,Turkey,TUR.49_1,Kinkkale,Province,2.0
+TUR.72_1,TUR,Turkey,TUR.72_1,Sivas,Province,2.0
+TUR.35_1,TUR,Turkey,TUR.35_1,Gümüshane,Province,2.0
+TUR.15_1,TUR,Turkey,TUR.15_1,Bayburt,Province,2.0
+ARM.3_1,ARM,Armenia,ARM.3_1,Armavir,Province,2.0
+ARM.6_1,ARM,Armenia,ARM.6_1,Kotayk,Province,2.0
+ARM.5_1,ARM,Armenia,ARM.5_1,Gegharkunik,Province,2.0
+AZE.5_1,AZE,Azerbaijan,AZE.5_1,Kalbajar-Lachin,Region,2.0
+AZE.10_1,AZE,Azerbaijan,AZE.10_1,Yukhari-Karabakh,Region,2.0
+UZB.10_1,UZB,Uzbekistan,UZB.10_1,Samarkand,Region,1.6666666666666667
+UZB.3_1,UZB,Uzbekistan,UZB.3_1,Ferghana,Region,2.0
+KGZ.1_1,KGZ,Kyrgyzstan,KGZ.1_1,Batken,Province,1.4285714285714286
+CHN.25_1,CHN,China,CHN.25_1,Shanxi,Province,2.3384615384615386
+PRK.9_1,PRK,North Korea,PRK.9_1,P'yŏngan-bukto,Province,2.0
+JPN.2_1,JPN,Japan,JPN.2_1,Akita,Prefecture,2.0
+JPN.16_1,JPN,Japan,JPN.16_1,Iwate,Prefecture,2.0
+USA.17_1,USA,United States,USA.17_1,Kansas,State,2.0454545454545454
+USA.49_1,USA,United States,USA.49_1,West Virginia,State,2.0
+USA.8_1,USA,United States,USA.8_1,Delaware,State,2.0
+PRT.11_1,PRT,Portugal,PRT.11_1,Leiria,District,2.0
+PRT.16_1,PRT,Portugal,PRT.16_1,Santarém,District,2.0
+ESP.13_1,ESP,Spain,ESP.13_1,Islas Baleares,Autonomous Community,2.0
+ITA.4_1,ITA,Italy,ITA.4_1,Calabria,Region,2.0
+GRC.7_1,GRC,Greece,GRC.7_1,"Peloponnese, Western Greece and the Ionian Islands",Decentralized administration,1.6
+GRC.8_1,GRC,Greece,GRC.8_1,Thessaly and Central Greece,Decentralized administration,1.8461538461538463
+TUR.32_1,TUR,Turkey,TUR.32_1,Eskisehir,Province,2.0
+TUR.80_1,TUR,Turkey,TUR.80_1,Yozgat,Province,2.0
+TUR.30_1,TUR,Turkey,TUR.30_1,Erzincan,Province,2.0
+TUR.4_1,TUR,Turkey,TUR.4_1,Agri,Province,2.0
+TUR.38_1,TUR,Turkey,TUR.38_1,Iğdır,Province,2.0
+ARM.2_1,ARM,Armenia,ARM.2_1,Ararat,Province,2.0
+ARM.11_1,ARM,Armenia,ARM.11_1,Vayots Dzor,Province,2.0
+ARM.9_1,ARM,Armenia,ARM.9_1,Syunik,Province,2.0
+TKM.1_1,TKM,Turkmenistan,TKM.1_1,Ahal,Province,1.05
+CHN.27_1,CHN,China,CHN.27_1,Tianjin,Municipality,2.0
+PRK.10_1,PRK,North Korea,PRK.10_1,P'yŏngan-namdo,Province,2.0
+USA.47_1,USA,United States,USA.47_1,Virginia,State,2.106382978723404
+USA.21_1,USA,United States,USA.21_1,Maryland,State,2.375
+PRT.12_1,PRT,Portugal,PRT.12_1,Lisboa,District,2.0
+PRT.14_1,PRT,Portugal,PRT.14_1,Portalegre,District,2.0
+GRC.1_1,GRC,Greece,GRC.1_1,Aegean,Decentralized administration,1.0
+TUR.41_1,TUR,Turkey,TUR.41_1,Izmir,Province,2.0
+TUR.56_1,TUR,Turkey,TUR.56_1,Manisa,Province,2.0
+TUR.54_1,TUR,Turkey,TUR.54_1,Kütahya,Province,2.0
+TUR.3_1,TUR,Turkey,TUR.3_1,Afyon,Province,2.0
+TUR.51_1,TUR,Turkey,TUR.51_1,Kirsehir,Province,2.0
+TUR.61_1,TUR,Turkey,TUR.61_1,Nevsehir,Province,2.0
+TUR.76_1,TUR,Turkey,TUR.76_1,Tunceli,Province,2.0
+TUR.17_1,TUR,Turkey,TUR.17_1,Bingöl,Province,2.0
+TUR.60_1,TUR,Turkey,TUR.60_1,Mus,Province,2.0
+TUR.78_1,TUR,Turkey,TUR.78_1,Van,Province,2.0
+IRN.29_1,IRN,Iran,IRN.29_1,West Azarbaijan,Province,2.0
+AZE.7_1,AZE,Azerbaijan,AZE.7_1,Nakhchivan,Region,2.0
+IRN.5_1,IRN,Iran,IRN.5_1,East Azarbaijan,Province,2.0
+IRN.2_1,IRN,Iran,IRN.2_1,Ardebil,Province,2.0
+AZE.6_1,AZE,Azerbaijan,AZE.6_1,Lankaran,Region,2.0
+TKM.5_1,TKM,Turkmenistan,TKM.5_1,Mary,Province,1.1818181818181819
+UZB.6_1,UZB,Uzbekistan,UZB.6_1,Kashkadarya,Region,1.7142857142857142
+TJK.5_1,TJK,Tajikistan,TJK.5_1,Tadzhikistan Territories,Region,1.6363636363636365
+TJK.2_1,TJK,Tajikistan,TJK.2_1,Gorno-Badakhshan,Region,1.0384615384615385
+CHN.21_1,CHN,China,CHN.21_1,Qinghai,Province,1.3368421052631578
+CHN.20_1,CHN,China,CHN.20_1,Ningxia Hui,Autonomous Region,1.9047619047619047
+CHN.22_1,CHN,China,CHN.22_1,Shaanxi,Province,2.097560975609756
+PRK.11_1,PRK,North Korea,PRK.11_1,P'yŏngyang,Special City,2.0
+PRK.7_1,PRK,North Korea,PRK.7_1,Kangwŏn-do,Province,2.0
+USA.18_1,USA,United States,USA.18_1,Kentucky,State,2.0
+PRT.2_1,PRT,Portugal,PRT.2_1,Azores,'Autonomous Region',0.0
+PRT.8_1,PRT,Portugal,PRT.8_1,Évora,District,2.0
+TUR.77_1,TUR,Turkey,TUR.77_1,Usak,Province,2.0
+TUR.53_1,TUR,Turkey,TUR.53_1,Konya,Province,2.0
+TUR.47_1,TUR,Turkey,TUR.47_1,Kayseri,Province,2.0
+TUR.55_1,TUR,Turkey,TUR.55_1,Malatya,Province,2.0
+TUR.29_1,TUR,Turkey,TUR.29_1,Elazığ,Province,2.0
+TUR.18_1,TUR,Turkey,TUR.18_1,Bitlis,Province,2.0
+UZB.12_1,UZB,Uzbekistan,UZB.12_1,Surkhandarya,Region,2.0
+PRK.4_1,PRK,North Korea,PRK.4_1,Hwanghae-bukto,Province,2.0
+JPN.45_1,JPN,Japan,JPN.45_1,Yamagata,Prefecture,2.0
+JPN.24_1,JPN,Japan,JPN.24_1,Miyagi,Prefecture,2.0
+PRT.17_1,PRT,Portugal,PRT.17_1,Setúbal,District,2.0
+PRT.3_1,PRT,Portugal,PRT.3_1,Beja,District,2.0
+ESP.1_1,ESP,Spain,ESP.1_1,Andalucía,Autonomous Community,2.0277777777777777
+ESP.18_1,ESP,Spain,ESP.18_1,Región de Murcia,Autonomous Community,2.0
+ITA.15_1,ITA,Italy,ITA.15_1,Sicily,Autonomous Region,2.0
+GRC.3_1,GRC,Greece,GRC.3_1,Attica,Decentralized administration,2.0
+TUR.25_1,TUR,Turkey,TUR.25_1,Denizli,Province,2.0
+TUR.39_1,TUR,Turkey,TUR.39_1,Isparta,Province,2.0
+TUR.5_1,TUR,Turkey,TUR.5_1,Aksaray,Province,2.0
+TUR.62_1,TUR,Turkey,TUR.62_1,Nigde,Province,2.0
+TUR.1_1,TUR,Turkey,TUR.1_1,Adana,Province,2.0
+TUR.42_1,TUR,Turkey,TUR.42_1,K. Maras,Province,2.0
+TUR.26_1,TUR,Turkey,TUR.26_1,Diyarbakir,Province,2.0
+TUR.14_1,TUR,Turkey,TUR.14_1,Batman,Province,2.0
+IRN.8_1,IRN,Iran,IRN.8_1,Gilan,Province,2.0
+IRN.21_1,IRN,Iran,IRN.21_1,North Khorasan,Province,1.1818181818181819
+TJK.3_1,TJK,Tajikistan,TJK.3_1,Khatlon,Region,2.0
+AFG.1_1,AFG,Afghanistan,AFG.1_1,Badakhshan,Province,1.3333333333333333
+PRK.5_1,PRK,North Korea,PRK.5_1,Hwanghae-namdo,Province,2.0
+KOR.6_1,KOR,South Korea,KOR.6_1,Gangwon-do,Province,2.0
+JPN.29_1,JPN,Japan,JPN.29_1,Niigata,Prefecture,2.0
+TUR.11_1,TUR,Turkey,TUR.11_1,Aydin,Province,2.0
+TUR.20_1,TUR,Turkey,TUR.20_1,Burdur,Province,2.0
+TUR.2_1,TUR,Turkey,TUR.2_1,Adiyaman,Province,2.0
+TUR.68_1,TUR,Turkey,TUR.68_1,Sanliurfa,Province,2.0
+TUR.69_1,TUR,Turkey,TUR.69_1,Siirt,Province,2.0
+TUR.71_1,TUR,Turkey,TUR.71_1,Sirnak,Province,2.0
+IRN.9_1,IRN,Iran,IRN.9_1,Golestan,Province,1.125
+IRN.24_1,IRN,Iran,IRN.24_1,Razavi Khorasan,Province,1.263157894736842
+CHN.23_1,CHN,China,CHN.23_1,Shandong,Province,2.064516129032258
+KOR.8_1,KOR,South Korea,KOR.8_1,Gyeonggi-do,Province,2.0
+JPN.8_1,JPN,Japan,JPN.8_1,Fukushima,Prefecture,2.0
+PRT.9_1,PRT,Portugal,PRT.9_1,Faro,District,2.0
+TUN.4_1,TUN,Tunisia,TUN.4_1,Bizerte,Governorate,2.0
+TUR.59_1,TUR,Turkey,TUR.59_1,Mugla,Province,2.0
+TUR.8_1,TUR,Turkey,TUR.8_1,Antalya,Province,2.0
+TUR.44_1,TUR,Turkey,TUR.44_1,Karaman,Province,2.0
+TUR.58_1,TUR,Turkey,TUR.58_1,Mersin,Province,2.0
+TUR.64_1,TUR,Turkey,TUR.64_1,Osmaniye,Province,2.0
+TUR.33_1,TUR,Turkey,TUR.33_1,Gaziantep,Province,2.0
+TUR.57_1,TUR,Turkey,TUR.57_1,Mardin,Province,2.0
+SYR.1_1,SYR,Syria,SYR.1_1,Al Ḥasakah,Province,2.0
+IRQ.12_1,IRQ,Iraq,IRQ.12_1,Dihok,Province,2.0
+TUR.36_1,TUR,Turkey,TUR.36_1,Hakkari,Province,2.0
+IRQ.6_1,IRQ,Iraq,IRQ.6_1,Arbil,Province,2.0
+IRN.25_1,IRN,Iran,IRN.25_1,Semnan,Province,1.0
+AFG.13_1,AFG,Afghanistan,AFG.13_1,Jawzjan,Province,1.8
+AFG.4_1,AFG,Afghanistan,AFG.4_1,Balkh,Province,1.8571428571428572
+AFG.19_1,AFG,Afghanistan,AFG.19_1,Kunduz,Province,2.0
+AFG.31_1,AFG,Afghanistan,AFG.31_1,Takhar,Province,1.8
+JPN.15_1,JPN,Japan,JPN.15_1,Ishikawa,Prefecture,1.3333333333333333
+USA.3_1,USA,United States,USA.3_1,Arizona,State,1.0884955752212389
+USA.32_1,USA,United States,USA.32_1,New Mexico,State,1.098360655737705
+USA.37_1,USA,United States,USA.37_1,Oklahoma,State,2.4507042253521125
+DZA.4_1,DZA,Algeria,DZA.4_1,Alger,Province,2.0
+DZA.13_1,DZA,Algeria,DZA.13_1,Boumerdès,Province,2.0
+DZA.47_1,DZA,Algeria,DZA.47_1,Tizi Ouzou,Province,2.0
+DZA.8_1,DZA,Algeria,DZA.8_1,Béjaïa,Province,2.0
+DZA.23_1,DZA,Algeria,DZA.23_1,Jijel,Province,2.0
+DZA.39_1,DZA,Algeria,DZA.39_1,Skikda,Province,2.0
+DZA.19_1,DZA,Algeria,DZA.19_1,El Tarf,Province,2.0
+TUN.7_1,TUN,Tunisia,TUN.7_1,Jendouba,Governorate,2.0
+TUN.2_1,TUN,Tunisia,TUN.2_1,Béja,Governorate,2.0
+TUN.13_1,TUN,Tunisia,TUN.13_1,Manubah,Governorate,2.0
+TUN.3_1,TUN,Tunisia,TUN.3_1,Ben Arous (Tunis Sud),Governorate,3.0
+TUN.16_1,TUN,Tunisia,TUN.16_1,Nabeul,Governorate,2.0
+TUR.37_1,TUR,Turkey,TUR.37_1,Hatay,Province,2.0
+SYR.2_1,SYR,Syria,SYR.2_1,Aleppo,Province,2.0
+TUR.48_1,TUR,Turkey,TUR.48_1,Kilis,Province,2.0
+IRQ.16_1,IRQ,Iraq,IRQ.16_1,Ninawa,Province,2.0
+IRN.31_1,IRN,Iran,IRN.31_1,Zanjan,Province,2.0
+IRN.22_1,IRN,Iran,IRN.22_1,Qazvin,Province,2.0
+IRN.20_1,IRN,Iran,IRN.20_1,Mazandaran,Province,1.25
+AFG.8_1,AFG,Afghanistan,AFG.8_1,Faryab,Province,1.375
+PAK.5_1,PAK,Pakistan,PAK.5_1,N.W.F.P.,Province,2.0714285714285716
+PAK.6_1,PAK,Pakistan,PAK.6_1,Northern Areas,Centrally Administered Area,1.2222222222222223
+KOR.3_1,KOR,South Korea,KOR.3_1,Chungcheongnam-do,Province,1.6
+KOR.2_1,KOR,South Korea,KOR.2_1,Chungcheongbuk-do,Province,2.0
+KOR.9_1,KOR,South Korea,KOR.9_1,Gyeongsangbuk-do,Province,2.0
+JPN.43_1,JPN,Japan,JPN.43_1,Toyama,Prefecture,2.0
+JPN.26_1,JPN,Japan,JPN.26_1,Nagano,Prefecture,2.0
+JPN.10_1,JPN,Japan,JPN.10_1,Gunma,Prefecture,2.0
+JPN.39_1,JPN,Japan,JPN.39_1,Tochigi,Prefecture,2.0
+USA.44_1,USA,United States,USA.44_1,Texas,State,1.9461538461538461
+USA.4_1,USA,United States,USA.4_1,Arkansas,State,2.2181818181818183
+USA.43_1,USA,United States,USA.43_1,Tennessee,State,2.0
+USA.34_1,USA,United States,USA.34_1,North Carolina,State,2.06
+DZA.14_1,DZA,Algeria,DZA.14_1,Chlef,Province,2.0
+DZA.2_1,DZA,Algeria,DZA.2_1,Aïn Defla,Province,2.0
+DZA.28_1,DZA,Algeria,DZA.28_1,Médéa,Province,2.0
+DZA.12_1,DZA,Algeria,DZA.12_1,Bouira,Province,2.0
+DZA.11_1,DZA,Algeria,DZA.11_1,Bordj Bou Arréridj,Province,2.0
+DZA.37_1,DZA,Algeria,DZA.37_1,Sétif,Province,2.0
+DZA.29_1,DZA,Algeria,DZA.29_1,Mila,Province,2.0
+DZA.15_1,DZA,Algeria,DZA.15_1,Constantine,Province,2.0
+DZA.21_1,DZA,Algeria,DZA.21_1,Guelma,Province,2.0
+DZA.40_1,DZA,Algeria,DZA.40_1,Souk Ahras,Province,2.0
+TUN.11_1,TUN,Tunisia,TUN.11_1,Le Kef,Governorate,2.0
+TUN.19_1,TUN,Tunisia,TUN.19_1,Siliana,Governorate,2.0
+TUN.24_1,TUN,Tunisia,TUN.24_1,Zaghouan,Governorate,2.5
+SYR.10_1,SYR,Syria,SYR.10_1,Idlib,Province,2.0
+SYR.3_1,SYR,Syria,SYR.3_1,Ar Raqqah,Province,2.0
+IRQ.7_1,IRQ,Iraq,IRQ.7_1,As-Sulaymaniyah,Province,2.0
+IRN.17_1,IRN,Iran,IRN.17_1,Kordestan,Province,2.0
+IRN.1_1,IRN,Iran,IRN.1_1,Alborz,Province,1.6666666666666667
+AFG.30_1,AFG,Afghanistan,AFG.30_1,Sari Pul,Province,1.1666666666666667
+AFG.29_1,AFG,Afghanistan,AFG.29_1,Samangan,Province,2.0
+AFG.3_1,AFG,Afghanistan,AFG.3_1,Baghlan,Province,1.7777777777777777
+CHN.29_1,CHN,China,CHN.29_1,Xizang,Autonomous Region,1.6983758700696057
+CHN.12_1,CHN,China,CHN.12_1,Henan,Province,2.203125
+JPN.37_1,JPN,Japan,JPN.37_1,Shimane,Prefecture,1.0
+JPN.6_1,JPN,Japan,JPN.6_1,Fukui,Prefecture,2.0
+JPN.9_1,JPN,Japan,JPN.9_1,Gifu,Prefecture,2.0
+JPN.14_1,JPN,Japan,JPN.14_1,Ibaraki,Prefecture,2.0
+MAR.14_1,MAR,Morocco,MAR.14_1,Tanger - Tétouan,Region,2.0
+DZA.32_1,DZA,Algeria,DZA.32_1,Oran,Province,3.0
+DZA.30_1,DZA,Algeria,DZA.30_1,Mostaganem,Province,2.0
+DZA.35_1,DZA,Algeria,DZA.35_1,Relizane,Province,2.0
+DZA.46_1,DZA,Algeria,DZA.46_1,Tissemsilt,Province,2.0
+DZA.16_1,DZA,Algeria,DZA.16_1,Djelfa,Province,1.8333333333333333
+DZA.26_1,DZA,Algeria,DZA.26_1,M'Sila,Province,2.0
+DZA.6_1,DZA,Algeria,DZA.6_1,Batna,Province,2.0
+DZA.34_1,DZA,Algeria,DZA.34_1,Oum el Bouaghi,Province,2.0
+DZA.42_1,DZA,Algeria,DZA.42_1,Tébessa,Province,1.8333333333333333
+TUN.9_1,TUN,Tunisia,TUN.9_1,Kassérine,Governorate,2.0
+TUN.8_1,TUN,Tunisia,TUN.8_1,Kairouan,Governorate,3.0
+TUN.20_1,TUN,Tunisia,TUN.20_1,Sousse,Governorate,2.0
+TUN.15_1,TUN,Tunisia,TUN.15_1,Monastir,Governorate,2.0
+SYR.8_1,SYR,Syria,SYR.8_1,Hamah,Province,2.0
+SYR.7_1,SYR,Syria,SYR.7_1,Dayr Az Zawr,Province,1.3
+IRQ.8_1,IRQ,Iraq,IRQ.8_1,At-Ta'mim,Province,2.0
+IRN.28_1,IRN,Iran,IRN.28_1,Tehran,Province,1.3333333333333333
+AFG.2_1,AFG,Afghanistan,AFG.2_1,Badghis,Province,1.5555555555555556
+AFG.27_1,AFG,Afghanistan,AFG.27_1,Panjshir,Province,1.0
+AFG.24_1,AFG,Afghanistan,AFG.24_1,Nuristan,Province,1.6666666666666667
+KOR.13_1,KOR,South Korea,KOR.13_1,Jeollabuk-do,Province,2.0
+KOR.10_1,KOR,South Korea,KOR.10_1,Gyeongsangnam-do,Province,2.0
+JPN.22_1,JPN,Japan,JPN.22_1,Kyoto,Urban Prefecture,1.5
+JPN.47_1,JPN,Japan,JPN.47_1,Yamanashi,Prefecture,2.0
+JPN.41_1,JPN,Japan,JPN.41_1,Tokyo,Metropolis,2.0
+JPN.4_1,JPN,Japan,JPN.4_1,Chiba,Prefecture,1.3333333333333333
+MAR.10_1,MAR,Morocco,MAR.10_1,Oriental,Region,1.625
+DZA.3_1,DZA,Algeria,DZA.3_1,Aïn Témouchent,Province,3.0
+DZA.38_1,DZA,Algeria,DZA.38_1,Sidi Bel Abbès,Province,2.5
+DZA.27_1,DZA,Algeria,DZA.27_1,Mascara,Province,2.0
+DZA.43_1,DZA,Algeria,DZA.43_1,Tiaret,Province,2.0
+DZA.9_1,DZA,Algeria,DZA.9_1,Biskra,Province,1.8
+DZA.24_1,DZA,Algeria,DZA.24_1,Khenchela,Province,2.0
+TUN.18_1,TUN,Tunisia,TUN.18_1,Sidi Bou Zid,Governorate,1.6666666666666667
+TUN.12_1,TUN,Tunisia,TUN.12_1,Mahdia,Governorate,2.0
+TUN.17_1,TUN,Tunisia,TUN.17_1,Sfax,Governorate,1.0
+GRC.4_1,GRC,Greece,GRC.4_1,Crete,Decentralized administration,1.6
+XNC.2_1,XNC,Northern Cyprus,XNC.2_1,Girne,District,2.0
+XNC.1_1,XNC,Northern Cyprus,XNC.1_1,Gazimağusa,District,2.0
+SYR.9_1,SYR,Syria,SYR.9_1,Hims,Province,1.4736842105263157
+IRQ.17_1,IRQ,Iraq,IRQ.17_1,Sala ad-Din,Province,1.8
+IRN.10_1,IRN,Iran,IRN.10_1,Hamadan,Province,2.0
+IRN.19_1,IRN,Iran,IRN.19_1,Markazi,Province,1.9090909090909092
+AFG.12_1,AFG,Afghanistan,AFG.12_1,Hirat,Province,1.6818181818181819
+AFG.5_1,AFG,Afghanistan,AFG.5_1,Bamyan,Province,1.0
+AFG.28_1,AFG,Afghanistan,AFG.28_1,Parwan,Province,1.5
+AFG.18_1,AFG,Afghanistan,AFG.18_1,Kunar,Province,3.0
+IND.14_1,IND,India,IND.14_1,Jammu and Kashmir,State,2.073170731707317
+KOR.14_1,KOR,South Korea,KOR.14_1,Jeollanam-do,Province,2.0
+KOR.1_1,KOR,South Korea,KOR.1_1,Busan,Metropolitan City,2.0
+JPN.42_1,JPN,Japan,JPN.42_1,Tottori,Prefecture,2.0
+JPN.31_1,JPN,Japan,JPN.31_1,Okayama,Prefecture,2.0
+JPN.13_1,JPN,Japan,JPN.13_1,Hyōgo,Prefecture,1.3333333333333333
+JPN.36_1,JPN,Japan,JPN.36_1,Shiga,Prefecture,2.0
+JPN.1_1,JPN,Japan,JPN.1_1,Aichi,Prefecture,2.0
+JPN.38_1,JPN,Japan,JPN.38_1,Shizuoka,Prefecture,2.0
+USA.25_1,USA,United States,USA.25_1,Mississippi,State,2.1914893617021276
+USA.1_1,USA,United States,USA.1_1,Alabama,State,1.9615384615384615
+USA.11_1,USA,United States,USA.11_1,Georgia,State,2.389830508474576
+USA.41_1,USA,United States,USA.41_1,South Carolina,State,2.3
+MAR.4_1,MAR,Morocco,MAR.4_1,Gharb - Chrarda - Béni Hssen,Region,2.0
+MAR.15_1,MAR,Morocco,MAR.15_1,Taza - Al Hoceima - Taounate,Region,2.2222222222222223
+DZA.48_1,DZA,Algeria,DZA.48_1,Tlemcen,Province,2.5
+DZA.36_1,DZA,Algeria,DZA.36_1,Saïda,Province,2.0
+CYP.3_1,CYP,Cyprus,CYP.3_1,Limassol,District,2.0
+IRQ.1_1,IRQ,Iraq,IRQ.1_1,Al-Anbar,Province,1.0545454545454545
+IRN.14_1,IRN,Iran,IRN.14_1,Kermanshah,Province,2.0
+IRN.23_1,IRN,Iran,IRN.23_1,Qom,Province,2.0
+IRN.30_1,IRN,Iran,IRN.30_1,Yazd,Province,1.0
+AFG.10_1,AFG,Afghanistan,AFG.10_1,Ghor,Province,1.0
+AFG.33_1,AFG,Afghanistan,AFG.33_1,Wardak,Province,1.25
+AFG.14_1,AFG,Afghanistan,AFG.14_1,Kabul,Province,2.0
+AFG.16_1,AFG,Afghanistan,AFG.16_1,Kapisa,Province,2.0
+AFG.20_1,AFG,Afghanistan,AFG.20_1,Laghman,Province,2.0
+PAK.3_1,PAK,Pakistan,PAK.3_1,F.A.T.A.,Territory,2.727272727272727
+PAK.1_1,PAK,Pakistan,PAK.1_1,Azad Kashmir,Centrally Administered Area,2.3333333333333335
+CHN.15_1,CHN,China,CHN.15_1,Jiangsu,Province,2.05
+JPN.11_1,JPN,Japan,JPN.11_1,Hiroshima,Prefecture,2.0
+JPN.23_1,JPN,Japan,JPN.23_1,Mie,Prefecture,2.0
+MAR.3_1,MAR,Morocco,MAR.3_1,Fès - Boulemane,Region,2.3333333333333335
+DZA.17_1,DZA,Algeria,DZA.17_1,El Bayadh,Province,1.2142857142857142
+DZA.25_1,DZA,Algeria,DZA.25_1,Laghouat,Province,1.5555555555555556
+DZA.18_1,DZA,Algeria,DZA.18_1,El Oued,Province,1.1111111111111112
+TUN.6_1,TUN,Tunisia,TUN.6_1,Gafsa,Governorate,1.0
+LBN.7_1,LBN,Lebanon,LBN.7_1,North,Governorate,2.0
+LBN.2_1,LBN,Lebanon,LBN.2_1,Baalbak - Hermel,Governorate,2.0
+IRQ.13_1,IRQ,Iraq,IRQ.13_1,Diyala,Province,1.6666666666666667
+IRN.18_1,IRN,Iran,IRN.18_1,Lorestan,Province,2.0
+IRN.6_1,IRN,Iran,IRN.6_1,Esfahan,Province,1.1521739130434783
+AFG.6_1,AFG,Afghanistan,AFG.6_1,Daykundi,Province,1.1428571428571428
+AFG.21_1,AFG,Afghanistan,AFG.21_1,Logar,Province,2.0
+AFG.26_1,AFG,Afghanistan,AFG.26_1,Paktya,Province,2.3333333333333335
+AFG.22_1,AFG,Afghanistan,AFG.22_1,Nangarhar,Province,3.0
+CHN.26_1,CHN,China,CHN.26_1,Sichuan,Province,1.9623655913978495
+CHN.1_1,CHN,China,CHN.1_1,Anhui,Province,2.0576923076923075
+JPN.27_1,JPN,Japan,JPN.27_1,Naoasaki,Prefecture,0.4
+JPN.46_1,JPN,Japan,JPN.46_1,Yamaguchi,Prefecture,2.0
+JPN.17_1,JPN,Japan,JPN.17_1,Kagawa,Prefecture,2.0
+JPN.44_1,JPN,Japan,JPN.44_1,Wakayama,Prefecture,2.0
+JPN.28_1,JPN,Japan,JPN.28_1,Nara,Prefecture,2.0
+MAR.1_1,MAR,Morocco,MAR.1_1,Chaouia - Ouardigha,Region,2.0
+MAR.11_1,MAR,Morocco,MAR.11_1,Rabat - Salé - Zemmour - Zaer,Region,2.0
+MAR.9_1,MAR,Morocco,MAR.9_1,Meknès - Tafilalet,Region,1.565217391304348
+DZA.31_1,DZA,Algeria,DZA.31_1,Naâma,Province,1.1
+DZA.33_1,DZA,Algeria,DZA.33_1,Ouargla,Province,1.0
+TUN.22_1,TUN,Tunisia,TUN.22_1,Tozeur,Governorate,1.0
+TUN.10_1,TUN,Tunisia,TUN.10_1,Kebili,Governorate,1.0
+TUN.5_1,TUN,Tunisia,TUN.5_1,Gabès,Governorate,1.0
+TUN.14_1,TUN,Tunisia,TUN.14_1,Médenine,Governorate,0.75
+LBN.5_1,LBN,Lebanon,LBN.5_1,Mount Lebanon,Governorate,2.0
+SYR.13_1,SYR,Syria,SYR.13_1,Rif Dimashq,Province,1.5
+IRN.12_1,IRN,Iran,IRN.12_1,Ilam,Province,2.0
+IRN.27_1,IRN,Iran,IRN.27_1,South Khorasan,Province,1.0
+AFG.9_1,AFG,Afghanistan,AFG.9_1,Ghazni,Province,1.5714285714285714
+PAK.7_1,PAK,Pakistan,PAK.7_1,Punjab,Province,1.654320987654321
+JPN.7_1,JPN,Japan,JPN.7_1,Fukuoka,Prefecture,2.0
+JPN.5_1,JPN,Japan,JPN.5_1,Ehime,Prefecture,2.0
+JPN.20_1,JPN,Japan,JPN.20_1,Kochi,Prefecture,2.0
+JPN.40_1,JPN,Japan,JPN.40_1,Tokushima,Prefecture,2.0
+MAR.2_1,MAR,Morocco,MAR.2_1,Doukkala - Abda,Region,2.0
+LBN.8_1,LBN,Lebanon,LBN.8_1,South,Governorate,2.0
+ISR.1_1,ISR,Israel,ISR.1_1,Golan,District,2.0
+SYR.6_1,SYR,Syria,SYR.6_1,Dar`a,Province,2.0
+JOR.10_1,JOR,Jordan,JOR.10_1,Mafraq,Province,1.0
+IRQ.10_1,IRQ,Iraq,IRQ.10_1,Baghdad,Province,1.0
+IRQ.18_1,IRQ,Iraq,IRQ.18_1,Wasit,Province,1.1428571428571428
+AFG.7_1,AFG,Afghanistan,AFG.7_1,Farah,Province,1.15
+AFG.11_1,AFG,Afghanistan,AFG.11_1,Hilmand,Province,1.0
+AFG.32_1,AFG,Afghanistan,AFG.32_1,Uruzgan,Province,1.3333333333333333
+AFG.25_1,AFG,Afghanistan,AFG.25_1,Paktika,Province,2.0
+AFG.17_1,AFG,Afghanistan,AFG.17_1,Khost,Province,3.0
+KOR.12_1,KOR,South Korea,KOR.12_1,Jeju,Province,0.0
+JPN.34_1,JPN,Japan,JPN.34_1,Saga,Prefecture,2.0
+JPN.30_1,JPN,Japan,JPN.30_1,Oita,Prefecture,2.0
+USA.19_1,USA,United States,USA.19_1,Louisiana,State,2.125
+PRT.13_1,PRT,Portugal,PRT.13_1,Madeira,'Autonomous Region',0.0
+DZA.20_1,DZA,Algeria,DZA.20_1,Ghardaïa,Province,1.0
+TUN.21_1,TUN,Tunisia,TUN.21_1,Tataouine,Governorate,1.0
+LBY.10_1,LBY,Libya,LBY.10_1,An Nuqat al Khams,District,1.0
+LBY.11_1,LBY,Libya,LBY.11_1,Az Zawiyah,District,1.0
+LBY.20_1,LBY,Libya,LBY.20_1,Tripoli,District,2.0
+LBY.7_1,LBY,Libya,LBY.7_1,Al Marj,District,2.0
+LBY.2_1,LBY,Libya,LBY.2_1,Al Jabal al Akhdar,District,1.75
+LBY.13_1,LBY,Libya,LBY.13_1,Darnah,District,1.7142857142857142
+ISR.5_1,ISR,Israel,ISR.5_1,HaZafon,District,2.0
+SYR.4_1,SYR,Syria,SYR.4_1,As Suwayda',Province,1.5
+IRQ.9_1,IRQ,Iraq,IRQ.9_1,Babil,Province,1.0
+IRQ.15_1,IRQ,Iraq,IRQ.15_1,Maysan,Province,1.5
+IRN.15_1,IRN,Iran,IRN.15_1,Khuzestan,Province,1.8148148148148149
+AFG.34_1,AFG,Afghanistan,AFG.34_1,Zabul,Province,1.3333333333333333
+IND.13_1,IND,India,IND.13_1,Himachal Pradesh,Union Territory,2.45
+CHN.13_1,CHN,China,CHN.13_1,Hubei,Province,2.0
+JPN.21_1,JPN,Japan,JPN.21_1,Kumamoto,Prefecture,2.0
+JPN.25_1,JPN,Japan,JPN.25_1,Miyazaki,Prefecture,2.0
+MEX.3_1,MEX,Mexico,MEX.3_1,Baja California,State,1.1428571428571428
+MEX.26_1,MEX,Mexico,MEX.26_1,Sonora,State,1.3380281690140845
+MAR.8_1,MAR,Morocco,MAR.8_1,Marrakech - Tensift - Al Haouz,Region,2.0
+MAR.13_1,MAR,Morocco,MAR.13_1,Tadla - Azilal,Region,2.0
+DZA.7_1,DZA,Algeria,DZA.7_1,Béchar,Province,1.0
+LBY.17_1,LBY,Libya,LBY.17_1,Nalut,District,1.0
+LBY.4_1,LBY,Libya,LBY.4_1,Al Jifarah,District,1.0
+LBY.8_1,LBY,Libya,LBY.8_1,Al Marqab,District,1.3333333333333333
+LBY.15_1,LBY,Libya,LBY.15_1,Misratah,District,1.1666666666666667
+LBY.12_1,LBY,Libya,LBY.12_1,Benghazi,District,2.0
+PSE.2_1,PSE,Palestina,PSE.2_1,West Bank,District,2.0
+JOR.1_1,JOR,Jordan,JOR.1_1,Ajlun,Province,2.0
+IRQ.14_1,IRQ,Iraq,IRQ.14_1,Karbala',Province,1.0
+IRQ.5_1,IRQ,Iraq,IRQ.5_1,An-Najaf,Province,1.0
+IRQ.4_1,IRQ,Iraq,IRQ.4_1,Al-Qadisiyah,Province,1.0
+IRN.4_1,IRN,Iran,IRN.4_1,Chahar Mahall and Bakhtiari,Province,1.4
+AFG.15_1,AFG,Afghanistan,AFG.15_1,Kandahar,Province,1.0
+MEX.6_1,MEX,Mexico,MEX.6_1,Chihuahua,State,1.6153846153846154
+MAR.12_1,MAR,Morocco,MAR.12_1,Souss - Massa - Draâ,Region,1.2857142857142858
+LBY.3_1,LBY,Libya,LBY.3_1,Al Jabal al Gharbi,District,1.0
+LBY.1_1,LBY,Libya,LBY.1_1,Al Butnan,District,1.0
+ISR.2_1,ISR,Israel,ISR.2_1,HaDarom,District,1.5
+JOR.9_1,JOR,Jordan,JOR.9_1,Madaba,Province,2.0
+JOR.2_1,JOR,Jordan,JOR.2_1,Amman,Province,2.0
+JOR.12_1,JOR,Jordan,JOR.12_1,Zarqa,Province,1.0
+SAU.3_1,SAU,Saudi Arabia,SAU.3_1,Al Hudud ash Shamaliyah,Region,1.0
+IRQ.11_1,IRQ,Iraq,IRQ.11_1,Dhi-Qar,Province,1.0
+IRN.13_1,IRN,Iran,IRN.13_1,Kerman,Province,1.0
+AFG.23_1,AFG,Afghanistan,AFG.23_1,Nimroz,Province,1.0
+PAK.2_1,PAK,Pakistan,PAK.2_1,Baluchistan,Province,1.0161290322580645
+IND.28_1,IND,India,IND.28_1,Punjab,State,2.3529411764705883
+CHN.3_1,CHN,China,CHN.3_1,Chongqing,Municipality,2.0
+CHN.24_1,CHN,China,CHN.24_1,Shanghai,Municipality,2.0
+JPN.18_1,JPN,Japan,JPN.18_1,Kagoshima,Prefecture,1.3333333333333333
+DZA.1_1,DZA,Algeria,DZA.1_1,Adrar,Province,1.0
+LBY.19_1,LBY,Libya,LBY.19_1,Surt,District,1.0
+EGY.24_1,EGY,Egypt,EGY.24_1,Matrouh,Governorate,1.0
+EGY.3_1,EGY,Egypt,EGY.3_1,Al Buhayrah,Governorate,1.0
+EGY.23_1,EGY,Egypt,EGY.23_1,Kafr ash Shaykh,Governorate,1.0
+EGY.21_1,EGY,Egypt,EGY.21_1,Dumyat,Governorate,1.0
+EGY.20_1,EGY,Egypt,EGY.20_1,Bur Sa`id,Governorate,0.0
+EGY.26_1,EGY,Egypt,EGY.26_1,Shamal Sina',Governorate,1.1
+JOR.7_1,JOR,Jordan,JOR.7_1,Karak,Province,2.0
+JOR.8_1,JOR,Jordan,JOR.8_1,Ma`an,Province,1.0
+SAU.4_1,SAU,Saudi Arabia,SAU.4_1,Al Jawf,Region,1.0
+IRQ.3_1,IRQ,Iraq,IRQ.3_1,Al-Muthannia,Province,1.0
+IRN.16_1,IRN,Iran,IRN.16_1,Kohgiluyeh and Buyer Ahmad,Province,1.8
+IRN.7_1,IRN,Iran,IRN.7_1,Fars,Province,1.4680851063829787
+IRN.26_1,IRN,Iran,IRN.26_1,Sistan and Baluchestan,Province,1.0
+IND.35_1,IND,India,IND.35_1,Uttarakhand,State,2.6
+USA.10_1,USA,United States,USA.10_1,Florida,State,2.5283018867924527
+LBY.9_1,LBY,Libya,LBY.9_1,Al Wahat,District,1.0
+EGY.6_1,EGY,Egypt,EGY.6_1,Al Iskandariyah,Governorate,1.0
+EGY.1_1,EGY,Egypt,EGY.1_1,Ad Daqahliyah,Governorate,1.0
+EGY.16_1,EGY,Egypt,EGY.16_1,Ash Sharqiyah,Governorate,1.0
+EGY.7_1,EGY,Egypt,EGY.7_1,Al Isma`iliyah,Governorate,1.0
+JOR.11_1,JOR,Jordan,JOR.11_1,Tafilah,Province,1.0
+IRQ.2_1,IRQ,Iraq,IRQ.2_1,Al-Basrah,Province,1.0
+IND.6_1,IND,India,IND.6_1,Chandigarh,Union Territory,3.0
+CHN.31_1,CHN,China,CHN.31_1,Zhejiang,Province,1.945945945945946
+MAR.6_1,MAR,Morocco,MAR.6_1,Guelmim - Es-Semara,Region,1.0
+DZA.22_1,DZA,Algeria,DZA.22_1,Illizi,Province,1.0
+EGY.8_1,EGY,Egypt,EGY.8_1,Al Jizah,Governorate,1.0
+EGY.12_1,EGY,Egypt,EGY.12_1,Al Qalyubiyah,Governorate,1.0
+EGY.15_1,EGY,Egypt,EGY.15_1,As Suways,Governorate,1.0
+JOR.3_1,JOR,Jordan,JOR.3_1,Aqaba,Province,1.0
+IND.12_1,IND,India,IND.12_1,Haryana,State,2.066666666666667
+IND.34_1,IND,India,IND.34_1,Uttar Pradesh,State,2.010989010989011
+NPL.4_1,NPL,Nepal,NPL.4_1,Mid-Western,Development Region,2.142857142857143
+MEX.7_1,MEX,Mexico,MEX.7_1,Coahuila,State,1.0
+EGY.22_1,EGY,Egypt,EGY.22_1,Janub Sina',Governorate,0.9166666666666666
+KWT.3_1,KWT,Kuwait,KWT.3_1,Al Jahrah,Province,1.0
+IRN.3_1,IRN,Iran,IRN.3_1,Bushehr,Province,1.8571428571428572
+IND.29_1,IND,India,IND.29_1,Rajasthan,State,1.6015625
+NPL.3_1,NPL,Nepal,NPL.3_1,Far-Western,Development Region,2.6666666666666665
+CHN.14_1,CHN,China,CHN.14_1,Hunan,Province,2.0
+CHN.16_1,CHN,China,CHN.16_1,Jiangxi,Province,2.0
+DZA.44_1,DZA,Algeria,DZA.44_1,Tindouf,Province,1.0
+DZA.41_1,DZA,Algeria,DZA.41_1,Tamanghasset,Province,1.0
+LBY.22_1,LBY,Libya,LBY.22_1,Wadi ash Shati',District,1.0
+LBY.5_1,LBY,Libya,LBY.5_1,Al Jufrah,District,1.0
+EGY.4_1,EGY,Egypt,EGY.4_1,Al Fayyum,Governorate,1.0
+IND.3_1,IND,India,IND.3_1,Arunachal Pradesh,State,2.0
+ESP.14_1,ESP,Spain,ESP.14_1,Islas Canarias,Autonomous Community,1.0
+EGY.10_1,EGY,Egypt,EGY.10_1,Al Minya,Governorate,1.0
+EGY.19_1,EGY,Egypt,EGY.19_1,Bani Suwayf,Governorate,1.0
+EGY.2_1,EGY,Egypt,EGY.2_1,Al Bahr al Ahmar,Governorate,1.0
+SAU.13_1,SAU,Saudi Arabia,SAU.13_1,Tabuk,Region,1.0
+SAU.9_1,SAU,Saudi Arabia,SAU.9_1,Ha'il,Region,1.0
+SAU.8_1,SAU,Saudi Arabia,SAU.8_1,Ash Sharqiyah,Region,1.0
+KWT.1_1,KWT,Kuwait,KWT.1_1,Al Ahmadi,Province,1.0
+IRN.11_1,IRN,Iran,IRN.11_1,Hormozgan,Province,1.037037037037037
+IND.25_1,IND,India,IND.25_1,NCT of Delhi,Union Territory,2.0
+NPL.5_1,NPL,Nepal,NPL.5_1,West,Development Region,1.9
+CHN.30_1,CHN,China,CHN.30_1,Yunnan,Province,2.0
+CHN.8_1,CHN,China,CHN.8_1,Guizhou,Province,2.0
+PAK.8_1,PAK,Pakistan,PAK.8_1,Sind,Province,1.0
+NPL.1_1,NPL,Nepal,NPL.1_1,Central,Development Region,1.9
+MMR.4_1,MMR,Myanmar,MMR.4_1,Kachin,State,2.0
+CHN.4_1,CHN,China,CHN.4_1,Fujian,Province,1.9555555555555555
+MEX.2_1,MEX,Mexico,MEX.2_1,Baja California Sur,State,1.0769230769230769
+MAR.7_1,MAR,Morocco,MAR.7_1,Laâyoune - Boujdour - Sakia El Hamra,Region,1.0
+LBY.18_1,LBY,Libya,LBY.18_1,Sabha,District,1.0
+EGY.18_1,EGY,Egypt,EGY.18_1,Asyut,Governorate,1.0
+NPL.2_1,NPL,Nepal,NPL.2_1,East,Development Region,2.0
+IND.30_1,IND,India,IND.30_1,Sikkim,State,1.75
+BTN.14_1,BTN,Bhutan,BTN.14_1,Thimphu,District,2.0
+BTN.10_1,BTN,Bhutan,BTN.10_1,Punakha,District,2.0
+BTN.18_1,BTN,Bhutan,BTN.18_1,Wangduephodrang,District,2.0
+BTN.1_1,BTN,Bhutan,BTN.1_1,Bumthang,District,2.0
+BTN.6_1,BTN,Bhutan,BTN.6_1,Lhuentse,District,2.0
+IND.4_1,IND,India,IND.4_1,Assam,State,2.0
+MEX.19_1,MEX,Mexico,MEX.19_1,Nuevo León,State,1.4782608695652173
+MEX.28_1,MEX,Mexico,MEX.28_1,Tamaulipas,State,1.6071428571428572
+ESH.3_1,ESH,Western Sahara,ESH.3_1,Laayoune,Province,1.0
+ESH.2_1,ESH,Western Sahara,ESH.2_1,Es Semara,Province,1.0
+LBY.14_1,LBY,Libya,LBY.14_1,Ghat,District,1.0
+LBY.21_1,LBY,Libya,LBY.21_1,Wadi al Hayat,District,1.0
+EGY.14_1,EGY,Egypt,EGY.14_1,Al Wadi al Jadid,Governorate,1.0
+SAU.5_1,SAU,Saudi Arabia,SAU.5_1,Al Madinah,Region,1.0
+SAU.6_1,SAU,Saudi Arabia,SAU.6_1,Al Quassim,Region,1.0
+SAU.7_1,SAU,Saudi Arabia,SAU.7_1,Ar Riyad,Region,1.0
+IND.5_1,IND,India,IND.5_1,Bihar,State,2.0
+BTN.5_1,BTN,Bhutan,BTN.5_1,Haa,District,2.0
+BTN.3_1,BTN,Bhutan,BTN.3_1,Dagana,District,2.0
+BTN.20_1,BTN,Bhutan,BTN.20_1,Zhemgang,District,2.0
+BTN.7_1,BTN,Bhutan,BTN.7_1,Monggar,District,2.0
+BTN.15_1,BTN,Bhutan,BTN.15_1,Trashigang,District,2.0
+MMR.12_1,MMR,Myanmar,MMR.12_1,Sagaing,Division,2.0
+MEX.25_1,MEX,Mexico,MEX.25_1,Sinaloa,State,2.142857142857143
+MEX.10_1,MEX,Mexico,MEX.10_1,Durango,State,1.9534883720930232
+MRT.12_1,MRT,Mauritania,MRT.12_1,Tiris Zemmour,Region,1.0
+LBY.16_1,LBY,Libya,LBY.16_1,Murzuq,District,1.0
+LBY.6_1,LBY,Libya,LBY.6_1,Al Kufrah,District,1.0
+EGY.27_1,EGY,Egypt,EGY.27_1,Suhaj,Governorate,1.0
+IND.19_1,IND,India,IND.19_1,Madhya Pradesh,State,2.0
+IND.36_1,IND,India,IND.36_1,West Bengal,State,2.0
+IND.24_1,IND,India,IND.24_1,Nagaland,State,2.0
+JPN.32_1,JPN,Japan,JPN.32_1,Okinawa,Prefecture,0.0
+ESH.1_1,ESH,Western Sahara,ESH.1_1,Boujdour,Province,1.0
+EGY.25_1,EGY,Egypt,EGY.25_1,Qina,Governorate,1.0
+BGD.6_1,BGD,Bangladesh,BGD.6_1,Rangpur,Division,2.0
+CHN.7_1,CHN,China,CHN.7_1,Guangxi,Autonomous Region,2.0352941176470587
+BHS.3_1,BHS,Bahamas,BHS.3_1,Biminis,District,0.0
+QAT.3_1,QAT,Qatar,QAT.3_1,Al Khor,Municipality,1.0
+OMN.10_1,OMN,Oman,OMN.10_1,Musandam,Province,1.0
+IND.22_1,IND,India,IND.22_1,Meghalaya,State,2.0
+EGY.17_1,EGY,Egypt,EGY.17_1,Aswan,Governorate,1.0
+QAT.5_1,QAT,Qatar,QAT.5_1,Ar Rayyan,Municipality,1.0
+ARE.6_1,ARE,United Arab Emirates,ARE.6_1,Sharjah,Emirate,1.0
+IND.15_1,IND,India,IND.15_1,Jharkhand,State,2.0
+IND.21_1,IND,India,IND.21_1,Manipur,State,2.0
+CHN.6_1,CHN,China,CHN.6_1,Guangdong,Province,1.9833333333333334
+MEX.32_1,MEX,Mexico,MEX.32_1,Zacatecas,State,1.56
+BHS.23_1,BHS,Bahamas,BHS.23_1,North Andros,District,2.0
+BHS.30_1,BHS,Bahamas,BHS.30_1,South Eleuthera,District,0.0
+MLI.9_1,MLI,Mali,MLI.9_1,Timbuktu,Region,1.0
+QAT.4_1,QAT,Qatar,QAT.4_1,Al Wakrah,Municipality,1.0
+ARE.1_1,ARE,United Arab Emirates,ARE.1_1,Abu Dhabi,Emirate,0.9523809523809523
+ARE.3_1,ARE,United Arab Emirates,ARE.3_1,Dubai,Emirate,1.0
+OMN.2_1,OMN,Oman,OMN.2_1,Al Batinah North,Region,1.0
+BGD.5_1,BGD,Bangladesh,BGD.5_1,Rajshahi,Division,2.0
+BGD.3_1,BGD,Bangladesh,BGD.3_1,Dhaka,Division,2.0
+BGD.7_1,BGD,Bangladesh,BGD.7_1,Sylhet,Division,2.0
+TWN.7_1,TWN,Taiwan,TWN.7_1,Taiwan,Province,2.125
+MEX.24_1,MEX,Mexico,MEX.24_1,San Luis Potosí,State,1.3636363636363635
+BHS.18_1,BHS,Bahamas,BHS.18_1,Mangrove Cay,District,0.0
+ESH.4_1,ESH,Western Sahara,ESH.4_1,Oued el Dahab,Province,1.0
+OMN.4_1,OMN,Oman,OMN.4_1,Al Buraymi,Region,1.0
+IND.11_1,IND,India,IND.11_1,Gujarat,State,1.8181818181818181
+IND.33_1,IND,India,IND.33_1,Tripura,State,2.0
+IND.23_1,IND,India,IND.23_1,Mizoram,State,2.0
+TWN.4_1,TWN,Taiwan,TWN.4_1,Taichung,Special Municipality,2.0
+BHS.29_1,BHS,Bahamas,BHS.29_1,South Andros,District,0.0
+MRT.1_1,MRT,Mauritania,MRT.1_1,Adrar,Region,1.0
+OMN.5_1,OMN,Oman,OMN.5_1,Al Dhahira,Region,1.0
+OMN.3_1,OMN,Oman,OMN.3_1,Al Batinah South,Region,1.0
+IND.7_1,IND,India,IND.7_1,Chhattisgarh,State,2.0
+BGD.4_1,BGD,Bangladesh,BGD.4_1,Khulna,Division,2.0
+BGD.2_1,BGD,Bangladesh,BGD.2_1,Chittagong,Division,2.0
+MMR.3_1,MMR,Myanmar,MMR.3_1,Chin,State,2.0
+MMR.13_1,MMR,Myanmar,MMR.13_1,Shan,State,2.0
+NER.1_1,NER,Niger,NER.1_1,Agadez,Department,1.0
+TCD.21_1,TCD,Chad,TCD.21_1,Tibesti,Region,1.0
+SAU.11_1,SAU,Saudi Arabia,SAU.11_1,Makkah,Region,1.0
+OMN.1_1,OMN,Oman,OMN.1_1,Ad Dakhliyah,Region,1.0
+OMN.11_1,OMN,Oman,OMN.11_1,Muscat,Province,1.0
+VNM.26_1,VNM,Vietnam,VNM.26_1,Hà Giang,Province,2.0
+TWN.5_1,TWN,Taiwan,TWN.5_1,Tainan,Special Municipality,2.0
+TWN.2_1,TWN,Taiwan,TWN.2_1,Kaohsiung,Special Municipality,2.5
+MEX.18_1,MEX,Mexico,MEX.18_1,Nayarit,State,2.0
+CUB.13_1,CUB,Cuba,CUB.13_1,Pinar del Río,Province,2.25
+CUB.9_1,CUB,Cuba,CUB.9_1,La Habana,Province,2.0
+CUB.12_1,CUB,Cuba,CUB.12_1,Mayabeque,Province,2.0
+CUB.11_1,CUB,Cuba,CUB.11_1,Matanzas,Province,2.0
+CUB.16_1,CUB,Cuba,CUB.16_1,Villa Clara,Province,2.3333333333333335
+BHS.10_1,BHS,Bahamas,BHS.10_1,Crooked Island,District,0.0
+SDN.11_1,SDN,Sudan,SDN.11_1,Red Sea,State,1.0
+OMN.7_1,OMN,Oman,OMN.7_1,Ash Sharqiyah North,Region,1.0
+OMN.8_1,OMN,Oman,OMN.8_1,Ash Sharqiyah South,Region,1.0
+BGD.1_1,BGD,Bangladesh,BGD.1_1,Barisal,Division,2.0
+VNM.38_1,VNM,Vietnam,VNM.38_1,Lào Cai,Province,2.0
+VNM.14_1,VNM,Vietnam,VNM.14_1,Cao Bằng,Province,2.0
+MEX.14_1,MEX,Mexico,MEX.14_1,Jalisco,State,2.0
+MEX.1_1,MEX,Mexico,MEX.1_1,Aguascalientes,State,2.0
+MEX.30_1,MEX,Mexico,MEX.30_1,Veracruz,State,2.0833333333333335
+CUB.3_1,CUB,Cuba,CUB.3_1,Cienfuegos,Province,2.0
+CUB.14_1,CUB,Cuba,CUB.14_1,Sancti Spíritus,Province,2.0
+CUB.2_1,CUB,Cuba,CUB.2_1,Ciego de Ávila,Province,2.0
+MRT.7_1,MRT,Mauritania,MRT.7_1,Hodh ech Chargui,Region,1.0
+IND.26_1,IND,India,IND.26_1,Odisha,State,2.0
+MMR.8_1,MMR,Myanmar,MMR.8_1,Mandalay,Division,2.0
+LAO.10_1,LAO,Laos,LAO.10_1,Phôngsali,Province,2.0
+VNM.20_1,VNM,Vietnam,VNM.20_1,Điện Biên,Province,2.0
+VNM.36_1,VNM,Vietnam,VNM.36_1,Lai Châu,Province,2.0
+VNM.60_1,VNM,Vietnam,VNM.60_1,Tuyên Quang,Province,2.0
+VNM.4_1,VNM,Vietnam,VNM.4_1,Bắc Kạn,Province,2.0
+VNM.35_1,VNM,Vietnam,VNM.35_1,Lạng Sơn,Province,2.0
+HKG.2_1,HKG,Hong Kong,HKG.2_1,Eastern,District,0.0
+MEX.11_1,MEX,Mexico,MEX.11_1,Guanajuato,State,2.1666666666666665
+CUB.8_1,CUB,Cuba,CUB.8_1,Isla de la Juventud,Province,3.0
+CUB.1_1,CUB,Cuba,CUB.1_1,Camagüey,Province,1.8
+TCA.2_1,TCA,Turks and Caicos Islands,TCA.2_1,Middle Caicos,District,0.0
+TCD.3_1,TCD,Chad,TCD.3_1,Borkou,Region,1.0
+SDN.10_1,SDN,Sudan,SDN.10_1,Northern,State,1.0
+SDN.12_1,SDN,Sudan,SDN.12_1,River Nile,State,1.0
+OMN.6_1,OMN,Oman,OMN.6_1,Al Wusta,Region,1.0
+IND.20_1,IND,India,IND.20_1,Maharashtra,State,1.9805825242718447
+MMR.7_1,MMR,Myanmar,MMR.7_1,Magway,Division,2.0
+VNM.52_1,VNM,Vietnam,VNM.52_1,Sơn La,Province,2.0
+VNM.63_1,VNM,Vietnam,VNM.63_1,Yên Bái,Province,2.0
+VNM.56_1,VNM,Vietnam,VNM.56_1,Thái Nguyên,Province,2.0
+MEX.22_1,MEX,Mexico,MEX.22_1,Querétaro,State,2.0
+MEX.13_1,MEX,Mexico,MEX.13_1,Hidalgo,State,2.125
+MEX.31_1,MEX,Mexico,MEX.31_1,Yucatán,State,2.0
+MEX.23_1,MEX,Mexico,MEX.23_1,Quintana Roo,State,2.0
+CUB.10_1,CUB,Cuba,CUB.10_1,Las Tunas,Province,2.25
+MRT.4_1,MRT,Mauritania,MRT.4_1,Dakhlet Nouadhibou,Region,1.0
+MLI.4_1,MLI,Mali,MLI.4_1,Kidal,Region,1.0
+MMR.11_1,MMR,Myanmar,MMR.11_1,Rakhine,State,2.0
+LAO.7_1,LAO,Laos,LAO.7_1,Louang Namtha,Province,2.0
+VNM.44_1,VNM,Vietnam,VNM.44_1,Phú Thọ,Province,2.0
+VNM.27_1,VNM,Vietnam,VNM.27_1,Hà Nội,City,2.0
+VNM.3_1,VNM,Vietnam,VNM.3_1,Bắc Giang,Province,2.0
+VNM.49_1,VNM,Vietnam,VNM.49_1,Quảng Ninh,Province,2.0
+USA.12_1,USA,United States,USA.12_1,Hawaii,State,2.0
+MEX.21_1,MEX,Mexico,MEX.21_1,Puebla,State,2.0833333333333335
+CUB.7_1,CUB,Cuba,CUB.7_1,Holguín,Province,2.0
+MRT.9_1,MRT,Mauritania,MRT.9_1,Inchiri,Region,1.0
+TCD.6_1,TCD,Chad,TCD.6_1,Ennedi Ouest,Region,1.0
+SAU.1_1,SAU,Saudi Arabia,SAU.1_1,`Asir,Region,1.0
+OMN.9_1,OMN,Oman,OMN.9_1,Dhofar,Province,0.9555555555555556
+LAO.9_1,LAO,Laos,LAO.9_1,Oudômxai,Province,2.0
+LAO.8_1,LAO,Laos,LAO.8_1,Louangphrabang,Province,2.0
+LAO.5_1,LAO,Laos,LAO.5_1,Houaphan,Province,2.0
+VNM.30_1,VNM,Vietnam,VNM.30_1,Hoà Bình,Province,2.0
+VNM.22_1,VNM,Vietnam,VNM.22_1,Hải Dương,Province,2.0
+VNM.23_1,VNM,Vietnam,VNM.23_1,Hải Phòng,City,2.0
+MEX.16_1,MEX,Mexico,MEX.16_1,Michoacán,State,2.0
+MEX.4_1,MEX,Mexico,MEX.4_1,Campeche,State,2.0
+CUB.5_1,CUB,Cuba,CUB.5_1,Granma,Province,2.0
+CUB.15_1,CUB,Cuba,CUB.15_1,Santiago de Cuba,Province,2.0
+CUB.6_1,CUB,Cuba,CUB.6_1,Guantánamo,Province,1.3333333333333333
+SAU.2_1,SAU,Saudi Arabia,SAU.2_1,Al Bahah,Region,1.0
+THA.11_1,THA,Thailand,THA.11_1,Chiang Rai,Province,2.0
+LAO.2_1,LAO,Laos,LAO.2_1,Bokeo,Province,2.0
+VNM.57_1,VNM,Vietnam,VNM.57_1,Thanh Hóa,Province,2.0
+VNM.42_1,VNM,Vietnam,VNM.42_1,Ninh Bình,Province,2.0
+VNM.40_1,VNM,Vietnam,VNM.40_1,Nam Định,Province,2.0
+MEX.15_1,MEX,Mexico,MEX.15_1,México,State,2.0
+CYM.2_1,CYM,Cayman Islands,CYM.2_1,Cayman Brac,District,0.0
+HTI.6_1,HTI,Haiti,HTI.6_1,Nord-Ouest,Department,3.0
+HTI.3_1,HTI,Haiti,HTI.3_1,L'Artibonite,Department,2.0
+HTI.7_1,HTI,Haiti,HTI.7_1,Nord,Department,2.0
+DOM.17_1,DOM,Dominican Republic,DOM.17_1,Monte Cristi,Province,3.0
+DOM.21_1,DOM,Dominican Republic,DOM.21_1,Puerto Plata,Province,3.0
+TCD.5_1,TCD,Chad,TCD.5_1,Ennedi Est,Region,1.0
+SDN.8_1,SDN,Sudan,SDN.8_1,North Darfur,State,1.0761904761904761
+IND.32_1,IND,India,IND.32_1,Telangana,State,2.0
+MMR.5_1,MMR,Myanmar,MMR.5_1,Kayah,State,2.0
+THA.10_1,THA,Thailand,THA.10_1,Chiang Mai,Province,2.0
+LAO.15_1,LAO,Laos,LAO.15_1,Xaignabouri,Province,2.0
+LAO.18_1,LAO,Laos,LAO.18_1,Xiangkhoang,Province,2.0
+VNM.41_1,VNM,Vietnam,VNM.41_1,Nghệ An,Province,2.0
+CHN.9_1,CHN,China,CHN.9_1,Hainan,Province,2.0
+MEX.8_1,MEX,Mexico,MEX.8_1,Colima,State,2.0
+MEX.9_1,MEX,Mexico,MEX.9_1,Distrito Federal,Federal District,2.0
+MEX.29_1,MEX,Mexico,MEX.29_1,Tlaxcala,State,2.0
+HTI.1_1,HTI,Haiti,HTI.1_1,Centre,Department,2.0
+DOM.29_1,DOM,Dominican Republic,DOM.29_1,Santiago Rodríguez,Province,2.0
+DOM.30_1,DOM,Dominican Republic,DOM.30_1,Santiago,Province,3.0
+DOM.6_1,DOM,Dominican Republic,DOM.6_1,Duarte,Province,2.0
+DOM.15_1,DOM,Dominican Republic,DOM.15_1,María Trinidad Sánchez,Province,2.0
+DOM.23_1,DOM,Dominican Republic,DOM.23_1,Samaná,Province,0.0
+MRT.11_1,MRT,Mauritania,MRT.11_1,Tagant,Region,1.0
+SAU.12_1,SAU,Saudi Arabia,SAU.12_1,Najran,Region,1.0
+MMR.2_1,MMR,Myanmar,MMR.2_1,Bago,Division,2.0
+MMR.6_1,MMR,Myanmar,MMR.6_1,Kayin,State,2.0
+THA.23_1,THA,Thailand,THA.23_1,Mae Hong Son,Province,2.0
+THA.41_1,THA,Thailand,THA.41_1,Phayao,Province,2.0
+THA.32_1,THA,Thailand,THA.32_1,Nan,Province,2.0
+LAO.14_1,LAO,Laos,LAO.14_1,Vientiane,Province,2.0
+LAO.16_1,LAO,Laos,LAO.16_1,Xaisômboun,Special Region|Zone,2.0
+MEX.12_1,MEX,Mexico,MEX.12_1,Guerrero,State,2.0
+MEX.17_1,MEX,Mexico,MEX.17_1,Morelos,State,2.0
+HTI.8_1,HTI,Haiti,HTI.8_1,Ouest,Department,2.0
+DOM.26_1,DOM,Dominican Republic,DOM.26_1,San Juan,Province,2.0
+DOM.1_1,DOM,Dominican Republic,DOM.1_1,Azua,Province,2.0
+DOM.24_1,DOM,Dominican Republic,DOM.24_1,San Cristóbal,Province,2.0
+DOM.18_1,DOM,Dominican Republic,DOM.18_1,Monte Plata,Province,2.0
+DOM.9_1,DOM,Dominican Republic,DOM.9_1,Hato Mayor,Province,2.0
+DOM.11_1,DOM,Dominican Republic,DOM.11_1,La Altagracia,Province,2.5
+MRT.13_1,MRT,Mauritania,MRT.13_1,Trarza,Region,1.0
+MLI.2_1,MLI,Mali,MLI.2_1,Gao,Region,1.0
+YEM.12_1,YEM,Yemen,YEM.12_1,Hadramawt,Governorate,1.0
+IND.2_1,IND,India,IND.2_1,Andhra Pradesh,State,2.339622641509434
+THA.19_1,THA,Thailand,THA.19_1,Lampang,Province,2.0
+THA.47_1,THA,Thailand,THA.47_1,Phrae,Province,2.0
+LAO.3_1,LAO,Laos,LAO.3_1,Bolikhamxai,Province,2.0
+VNM.29_1,VNM,Vietnam,VNM.29_1,Hà Tĩnh,Province,2.0
+MEX.20_1,MEX,Mexico,MEX.20_1,Oaxaca,State,2.0
+MEX.27_1,MEX,Mexico,MEX.27_1,Tabasco,State,2.0
+BLZ.3_1,BLZ,Belize,BLZ.3_1,Corozal,District,2.0
+JAM.14_1,JAM,Jamaica,JAM.14_1,Westmoreland,Parish,0.0
+JAM.13_1,JAM,Jamaica,JAM.13_1,Trelawny,Parish,2.0
+JAM.7_1,JAM,Jamaica,JAM.7_1,Saint Ann,Parish,2.0
+JAM.11_1,JAM,Jamaica,JAM.11_1,Saint Mary,Parish,2.0
+HTI.10_1,HTI,Haiti,HTI.10_1,Sud,Department,2.0
+HTI.9_1,HTI,Haiti,HTI.9_1,Sud-Est,Department,2.0
+DOM.3_1,DOM,Dominican Republic,DOM.3_1,Barahona,Province,2.0
+DOM.20_1,DOM,Dominican Republic,DOM.20_1,Peravia,Province,3.0
+PRI.72_1,PRI,Puerto Rico,PRI.72_1,Utuado,Municipality,2.0
+PRI.54_1,PRI,Puerto Rico,PRI.54_1,Naranjito,Municipality,2.0
+PRI.53_1,PRI,Puerto Rico,PRI.53_1,Naguabo,Municipality,2.0
+MRT.3_1,MRT,Mauritania,MRT.3_1,Brakna,Region,1.0
+NER.6_1,NER,Niger,NER.6_1,Tahoua,Department,1.162162162162162
+SAU.10_1,SAU,Saudi Arabia,SAU.10_1,Jizan,Region,1.0
+YEM.7_1,YEM,Yemen,YEM.7_1,Al Mahrah,Governorate,1.0
+IND.16_1,IND,India,IND.16_1,Karnataka,State,2.303030303030303
+MMR.1_1,MMR,Myanmar,MMR.1_1,Ayeyarwady,Division,2.0
+LAO.13_1,LAO,Laos,LAO.13_1,Vientiane [prefecture],Municipality|Prefecture,2.0
+THA.35_1,THA,Thailand,THA.35_1,Nong Khai,Province,2.0
+THA.4_1,THA,Thailand,THA.4_1,Bueng Kan,Province,2.0
+PHL.34_1,PHL,Philippines,PHL.34_1,Ilocos Norte,Province,2.0
+PHL.7_1,PHL,Philippines,PHL.7_1,Apayao,Province,2.0
+PHL.18_1,PHL,Philippines,PHL.18_1,Cagayan,Province,2.0
+MEX.5_1,MEX,Mexico,MEX.5_1,Chiapas,State,2.0
+GTM.12_1,GTM,Guatemala,GTM.12_1,Petén,Department,2.0
+BLZ.4_1,BLZ,Belize,BLZ.4_1,Orange Walk,District,2.0
+BLZ.1_1,BLZ,Belize,BLZ.1_1,Belize,District,2.0
+JAM.1_1,JAM,Jamaica,JAM.1_1,Clarendon,Parish,0.0
+VIR.1_1,VIR,"Virgin Islands, U.S.",VIR.1_1,Saint Croix,District,0.0
+MRT.2_1,MRT,Mauritania,MRT.2_1,Assaba,Region,1.3636363636363635
+NER.2_1,NER,Niger,NER.2_1,Diffa,Department,1.0
+THA.20_1,THA,Thailand,THA.20_1,Lamphun,Province,2.0
+THA.75_1,THA,Thailand,THA.75_1,Uttaradit,Province,2.0
+THA.21_1,THA,Thailand,THA.21_1,Loei,Province,2.0
+THA.73_1,THA,Thailand,THA.73_1,Udon Thani,Province,2.0
+THA.56_1,THA,Thailand,THA.56_1,Sakon Nakhon,Province,2.0
+THA.28_1,THA,Thailand,THA.28_1,Nakhon Phanom,Province,2.0
+LAO.6_1,LAO,Laos,LAO.6_1,Khammouan,Province,2.0
+VNM.46_1,VNM,Vietnam,VNM.46_1,Quảng Bình,Province,2.0
+PHL.1_1,PHL,Philippines,PHL.1_1,Abra,Province,2.0
+BLZ.2_1,BLZ,Belize,BLZ.2_1,Cayo,District,2.0
+MRT.8_1,MRT,Mauritania,MRT.8_1,Hodh el Gharbi,Region,1.1176470588235294
+NER.8_1,NER,Niger,NER.8_1,Zinder,Department,1.1063829787234043
+ERI.6_1,ERI,Eritrea,ERI.6_1,Semenawi Keyih Bahri,Region,1.0
+ERI.2_1,ERI,Eritrea,ERI.2_1,Debub,Region,1.0
+YEM.18_1,YEM,Yemen,YEM.18_1,Sa`dah,Governorate,1.0
+YEM.6_1,YEM,Yemen,YEM.6_1,Al Jawf,Governorate,1.0
+MMR.15_1,MMR,Myanmar,MMR.15_1,Yangon,Division,2.0
+MMR.9_1,MMR,Myanmar,MMR.9_1,Mon,State,2.0
+THA.69_1,THA,Thailand,THA.69_1,Tak,Province,2.0
+THA.65_1,THA,Thailand,THA.65_1,Sukhothai,Province,2.0
+THA.45_1,THA,Thailand,THA.45_1,Phitsanulok,Province,2.0
+THA.34_1,THA,Thailand,THA.34_1,Nong Bua Lam Phu,Province,2.0
+PHL.38_1,PHL,Philippines,PHL.38_1,Kalinga,Province,2.0
+PHL.37_1,PHL,Philippines,PHL.37_1,Isabela,Province,2.0
+SDN.6_1,SDN,Sudan,SDN.6_1,Kassala,State,1.0
+THA.42_1,THA,Thailand,THA.42_1,Phetchabun,Province,2.0
+THA.17_1,THA,Thailand,THA.17_1,Khon Kaen,Province,2.0
+THA.14_1,THA,Thailand,THA.14_1,Kalasin,Province,2.0
+THA.25_1,THA,Thailand,THA.25_1,Mukdahan,Province,2.0
+LAO.12_1,LAO,Laos,LAO.12_1,Savannakhét,Province,2.0
+VNM.50_1,VNM,Vietnam,VNM.50_1,Quảng Trị,Province,2.5
+PHL.13_1,PHL,Philippines,PHL.13_1,Benguet,Province,2.0
+PHL.33_1,PHL,Philippines,PHL.33_1,Ifugao,Province,2.0
+BLZ.6_1,BLZ,Belize,BLZ.6_1,Toledo,District,2.0
+GLP.1_1,GLP,Guadeloupe,GLP.1_1,Basse-Terre,District,0.0
+SEN.10_1,SEN,Senegal,SEN.10_1,Saint-Louis,Region,1.1666666666666667
+MRT.5_1,MRT,Mauritania,MRT.5_1,Gorgol,Region,1.6
+TCD.9_1,TCD,Chad,TCD.9_1,Kanem,Region,1.0434782608695652
+SDN.9_1,SDN,Sudan,SDN.9_1,North Kurdufan,State,1.0634920634920635
+SDN.7_1,SDN,Sudan,SDN.7_1,Khartoum,State,1.0
+YEM.13_1,YEM,Yemen,YEM.13_1,Hajjah,Governorate,1.0
+YEM.10_1,YEM,Yemen,YEM.10_1,Amran,Governorate,1.0
+THA.15_1,THA,Thailand,THA.15_1,Kamphaeng Phet,Province,2.0
+THA.44_1,THA,Thailand,THA.44_1,Phichit,Province,2.0
+THA.8_1,THA,Thailand,THA.8_1,Chaiyaphum,Province,2.0
+THA.24_1,THA,Thailand,THA.24_1,Maha Sarakham,Province,2.0
+THA.54_1,THA,Thailand,THA.54_1,Roi Et,Province,2.0
+LAO.11_1,LAO,Laos,LAO.11_1,Saravan,Province,2.0
+VNM.54_1,VNM,Vietnam,VNM.54_1,Thừa Thiên Huế,Province,2.0
+PHL.56_1,PHL,Philippines,PHL.56_1,Nueva Vizcaya,Province,2.0
+PHL.63_1,PHL,Philippines,PHL.63_1,Quirino,Province,2.0
+GTM.8_1,GTM,Guatemala,GTM.8_1,Huehuetenango,Department,2.0
+GTM.1_1,GTM,Guatemala,GTM.1_1,Alta Verapaz,Department,2.0
+GTM.9_1,GTM,Guatemala,GTM.9_1,Izabal,Department,2.0
+HND.1_1,HND,Honduras,HND.1_1,Atlántida,Department,2.0
+HND.3_1,HND,Honduras,HND.3_1,Colón,Department,2.0
+HND.9_1,HND,Honduras,HND.9_1,Gracias a Dios,Department,2.0
+SEN.8_1,SEN,Senegal,SEN.8_1,Louga,Region,2.0
+SEN.9_1,SEN,Senegal,SEN.9_1,Matam,Region,2.0
+MRT.6_1,MRT,Mauritania,MRT.6_1,Guidimaka,Region,2.0
+MLI.6_1,MLI,Mali,MLI.6_1,Mopti,Region,1.6923076923076923
+TCD.1_1,TCD,Chad,TCD.1_1,Barh el Ghazel,Region,1.105263157894737
+TCD.2_1,TCD,Chad,TCD.2_1,Batha,Region,1.5151515151515151
+TCD.23_1,TCD,Chad,TCD.23_1,Wadi Fira,Region,1.1666666666666667
+ERI.4_1,ERI,Eritrea,ERI.4_1,Gash Barka,Region,1.7272727272727273
+ERI.3_1,ERI,Eritrea,ERI.3_1,Debubawi Keyih Bahri,Region,0.8888888888888888
+YEM.5_1,YEM,Yemen,YEM.5_1,Al Hudaydah,Governorate,0.8333333333333334
+YEM.19_1,YEM,Yemen,YEM.19_1,San`a',City,1.0
+YEM.16_1,YEM,Yemen,YEM.16_1,Ma'rib,Governorate,1.0
+THA.30_1,THA,Thailand,THA.30_1,Nakhon Sawan,Province,2.0
+THA.77_1,THA,Thailand,THA.77_1,Yasothon,Province,2.0
+THA.1_1,THA,Thailand,THA.1_1,Amnat Charoen,Province,2.0
+THA.72_1,THA,Thailand,THA.72_1,Ubon Ratchathani,Province,2.0
+LAO.17_1,LAO,Laos,LAO.17_1,Xékong,Province,2.0
+VNM.47_1,VNM,Vietnam,VNM.47_1,Quảng Nam,Province,2.0
+PHL.61_1,PHL,Philippines,PHL.61_1,Pangasinan,Province,2.0
+PHL.55_1,PHL,Philippines,PHL.55_1,Nueva Ecija,Province,2.0
+GTM.17_1,GTM,Guatemala,GTM.17_1,San Marcos,Department,2.0
+GTM.14_1,GTM,Guatemala,GTM.14_1,Quiché,Department,2.0
+GTM.2_1,GTM,Guatemala,GTM.2_1,Baja Verapaz,Department,2.0
+GTM.22_1,GTM,Guatemala,GTM.22_1,Zacapa,Department,2.0
+HND.5_1,HND,Honduras,HND.5_1,Copán,Department,2.0
+HND.16_1,HND,Honduras,HND.16_1,Santa Bárbara,Department,2.0
+HND.18_1,HND,Honduras,HND.18_1,Yoro,Department,2.0
+HND.15_1,HND,Honduras,HND.15_1,Olancho,Department,2.0
+SEN.13_1,SEN,Senegal,SEN.13_1,Thiès,Region,2.0
+MLI.3_1,MLI,Mali,MLI.3_1,Kayes,Region,2.0
+MLI.5_1,MLI,Mali,MLI.5_1,Koulikoro,Region,2.0
+MLI.7_1,MLI,Mali,MLI.7_1,Ségou,Region,1.9565217391304348
+NER.7_1,NER,Niger,NER.7_1,Tillabéry,Department,1.5806451612903225
+NER.4_1,NER,Niger,NER.4_1,Maradi,Department,1.7333333333333334
+SDN.1_1,SDN,Sudan,SDN.1_1,Al Jazirah,State,1.0
+SDN.2_1,SDN,Sudan,SDN.2_1,Al Qadarif,State,1.85
+ERI.1_1,ERI,Eritrea,ERI.1_1,Anseba,Region,2.0
+YEM.20_1,YEM,Yemen,YEM.20_1,Shabwah,Governorate,1.0
+IND.10_1,IND,India,IND.10_1,Goa,State,2.0
+THA.16_1,THA,Thailand,THA.16_1,Kanchanaburi,Province,2.0
+THA.74_1,THA,Thailand,THA.74_1,Uthai Thani,Province,2.0
+THA.7_1,THA,Thailand,THA.7_1,Chai Nat,Province,2.0
+THA.22_1,THA,Thailand,THA.22_1,Lop Buri,Province,2.0
+THA.29_1,THA,Thailand,THA.29_1,Nakhon Ratchasima,Province,2.0
+THA.5_1,THA,Thailand,THA.5_1,Buri Ram,Province,2.0
+THA.68_1,THA,Thailand,THA.68_1,Surin,Province,2.0
+THA.62_1,THA,Thailand,THA.62_1,Si Sa Ket,Province,2.0
+LAO.4_1,LAO,Laos,LAO.4_1,Champasak,Province,2.0
+VNM.48_1,VNM,Vietnam,VNM.48_1,Quảng Ngãi,Province,2.0
+PHL.78_1,PHL,Philippines,PHL.78_1,Zambales,Province,2.0
+PHL.60_1,PHL,Philippines,PHL.60_1,Pampanga,Province,2.0
+GTM.13_1,GTM,Guatemala,GTM.13_1,Quezaltenango,Department,2.0
+GTM.19_1,GTM,Guatemala,GTM.19_1,Sololá,Department,2.0
+GTM.3_1,GTM,Guatemala,GTM.3_1,Chimaltenango,Department,2.0
+GTM.5_1,GTM,Guatemala,GTM.5_1,El Progreso,Department,2.0
+GTM.4_1,GTM,Guatemala,GTM.4_1,Chiquimula,Department,2.0
+HND.4_1,HND,Honduras,HND.4_1,Comayagua,Department,2.0
+HND.8_1,HND,Honduras,HND.8_1,Francisco Morazán,Department,2.0
+NIC.1_1,NIC,Nicaragua,NIC.1_1,Atlántico Norte,Autonomous Region,2.0
+SEN.1_1,SEN,Senegal,SEN.1_1,Dakar,Region,2.0
+SEN.2_1,SEN,Senegal,SEN.2_1,Diourbel,Region,2.0
+SEN.12_1,SEN,Senegal,SEN.12_1,Tambacounda,Region,2.0
+BFA.12_1,BFA,Burkina Faso,BFA.12_1,Sahel,Region,1.9
+SDN.16_1,SDN,Sudan,SDN.16_1,West Darfur,State,1.8571428571428572
+SDN.18_1,SDN,Sudan,SDN.18_1,White Nile,State,1.25
+ERI.5_1,ERI,Eritrea,ERI.5_1,Maekel,Region,2.0
+YEM.17_1,YEM,Yemen,YEM.17_1,Raymah,Governorate,1.0
+YEM.11_1,YEM,Yemen,YEM.11_1,Dhamar,Governorate,1.0
+MMR.14_1,MMR,Myanmar,MMR.14_1,Tanintharyi,Division,1.6
+THA.66_1,THA,Thailand,THA.66_1,Suphan Buri,Province,2.0
+THA.2_1,THA,Thailand,THA.2_1,Ang Thong,Province,2.0
+THA.60_1,THA,Thailand,THA.60_1,Saraburi,Province,2.0
+LAO.1_1,LAO,Laos,LAO.1_1,Attapu,Province,2.0
+VNM.34_1,VNM,Vietnam,VNM.34_1,Kon Tum,Province,2.0
+PHL.10_1,PHL,Philippines,PHL.10_1,Bataan,Province,2.0
+PHL.64_1,PHL,Philippines,PHL.64_1,Rizal,Province,2.0
+PHL.62_1,PHL,Philippines,PHL.62_1,Quezon,Province,1.3333333333333333
+GTM.15_1,GTM,Guatemala,GTM.15_1,Retalhuleu,Department,2.0
+GTM.6_1,GTM,Guatemala,GTM.6_1,Escuintla,Department,2.0
+GTM.18_1,GTM,Guatemala,GTM.18_1,Santa Rosa,Department,2.0
+GTM.11_1,GTM,Guatemala,GTM.11_1,Jutiapa,Department,2.0
+SLV.3_1,SLV,El Salvador,SLV.3_1,Chalatenango,Department,2.0
+HND.13_1,HND,Honduras,HND.13_1,Lempira,Department,2.0
+HND.10_1,HND,Honduras,HND.10_1,Intibucá,Department,2.0
+HND.12_1,HND,Honduras,HND.12_1,La Paz,Department,2.0
+HND.7_1,HND,Honduras,HND.7_1,El Paraíso,Department,2.0
+NIC.9_1,NIC,Nicaragua,NIC.9_1,Jinotega,Department,2.0
+SEN.5_1,SEN,Senegal,SEN.5_1,Kaolack,Region,2.0
+SEN.4_1,SEN,Senegal,SEN.4_1,Kaffrine,Region,2.0
+NER.3_1,NER,Niger,NER.3_1,Dosso,Department,2.0
+TCD.10_1,TCD,Chad,TCD.10_1,Lac,Region,0.5
+TCD.17_1,TCD,Chad,TCD.17_1,Ouaddaï,Region,1.7777777777777777
+ETH.11_1,ETH,Ethiopia,ETH.11_1,Tigray,State,2.0
+ETH.2_1,ETH,Ethiopia,ETH.2_1,Afar,State,1.3448275862068966
+YEM.14_1,YEM,Yemen,YEM.14_1,Ibb,Governorate,1.0
+YEM.3_1,YEM,Yemen,YEM.3_1,Al Bayda',Governorate,1.0
+YEM.2_1,YEM,Yemen,YEM.2_1,Abyan,Governorate,1.0
+THA.46_1,THA,Thailand,THA.46_1,Phra Nakhon Si Ayutthaya,Province,2.0
+THA.26_1,THA,Thailand,THA.26_1,Nakhon Nayok,Province,2.0
+THA.49_1,THA,Thailand,THA.49_1,Prachin Buri,Province,2.0
+KHM.15_1,KHM,Cambodia,KHM.15_1,Otdar Mean Chey,Province,2.0
+KHM.18_1,KHM,Cambodia,KHM.18_1,Preah Vihéar,Province,2.0
+KHM.22_1,KHM,Cambodia,KHM.22_1,Stœng Trêng,Province,2.0
+KHM.20_1,KHM,Cambodia,KHM.20_1,Rôtânôkiri,Province,2.0
+VNM.21_1,VNM,Vietnam,VNM.21_1,Gia Lai,Province,2.0
+VNM.8_1,VNM,Vietnam,VNM.8_1,Bình Định,Province,2.0
+PHL.24_1,PHL,Philippines,PHL.24_1,Cavite,Province,2.0
+PHL.40_1,PHL,Philippines,PHL.40_1,Laguna,Province,2.0
+PHL.19_1,PHL,Philippines,PHL.19_1,Camarines Norte,Province,2.0
+SLV.13_1,SLV,El Salvador,SLV.13_1,Sonsonate,Department,2.0
+SLV.10_1,SLV,El Salvador,SLV.10_1,San Salvador,Department,2.0
+SLV.11_1,SLV,El Salvador,SLV.11_1,San Vicente,Department,2.0
+SLV.9_1,SLV,El Salvador,SLV.9_1,San Miguel,Department,2.0
+SLV.7_1,SLV,El Salvador,SLV.7_1,La Unión,Department,2.0
+NIC.16_1,NIC,Nicaragua,NIC.16_1,Nueva Segovia,Department,2.0
+SEN.3_1,SEN,Senegal,SEN.3_1,Fatick,Region,2.0
+GMB.3_1,GMB,Gambia,GMB.3_1,Maccarthy Island,Division,2.0
+BFA.10_1,BFA,Burkina Faso,BFA.10_1,Nord,Region,2.0
+BFA.4_1,BFA,Burkina Faso,BFA.4_1,Centre-Nord,Region,2.0
+NGA.34_1,NGA,Nigeria,NGA.34_1,Sokoto,State,2.0
+SDN.17_1,SDN,Sudan,SDN.17_1,West Kurdufan,State,1.8421052631578947
+SDN.13_1,SDN,Sudan,SDN.13_1,Sennar,State,1.9230769230769231
+YEM.21_1,YEM,Yemen,YEM.21_1,Ta`izz,Governorate,1.0
+YEM.4_1,YEM,Yemen,YEM.4_1,Al Dali',Governorate,1.0
+THA.52_1,THA,Thailand,THA.52_1,Ratchaburi,Province,2.0
+THA.27_1,THA,Thailand,THA.27_1,Nakhon Pathom,Province,2.0
+THA.3_1,THA,Thailand,THA.3_1,Bangkok Metropolis,Province,2.0
+THA.6_1,THA,Thailand,THA.6_1,Chachoengsao,Province,2.0
+THA.55_1,THA,Thailand,THA.55_1,Sa Kaeo,Province,2.0
+KHM.1_1,KHM,Cambodia,KHM.1_1,Bântéay Méanchey,Province,2.0
+KHM.21_1,KHM,Cambodia,KHM.21_1,Siemréab,Province,2.0
+PHL.57_1,PHL,Philippines,PHL.57_1,Occidental Mindoro,Province,1.0
+PHL.12_1,PHL,Philippines,PHL.12_1,Batangas,Province,2.0
+PHL.20_1,PHL,Philippines,PHL.20_1,Camarines Sur,Province,2.0
+PHL.23_1,PHL,Philippines,PHL.23_1,Catanduanes,Province,2.0
+SLV.14_1,SLV,El Salvador,SLV.14_1,Usulután,Department,2.0
+HND.2_1,HND,Honduras,HND.2_1,Choluteca,Department,2.0
+NIC.5_1,NIC,Nicaragua,NIC.5_1,Chinandega,Department,2.0
+NIC.7_1,NIC,Nicaragua,NIC.7_1,Estelí,Department,2.0
+NIC.2_1,NIC,Nicaragua,NIC.2_1,Atlántico Sur,Autonomous Region,2.0
+VCT.6_1,VCT,Saint Vincent and the Grenadines,VCT.6_1,Saint Patrick,Parish,0.0
+GMB.6_1,GMB,Gambia,GMB.6_1,Western,Division,2.0
+SEN.11_1,SEN,Senegal,SEN.11_1,Sédhiou,Region,2.0
+SEN.7_1,SEN,Senegal,SEN.7_1,Kolda,Region,2.0
+GMB.5_1,GMB,Gambia,GMB.5_1,Upper River,Division,2.0
+SEN.6_1,SEN,Senegal,SEN.6_1,Kédougou,Region,2.0
+BFA.1_1,BFA,Burkina Faso,BFA.1_1,Boucle du Mouhoun,Region,2.0
+BFA.8_1,BFA,Burkina Faso,BFA.8_1,Est,Region,2.0
+NGA.21_1,NGA,Nigeria,NGA.21_1,Katsina,State,2.0
+NGA.36_1,NGA,Nigeria,NGA.36_1,Yobe,State,1.8125
+NGA.8_1,NGA,Nigeria,NGA.8_1,Borno,State,1.826086956521739
+SDN.4_1,SDN,Sudan,SDN.4_1,Central Darfur,State,2.0
+ETH.3_1,ETH,Ethiopia,ETH.3_1,Amhara,State,2.207547169811321
+YEM.15_1,YEM,Yemen,YEM.15_1,Lahij,Governorate,1.0
+IND.31_1,IND,India,IND.31_1,Tamil Nadu,State,2.3333333333333335
+THA.43_1,THA,Thailand,THA.43_1,Phetchaburi,Province,2.0
+THA.12_1,THA,Thailand,THA.12_1,Chon Buri,Province,2.0
+THA.9_1,THA,Thailand,THA.9_1,Chanthaburi,Province,2.0
+KHM.2_1,KHM,Cambodia,KHM.2_1,Batdâmbâng,Province,2.0
+KHM.6_1,KHM,Cambodia,KHM.6_1,Kâmpóng Thum,Province,2.0
+KHM.11_1,KHM,Cambodia,KHM.11_1,Krâchéh,Province,2.0
+KHM.14_1,KHM,Cambodia,KHM.14_1,Môndól Kiri,Province,2.0
+VNM.15_1,VNM,Vietnam,VNM.15_1,Đắk Lắk,Province,2.0
+VNM.45_1,VNM,Vietnam,VNM.45_1,Phú Yên,Province,3.0
+PHL.58_1,PHL,Philippines,PHL.58_1,Oriental Mindoro,Province,2.0
+PHL.5_1,PHL,Philippines,PHL.5_1,Albay,Province,2.0
+NIC.11_1,NIC,Nicaragua,NIC.11_1,León,Department,2.0
+NIC.15_1,NIC,Nicaragua,NIC.15_1,Matagalpa,Department,2.0
+SEN.14_1,SEN,Senegal,SEN.14_1,Ziguinchor,Region,2.0
+MLI.8_1,MLI,Mali,MLI.8_1,Sikasso,Region,2.0
+BFA.11_1,BFA,Burkina Faso,BFA.11_1,Plateau-Central,Region,2.0
+NGA.22_1,NGA,Nigeria,NGA.22_1,Kebbi,State,2.0
+NGA.37_1,NGA,Nigeria,NGA.37_1,Zamfara,State,2.0
+NGA.18_1,NGA,Nigeria,NGA.18_1,Jigawa,State,2.0
+CMR.4_1,CMR,Cameroon,CMR.4_1,Extrême-Nord,Region,1.8333333333333333
+TCD.8_1,TCD,Chad,TCD.8_1,Hadjer-Lamis,Region,2.0
+TCD.7_1,TCD,Chad,TCD.7_1,Guéra,Region,2.0
+TCD.19_1,TCD,Chad,TCD.19_1,Sila,Region,2.0
+SDN.14_1,SDN,Sudan,SDN.14_1,South Darfur,State,2.0
+SDN.5_1,SDN,Sudan,SDN.5_1,East Darfur,State,2.0
+IND.1_1,IND,India,IND.1_1,Andaman and Nicobar,Union Territory,0.6666666666666666
+THA.53_1,THA,Thailand,THA.53_1,Rayong,Province,2.0
+KHM.12_1,KHM,Cambodia,KHM.12_1,Krong Pailin,Municipality,2.0
+KHM.17_1,KHM,Cambodia,KHM.17_1,Pouthisat,Province,2.0
+VNM.16_1,VNM,Vietnam,VNM.16_1,Đắk Nông,Province,2.0
+VNM.32_1,VNM,Vietnam,VNM.32_1,Khánh Hòa,Province,2.0
+NIC.13_1,NIC,Nicaragua,NIC.13_1,Managua,Department,2.0
+NIC.3_1,NIC,Nicaragua,NIC.3_1,Boaco,Department,2.0
+NIC.6_1,NIC,Nicaragua,NIC.6_1,Chontales,Department,2.0
+COL.18_1,COL,Colombia,COL.18_1,La Guajira,Department,2.4444444444444446
+GNB.5_1,GNB,Guinea-Bissau,GNB.5_1,Cacheu,Region,2.0
+GNB.7_1,GNB,Guinea-Bissau,GNB.7_1,Oio,Region,2.0
+GNB.1_1,GNB,Guinea-Bissau,GNB.1_1,Bafatá,Region,2.0
+GNB.6_1,GNB,Guinea-Bissau,GNB.6_1,Gabú,Region,2.0
+GIN.1_1,GIN,Guinea,GIN.1_1,Boké,Region,2.0
+GIN.6_1,GIN,Guinea,GIN.6_1,Labé,Region,2.0
+GIN.4_1,GIN,Guinea,GIN.4_1,Kankan,Region,2.0
+BFA.5_1,BFA,Burkina Faso,BFA.5_1,Centre-Ouest,Region,2.0
+BFA.7_1,BFA,Burkina Faso,BFA.7_1,Centre,Region,2.0
+BFA.3_1,BFA,Burkina Faso,BFA.3_1,Centre-Est,Region,2.0
+BEN.1_1,BEN,Benin,BEN.1_1,Alibori,Department,2.0
+NGA.20_1,NGA,Nigeria,NGA.20_1,Kano,State,2.0
+NGA.5_1,NGA,Nigeria,NGA.5_1,Bauchi,State,2.0
+TCD.4_1,TCD,Chad,TCD.4_1,Chari-Baguirmi,Region,2.0
+SDN.15_1,SDN,Sudan,SDN.15_1,South Kurdufan,State,2.0
+SDN.3_1,SDN,Sudan,SDN.3_1,Blue Nile,State,2.0
+DJI.5_1,DJI,Djibouti,DJI.5_1,Tadjourah,Region,1.0
+DJI.4_1,DJI,Djibouti,DJI.4_1,Obock,Region,1.0
+IND.17_1,IND,India,IND.17_1,Kerala,State,2.0
+THA.50_1,THA,Thailand,THA.50_1,Prachuap Khiri Khan,Province,2.0
+KHM.4_1,KHM,Cambodia,KHM.4_1,Kâmpóng Chhnang,Province,2.0
+KHM.3_1,KHM,Cambodia,KHM.3_1,Kâmpóng Cham,Province,2.0
+KHM.25_1,KHM,Cambodia,KHM.25_1,Tbong Khmum,Province,2.0
+PHL.46_1,PHL,Philippines,PHL.46_1,Masbate,Province,0.0
+PHL.66_1,PHL,Philippines,PHL.66_1,Samar,Province,2.0
+PHL.31_1,PHL,Philippines,PHL.31_1,Eastern Samar,Province,2.0
+NIC.4_1,NIC,Nicaragua,NIC.4_1,Carazo,Department,2.0
+NIC.10_1,NIC,Nicaragua,NIC.10_1,Lago Nicaragua,Water body,0.6666666666666666
+NIC.17_1,NIC,Nicaragua,NIC.17_1,Río San Juan,Department,2.0
+GNB.8_1,GNB,Guinea-Bissau,GNB.8_1,Quinara,Region,2.0
+GIN.3_1,GIN,Guinea,GIN.3_1,Faranah,Region,2.0
+BFA.9_1,BFA,Burkina Faso,BFA.9_1,Haut-Bassins,Region,2.0
+BFA.6_1,BFA,Burkina Faso,BFA.6_1,Centre-Sud,Region,2.0
+TCD.18_1,TCD,Chad,TCD.18_1,Salamat,Region,2.0
+SSD.7_1,SSD,South Sudan,SSD.7_1,Upper Nile,State,2.0
+ETH.4_1,ETH,Ethiopia,ETH.4_1,Benshangul-Gumaz,State,2.0
+DJI.2_1,DJI,Djibouti,DJI.2_1,Dikhil,Region,1.0
+SOM.4_1,SOM,Somalia,SOM.4_1,Bari,Region,0.9583333333333334
+KHM.9_1,KHM,Cambodia,KHM.9_1,Kaôh Kong,Province,1.6
+KHM.5_1,KHM,Cambodia,KHM.5_1,Kâmpóng Spœ,Province,2.0
+KHM.8_1,KHM,Cambodia,KHM.8_1,Kândal,Province,2.0
+KHM.19_1,KHM,Cambodia,KHM.19_1,Prey Vêng,Province,2.0
+VNM.10_1,VNM,Vietnam,VNM.10_1,Bình Phước,Province,2.0
+VNM.37_1,VNM,Vietnam,VNM.37_1,Lâm Đồng,Province,2.0
+VNM.43_1,VNM,Vietnam,VNM.43_1,Ninh Thuận,Province,2.0
+PHL.4_1,PHL,Philippines,PHL.4_1,Aklan,Province,2.0
+NIC.18_1,NIC,Nicaragua,NIC.18_1,Rivas,Department,2.0
+COL.19_1,COL,Colombia,COL.19_1,Magdalena,Department,2.0
+VEN.12_1,VEN,Venezuela,VEN.12_1,Falcón,State,2.125
+GNB.4_1,GNB,Guinea-Bissau,GNB.4_1,Bolama,Region,0.0
+GNB.9_1,GNB,Guinea-Bissau,GNB.9_1,Tombali,Region,2.0
+GIN.5_1,GIN,Guinea,GIN.5_1,Kindia,Region,2.0
+BFA.13_1,BFA,Burkina Faso,BFA.13_1,Sud-Ouest,Region,2.0
+BEN.2_1,BEN,Benin,BEN.2_1,Atakora,Department,2.0
+NGA.27_1,NGA,Nigeria,NGA.27_1,Niger,State,2.0
+NGA.19_1,NGA,Nigeria,NGA.19_1,Kaduna,State,2.0
+NGA.16_1,NGA,Nigeria,NGA.16_1,Gombe,State,2.0
+DJI.1_1,DJI,Djibouti,DJI.1_1,Ali Sabieh,Region,1.0
+SOM.1_1,SOM,Somalia,SOM.1_1,Awdal,Region,1.0
+SOM.13_1,SOM,Somalia,SOM.13_1,Sanaag,Region,1.0
+KHM.24_1,KHM,Cambodia,KHM.24_1,Takêv,Province,2.0
+KHM.23_1,KHM,Cambodia,KHM.23_1,Svay Rieng,Province,2.0
+VNM.53_1,VNM,Vietnam,VNM.53_1,Tây Ninh,Province,2.0
+VNM.9_1,VNM,Vietnam,VNM.9_1,Bình Dương,Province,2.0
+VNM.17_1,VNM,Vietnam,VNM.17_1,Đồng Nai,Province,2.0
+VNM.11_1,VNM,Vietnam,VNM.11_1,Bình Thuận,Province,2.0
+PHL.22_1,PHL,Philippines,PHL.22_1,Capiz,Province,2.0
+PHL.25_1,PHL,Philippines,PHL.25_1,Cebu,Province,1.0
+PHL.43_1,PHL,Philippines,PHL.43_1,Leyte,Province,2.0
+CRI.3_1,CRI,Costa Rica,CRI.3_1,Guanacaste,Province,2.0
+CRI.1_1,CRI,Costa Rica,CRI.1_1,Alajuela,Province,2.0
+CRI.4_1,CRI,Costa Rica,CRI.4_1,Heredia,Province,2.0
+COL.4_1,COL,Colombia,COL.4_1,Atlántico,Department,2.5
+VEN.25_1,VEN,Venezuela,VEN.25_1,Zulia,State,2.2666666666666666
+VEN.24_1,VEN,Venezuela,VEN.24_1,Yaracuy,State,2.5
+TTO.15_1,TTO,Trinidad and Tobago,TTO.15_1,Tunapuna/Piarco,Region,2.0
+GIN.7_1,GIN,Guinea,GIN.7_1,Mamou,Region,2.0
+BFA.2_1,BFA,Burkina Faso,BFA.2_1,Cascades,Region,2.0
+GHA.8_1,GHA,Ghana,GHA.8_1,Upper West,Region,2.0
+GHA.7_1,GHA,Ghana,GHA.7_1,Upper East,Region,2.0
+TGO.5_1,TGO,Togo,TGO.5_1,Savanes,Region,2.0
+TCD.14_1,TCD,Chad,TCD.14_1,Mayo-Kebbi Est,Region,2.0
+CAF.17_1,CAF,Central African Republic,CAF.17_1,Vakaga,Prefecture,2.0
+ETH.9_1,ETH,Ethiopia,ETH.9_1,Somali,State,1.7475728155339805
+SOM.18_1,SOM,Somalia,SOM.18_1,Woqooyi Galbeed,Region,1.0
+THA.13_1,THA,Thailand,THA.13_1,Chumphon,Province,2.0
+KHM.13_1,KHM,Cambodia,KHM.13_1,Krong Preah Sihanouk,Municipality,2.0
+KHM.7_1,KHM,Cambodia,KHM.7_1,Kâmpôt,Province,2.0
+VNM.1_1,VNM,Vietnam,VNM.1_1,An Giang,Province,2.0
+VNM.39_1,VNM,Vietnam,VNM.39_1,Long An,Province,2.0
+VNM.25_1,VNM,Vietnam,VNM.25_1,Hồ Chí Minh,City,2.0
+VNM.7_1,VNM,Vietnam,VNM.7_1,Bà Rịa - Vũng Tàu,Province,2.0
+PHL.36_1,PHL,Philippines,PHL.36_1,Iloilo,Province,2.0
+PHL.51_1,PHL,Philippines,PHL.51_1,Negros Occidental,Province,2.0
+CRI.6_1,CRI,Costa Rica,CRI.6_1,Puntarenas,Province,2.0
+CRI.5_1,CRI,Costa Rica,CRI.5_1,Limón,Province,2.0
+COL.5_1,COL,Colombia,COL.5_1,Bolívar,Department,2.0
+COL.11_1,COL,Colombia,COL.11_1,Cesar,Department,2.0
+VEN.14_1,VEN,Venezuela,VEN.14_1,Lara,State,2.5
+VEN.7_1,VEN,Venezuela,VEN.7_1,Carabobo,State,2.0
+VEN.4_1,VEN,Venezuela,VEN.4_1,Aragua,State,2.0
+VEN.16_1,VEN,Venezuela,VEN.16_1,Miranda,State,2.0
+VEN.20_1,VEN,Venezuela,VEN.20_1,Sucre,State,2.0
+TTO.9_1,TTO,Trinidad and Tobago,TTO.9_1,Princes Town,Region,2.0
+CIV.4_1,CIV,Côte d'Ivoire,CIV.4_1,Denguélé,District,2.0
+CIV.10_1,CIV,Côte d'Ivoire,CIV.10_1,Savanes,District,2.0
+GHA.6_1,GHA,Ghana,GHA.6_1,Northern,Region,2.0
+BEN.4_1,BEN,Benin,BEN.4_1,Borgou,Department,2.0
+NGA.2_1,NGA,Nigeria,NGA.2_1,Adamawa,State,2.0
+TCD.16_1,TCD,Chad,TCD.16_1,Moyen-Chari,Region,2.0
+SSD.9_1,SSD,South Sudan,SSD.9_1,West Bahr-al-Ghazal,State,2.0
+ETH.8_1,ETH,Ethiopia,ETH.8_1,Oromia,State,2.4716981132075473
+THA.51_1,THA,Thailand,THA.51_1,Ranong,Province,2.0
+VNM.33_1,VNM,Vietnam,VNM.33_1,Kiên Giang,Province,2.0
+VNM.18_1,VNM,Vietnam,VNM.18_1,Đồng Tháp,Province,2.0
+VNM.6_1,VNM,Vietnam,VNM.6_1,Bến Tre,Province,2.0
+VNM.58_1,VNM,Vietnam,VNM.58_1,Tiền Giang,Province,2.0
+PHL.59_1,PHL,Philippines,PHL.59_1,Palawan,Province,2.0
+PHL.52_1,PHL,Philippines,PHL.52_1,Negros Oriental,Province,2.0
+CRI.7_1,CRI,Costa Rica,CRI.7_1,San José,Province,2.0
+CRI.2_1,CRI,Costa Rica,CRI.2_1,Cartago,Province,2.0
+VEN.22_1,VEN,Venezuela,VEN.22_1,Trujillo,State,2.3333333333333335
+VEN.19_1,VEN,Venezuela,VEN.19_1,Portuguesa,State,2.0
+VEN.8_1,VEN,Venezuela,VEN.8_1,Cojedes,State,2.0
+VEN.13_1,VEN,Venezuela,VEN.13_1,Guárico,State,2.0
+VEN.2_1,VEN,Venezuela,VEN.2_1,Anzoátegui,State,2.0
+VEN.17_1,VEN,Venezuela,VEN.17_1,Monagas,State,2.2222222222222223
+VEN.9_1,VEN,Venezuela,VEN.9_1,Delta Amacuro,State,1.8666666666666667
+SLE.2_1,SLE,Sierra Leone,SLE.2_1,Northern,Province,2.0
+CIV.14_1,CIV,Côte d'Ivoire,CIV.14_1,Zanzan,District,2.0
+TGO.2_1,TGO,Togo,TGO.2_1,Kara,Region,2.0
+BEN.6_1,BEN,Benin,BEN.6_1,Donga,Department,2.0
+NGA.24_1,NGA,Nigeria,NGA.24_1,Kwara,State,2.0
+NGA.32_1,NGA,Nigeria,NGA.32_1,Plateau,State,2.0
+CMR.7_1,CMR,Cameroon,CMR.7_1,Nord,Region,2.0
+TCD.15_1,TCD,Chad,TCD.15_1,Mayo-Kebbi Ouest,Region,2.0
+TCD.20_1,TCD,Chad,TCD.20_1,Tandjilé,Region,2.0
+SSD.5_1,SSD,South Sudan,SSD.5_1,North Bahr-al-Ghazal,State,2.0
+SSD.6_1,SSD,South Sudan,SSD.6_1,Unity,State,2.0
+ETH.5_1,ETH,Ethiopia,ETH.5_1,Dire Dawa,City,3.0
+SOM.17_1,SOM,Somalia,SOM.17_1,Togdheer,Region,1.0
+SOM.16_1,SOM,Somalia,SOM.16_1,Sool,Region,1.0
+LKA.9_1,LKA,Sri Lanka,LKA.9_1,Jaffna,District,0.0
+VNM.24_1,VNM,Vietnam,VNM.24_1,Hậu Giang,Province,2.0
+VNM.59_1,VNM,Vietnam,VNM.59_1,Trà Vinh,Province,2.0
+PHL.15_1,PHL,Philippines,PHL.15_1,Bohol,Province,2.0
+PAN.1_1,PAN,Panama,PAN.1_1,Bocas del Toro,Province,2.0
+PAN.4_1,PAN,Panama,PAN.4_1,Colón,Province,2.0
+PAN.12_1,PAN,Panama,PAN.12_1,Panamá,Province,2.0
+PAN.8_1,PAN,Panama,PAN.8_1,Kuna Yala,Indigenous Territory,2.0
+COL.13_1,COL,Colombia,COL.13_1,Córdoba,Department,2.0
+COL.28_1,COL,Colombia,COL.28_1,Sucre,Department,2.0
+GIN.8_1,GIN,Guinea,GIN.8_1,Nzérékoré,Region,2.0
+CIV.11_1,CIV,Côte d'Ivoire,CIV.11_1,Vallée du Bandama,District,2.0
+NGA.26_1,NGA,Nigeria,NGA.26_1,Nassarawa,State,2.0
+NGA.35_1,NGA,Nigeria,NGA.35_1,Taraba,State,2.0
+TCD.13_1,TCD,Chad,TCD.13_1,Mandoul,Region,2.0
+CAF.1_1,CAF,Central African Republic,CAF.1_1,Bamingui-Bangoran,Prefecture,2.0
+SSD.3_1,SSD,South Sudan,SSD.3_1,Jungoli,State,2.0
+ETH.7_1,ETH,Ethiopia,ETH.7_1,Harari People,State,3.0
+LKA.19_1,LKA,Sri Lanka,LKA.19_1,Mullaitivu,District,2.0
+THA.67_1,THA,Thailand,THA.67_1,Surat Thani,Province,2.0
+VNM.13_1,VNM,Vietnam,VNM.13_1,Cà Mau,Province,2.0
+VNM.2_1,VNM,Vietnam,VNM.2_1,Bạc Liêu,Province,2.0
+PHL.2_1,PHL,Philippines,PHL.2_1,Agusan del Norte,Province,2.0
+PAN.2_1,PAN,Panama,PAN.2_1,Chiriquí,Province,2.0
+PAN.10_1,PAN,Panama,PAN.10_1,Ngöbe Buglé,Indigenous Territory,2.0
+PAN.13_1,PAN,Panama,PAN.13_1,Veraguas,Province,2.0
+PAN.3_1,PAN,Panama,PAN.3_1,Coclé,Province,2.0
+PAN.5_1,PAN,Panama,PAN.5_1,Darién,Province,2.0
+PAN.6_1,PAN,Panama,PAN.6_1,Emberá,Indigenous Territory,2.0
+COL.22_1,COL,Colombia,COL.22_1,Norte de Santander,Department,2.0
+VEN.15_1,VEN,Venezuela,VEN.15_1,Mérida,State,2.25
+VEN.5_1,VEN,Venezuela,VEN.5_1,Barinas,State,2.0
+SLE.1_1,SLE,Sierra Leone,SLE.1_1,Eastern,Province,2.0
+CIV.12_1,CIV,Côte d'Ivoire,CIV.12_1,Woroba,District,2.0
+GHA.9_1,GHA,Ghana,GHA.9_1,Volta,Region,2.142857142857143
+TGO.1_1,TGO,Togo,TGO.1_1,Centre,Region,2.0
+BEN.5_1,BEN,Benin,BEN.5_1,Collines,Department,2.0
+NGA.31_1,NGA,Nigeria,NGA.31_1,Oyo,State,2.0
+NGA.15_1,NGA,Nigeria,NGA.15_1,Federal Capital Territory,State,2.0
+TCD.11_1,TCD,Chad,TCD.11_1,Logone Occidental,Region,2.0
+TCD.12_1,TCD,Chad,TCD.12_1,Logone Oriental,Region,2.0
+CAF.5_1,CAF,Central African Republic,CAF.5_1,Haute-Kotto,Prefecture,2.0
+SSD.8_1,SSD,South Sudan,SSD.8_1,Warap,State,2.0
+SOM.12_1,SOM,Somalia,SOM.12_1,Nugaal,Region,1.0
+LKA.25_1,LKA,Sri Lanka,LKA.25_1,Vavuniya,District,3.0
+LKA.2_1,LKA,Sri Lanka,LKA.2_1,Anuradhapura,District,3.0
+THA.31_1,THA,Thailand,THA.31_1,Nakhon Si Thammarat,Province,2.0
+PHL.3_1,PHL,Philippines,PHL.3_1,Agusan del Sur,Province,2.0
+COL.12_1,COL,Colombia,COL.12_1,Chocó,Department,2.0
+COL.2_1,COL,Colombia,COL.2_1,Antioquia,Department,2.0
+VEN.21_1,VEN,Venezuela,VEN.21_1,Táchira,State,2.0
+VEN.6_1,VEN,Venezuela,VEN.6_1,Bolívar,State,2.0
+GUY.1_1,GUY,Guyana,GUY.1_1,Barima-Waini,Region,2.0
+SLE.3_1,SLE,Sierra Leone,SLE.3_1,Southern,Province,2.0
+LBR.8_1,LBR,Liberia,LBR.8_1,Lofa,County,2.0
+GHA.2_1,GHA,Ghana,GHA.2_1,Brong Ahafo,Region,2.0
+TGO.4_1,TGO,Togo,TGO.4_1,Plateaux,Region,2.0
+NGA.23_1,NGA,Nigeria,NGA.23_1,Kogi,State,2.0
+CAF.10_1,CAF,Central African Republic,CAF.10_1,Nana-Grébizi,Economic Prefecture,2.0
+ETH.6_1,ETH,Ethiopia,ETH.6_1,Gambela Peoples,State,2.0
+ETH.10_1,ETH,Ethiopia,ETH.10_1,"Southern Nations, Nationalities and Peoples",State,2.0285714285714285
+LKA.22_1,LKA,Sri Lanka,LKA.22_1,Puttalam,District,3.0
+LKA.24_1,LKA,Sri Lanka,LKA.24_1,Trincomalee,District,2.0
+THA.18_1,THA,Thailand,THA.18_1,Krabi,Province,2.0
+PHL.79_1,PHL,Philippines,PHL.79_1,Zamboanga del Norte,Province,2.0
+PHL.48_1,PHL,Philippines,PHL.48_1,Misamis Occidental,Province,2.0
+PHL.41_1,PHL,Philippines,PHL.41_1,Lanao del Norte,Province,2.0
+PHL.16_1,PHL,Philippines,PHL.16_1,Bukidnon,Province,2.0
+PHL.75_1,PHL,Philippines,PHL.75_1,Surigao del Sur,Province,2.0
+PAN.7_1,PAN,Panama,PAN.7_1,Herrera,Province,2.0
+PAN.9_1,PAN,Panama,PAN.9_1,Los Santos,Province,2.0
+VEN.3_1,VEN,Venezuela,VEN.3_1,Apure,State,2.0
+LBR.3_1,LBR,Liberia,LBR.3_1,Gbapolu,County,2.0
+CIV.8_1,CIV,Côte d'Ivoire,CIV.8_1,Montagnes,District,2.0
+CIV.9_1,CIV,Côte d'Ivoire,CIV.9_1,Sassandra-Marahoué,District,2.0
+CIV.6_1,CIV,Côte d'Ivoire,CIV.6_1,Lacs,District,2.0
+NGA.28_1,NGA,Nigeria,NGA.28_1,Ogun,State,2.0
+NGA.30_1,NGA,Nigeria,NGA.30_1,Osun,State,2.0
+NGA.13_1,NGA,Nigeria,NGA.13_1,Ekiti,State,2.0
+NGA.7_1,NGA,Nigeria,NGA.7_1,Benue,State,2.0
+CMR.1_1,CMR,Cameroon,CMR.1_1,Adamaoua,Region,2.0
+CAF.15_1,CAF,Central African Republic,CAF.15_1,Ouham,Prefecture,2.0
+CAF.4_1,CAF,Central African Republic,CAF.4_1,Haut-Mbomou,Prefecture,2.0
+SSD.4_1,SSD,South Sudan,SSD.4_1,Lakes,State,2.0
+LKA.14_1,LKA,Sri Lanka,LKA.14_1,Kurunegala,District,3.0
+LKA.16_1,LKA,Sri Lanka,LKA.16_1,Matale,District,3.0
+LKA.4_1,LKA,Sri Lanka,LKA.4_1,Batticaloa,District,3.0
+THA.70_1,THA,Thailand,THA.70_1,Trang,Province,2.0
+THA.64_1,THA,Thailand,THA.64_1,Songkhla,Province,2.0
+PHL.80_1,PHL,Philippines,PHL.80_1,Zamboanga del Sur,Province,2.0
+PHL.42_1,PHL,Philippines,PHL.42_1,Lanao del Sur,Province,2.0
+PHL.26_1,PHL,Philippines,PHL.26_1,Compostela Valley,Province,2.0
+PHL.29_1,PHL,Philippines,PHL.29_1,Davao Oriental,Province,2.0
+COL.27_1,COL,Colombia,COL.27_1,Santander,Department,2.0
+GUY.7_1,GUY,Guyana,GUY.7_1,Pomeroon-Supenaam,Region,2.0
+LBR.4_1,LBR,Liberia,LBR.4_1,Grand Cape Mount,County,2.0
+LBR.2_1,LBR,Liberia,LBR.2_1,Bong,County,2.0
+LBR.12_1,LBR,Liberia,LBR.12_1,Nimba,County,2.0
+CIV.3_1,CIV,Côte d'Ivoire,CIV.3_1,Comoé,District,2.142857142857143
+GHA.1_1,GHA,Ghana,GHA.1_1,Ashanti,Region,2.0
+BEN.7_1,BEN,Benin,BEN.7_1,Kouffo,Department,2.5
+BEN.12_1,BEN,Benin,BEN.12_1,Zou,Department,2.0
+BEN.11_1,BEN,Benin,BEN.11_1,Plateau,Department,2.0
+NGA.29_1,NGA,Nigeria,NGA.29_1,Ondo,State,2.0
+NGA.12_1,NGA,Nigeria,NGA.12_1,Edo,State,2.0
+CAF.14_1,CAF,Central African Republic,CAF.14_1,Ouham-Pendé,Prefecture,2.0
+CAF.13_1,CAF,Central African Republic,CAF.13_1,Ouaka,Prefecture,2.0
+SOM.6_1,SOM,Somalia,SOM.6_1,Galguduud,Region,1.0
+SOM.11_1,SOM,Somalia,SOM.11_1,Mudug,Region,1.0
+LKA.12_1,LKA,Sri Lanka,LKA.12_1,Kegalle,District,2.0
+LKA.11_1,LKA,Sri Lanka,LKA.11_1,Kandy,District,2.0
+LKA.18_1,LKA,Sri Lanka,LKA.18_1,Moneragala,District,2.0
+LKA.1_1,LKA,Sri Lanka,LKA.1_1,Ampara,District,3.0
+THA.40_1,THA,Thailand,THA.40_1,Phatthalung,Province,2.0
+MYS.13_1,MYS,Malaysia,MYS.13_1,Sabah,State,1.9166666666666667
+PHL.44_1,PHL,Philippines,PHL.44_1,Maguindanao,Province,2.0
+PHL.53_1,PHL,Philippines,PHL.53_1,North Cotabato,Province,2.0
+PHL.28_1,PHL,Philippines,PHL.28_1,Davao del Sur,Province,2.0
+COL.6_1,COL,Colombia,COL.6_1,Boyacá,Department,2.25
+COL.3_1,COL,Colombia,COL.3_1,Arauca,Intendancy,2.0
+GUY.2_1,GUY,Guyana,GUY.2_1,Cuyuni-Mazaruni,Region,2.0
+GUY.5_1,GUY,Guyana,GUY.5_1,Essequibo Islands-West Demerara,Region,2.0
+LBR.1_1,LBR,Liberia,LBR.1_1,Bomi,County,2.0
+LBR.9_1,LBR,Liberia,LBR.9_1,Margibi,County,2.0
+CIV.13_1,CIV,Côte d'Ivoire,CIV.13_1,Yamoussoukro,Autonomous district,2.0
+GHA.4_1,GHA,Ghana,GHA.4_1,Eastern,Region,2.2
+BEN.3_1,BEN,Benin,BEN.3_1,Atlantique,Department,3.0
+NGA.14_1,NGA,Nigeria,NGA.14_1,Enugu,State,2.0
+NGA.11_1,NGA,Nigeria,NGA.11_1,Ebonyi,State,2.0
+NGA.9_1,NGA,Nigeria,NGA.9_1,Cross River,State,2.0
+CMR.6_1,CMR,Cameroon,CMR.6_1,Nord-Ouest,Region,2.0
+SSD.10_1,SSD,South Sudan,SSD.10_1,West Equatoria,State,2.0
+LKA.23_1,LKA,Sri Lanka,LKA.23_1,Ratnapura,District,2.0
+THA.38_1,THA,Thailand,THA.38_1,Pattani,Province,2.0
+PHL.72_1,PHL,Philippines,PHL.72_1,Sultan Kudarat,Province,2.0
+COL.32_1,COL,Colombia,COL.32_1,Vichada,Commissiary,2.0
+GUY.3_1,GUY,Guyana,GUY.3_1,Demerara-Mahaica,Region,2.0
+GUY.6_1,GUY,Guyana,GUY.6_1,Mahaica-Berbice,Region,2.0
+LBR.5_1,LBR,Liberia,LBR.5_1,GrandBassa,County,2.0
+LBR.13_1,LBR,Liberia,LBR.13_1,River Cess,County,2.0
+LBR.6_1,LBR,Liberia,LBR.6_1,GrandGedeh,County,2.0
+CIV.5_1,CIV,Côte d'Ivoire,CIV.5_1,Gôh-Djiboua,District,2.1666666666666665
+CIV.7_1,CIV,Côte d'Ivoire,CIV.7_1,Lagunes,District,2.5
+GHA.10_1,GHA,Ghana,GHA.10_1,Western,Region,2.2857142857142856
+TGO.3_1,TGO,Togo,TGO.3_1,Maritime,Region,3.0
+NGA.10_1,NGA,Nigeria,NGA.10_1,Delta,State,2.0
+NGA.4_1,NGA,Nigeria,NGA.4_1,Anambra,State,2.0
+CMR.9_1,CMR,Cameroon,CMR.9_1,Sud-Ouest,Region,2.0
+CMR.8_1,CMR,Cameroon,CMR.8_1,Ouest,Region,2.0
+CAF.11_1,CAF,Central African Republic,CAF.11_1,Nana-Mambéré,Prefecture,2.0
+CAF.6_1,CAF,Central African Republic,CAF.6_1,Kémo,Prefecture,2.0
+CAF.9_1,CAF,Central African Republic,CAF.9_1,Mbomou,Prefecture,2.0
+LKA.6_1,LKA,Sri Lanka,LKA.6_1,Galle,District,2.0
+LKA.8_1,LKA,Sri Lanka,LKA.8_1,Hambantota,District,2.5
+MYS.2_1,MYS,Malaysia,MYS.2_1,Kedah,State,2.0
+THA.76_1,THA,Thailand,THA.76_1,Yala,Province,2.0
+THA.33_1,THA,Thailand,THA.33_1,Narathiwat,Province,2.0
+PHL.70_1,PHL,Philippines,PHL.70_1,South Cotabato,Province,2.0
+COL.9_1,COL,Colombia,COL.9_1,Casanare,Intendancy,2.0
+VEN.1_1,VEN,Venezuela,VEN.1_1,Amazonas,State,2.0
+GUY.9_1,GUY,Guyana,GUY.9_1,Upper Demerara-Berbice,Region,2.0
+GUY.4_1,GUY,Guyana,GUY.4_1,East Berbice-Corentyne,Region,2.0
+SUR.5_1,SUR,Suriname,SUR.5_1,Nickerie,District,2.0
+SUR.3_1,SUR,Suriname,SUR.3_1,Coronie,District,2.0
+SUR.8_1,SUR,Suriname,SUR.8_1,Saramacca,District,2.0
+SUR.10_1,SUR,Suriname,SUR.10_1,Wanica,District,2.0
+SUR.2_1,SUR,Suriname,SUR.2_1,Commewijne,District,2.0
+SUR.4_1,SUR,Suriname,SUR.4_1,Marowijne,District,2.0
+CIV.2_1,CIV,Côte d'Ivoire,CIV.2_1,Bas-Sassandra,District,2.0
+GHA.3_1,GHA,Ghana,GHA.3_1,Central,Region,2.6666666666666665
+GHA.5_1,GHA,Ghana,GHA.5_1,Greater Accra,Region,3.0
+NGA.17_1,NGA,Nigeria,NGA.17_1,Imo,State,2.0
+NGA.1_1,NGA,Nigeria,NGA.1_1,Abia,State,2.0
+CMR.2_1,CMR,Cameroon,CMR.2_1,Centre,Region,2.0
+CMR.3_1,CMR,Cameroon,CMR.3_1,Est,Region,2.0
+CAF.12_1,CAF,Central African Republic,CAF.12_1,Ombella-M'Poko,Prefecture,2.0
+SSD.1_1,SSD,South Sudan,SSD.1_1,Central Equatoria,State,2.0
+SSD.2_1,SSD,South Sudan,SSD.2_1,Eastern Equatoria,State,1.96
+MYS.3_1,MYS,Malaysia,MYS.3_1,Kelantan,State,2.0
+PHL.67_1,PHL,Philippines,PHL.67_1,Sarangani,Province,2.0
+COL.25_1,COL,Colombia,COL.25_1,Risaralda,Department,2.0
+COL.7_1,COL,Colombia,COL.7_1,Caldas,Department,2.0
+COL.14_1,COL,Colombia,COL.14_1,Cundinamarca,Department,2.0
+GUY.8_1,GUY,Guyana,GUY.8_1,Potaro-Siparuni,Region,2.0
+SUR.9_1,SUR,Suriname,SUR.9_1,Sipaliwini,District,2.0
+SUR.6_1,SUR,Suriname,SUR.6_1,Para,District,2.0
+SUR.1_1,SUR,Suriname,SUR.1_1,Brokopondo,District,2.0
+GUF.2_1,GUF,French Guiana,GUF.2_1,Saint-Laurent-du-Maroni,Arrondissement,2.0
+GUF.1_1,GUF,French Guiana,GUF.1_1,Cayenne,Arrondissement,2.0
+LBR.15_1,LBR,Liberia,LBR.15_1,Sinoe,County,2.0
+LBR.14_1,LBR,Liberia,LBR.14_1,River Gee,County,2.0
+NGA.33_1,NGA,Nigeria,NGA.33_1,Rivers,State,2.0
+NGA.3_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,State,2.0
+CMR.5_1,CMR,Cameroon,CMR.5_1,Littoral,Region,2.0
+CAF.8_1,CAF,Central African Republic,CAF.8_1,Mambéré-Kadéï,Prefecture,2.0
+CAF.3_1,CAF,Central African Republic,CAF.3_1,Basse-Kotto,Prefecture,2.0
+IDN.1_1,IDN,Indonesia,IDN.1_1,Aceh,Province,1.9
+MYS.9_1,MYS,Malaysia,MYS.9_1,Perak,State,2.0
+MYS.16_1,MYS,Malaysia,MYS.16_1,Trengganu,State,2.0
+COL.30_1,COL,Colombia,COL.30_1,Valle del Cauca,Department,2.0
+COL.29_1,COL,Colombia,COL.29_1,Tolima,Department,2.0
+COL.20_1,COL,Colombia,COL.20_1,Meta,Department,2.0
+BRA.23_1,BRA,Brazil,BRA.23_1,Roraima,State,2.164383561643836
+LBR.7_1,LBR,Liberia,LBR.7_1,GrandKru,County,2.0
+LBR.10_1,LBR,Liberia,LBR.10_1,Maryland,County,2.0
+NGA.6_1,NGA,Nigeria,NGA.6_1,Bayelsa,State,2.0
+CAF.7_1,CAF,Central African Republic,CAF.7_1,Lobaye,Prefecture,2.0
+COD.20_1,COD,Democratic Republic of the Congo,COD.20_1,Nord-Ubangi,Province,2.0
+COD.1_1,COD,Democratic Republic of the Congo,COD.1_1,Bas-Uélé,Province,2.0
+COD.5_1,COD,Democratic Republic of the Congo,COD.5_1,Haut-Uélé,Province,2.0
+KEN.43_1,KEN,Kenya,KEN.43_1,Turkana,County,1.2
+SOM.2_1,SOM,Somalia,SOM.2_1,Bakool,Region,2.75
+SOM.8_1,SOM,Somalia,SOM.8_1,Hiiraan,Region,1.3333333333333333
+BRN.4_1,BRN,Brunei,BRN.4_1,Tutong,District,2.0
+BRN.3_1,BRN,Brunei,BRN.3_1,Temburong,District,2.0
+COL.24_1,COL,Colombia,COL.24_1,Quindío,Department,2.0
+GUY.10_1,GUY,Guyana,GUY.10_1,Upper Takutu-Upper Essequibo,Region,2.2941176470588234
+COD.23_1,COD,Democratic Republic of the Congo,COD.23_1,Sud-Ubangi,Province,1.7777777777777777
+KEN.25_1,KEN,Kenya,KEN.25_1,Marsabit,County,1.8333333333333333
+KEN.24_1,KEN,Kenya,KEN.24_1,Mandera,County,2.75
+MYS.8_1,MYS,Malaysia,MYS.8_1,Pahang,State,2.0
+MYS.14_1,MYS,Malaysia,MYS.14_1,Sarawak,State,2.0
+BRN.1_1,BRN,Brunei,BRN.1_1,Belait,District,2.0
+IDN.15_1,IDN,Indonesia,IDN.15_1,Kalimantan Timur,Province,1.9682539682539681
+COL.15_1,COL,Colombia,COL.15_1,Guainía,Commissiary,2.0
+BRA.3_1,BRA,Brazil,BRA.3_1,Amapá,State,1.9583333333333333
+GNQ.2_1,GNQ,Equatorial Guinea,GNQ.2_1,Bioko Norte,Province,0.0
+CAF.16_1,CAF,Central African Republic,CAF.16_1,Sangha-Mbaéré,Economic Prefecture,2.0
+UGA.58_1,UGA,Uganda,UGA.58_1,Yumbe,District,2.0
+UGA.41_1,UGA,Uganda,UGA.41_1,Moyo,District,2.0
+UGA.27_1,UGA,Uganda,UGA.27_1,Kitgum,District,2.0
+UGA.28_1,UGA,Uganda,UGA.28_1,Kotido,District,2.3333333333333335
+SOM.7_1,SOM,Somalia,SOM.7_1,Gedo,Region,1.8571428571428572
+SOM.5_1,SOM,Somalia,SOM.5_1,Bay,Region,3.0
+IDN.32_1,IDN,Indonesia,IDN.32_1,Sumatera Utara,Province,2.0
+COL.10_1,COL,Colombia,COL.10_1,Cauca,Department,2.0
+COL.17_1,COL,Colombia,COL.17_1,Huila,Department,2.0
+CMR.10_1,CMR,Cameroon,CMR.10_1,Sud,Region,2.0
+COG.7_1,COG,Republic of Congo,COG.7_1,Likouala,Region,2.0
+COD.6_1,COD,Democratic Republic of the Congo,COD.6_1,Ituri,Province,2.0
+UGA.3_1,UGA,Uganda,UGA.3_1,Arua,District,2.0
+UGA.1_1,UGA,Uganda,UGA.1_1,Adjumani,District,2.0
+UGA.8_1,UGA,Uganda,UGA.8_1,Gulu,District,2.0
+KEN.46_1,KEN,Kenya,KEN.46_1,Wajir,County,1.736842105263158
+SOM.15_1,SOM,Somalia,SOM.15_1,Shabeellaha Hoose,Region,2.1
+SOM.14_1,SOM,Somalia,SOM.14_1,Shabeellaha Dhexe,Region,1.0
+MYS.15_1,MYS,Malaysia,MYS.15_1,Selangor,State,2.0
+IDN.16_1,IDN,Indonesia,IDN.16_1,Kepulauan Riau,Province,0.0
+COL.8_1,COL,Colombia,COL.8_1,Caquetá,Intendancy,2.0
+COL.16_1,COL,Colombia,COL.16_1,Guaviare,Commissiary,2.0
+COD.18_1,COD,Democratic Republic of the Congo,COD.18_1,Mongala,Province,2.0
+UGA.49_1,UGA,Uganda,UGA.49_1,Pader,District,2.0
+UGA.40_1,UGA,Uganda,UGA.40_1,Moroto,District,2.3333333333333335
+MYS.7_1,MYS,Malaysia,MYS.7_1,Negeri Sembilan,State,2.0
+MYS.1_1,MYS,Malaysia,MYS.1_1,Johor,State,2.0
+COL.21_1,COL,Colombia,COL.21_1,Nariño,Department,2.0
+BRA.14_1,BRA,Brazil,BRA.14_1,Pará,State,1.9852579852579852
+GAB.9_1,GAB,Gabon,GAB.9_1,Wouleu-Ntem,Province,2.0
+COG.12_1,COG,Republic of Congo,COG.12_1,Sangha,Region,2.0
+COD.25_1,COD,Democratic Republic of the Congo,COD.25_1,Tshopo,Province,2.0
+UGA.47_1,UGA,Uganda,UGA.47_1,Nebbi,District,2.0
+UGA.36_1,UGA,Uganda,UGA.36_1,Masindi,District,2.0
+UGA.2_1,UGA,Uganda,UGA.2_1,Apac,District,2.0
+UGA.33_1,UGA,Uganda,UGA.33_1,Lira,District,2.0
+UGA.22_1,UGA,Uganda,UGA.22_1,Katakwi,District,2.0
+KEN.47_1,KEN,Kenya,KEN.47_1,West Pokot,County,2.3333333333333335
+KEN.37_1,KEN,Kenya,KEN.37_1,Samburu,County,2.7142857142857144
+IDN.24_1,IDN,Indonesia,IDN.24_1,Riau,Province,1.9285714285714286
+MYS.6_1,MYS,Malaysia,MYS.6_1,Melaka,State,2.0
+IDN.18_1,IDN,Indonesia,IDN.18_1,Maluku Utara,Province,1.3333333333333333
+COL.31_1,COL,Colombia,COL.31_1,Vaupés,Commissiary,2.0
+BRA.4_1,BRA,Brazil,BRA.4_1,Amazonas,State,2.0
+GNQ.6_1,GNQ,Equatorial Guinea,GNQ.6_1,Litoral,Province,2.0
+GNQ.4_1,GNQ,Equatorial Guinea,GNQ.4_1,Centro Sur,Province,2.0
+GNQ.7_1,GNQ,Equatorial Guinea,GNQ.7_1,Wele-Nzas,Province,2.0
+GNQ.5_1,GNQ,Equatorial Guinea,GNQ.5_1,Kié-Ntem,Province,2.0
+COD.2_1,COD,Democratic Republic of the Congo,COD.2_1,Équateur,Province,1.8181818181818181
+UGA.31_1,UGA,Uganda,UGA.31_1,Lake Albert,Water body,2.0
+UGA.14_1,UGA,Uganda,UGA.14_1,Kaberamaido,District,2.0
+UGA.55_1,UGA,Uganda,UGA.55_1,Soroti,District,2.0
+UGA.45_1,UGA,Uganda,UGA.45_1,Nakapiripirit,District,2.0
+KEN.9_1,KEN,Kenya,KEN.9_1,Isiolo,County,3.0
+SOM.9_1,SOM,Somalia,SOM.9_1,Jubbada Dhexe,Region,1.4
+ECU.8_1,ECU,Ecuador,ECU.8_1,Esmeraldas,Province,2.25
+COL.23_1,COL,Colombia,COL.23_1,Putumayo,Intendancy,2.0
+GAB.6_1,GAB,Gabon,GAB.6_1,Ogooué-Ivindo,Province,2.0
+COD.26_1,COD,Democratic Republic of the Congo,COD.26_1,Tshuapa,Province,2.0
+UGA.9_1,UGA,Uganda,UGA.9_1,Hoima,District,2.0
+UGA.25_1,UGA,Uganda,UGA.25_1,Kiboga,District,2.0
+UGA.34_1,UGA,Uganda,UGA.34_1,Luwero,District,2.3333333333333335
+UGA.46_1,UGA,Uganda,UGA.46_1,Nakasongola,District,2.0
+UGA.17_1,UGA,Uganda,UGA.17_1,Kamuli,District,2.0
+UGA.50_1,UGA,Uganda,UGA.50_1,Pallisa,District,2.0
+UGA.54_1,UGA,Uganda,UGA.54_1,Sironko,District,2.0
+UGA.20_1,UGA,Uganda,UGA.20_1,Kapchorwa,District,2.0
+KEN.1_1,KEN,Kenya,KEN.1_1,Baringo,County,3.0
+SOM.10_1,SOM,Somalia,SOM.10_1,Jubbada Hoose,Region,1.2
+IDN.12_1,IDN,Indonesia,IDN.12_1,Kalimantan Barat,Province,1.9591836734693877
+IDN.29_1,IDN,Indonesia,IDN.29_1,Sulawesi Utara,Province,2.0
+ECU.11_1,ECU,Ecuador,ECU.11_1,Imbabura,Province,2.0
+ECU.4_1,ECU,Ecuador,ECU.4_1,Carchi,Province,3.0
+GAB.1_1,GAB,Gabon,GAB.1_1,Estuaire,Province,2.0
+COG.3_1,COG,Republic of Congo,COG.3_1,Cuvette-Ouest,Region,2.0
+COD.19_1,COD,Democratic Republic of the Congo,COD.19_1,Nord-Kivu,Province,2.0
+UGA.13_1,UGA,Uganda,UGA.13_1,Kabarole,District,2.0
+UGA.30_1,UGA,Uganda,UGA.30_1,Kyenjojo,District,2.0
+UGA.24_1,UGA,Uganda,UGA.24_1,Kibale,District,3.0
+UGA.43_1,UGA,Uganda,UGA.43_1,Mubende,District,3.0
+UGA.10_1,UGA,Uganda,UGA.10_1,Iganga,District,2.0
+UGA.56_1,UGA,Uganda,UGA.56_1,Tororo,District,2.0
+KEN.3_1,KEN,Kenya,KEN.3_1,Bungoma,County,2.0
+KEN.44_1,KEN,Kenya,KEN.44_1,Uasin Gishu,County,2.0
+KEN.20_1,KEN,Kenya,KEN.20_1,Laikipia,County,3.6666666666666665
+KEN.7_1,KEN,Kenya,KEN.7_1,Garissa,County,1.6
+IDN.27_1,IDN,Indonesia,IDN.27_1,Sulawesi Tengah,Province,1.8823529411764706
+IDN.6_1,IDN,Indonesia,IDN.6_1,Gorontalo,Province,2.0
+ECU.14_1,ECU,Ecuador,ECU.14_1,Manabi,Province,2.0
+ECU.19_1,ECU,Ecuador,ECU.19_1,Pichincha,Province,2.0
+ECU.22_1,ECU,Ecuador,ECU.22_1,Sucumbios,Province,2.0
+GAB.7_1,GAB,Gabon,GAB.7_1,Ogooué-Lolo,Province,2.0
+COG.4_1,COG,Republic of Congo,COG.4_1,Cuvette,Region,2.0
+UGA.21_1,UGA,Uganda,UGA.21_1,Kasese,District,3.0
+UGA.18_1,UGA,Uganda,UGA.18_1,Kamwenge,District,3.0
+UGA.42_1,UGA,Uganda,UGA.42_1,Mpigi,District,2.5
+UGA.44_1,UGA,Uganda,UGA.44_1,Mukono,District,2.5
+UGA.4_1,UGA,Uganda,UGA.4_1,Bugiri,District,3.0
+KEN.38_1,KEN,Kenya,KEN.38_1,Siaya,County,2.5
+KEN.11_1,KEN,Kenya,KEN.11_1,Kakamega,County,2.0
+KEN.32_1,KEN,Kenya,KEN.32_1,Nandi,County,2.0
+KEN.26_1,KEN,Kenya,KEN.26_1,Meru,County,3.0
+IDN.30_1,IDN,Indonesia,IDN.30_1,Sumatera Barat,Province,1.8571428571428572
+IDN.14_1,IDN,Indonesia,IDN.14_1,Kalimantan Tengah,Province,2.0
+ECU.9_1,ECU,Ecuador,ECU.9_1,Galápagos,Province,1.6666666666666667
+ECU.21_1,ECU,Ecuador,ECU.21_1,Santo Domingo de los Tsachilas,Province,2.0
+ECU.16_1,ECU,Ecuador,ECU.16_1,Napo,Province,2.3333333333333335
+ECU.17_1,ECU,Ecuador,ECU.17_1,Orellana,Province,2.0
+PER.17_1,PER,Peru,PER.17_1,Loreto,Region,2.0
+COL.1_1,COL,Colombia,COL.1_1,Amazonas,Commissiary,2.0
+GAB.3_1,GAB,Gabon,GAB.3_1,Moyen-Ogooué,Province,2.0
+GAB.2_1,GAB,Gabon,GAB.2_1,Haut-Ogooué,Province,2.0
+COD.17_1,COD,Democratic Republic of the Congo,COD.17_1,Maniema,Province,2.0
+UGA.6_1,UGA,Uganda,UGA.6_1,Bushenyi,District,3.0
+UGA.39_1,UGA,Uganda,UGA.39_1,Mbarara,District,2.5
+UGA.51_1,UGA,Uganda,UGA.51_1,Rakai,District,2.5
+UGA.35_1,UGA,Uganda,UGA.35_1,Masaka,District,3.0
+UGA.32_1,UGA,Uganda,UGA.32_1,Lake Victoria,Water body,0.2222222222222222
+KEN.17_1,KEN,Kenya,KEN.17_1,Kisumu,County,2.0
+KEN.12_1,KEN,Kenya,KEN.12_1,Kericho,County,2.0
+KEN.31_1,KEN,Kenya,KEN.31_1,Nakuru,County,2.5
+KEN.35_1,KEN,Kenya,KEN.35_1,Nyandarua,County,2.0
+KEN.36_1,KEN,Kenya,KEN.36_1,Nyeri,County,2.0
+KEN.41_1,KEN,Kenya,KEN.41_1,Tharaka-Nithi,County,3.0
+KEN.18_1,KEN,Kenya,KEN.18_1,Kitui,County,2.6363636363636362
+KEN.40_1,KEN,Kenya,KEN.40_1,Tana River,County,1.5833333333333333
+IDN.22_1,IDN,Indonesia,IDN.22_1,Papua Barat,Province,1.9333333333333333
+ECU.13_1,ECU,Ecuador,ECU.13_1,Los Rios,Province,2.0
+ECU.6_1,ECU,Ecuador,ECU.6_1,Cotopaxi,Province,2.0
+GAB.8_1,GAB,Gabon,GAB.8_1,Ogooué-Maritime,Province,1.75
+GAB.4_1,GAB,Gabon,GAB.4_1,Ngounié,Province,2.0
+UGA.19_1,UGA,Uganda,UGA.19_1,Kanungu,District,3.0
+UGA.48_1,UGA,Uganda,UGA.48_1,Ntungamo,District,3.0
+KEN.8_1,KEN,Kenya,KEN.8_1,Homa Bay,County,3.0
+KEN.16_1,KEN,Kenya,KEN.16_1,Kisii,County,2.0
+KEN.2_1,KEN,Kenya,KEN.2_1,Bomet,County,2.0
+KEN.33_1,KEN,Kenya,KEN.33_1,Narok,County,2.6666666666666665
+KEN.29_1,KEN,Kenya,KEN.29_1,Murang'a,County,2.5
+KEN.6_1,KEN,Kenya,KEN.6_1,Embu,County,3.0
+IDN.23_1,IDN,Indonesia,IDN.23_1,Papua,Province,1.9047619047619047
+ECU.2_1,ECU,Ecuador,ECU.2_1,Bolivar,Province,2.0
+ECU.23_1,ECU,Ecuador,ECU.23_1,Tungurahua,Province,1.0
+ECU.18_1,ECU,Ecuador,ECU.18_1,Pastaza,Province,2.0
+BRA.10_1,BRA,Brazil,BRA.10_1,Maranhão,State,2.0
+COG.9_1,COG,Republic of Congo,COG.9_1,Plateaux,Region,2.0
+COD.16_1,COD,Democratic Republic of the Congo,COD.16_1,Maï-Ndombe,Province,2.0
+UGA.26_1,UGA,Uganda,UGA.26_1,Kisoro,District,2.0
+RWA.3_1,RWA,Rwanda,RWA.3_1,Iburasirazuba,Province,2.25
+TZA.6_1,TZA,Tanzania,TZA.6_1,Kagera,Region,1.7272727272727273
+TZA.12_1,TZA,Tanzania,TZA.12_1,Mara,Region,1.9090909090909092
+KEN.30_1,KEN,Kenya,KEN.30_1,Nairobi,County,3.0
+KEN.22_1,KEN,Kenya,KEN.22_1,Machakos,County,3.0
+IDN.8_1,IDN,Indonesia,IDN.8_1,Jambi,Province,2.0
+ECU.20_1,ECU,Ecuador,ECU.20_1,Santa Elena,Province,2.0
+ECU.10_1,ECU,Ecuador,ECU.10_1,Guayas,Province,2.1666666666666665
+ECU.5_1,ECU,Ecuador,ECU.5_1,Chimborazo,Province,1.5
+ECU.15_1,ECU,Ecuador,ECU.15_1,Morona Santiago,Province,2.0
+COD.21_1,COD,Democratic Republic of the Congo,COD.21_1,Sankuru,Province,2.0
+RWA.4_1,RWA,Rwanda,RWA.4_1,Iburengerazuba,Province,2.0
+RWA.1_1,RWA,Rwanda,RWA.1_1,Amajyaruguru,Province,2.0
+TZA.16_1,TZA,Tanzania,TZA.16_1,Mwanza,Region,1.2222222222222223
+TZA.1_1,TZA,Tanzania,TZA.1_1,Arusha,Region,2.727272727272727
+KEN.10_1,KEN,Kenya,KEN.10_1,Kajiado,County,2.4285714285714284
+KEN.23_1,KEN,Kenya,KEN.23_1,Makueni,County,3.0
+KEN.21_1,KEN,Kenya,KEN.21_1,Lamu,County,2.0
+IDN.31_1,IDN,Indonesia,IDN.31_1,Sumatera Selatan,Province,2.0
+IDN.25_1,IDN,Indonesia,IDN.25_1,Sulawesi Barat,Province,2.0
+COG.8_1,COG,Republic of Congo,COG.8_1,Niari,Region,2.0
+COG.6_1,COG,Republic of Congo,COG.6_1,Lékoumou,Region,2.0
+COD.22_1,COD,Democratic Republic of the Congo,COD.22_1,Sud-Kivu,Province,1.8
+RWA.2_1,RWA,Rwanda,RWA.2_1,Amajyepfo,Province,2.0
+TZA.24_1,TZA,Tanzania,TZA.24_1,Simiyu,Region,2.625
+IDN.13_1,IDN,Indonesia,IDN.13_1,Kalimantan Selatan,Province,2.0
+IDN.26_1,IDN,Indonesia,IDN.26_1,Sulawesi Selatan,Province,2.0
+ECU.1_1,ECU,Ecuador,ECU.1_1,Azuay,Province,2.3333333333333335
+GAB.5_1,GAB,Gabon,GAB.5_1,Nyanga,Province,2.0
+COD.9_1,COD,Democratic Republic of the Congo,COD.9_1,Kasaï,Province,2.0
+BDI.6_1,BDI,Burundi,BDI.6_1,Cibitoke,Province,2.0
+BDI.13_1,BDI,Burundi,BDI.13_1,Muyinga,Province,2.0
+TZA.4_1,TZA,Tanzania,TZA.4_1,Geita,Region,2.0
+KEN.14_1,KEN,Kenya,KEN.14_1,Kilifi,County,3.0
+IDN.5_1,IDN,Indonesia,IDN.5_1,Bengkulu,Province,2.0
+IDN.3_1,IDN,Indonesia,IDN.3_1,Bangka Belitung,Province,1.3333333333333333
+PNG.18_1,PNG,Papua New Guinea,PNG.18_1,Sandaun,Province,2.0
+PNG.16_1,PNG,Papua New Guinea,PNG.16_1,New Ireland,Province,1.3333333333333333
+ECU.7_1,ECU,Ecuador,ECU.7_1,El Oro,Province,2.0
+BRA.18_1,BRA,Brazil,BRA.18_1,Piauí,State,2.024390243902439
+BRA.6_1,BRA,Brazil,BRA.6_1,Ceará,State,2.0
+COG.11_1,COG,Republic of Congo,COG.11_1,Pool,Region,2.0
+BDI.1_1,BDI,Burundi,BDI.1_1,Bubanza,Province,2.0
+BDI.12_1,BDI,Burundi,BDI.12_1,Muramvya,Province,2.0
+BDI.17_1,BDI,Burundi,BDI.17_1,Ruyigi,Province,2.0
+BDI.5_1,BDI,Burundi,BDI.5_1,Cankuzo,Province,2.0
+TZA.9_1,TZA,Tanzania,TZA.9_1,Kilimanjaro,Region,3.0
+KEN.39_1,KEN,Kenya,KEN.39_1,Taita Taveta,County,3.0
+IDN.28_1,IDN,Indonesia,IDN.28_1,Sulawesi Tenggara,Province,2.0
+IDN.19_1,IDN,Indonesia,IDN.19_1,Maluku,Province,1.5714285714285714
+PER.25_1,PER,Peru,PER.25_1,Tumbes,Region,1.0
+ECU.12_1,ECU,Ecuador,ECU.12_1,Loja,Province,1.75
+ECU.24_1,ECU,Ecuador,ECU.24_1,Zamora Chinchipe,Province,2.3333333333333335
+PER.1_1,PER,Peru,PER.1_1,Amazonas,Region,2.1666666666666665
+COG.5_1,COG,Republic of Congo,COG.5_1,Kouilou,Region,2.0
+COG.1_1,COG,Republic of Congo,COG.1_1,Bouenza,Region,2.0
+COD.13_1,COD,Democratic Republic of the Congo,COD.13_1,Kwilu,Province,2.0
+BDI.4_1,BDI,Burundi,BDI.4_1,Bururi,Province,2.0
+BDI.16_1,BDI,Burundi,BDI.16_1,Rutana,Province,2.0
+TZA.8_1,TZA,Tanzania,TZA.8_1,Kigoma,Region,1.8461538461538463
+TZA.23_1,TZA,Tanzania,TZA.23_1,Shinyanga,Region,2.0
+TZA.11_1,TZA,Tanzania,TZA.11_1,Manyara,Region,2.5625
+KEN.19_1,KEN,Kenya,KEN.19_1,Kwale,County,3.0
+PNG.5_1,PNG,Papua New Guinea,PNG.5_1,East Sepik,Province,2.0
+PER.21_1,PER,Peru,PER.21_1,Piura,Region,1.0909090909090908
+COG.2_1,COG,Republic of Congo,COG.2_1,Brazzaville,Region,2.0
+COD.10_1,COD,Democratic Republic of the Congo,COD.10_1,Kinshasa,Province,2.0
+BDI.11_1,BDI,Burundi,BDI.11_1,Makamba,Province,2.0
+TZA.26_1,TZA,Tanzania,TZA.26_1,Tabora,Region,2.0
+TZA.25_1,TZA,Tanzania,TZA.25_1,Singida,Region,2.0
+IDN.17_1,IDN,Indonesia,IDN.17_1,Lampung,Province,1.8181818181818181
+PNG.11_1,PNG,Papua New Guinea,PNG.11_1,Madang,Province,2.0
+PNG.4_1,PNG,Papua New Guinea,PNG.4_1,East New Britain,Province,2.0
+PER.6_1,PER,Peru,PER.6_1,Cajamarca,Region,1.3846153846153846
+AGO.4_1,AGO,Angola,AGO.4_1,Cabinda,Province,2.0
+COD.11_1,COD,Democratic Republic of the Congo,COD.11_1,Kongo-Central,Province,2.0
+COD.12_1,COD,Democratic Republic of the Congo,COD.12_1,Kwango,Province,2.0
+COD.7_1,COD,Democratic Republic of the Congo,COD.7_1,Kasaï-Central,Province,2.0
+TZA.3_1,TZA,Tanzania,TZA.3_1,Dodoma,Region,2.0
+TZA.27_1,TZA,Tanzania,TZA.27_1,Tanga,Region,2.888888888888889
+BRA.27_1,BRA,Brazil,BRA.27_1,Tocantins,State,2.0
+BRA.20_1,BRA,Brazil,BRA.20_1,Rio Grande do Norte,State,2.0
+COD.14_1,COD,Democratic Republic of the Congo,COD.14_1,Lomami,Province,2.0
+COD.24_1,COD,Democratic Republic of the Congo,COD.24_1,Tanganyika,Province,1.8695652173913044
+TZA.7_1,TZA,Tanzania,TZA.7_1,Katavi,Region,1.875
+TZA.19_1,TZA,Tanzania,TZA.19_1,Pemba South,Region,0.0
+PNG.22_1,PNG,Papua New Guinea,PNG.22_1,Western,Province,2.0
+PNG.9_1,PNG,Papua New Guinea,PNG.9_1,Hela,Province,2.0
+PNG.7_1,PNG,Papua New Guinea,PNG.7_1,Enga,Province,2.0
+PNG.21_1,PNG,Papua New Guinea,PNG.21_1,Western Highlands,Province,2.0
+PER.14_1,PER,Peru,PER.14_1,Lambayeque,Region,1.0
+PER.23_1,PER,Peru,PER.23_1,San Martín,Region,2.4375
+COD.8_1,COD,Democratic Republic of the Congo,COD.8_1,Kasaï-Oriental,Province,2.0
+IDN.10_1,IDN,Indonesia,IDN.10_1,Jawa Tengah,Province,1.8333333333333333
+PNG.10_1,PNG,Papua New Guinea,PNG.10_1,Jiwaka,Province,2.0
+PNG.20_1,PNG,Papua New Guinea,PNG.20_1,West New Britain,Province,2.0
+PNG.1_1,PNG,Papua New Guinea,PNG.1_1,Bougainville,Autonomous Region,2.0
+BRA.15_1,BRA,Brazil,BRA.15_1,Paraíba,State,2.0
+AGO.18_1,AGO,Angola,AGO.18_1,Zaire,Province,2.0
+AGO.17_1,AGO,Angola,AGO.17_1,Uíge,Province,2.0
+COD.4_1,COD,Democratic Republic of the Congo,COD.4_1,Haut-Lomami,Province,2.0
+TZA.14_1,TZA,Tanzania,TZA.14_1,Morogoro,Region,2.1153846153846154
+TZA.20_1,TZA,Tanzania,TZA.20_1,Pwani,Region,2.5
+TZA.30_1,TZA,Tanzania,TZA.30_1,Zanzibar West,Region,0.0
+IDN.4_1,IDN,Indonesia,IDN.4_1,Banten,Province,1.5
+IDN.7_1,IDN,Indonesia,IDN.7_1,Jakarta Raya,Province,2.0
+IDN.9_1,IDN,Indonesia,IDN.9_1,Jawa Barat,Province,1.8333333333333333
+PNG.19_1,PNG,Papua New Guinea,PNG.19_1,Southern Highlands,Province,2.0
+PNG.3_1,PNG,Papua New Guinea,PNG.3_1,Chimbu,Province,2.0
+PNG.6_1,PNG,Papua New Guinea,PNG.6_1,Eastern Highlands,Province,2.0
+PNG.14_1,PNG,Papua New Guinea,PNG.14_1,Morobe,Province,2.0
+PNG.8_1,PNG,Papua New Guinea,PNG.8_1,Gulf,Province,2.0
+PER.13_1,PER,Peru,PER.13_1,La Libertad,Region,1.5
+AGO.12_1,AGO,Angola,AGO.12_1,Lunda Norte,Province,2.0
+TZA.21_1,TZA,Tanzania,TZA.21_1,Rukwa,Region,2.0
+TZA.13_1,TZA,Tanzania,TZA.13_1,Mbeya,Region,2.0
+TZA.5_1,TZA,Tanzania,TZA.5_1,Iringa,Region,2.0
+IDN.11_1,IDN,Indonesia,IDN.11_1,Jawa Timur,Province,2.0
+SLB.2_1,SLB,Solomon Islands,SLB.2_1,Choiseul,Province,2.0
+PER.26_1,PER,Peru,PER.26_1,Ucayali,Region,2.0
+BRA.1_1,BRA,Brazil,BRA.1_1,Acre,State,2.0
+BRA.12_1,BRA,Brazil,BRA.12_1,Mato Grosso,State,2.0
+BRA.17_1,BRA,Brazil,BRA.17_1,Pernambuco,State,1.9696969696969697
+AGO.1_1,AGO,Angola,AGO.1_1,Bengo,Province,2.6923076923076925
+AGO.14_1,AGO,Angola,AGO.14_1,Malanje,Province,2.0
+COD.3_1,COD,Democratic Republic of the Congo,COD.3_1,Haut-Katanga,Province,1.9555555555555555
+IDN.33_1,IDN,Indonesia,IDN.33_1,Yogyakarta,Province,2.0
+SLB.10_1,SLB,Solomon Islands,SLB.10_1,Western,Province,1.3333333333333333
+SLB.5_1,SLB,Solomon Islands,SLB.5_1,Isabel,Province,2.0
+PER.2_1,PER,Peru,PER.2_1,Ancash,Region,1.6923076923076923
+BRA.22_1,BRA,Brazil,BRA.22_1,Rondônia,State,2.0
+AGO.6_1,AGO,Angola,AGO.6_1,Cuanza Norte,Province,2.125
+COD.15_1,COD,Democratic Republic of the Congo,COD.15_1,Lualaba,Province,2.0
+TZA.10_1,TZA,Tanzania,TZA.10_1,Lindi,Region,2.0
+IDN.2_1,IDN,Indonesia,IDN.2_1,Bali,Province,2.0
+IDN.20_1,IDN,Indonesia,IDN.20_1,Nusa Tenggara Barat,Province,2.0
+IDN.21_1,IDN,Indonesia,IDN.21_1,Nusa Tenggara Timur,Province,1.7333333333333334
+PNG.2_1,PNG,Papua New Guinea,PNG.2_1,Central,Province,2.0
+PNG.17_1,PNG,Papua New Guinea,PNG.17_1,Oro,Province,2.0
+PER.10_1,PER,Peru,PER.10_1,Huánuco,Region,2.1666666666666665
+BRA.5_1,BRA,Brazil,BRA.5_1,Bahia,State,2.4731182795698925
+AGO.13_1,AGO,Angola,AGO.13_1,Lunda Sul,Province,2.0
+ZMB.4_1,ZMB,Zambia,ZMB.4_1,Luapula,Province,2.0
+ZMB.8_1,ZMB,Zambia,ZMB.8_1,Northern,Province,2.0
+TZA.17_1,TZA,Tanzania,TZA.17_1,Njombe,Region,2.0
+TLS.8_1,TLS,Timor-Leste,TLS.8_1,Ermera,District,2.0
+TLS.1_1,TLS,Timor-Leste,TLS.1_1,Aileu,District,2.0
+TLS.13_1,TLS,Timor-Leste,TLS.13_1,Viqueque,District,2.0
+TLS.9_1,TLS,Timor-Leste,TLS.9_1,Lautém,District,2.0
+SLB.7_1,SLB,Solomon Islands,SLB.7_1,Malaita,Province,2.0
+BRA.2_1,BRA,Brazil,BRA.2_1,Alagoas,State,2.125
+TLS.3_1,TLS,Timor-Leste,TLS.3_1,Ambeno,District,2.0
+TLS.6_1,TLS,Timor-Leste,TLS.6_1,Covalima,District,2.0
+PNG.13_1,PNG,Papua New Guinea,PNG.13_1,Milne Bay,Province,1.6
+PER.20_1,PER,Peru,PER.20_1,Pasco,Region,2.0
+BRA.26_1,BRA,Brazil,BRA.26_1,Sergipe,State,2.125
+ZMB.6_1,ZMB,Zambia,ZMB.6_1,Muchinga,Province,2.0
+MWI.8_1,MWI,Malawi,MWI.8_1,Karonga,District,1.3333333333333333
+TZA.22_1,TZA,Tanzania,TZA.22_1,Ruvuma,Region,2.0
+SLB.3_1,SLB,Solomon Islands,SLB.3_1,Guadalcanal, ,1.0
+PER.18_1,PER,Peru,PER.18_1,Madre de Dios,Region,2.0
+BOL.6_1,BOL,Bolivia,BOL.6_1,Pando,Department,2.0
+AGO.7_1,AGO,Angola,AGO.7_1,Cuanza Sul,Province,2.1176470588235294
+MWI.5_1,MWI,Malawi,MWI.5_1,Chitipa,District,2.0
+TZA.15_1,TZA,Tanzania,TZA.15_1,Mtwara,Region,2.0
+SLB.6_1,SLB,Solomon Islands,SLB.6_1,Makira Ulawa,Province,0.0
+PER.16_1,PER,Peru,PER.16_1,Lima,Region,1.3333333333333333
+PER.12_1,PER,Peru,PER.12_1,Junín,Region,1.9333333333333333
+BOL.3_1,BOL,Bolivia,BOL.3_1,El Beni,Department,2.0
+AGO.3_1,AGO,Angola,AGO.3_1,Bié,Province,2.0
+AGO.15_1,AGO,Angola,AGO.15_1,Moxico,Province,2.0
+MWI.25_1,MWI,Malawi,MWI.25_1,Rumphi,District,2.0
+MOZ.1_1,MOZ,Mozambique,MOZ.1_1,Cabo Delgado,Province,2.0
+ZMB.7_1,ZMB,Zambia,ZMB.7_1,North-Western,Province,2.0
+MWI.17_1,MWI,Malawi,MWI.17_1,Mzimba,District,2.0
+MWI.19_1,MWI,Malawi,MWI.19_1,Nkhata Bay,District,1.5
+AUS.6_1,AUS,Australia,AUS.6_1,Northern Territory,Territory,1.389247311827957
+AUS.7_1,AUS,Australia,AUS.7_1,Queensland,State,1.555008210180624
+PER.8_1,PER,Peru,PER.8_1,Cusco,Region,2.0
+AGO.9_1,AGO,Angola,AGO.9_1,Huambo,Province,2.0
+ZMB.3_1,ZMB,Zambia,ZMB.3_1,Eastern,Province,2.0
+MOZ.8_1,MOZ,Mozambique,MOZ.8_1,Nassa,Province,1.9534883720930232
+COM.2_1,COM,Comoros,COM.2_1,Njazídja,Autonomous Island,0.0
+PER.15_1,PER,Peru,PER.15_1,Lima Province,Province,1.0
+PER.9_1,PER,Peru,PER.9_1,Huancavelica,Region,1.5
+BOL.4_1,BOL,Bolivia,BOL.4_1,La Paz,Department,1.9111111111111112
+AGO.2_1,AGO,Angola,AGO.2_1,Benguela,Province,1.9285714285714286
+ZMB.1_1,ZMB,Zambia,ZMB.1_1,Central,Province,2.0
+MDG.2_1,MDG,Madagascar,MDG.2_1,Antsiranana,Autonomous Province,2.0
+PER.5_1,PER,Peru,PER.5_1,Ayacucho,Region,1.7333333333333334
+ZMB.2_1,ZMB,Zambia,ZMB.2_1,Copperbelt,Province,2.0
+MWI.9_1,MWI,Malawi,MWI.9_1,Kasungu,District,2.0
+MWI.20_1,MWI,Malawi,MWI.20_1,Nkhotakota,District,2.0
+PER.11_1,PER,Peru,PER.11_1,Ica,Region,1.1428571428571428
+PER.3_1,PER,Peru,PER.3_1,Apurímac,Region,2.0
+PER.22_1,PER,Peru,PER.22_1,Puno,Region,1.9230769230769231
+BRA.9_1,BRA,Brazil,BRA.9_1,Goiás,State,2.0
+MWI.23_1,MWI,Malawi,MWI.23_1,Ntchisi,District,2.0
+WSM.4_1,WSM,Samoa,WSM.4_1,Fa'asaleleaga,District,0.0
+BOL.8_1,BOL,Bolivia,BOL.8_1,Santa Cruz,Department,2.1487603305785123
+AGO.16_1,AGO,Angola,AGO.16_1,Namibe,Province,1.25
+AGO.10_1,AGO,Angola,AGO.10_1,Huíla,Province,2.0
+AGO.5_1,AGO,Angola,AGO.5_1,Cuando Cubango,Province,2.0
+ZMB.10_1,ZMB,Zambia,ZMB.10_1,Western,Province,2.0
+MWI.14_1,MWI,Malawi,MWI.14_1,Mchinji,District,2.0
+MWI.11_1,MWI,Malawi,MWI.11_1,Lilongwe,District,2.0
+MWI.7_1,MWI,Malawi,MWI.7_1,Dowa,District,2.0
+MWI.6_1,MWI,Malawi,MWI.6_1,Dedza,District,1.3333333333333333
+MOZ.7_1,MOZ,Mozambique,MOZ.7_1,Nampula,Province,2.0
+MOZ.10_1,MOZ,Mozambique,MOZ.10_1,Tete,Province,2.0
+MWI.13_1,MWI,Malawi,MWI.13_1,Mangochi,District,2.0
+MDG.4_1,MDG,Madagascar,MDG.4_1,Mahajanga,Autonomous Province,2.0
+AUS.11_1,AUS,Australia,AUS.11_1,Western Australia,State,1.2453450164293538
+PER.4_1,PER,Peru,PER.4_1,Arequipa,Region,1.3
+BRA.13_1,BRA,Brazil,BRA.13_1,Minas Gerais,State,2.0833333333333335
+ZMB.5_1,ZMB,Zambia,ZMB.5_1,Lusaka,Province,2.0
+MWI.22_1,MWI,Malawi,MWI.22_1,Ntcheu,District,2.0
+MWI.12_1,MWI,Malawi,MWI.12_1,Machinga,District,2.0
+AGO.8_1,AGO,Angola,AGO.8_1,Cunene,Province,2.0
+MWI.18_1,MWI,Malawi,MWI.18_1,Neno,District,2.0
+MWI.28_1,MWI,Malawi,MWI.28_1,Zomba,District,2.0
+MOZ.11_1,MOZ,Mozambique,MOZ.11_1,Zambezia,Province,2.0
+MDG.5_1,MDG,Madagascar,MDG.5_1,Toamasina,Autonomous Province,2.0
+VUT.3_1,VUT,Vanuatu,VUT.3_1,Sanma,Province,2.0
+BRA.7_1,BRA,Brazil,BRA.7_1,Distrito Federal,Federal District,2.0
+ZMB.9_1,ZMB,Zambia,ZMB.9_1,Southern,Province,2.0
+ZWE.6_1,ZWE,Zimbabwe,ZWE.6_1,Mashonaland West,Province,2.0
+MWI.2_1,MWI,Malawi,MWI.2_1,Blantyre,District,2.0
+MWI.4_1,MWI,Malawi,MWI.4_1,Chiradzulu,District,2.0
+MWI.24_1,MWI,Malawi,MWI.24_1,Phalombe,District,2.0
+PER.19_1,PER,Peru,PER.19_1,Moquegua,Region,1.5
+BOL.2_1,BOL,Bolivia,BOL.2_1,Cochabamba,Department,2.0
+ZWE.4_1,ZWE,Zimbabwe,ZWE.4_1,Mashonaland Central,Province,2.0
+MWI.3_1,MWI,Malawi,MWI.3_1,Chikwawa,District,2.0
+MWI.27_1,MWI,Malawi,MWI.27_1,Thyolo,District,2.0
+FJI.3_1,FJI,Fiji,FJI.3_1,Northern,Division,1.0
+ZWE.5_1,ZWE,Zimbabwe,ZWE.5_1,Mashonaland East,Province,2.0
+MOZ.4_1,MOZ,Mozambique,MOZ.4_1,Manica,Province,2.0
+MWI.21_1,MWI,Malawi,MWI.21_1,Nsanje,District,2.0
+VUT.4_1,VUT,Vanuatu,VUT.4_1,Shefa,Province,0.0
+PER.24_1,PER,Peru,PER.24_1,Tacna,Region,1.0
+BRA.11_1,BRA,Brazil,BRA.11_1,Mato Grosso do Sul,State,2.040650406504065
+NAM.6_1,NAM,Namibia,NAM.6_1,Kunene,Region,1.3333333333333333
+ZWE.8_1,ZWE,Zimbabwe,ZWE.8_1,Matabeleland North,Province,2.0
+ZWE.10_1,ZWE,Zimbabwe,ZWE.10_1,Midlands,Province,2.0
+MOZ.9_1,MOZ,Mozambique,MOZ.9_1,Sofala,Province,2.0
+PYF.2_1,PYF,French Polynesia,PYF.2_1,Îles du Vent,Administrative subdivisions,0.0
+CHL.4_1,CHL,Chile,CHL.4_1,Arica y Parinacota,Region,1.0
+BOL.5_1,BOL,Bolivia,BOL.5_1,Oruro,Department,1.2222222222222223
+NAM.9_1,NAM,Namibia,NAM.9_1,Omusati,Region,2.0
+NAM.10_1,NAM,Namibia,NAM.10_1,Oshana,Region,2.0
+NAM.7_1,NAM,Namibia,NAM.7_1,Ohangwena,Region,2.0
+NAM.4_1,NAM,Namibia,NAM.4_1,Kavango,Region,2.0
+NAM.13_1,NAM,Namibia,NAM.13_1,Zambezi,Region,2.0
+ZWE.3_1,ZWE,Zimbabwe,ZWE.3_1,Manicaland,Province,2.0
+MDG.1_1,MDG,Madagascar,MDG.1_1,Antananarivo,Autonomous Province,2.0
+FJI.5_1,FJI,Fiji,FJI.5_1,Western,Division,2.0
+FJI.1_1,FJI,Fiji,FJI.1_1,Central,Division,2.0
+BOL.7_1,BOL,Bolivia,BOL.7_1,Potosí,Department,1.205128205128205
+BRA.8_1,BRA,Brazil,BRA.8_1,Espírito Santo,State,2.0
+NAM.11_1,NAM,Namibia,NAM.11_1,Oshikoto,Region,2.0
+BWA.12_1,BWA,Botswana,BWA.12_1,North-West,District,1.894736842105263
+BWA.2_1,BWA,Botswana,BWA.2_1,Chobe,District,2.0
+MDG.6_1,MDG,Madagascar,MDG.6_1,Toliary,Autonomous Province,2.0508474576271185
+BOL.1_1,BOL,Bolivia,BOL.1_1,Chuquisaca,Department,1.9473684210526316
+VUT.5_1,VUT,Vanuatu,VUT.5_1,Tafea,Province,0.0
+CHL.15_1,CHL,Chile,CHL.15_1,Tarapacá,Region,1.0
+NAM.12_1,NAM,Namibia,NAM.12_1,Otjozondjupa,Region,1.837837837837838
+BWA.1_1,BWA,Botswana,BWA.1_1,Central,District,1.2352941176470589
+PRY.1_1,PRY,Paraguay,PRY.1_1,Alto Paraguay,Department,2.44
+ZWE.9_1,ZWE,Zimbabwe,ZWE.9_1,Matabeleland South,Province,1.5263157894736843
+ZWE.7_1,ZWE,Zimbabwe,ZWE.7_1,Masvingo,Province,1.9473684210526316
+PRY.5_1,PRY,Paraguay,PRY.5_1,Boquerón,Department,1.8666666666666667
+BRA.25_1,BRA,Brazil,BRA.25_1,São Paulo,State,2.0
+MDG.3_1,MDG,Madagascar,MDG.3_1,Fianarantsoa,Autonomous Province,2.0
+MUS.3_1,MUS,Mauritius,MUS.3_1,Flacq,District,2.0
+NAM.2_1,NAM,Namibia,NAM.2_1,Erongo,Region,1.0434782608695652
+NAM.8_1,NAM,Namibia,NAM.8_1,Omaheke,Region,1.0689655172413792
+BWA.11_1,BWA,Botswana,BWA.11_1,North-East,District,2.0
+NCL.2_1,NCL,New Caledonia,NCL.2_1,Nord,Province,2.0
+NCL.1_1,NCL,New Caledonia,NCL.1_1,Îles Loyauté,Province,0.0
+CHL.2_1,CHL,Chile,CHL.2_1,Antofagasta,Region,1.0
+BOL.9_1,BOL,Bolivia,BOL.9_1,Tarija,Department,2.0
+BRA.19_1,BRA,Brazil,BRA.19_1,Rio de Janeiro,State,2.066666666666667
+BWA.5_1,BWA,Botswana,BWA.5_1,Ghanzi,District,1.0
+MOZ.3_1,MOZ,Mozambique,MOZ.3_1,Inhambane,Province,2.6666666666666665
+REU.4_1,REU,Reunion,REU.4_1,Saint-Pierre,Arrondissement,2.0
+MOZ.2_1,MOZ,Mozambique,MOZ.2_1,Gaza,Province,2.1481481481481484
+NCL.3_1,NCL,New Caledonia,NCL.3_1,Sud,Province,2.6666666666666665
+ARG.10_1,ARG,Argentina,ARG.10_1,Jujuy,Province,1.7222222222222223
+ARG.17_1,ARG,Argentina,ARG.17_1,Salta,Province,1.9636363636363636
+PRY.17_1,PRY,Paraguay,PRY.17_1,Presidente Hayes,Department,2.888888888888889
+PRY.10_1,PRY,Paraguay,PRY.10_1,Concepción,Department,2.5
+PRY.3_1,PRY,Paraguay,PRY.3_1,Amambay,Department,2.0
+NAM.5_1,NAM,Namibia,NAM.5_1,Khomas,Region,1.2142857142857142
+ZAF.5_1,ZAF,South Africa,ZAF.5_1,Limpopo,Province,1.9318181818181819
+ARG.9_1,ARG,Argentina,ARG.9_1,Formosa,Province,2.7241379310344827
+BRA.16_1,BRA,Brazil,BRA.16_1,Paraná,State,2.0
+PRY.18_1,PRY,Paraguay,PRY.18_1,San Pedro,Department,2.25
+PRY.8_1,PRY,Paraguay,PRY.8_1,Canindeyú,Department,2.0
+NAM.3_1,NAM,Namibia,NAM.3_1,Hardap,Region,1.0
+BWA.7_1,BWA,Botswana,BWA.7_1,Kgalagadi,District,1.0
+BWA.9_1,BWA,Botswana,BWA.9_1,Kweneng,District,1.0
+BWA.8_1,BWA,Botswana,BWA.8_1,Kgatleng,District,1.0
+ARG.3_1,ARG,Argentina,ARG.3_1,Chaco,Province,2.9696969696969697
+BWA.15_1,BWA,Botswana,BWA.15_1,Southern,District,1.1666666666666667
+ZAF.6_1,ZAF,South Africa,ZAF.6_1,Mpumalanga,Province,2.1666666666666665
+MOZ.6_1,MOZ,Mozambique,MOZ.6_1,Maputo,Province,2.7
+PRY.2_1,PRY,Paraguay,PRY.2_1,Alto Paraná,Department,2.0
+BWA.14_1,BWA,Botswana,BWA.14_1,South-East,District,2.0
+ZAF.7_1,ZAF,South Africa,ZAF.7_1,North West,Province,2.0256410256410255
+ARG.2_1,ARG,Argentina,ARG.2_1,Catamarca,Province,1.3421052631578947
+PRY.11_1,PRY,Paraguay,PRY.11_1,Cordillera,Department,2.0
+PRY.6_1,PRY,Paraguay,PRY.6_1,Caaguazú,Department,2.0
+NAM.1_1,NAM,Namibia,NAM.1_1,!Karas,Region,1.0
+ZAF.8_1,ZAF,South Africa,ZAF.8_1,Northern Cape,Province,1.0289855072463767
+CHL.5_1,CHL,Chile,CHL.5_1,Atacama,Region,1.0
+ARG.22_1,ARG,Argentina,ARG.22_1,Santiago del Estero,Province,2.3518518518518516
+PRY.9_1,PRY,Paraguay,PRY.9_1,Central,Department,2.0
+PRY.16_1,PRY,Paraguay,PRY.16_1,Paraguarí,Department,2.25
+PRY.12_1,PRY,Paraguay,PRY.12_1,Guairá,Department,2.0
+PRY.7_1,PRY,Paraguay,PRY.7_1,Caazapá,Department,2.0
+ARG.14_1,ARG,Argentina,ARG.14_1,Misiones,Province,2.0
+ZAF.3_1,ZAF,South Africa,ZAF.3_1,Gauteng,Province,2.8333333333333335
+ARG.24_1,ARG,Argentina,ARG.24_1,Tucumán,Province,2.0
+PRY.15_1,PRY,Paraguay,PRY.15_1,Ñeembucú,Department,2.5
+PRY.13_1,PRY,Paraguay,PRY.13_1,Itapúa,Department,2.0
+BRA.24_1,BRA,Brazil,BRA.24_1,Santa Catarina,State,2.0
+SWZ.1_1,SWZ,Swaziland,SWZ.1_1,Hhohho,District,2.0
+SWZ.2_1,SWZ,Swaziland,SWZ.2_1,Lubombo,District,3.0
+AUS.8_1,AUS,Australia,AUS.8_1,South Australia,State,1.1571815718157181
+PRY.14_1,PRY,Paraguay,PRY.14_1,Misiones,Department,2.25
+SWZ.3_1,SWZ,Swaziland,SWZ.3_1,Manzini,District,2.0
+BRA.21_1,BRA,Brazil,BRA.21_1,Rio Grande do Sul,State,1.9595959595959596
+ZAF.2_1,ZAF,South Africa,ZAF.2_1,Free State,Province,2.3555555555555556
+SWZ.4_1,SWZ,Swaziland,SWZ.4_1,Shiselweni,District,3.0
+ZAF.4_1,ZAF,South Africa,ZAF.4_1,KwaZulu-Natal,Province,2.515151515151515
+ARG.7_1,ARG,Argentina,ARG.7_1,Corrientes,Province,2.25
+ARG.12_1,ARG,Argentina,ARG.12_1,La Rioja,Province,1.0
+ARG.21_1,ARG,Argentina,ARG.21_1,Santa Fe,Province,3.037037037037037
+AUS.5_1,AUS,Australia,AUS.5_1,New South Wales,State,1.7313915857605178
+ARG.18_1,ARG,Argentina,ARG.18_1,San Juan,Province,1.0
+LSO.2_1,LSO,Lesotho,LSO.2_1,Butha-Buthe,District,2.5
+CHL.7_1,CHL,Chile,CHL.7_1,Coquimbo,Region,1.2857142857142858
+LSO.1_1,LSO,Lesotho,LSO.1_1,Berea,District,2.5
+LSO.7_1,LSO,Lesotho,LSO.7_1,Mokhotlong,District,2.0
+ARG.6_1,ARG,Argentina,ARG.6_1,Córdoba,Province,2.8548387096774195
+LSO.4_1,LSO,Lesotho,LSO.4_1,Mafeteng,District,3.0
+LSO.5_1,LSO,Lesotho,LSO.5_1,Maseru,District,3.0
+LSO.10_1,LSO,Lesotho,LSO.10_1,Thaba-Tseka,District,3.0
+ARG.8_1,ARG,Argentina,ARG.8_1,Entre Ríos,Province,2.8275862068965516
+URY.1_1,URY,Uruguay,URY.1_1,Artigas,Department,2.0
+LSO.6_1,LSO,Lesotho,LSO.6_1,Mohale's Hoek,District,3.0
+LSO.9_1,LSO,Lesotho,LSO.9_1,Quthing,District,3.0
+ZAF.1_1,ZAF,South Africa,ZAF.1_1,Eastern Cape,Province,2.169230769230769
+URY.15_1,URY,Uruguay,URY.15_1,Salto,Department,2.0
+ZAF.9_1,ZAF,South Africa,ZAF.9_1,Western Cape,Province,1.6326530612244898
+URY.13_1,URY,Uruguay,URY.13_1,Rivera,Department,2.0
+URY.11_1,URY,Uruguay,URY.11_1,Paysandú,Department,2.4
+URY.18_1,URY,Uruguay,URY.18_1,Tacuarembó,Department,2.0
+CHL.16_1,CHL,Chile,CHL.16_1,Valparaíso,Region,1.8
+ARG.13_1,ARG,Argentina,ARG.13_1,Mendoza,Province,1.0806451612903225
+ARG.19_1,ARG,Argentina,ARG.19_1,San Luis,Province,1.5333333333333334
+URY.3_1,URY,Uruguay,URY.3_1,Cerro Largo,Department,2.25
+URY.12_1,URY,Uruguay,URY.12_1,Río Negro,Department,2.6666666666666665
+URY.5_1,URY,Uruguay,URY.5_1,Durazno,Department,2.2
+URY.19_1,URY,Uruguay,URY.19_1,Treinta y Tres,Department,2.0
+CHL.14_1,CHL,Chile,CHL.14_1,Región Metropolitana de Santiago,Region,1.6666666666666667
+URY.17_1,URY,Uruguay,URY.17_1,Soriano,Department,2.25
+URY.6_1,URY,Uruguay,URY.6_1,Flores,Department,2.0
+URY.7_1,URY,Uruguay,URY.7_1,Florida,Department,2.5
+URY.8_1,URY,Uruguay,URY.8_1,Lavalleja,Department,2.5
+URY.14_1,URY,Uruguay,URY.14_1,Rocha,Department,2.0
+ARG.1_1,ARG,Argentina,ARG.1_1,Buenos Aires,Province,2.712
+CHL.8_1,CHL,Chile,CHL.8_1,Libertador General Bernardo O'Higgins,Region,1.8571428571428572
+URY.4_1,URY,Uruguay,URY.4_1,Colonia,Department,2.5
+URY.16_1,URY,Uruguay,URY.16_1,San José,Department,2.0
+URY.2_1,URY,Uruguay,URY.2_1,Canelones,Department,2.6666666666666665
+URY.9_1,URY,Uruguay,URY.9_1,Maldonado,Department,2.6666666666666665
+AUS.10_1,AUS,Australia,AUS.10_1,Victoria,State,1.934065934065934
+CHL.12_1,CHL,Chile,CHL.12_1,Maule,Region,1.9
+ARG.11_1,ARG,Argentina,ARG.11_1,La Pampa,Province,1.7222222222222223
+NZL.11_1,NZL,New Zealand,NZL.11_1,Northland,Region,2.0
+CHL.13_1,CHL,Chile,CHL.13_1,Ñuble,Region,2.0
+CHL.6_1,CHL,Chile,CHL.6_1,Bío-Bío,Region,2.0
+ARG.15_1,ARG,Argentina,ARG.15_1,Neuquén,Province,1.5
+NZL.1_1,NZL,New Zealand,NZL.1_1,Auckland,Region,2.0
+NZL.17_1,NZL,New Zealand,NZL.17_1,Waikato,Region,2.0
+CHL.3_1,CHL,Chile,CHL.3_1,Araucanía,Region,2.0
+NZL.2_1,NZL,New Zealand,NZL.2_1,Bay of Plenty,Region,2.0
+NZL.5_1,NZL,New Zealand,NZL.5_1,Gisborne,Region,2.0
+ARG.16_1,ARG,Argentina,ARG.16_1,Río Negro,Province,1.0823529411764705
+NZL.15_1,NZL,New Zealand,NZL.15_1,Taranaki,Region,2.0
+NZL.7_1,NZL,New Zealand,NZL.7_1,Manawatu-Wanganui,Region,2.0
+NZL.6_1,NZL,New Zealand,NZL.6_1,Hawke's Bay,Region,2.0
+CHL.10_1,CHL,Chile,CHL.10_1,Los Ríos,Region,2.0
+CHL.9_1,CHL,Chile,CHL.9_1,Los Lagos,Region,1.9545454545454546
+AUS.9_1,AUS,Australia,AUS.9_1,Tasmania,State,2.0
+NZL.18_1,NZL,New Zealand,NZL.18_1,Wellington,Region,2.0
+NZL.19_1,NZL,New Zealand,NZL.19_1,West Coast,Region,2.0
+NZL.16_1,NZL,New Zealand,NZL.16_1,Tasman,Region,2.0
+NZL.8_1,NZL,New Zealand,NZL.8_1,Marlborough,Region,2.1666666666666665
+ARG.4_1,ARG,Argentina,ARG.4_1,Chubut,Province,1.1515151515151516
+NZL.3_1,NZL,New Zealand,NZL.3_1,Canterbury,Region,2.0476190476190474
+NZL.4_1,NZL,New Zealand,NZL.4_1,Chatham Islands,Territory,0.0
+CHL.1_1,CHL,Chile,CHL.1_1,Aisén del General Carlos Ibáñez del Campo,Region,1.9215686274509804
+NZL.12_1,NZL,New Zealand,NZL.12_1,Otago,Region,2.0
+NZL.14_1,NZL,New Zealand,NZL.14_1,Southland,Region,2.0
+ARG.20_1,ARG,Argentina,ARG.20_1,Santa Cruz,Province,1.0583333333333333
+CHL.11_1,CHL,Chile,CHL.11_1,Magallanes y Antártica Chilena,Region,1.8823529411764706
+ATF.4_1,ATF,French Southern Territories,ATF.4_1,Kerguelen,District,2.0
+ARG.23_1,ARG,Argentina,ARG.23_1,Tierra del Fuego,National Territory,1.6923076923076923
