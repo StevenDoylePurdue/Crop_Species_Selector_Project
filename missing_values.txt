@@ -1,0 +1,2 @@
+	temp_difference	dry_season_type	elevation	growing_period	precipitation	wet_temp	Sand	Silt	Clay	OC	CN	pH	Total
+Missing Values	0	545	0	545	0	0	767	767	767	767	767	767	5692

@@ -26,6 +26,9 @@ def consolidate(df, variable):
     ticker = 1
     # Create means for each variable
     for name in datadf.index:  # Loop through each unique subnational name
+
+        var = df.loc[df['GID_1'] == name, 'grid_code'].mean()  # Use mean for float columns
+
         g0 = df.loc[df['GID_1'] == name, 'GID_0'].to_list()[0]  # All these values will be the same
 
         n0 = df.loc[df['GID_1'] == name, 'NAME_0'].to_list()[0]
@@ -36,9 +39,9 @@ def consolidate(df, variable):
 
         en = df.loc[df['GID_1'] == name, 'ENGTYPE_1'].to_list()[0]
 
-        var = df.loc[df['GID_1'] == name, 'grid_code'].mean()  # Use mean for float columns
 
-        datadf.loc[name] = [g0, n0, g1, n1, en, var]
+
+        datadf.loc[name] = [var, g0, n0, g1, n1, en]
         print('row', ticker)
         ticker+=1
 
@@ -55,15 +58,16 @@ if __name__ == '__main__':
 
     file_list = ['diurnal', 'dry_seasons', 'precip', 'el', 'growing_period', 'wet_temp']
 
-    variable_names = ['temp_difference', 'dry_season_type', 'elevation', 'growing_period', 'growing_temp']
+    variable_names = ['temp_difference', 'dry_season_type', 'precipitation', 'elevation',
+                      'growing_period', 'wet_temp']
 
     # Consolidate the subnational jurisdictions by averaging all values within them
-    for i in range(0,5):
+    for i in range(0,6):
         df = pd.read_csv('raw_env_var_csv/checked_{}_join.csv'.format(file_list[i]))
-        print('csv {} red'.format(i))
+        print('csv {} read'.format(file_list[i]))
         consoldf = consolidate(df, variable_names[i])
         print('csv {} consolidated'.format(i))
-        consoldf.to_csv('processed_env_files/processed_{}.csv'.format(file_list[i]), header=True, index=True)
+        consoldf.to_csv('processed_env_files/processed_{}.csv'.format(file_list[i]), header=True, index=False)
 
 
 

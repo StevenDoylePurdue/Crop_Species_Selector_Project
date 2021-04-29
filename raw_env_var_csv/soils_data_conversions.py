@@ -23,7 +23,7 @@ def process_ref(soil_ref):
     soil_ref = soil_ref.replace('-1', '0')  # -1 is used for na values, replace it with 0 for statistical uses
 
     soil_ref = soil_ref[['type', 'sand % topsoil', 'silt % topsoil', 'clay % topsoil', 'OC % topsoil',
-                        'C/N topsoil']].copy()  # These are the relevant columns
+                        'C/N topsoil', 'pH water topsoil']].copy()  # These are the relevant columns
 
 
     soil_ref = soil_ref[soil_ref['type'].map(len) < 3]  # Drop rows for soil type variants which are listed with > 2 chars
@@ -66,12 +66,14 @@ def merge_soils(soil_join, soil_ref):
     clay_dict = soil_ref['clay % topsoil'].to_dict()
     oc_dict = soil_ref['OC % topsoil'].to_dict()
     cn_dict = soil_ref['C/N topsoil'].to_dict()
+    ph_dict = soil_ref['pH water topsoil'].to_dict()
 
     soil_join['Sand'] = soil_join['Soil_Code'].map(sand_dict)  # Map each column using the index and the soil code
     soil_join['Silt'] = soil_join['Soil_Code'].map(silt_dict)
     soil_join['Clay'] = soil_join['Soil_Code'].map(clay_dict)
     soil_join['OC'] = soil_join['Soil_Code'].map(oc_dict)
     soil_join['CN'] = soil_join['Soil_Code'].map(cn_dict)
+    soil_join['pH'] = soil_join['Soil_Code'].map(ph_dict)
 
     soil_join = soil_join.drop('Soil_Code', axis=1)  # Drop the soil code because it is no longer needed
 
@@ -102,9 +104,8 @@ def consolidate(soil_df):
         cl = soil_df.loc[soil_df['GID_1'] == name, 'Clay'].mean()
         oc = soil_df.loc[soil_df['GID_1'] == name, 'OC'].mean()
         cn = soil_df.loc[soil_df['GID_1'] == name, 'CN'].mean()
-        datadf.loc[name] = [g0, n0, g1, n1, en, sa, si, cl, oc, cn]
-
-    datadf = datadf.drop('GID_1', axis=1)  # Drop duplicate column
+        ph = soil_df.loc[soil_df['GID_1'] == name, 'pH'].mean()
+        datadf.loc[name] = [g0, n0, g1, n1, en, sa, si, cl, oc, cn, ph]
 
     datadf = datadf.fillna(0)
 
@@ -128,4 +129,4 @@ if __name__ == '__main__':
     # Consolidate the subnational jurisdictions by averaging all values within them
     final_soil = consolidate(soil_df)
 
-    final_soil.to_csv('processed_soil.csv', header=True, index=True)
+    final_soil.to_csv('processed_soil.csv', header=True, index=False)

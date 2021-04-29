@@ -1,0 +1,3132 @@
+wet_temp,GID_0,NAME_0,GID_1,NAME_1,ENGTYPE_1
+-18.99717907,GRL,Greenland,GRL.2_1,Northeast Greenland National Park,National Park
+2.623012157,CAN,Canada,CAN.8_1,Nunavut,Territory
+7.673393678,RUS,Russia,RUS.4_1,Arkhangel'sk,Region
+8.224278645,RUS,Russia,RUS.35_1,Krasnoyarsk,Territory
+-9.473017808,GRL,Greenland,GRL.3_1,Qaasuitsup,Commune
+-12.37919217,SJM,Svalbard and Jan Mayen,SJM.2_1,Svalbard,Territory
+8.523942584,CAN,Canada,CAN.6_1,Northwest Territories,Territory
+10.6769693,RUS,Russia,RUS.60_1,Sakha,Republic
+8.966664615,RUS,Russia,RUS.80_1,Yamal-Nenets,Autonomous Province
+-18.55909587,GRL,Greenland,GRL.5_1,Sermersooq,Commune
+6.402458457,RUS,Russia,RUS.12_1,Chukot,Autonomous Province
+8.630495562,USA,United States,USA.2_1,Alaska,State
+-2.936607775,SJM,Svalbard and Jan Mayen,SJM.1_1,Jan Mayen,Territory
+7.839413679,NOR,Norway,NOR.5_1,Finnmark,County
+7.448068429,RUS,Russia,RUS.46_1,Nenets,Autonomous Province
+5.068963815,NOR,Norway,NOR.17_1,Troms,County
+11.47099644,FIN,Finland,FIN.2_1,Lapland,Province
+9.977285171,RUS,Russia,RUS.45_1,Murmansk,Region
+9.721056795,CAN,Canada,CAN.13_1,Yukon,Territory
+1.336118157,NOR,Norway,NOR.10_1,Nordland,County
+10.68811645,SWE,Sweden,SWE.10_1,Norrbotten,County
+11.52478299,RUS,Russia,RUS.32_1,Komi,Republic
+-2.700029575,GRL,Greenland,GRL.4_1,Qeqqata,Commune
+11.71638117,RUS,Russia,RUS.26_1,Karelia,Republic
+0.98434648,ISL,Iceland,ISL.7_1,Vestfirðir,Region
+1.821919463,ISL,Iceland,ISL.2_1,Hálshreppur,Region
+12.78447482,FIN,Finland,FIN.3_1,Oulu,Province
+10.66061044,SWE,Sweden,SWE.18_1,Västerbotten,County
+9.354566768,RUS,Russia,RUS.40_1,Maga Buryatdan,Region
+3.983264121,ISL,Iceland,ISL.4_1,Norðurland vestra,Region
+1.618092463,ISL,Iceland,ISL.1_1,Austurland,Region
+14.44552407,RUS,Russia,RUS.30_1,Khanty-Mansiy,Autonomous Province
+-1.078424505,ISL,Iceland,ISL.8_1,Vesturland,Region
+5.456080832,NOR,Norway,NOR.9_1,Nord-Trøndelag,County
+10.7691492,SWE,Sweden,SWE.6_1,Jämtland,County
+2.053975669,ISL,Iceland,ISL.5_1,Suðurland,Region
+6.516489341,RUS,Russia,RUS.24_1,Kamchatka,Territory
+-1.223142017,ISL,Iceland,ISL.3_1,Höfuðborgarsvæði,Region
+6.906624649,NOR,Norway,NOR.15_1,Sør-Trøndelag,County
+14.08974194,RUS,Russia,RUS.18_1,Irkutsk,Region
+12.74449122,FIN,Finland,FIN.5_1,Western Finland,Province
+-0.2221622,ISL,Iceland,ISL.6_1,Suðurnes,Independent Town
+11.65651597,SWE,Sweden,SWE.19_1,Västernorrland,County
+13.99946183,FIN,Finland,FIN.1_1,Eastern Finland,Province
+10.5178512,CAN,Canada,CAN.11_1,Québec,Province
+0.808266157,NOR,Norway,NOR.8_1,Møre og Romsdal,County
+-6.546499692,GRL,Greenland,GRL.1_1,Kujalleq,Commune
+10.92194465,NOR,Norway,NOR.6_1,Hedmark,County
+12.34502934,RUS,Russia,RUS.28_1,Khabarovsk,Territory
+4.52476005,FRO,Faroe Islands,FRO.1_1,Eysturoyar,Region
+4.9457998,FRO,Faroe Islands,FRO.2_1,Norderøerne,Region
+6.384602499,NOR,Norway,NOR.11_1,Oppland,County
+13.23634952,SWE,Sweden,SWE.3_1,Gävleborg,County
+5.06779005,FRO,Faroe Islands,FRO.6_1,Vågø,Region
+4.84902,FRO,Faroe Islands,FRO.4_1,Streymoyar,Region
+12.72646537,SWE,Sweden,SWE.2_1,Dalarna,County
+-1.551564276,NOR,Norway,NOR.14_1,Sogn og Fjordane,County
+15.75402275,RUS,Russia,RUS.66_1,Sverdlovsk,Region
+11.40414468,FIN,Finland,FIN.4_1,Southern Finland,Province
+5.60720995,FRO,Faroe Islands,FRO.5_1,Suðuroyar,Region
+14.90178259,RUS,Russia,RUS.78_1,Vologda,Region
+14.35962524,RUS,Russia,RUS.55_1,Perm',Territory
+13.70109713,RUS,Russia,RUS.38_1,Leningrad,Region
+0.936192764,NOR,Norway,NOR.7_1,Hordaland,County
+6.848334416,NOR,Norway,NOR.4_1,Buskerud,County
+11.29860638,SWE,Sweden,SWE.17_1,Värmland,County
+15.62016766,RUS,Russia,RUS.31_1,Kirov,Region
+15.88307541,RUS,Russia,RUS.69_1,Tomsk,Region
+4.532356231,GBR,United Kingdom,GBR.3_1,Scotland,Kingdom
+8.039149796,CAN,Canada,CAN.5_1,Newfoundland and Labrador,Province
+14.06873784,SWE,Sweden,SWE.16_1,Uppsala,County
+6.962835834,NOR,Norway,NOR.1_1,Akershus,County
+10.8917999,ALA,Åland,ALA.5_1,Geta,Municipality
+14.22817144,SWE,Sweden,SWE.20_1,Västmanland,County
+10.8987999,ALA,Åland,ALA.2_1,Eckerö,Municipality
+10.8755999,ALA,Åland,ALA.6_1,Hammarland,Municipality
+10.8917999,ALA,Åland,ALA.3_1,Finström,Municipality
+8.8820851,ALA,Åland,ALA.15_1,Sund,Municipality
+7.0461202,ALA,Åland,ALA.16_1,Vårdö,Municipality
+14.4966636,RUS,Russia,RUS.14_1,City of St. Petersburg,City
+4.927648485,NOR,Norway,NOR.16_1,Telemark,County
+7.44304015,NOR,Norway,NOR.12_1,Oslo,County
+14.17936177,SWE,Sweden,SWE.15_1,Stockholm,County
+6.8554702,ALA,Åland,ALA.12_1,Mariehamn,Municipality
+7.00072,ALA,Åland,ALA.10_1,Lemland,Municipality
+7.0468998,ALA,Åland,ALA.11_1,Lumparland,Municipality
+7.1549702,ALA,Åland,ALA.4_1,Föglö,Municipality
+4.876193067,CAN,Canada,CAN.2_1,British Columbia,Province
+14.08646112,CAN,Canada,CAN.1_1,Alberta,Province
+15.0561859,CAN,Canada,CAN.12_1,Saskatchewan,Province
+14.25832535,CAN,Canada,CAN.3_1,Manitoba,Province
+13.81939632,SWE,Sweden,SWE.11_1,Orebro,County
+7.1981602,ALA,Åland,ALA.8_1,Kökar,Municipality
+16.37390608,RUS,Russia,RUS.73_1,Tyumen',Region
+2.505688926,NOR,Norway,NOR.13_1,Rogaland,County
+6.587270732,NOR,Norway,NOR.2_1,Ãstfold,County
+3.427252767,NOR,Norway,NOR.3_1,Aust-Agder,County
+6.663727692,NOR,Norway,NOR.19_1,Vestfold,County
+13.405224,EST,Estonia,EST.1_1,Harju,County
+13.78331519,EST,Estonia,EST.6_1,Lääne-Viru,County
+15.8972263,RUS,Russia,RUS.33_1,Kostroma,Region
+14.54483664,SWE,Sweden,SWE.14_1,Södermanland,County
+14.48725264,EST,Estonia,EST.3_1,Ida-Viru,County
+9.143007825,SWE,Sweden,SWE.21_1,Västra Götaland,County
+13.90590621,EST,Estonia,EST.4_1,Järva,County
+15.50420096,RUS,Russia,RUS.49_1,Novgorod,Region
+3.447896586,NOR,Norway,NOR.18_1,Vest-Agder,County
+7.47906745,EST,Estonia,EST.2_1,Hiiu,County
+12.61468469,EST,Estonia,EST.7_1,Lääne,County
+14.29391565,EST,Estonia,EST.11_1,Rapla,County
+14.28468005,SWE,Sweden,SWE.12_1,Östergötland,County
+14.55349255,EST,Estonia,EST.5_1,Jõgeva,County
+15.2003909,EST,Estonia,EST.9_1,Peipsi,Water body
+15.53989496,RUS,Russia,RUS.57_1,Pskov,Region
+16.14798132,RUS,Russia,RUS.81_1,Yaroslavl',Region
+15.8936886,RUS,Russia,RUS.72_1,Tver',Region
+7.993338543,EST,Estonia,EST.12_1,Saare,County
+13.04021612,EST,Estonia,EST.8_1,Pärnu,County
+14.62440957,EST,Estonia,EST.15_1,Viljandi,County
+14.99582948,EST,Estonia,EST.13_1,Tartu,County
+15.39347557,RUS,Russia,RUS.74_1,Udmurt,Republic
+17.00300961,RUS,Russia,RUS.51_1,Omsk,Region
+14.08978565,RUS,Russia,RUS.83_1,Zabaykal'ye,Territory
+11.66934428,SWE,Sweden,SWE.7_1,Jönköping,County
+13.03891885,SWE,Sweden,SWE.8_1,Kalmar,County
+14.80270915,EST,Estonia,EST.14_1,Valga,County
+16.1401223,EST,Estonia,EST.10_1,Põlva,County
+8.04983801,SWE,Sweden,SWE.4_1,Gotland,County
+14.81133329,LVA,Latvia,LVA.3_1,Riga,Province
+14.29274181,LVA,Latvia,LVA.4_1,Vidzeme,Province
+15.7819332,EST,Estonia,EST.16_1,Võru,County
+16.88728218,RUS,Russia,RUS.47_1,Nizhegorod,Region
+11.11867425,LVA,Latvia,LVA.1_1,Kurzeme,Province
+9.819120567,DNK,Denmark,DNK.3_1,Nordjylland,Region
+16.33108593,RUS,Russia,RUS.19_1,Ivanovo,Region
+6.19429131,SWE,Sweden,SWE.5_1,Halland,County
+15.91539745,LVA,Latvia,LVA.2_1,Latgale,Province
+17.07260555,RUS,Russia,RUS.41_1,Mariy-El,Republic
+11.71167149,SWE,Sweden,SWE.9_1,Kronoberg,County
+17.0263849,RUS,Russia,RUS.50_1,Novosibirsk,Region
+12.58752226,RUS,Russia,RUS.9_1,Buryat,Republic
+16.84963279,RUS,Russia,RUS.44_1,Moskva,Region
+15.8320703,RUS,Russia,RUS.3_1,Amur,Region
+13.28247857,CAN,Canada,CAN.9_1,Ontario,Province
+9.465187265,DNK,Denmark,DNK.2_1,Midtjylland,Region
+15.56983279,LVA,Latvia,LVA.5_1,Zemgale,Province
+16.85836176,RUS,Russia,RUS.76_1,Vladimir,Region
+17.67997211,RUS,Russia,RUS.36_1,Kurgan,Region
+15.83256016,RUS,Russia,RUS.27_1,Kemerovo,Region
+17.54028385,RUS,Russia,RUS.68_1,Tatarstan,Republic
+8.234650523,SWE,Sweden,SWE.13_1,Skåne,County
+7.336308194,SWE,Sweden,SWE.1_1,Blekinge,County
+13.9548457,LTU,Lithuania,LTU.8_1,Telšiai,County
+16.98618475,RUS,Russia,RUS.6_1,Bashkortostan,Republic
+11.13483073,LTU,Lithuania,LTU.3_1,Klaipedos,County
+15.95542219,LTU,Lithuania,LTU.6_1,Šiauliai,County
+16.34802246,LTU,Lithuania,LTU.5_1,Panevezio,County
+17.2523917,RUS,Russia,RUS.13_1,Chuvash,Republic
+17.0633322,RUS,Russia,RUS.11_1,Chelyabinsk,Region
+13.34246618,DNK,Denmark,DNK.1_1,Hovedstaden,Region
+15.99367693,BLR,Belarus,BLR.6_1,Vitsyebsk,Region
+9.599445051,DNK,Denmark,DNK.5_1,Syddanmark,Region
+16.10074478,DNK,Denmark,DNK.4_1,Sjælland,Region
+16.02018378,RUS,Russia,RUS.64_1,Smolensk,Region
+17.05627114,RUS,Russia,RUS.43_1,Moscow City,City
+5.994407517,GBR,United Kingdom,GBR.1_1,England,Kingdom
+16.13575827,LTU,Lithuania,LTU.9_1,Utenos,County
+15.71853672,LTU,Lithuania,LTU.7_1,Taurages,County
+16.17693543,LTU,Lithuania,LTU.2_1,Kauno,County
+15.98898253,LTU,Lithuania,LTU.10_1,Vilniaus,County
+6.606933496,IRL,Ireland,IRL.5_1,Donegal,County
+15.42826833,RUS,Russia,RUS.21_1,Kaliningrad,Region
+16.46685285,RUS,Russia,RUS.23_1,Kaluga,Region
+17.93167415,RUS,Russia,RUS.59_1,Ryazan',Region
+18.46965053,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,Region
+14.16625958,RUS,Russia,RUS.29_1,Khakass,Republic
+6.080900414,GBR,United Kingdom,GBR.2_1,Northern Ireland,Province
+16.29924769,LTU,Lithuania,LTU.4_1,Marijampoles,County
+17.42745803,RUS,Russia,RUS.42_1,Mordovia,Republic
+15.90069601,BLR,Belarus,BLR.3_1,Hrodna,Region
+16.26664542,BLR,Belarus,BLR.5_1,Minsk,Region
+10.52940481,DEU,Germany,DEU.15_1,Schleswig-Holstein,State
+16.01750652,POL,Poland,POL.11_1,Pomorskie,Province|Voivodeship
+17.6567262,RUS,Russia,RUS.70_1,Tula,Region
+18.1340914,RUS,Russia,RUS.75_1,Ul'yanovsk,Region
+19.5143665,RUS,Russia,RUS.62_1,Samara,Region
+15.09196062,KAZ,Kazakhstan,KAZ.10_1,Qostanay,Region
+5.944413664,IRL,Ireland,IRL.21_1,Sligo,County
+5.528291429,IRL,Ireland,IRL.12_1,Leitrim,County
+16.53312545,DEU,Germany,DEU.8_1,Mecklenburg-Vorpommern,State
+16.95903028,POL,Poland,POL.16_1,Zachodniopomorskie,Province|Voivodeship
+16.69201361,POL,Poland,POL.14_1,Warmińsko-Mazurskie,Province|Voivodeship
+16.19965762,LTU,Lithuania,LTU.1_1,Alytaus,County
+16.55166576,BLR,Belarus,BLR.4_1,Mahilyow,Region
+19.58097665,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,Region
+7.211833623,IRL,Ireland,IRL.16_1,Mayo,County
+5.88282294,IRL,Ireland,IRL.2_1,Cavan,County
+6.28707408,IRL,Ireland,IRL.18_1,Monaghan,County
+6.8922501,IMN,Isle of Man,IMN.4_1,Michael, 
+6.5055699,IMN,Isle of Man,IMN.2_1,Garff, 
+16.50629372,POL,Poland,POL.10_1,Podlaskie,Province|Voivodeship
+19.43229969,RUS,Russia,RUS.53_1,Orenburg,Region
+17.67667151,RUS,Russia,RUS.2_1,Altay,Territory
+9.652640371,RUS,Russia,RUS.61_1,Sakhalin,Region
+5.882557236,IRL,Ireland,IRL.20_1,Roscommon,County
+7.5102401,IMN,Isle of Man,IMN.6_1,Rushen, 
+5.433740167,IRL,Ireland,IRL.15_1,Louth,County
+16.94597133,RUS,Russia,RUS.8_1,Bryansk,Region
+18.02918658,RUS,Russia,RUS.54_1,Penza,Region
+5.6608251,IRL,Ireland,IRL.14_1,Longford,County
+5.962452525,IRL,Ireland,IRL.17_1,Meath,County
+13.62671665,DEU,Germany,DEU.9_1,Niedersachsen,State
+17.27721653,POL,Poland,POL.2_1,Kujawsko-Pomorskie,Province|Voivodeship
+18.37048178,RUS,Russia,RUS.67_1,Tambov,Region
+11.84299997,RUS,Russia,RUS.71_1,Tuva,Republic
+7.550068883,IRL,Ireland,IRL.7_1,Galway,County
+6.891666667,IRL,Ireland,IRL.24_1,Westmeath,County
+6.3807825,IRL,Ireland,IRL.6_1,Dublin,County
+16.46940043,DEU,Germany,DEU.5_1,Bremen,State
+16.78975984,DEU,Germany,DEU.6_1,Hamburg,State
+17.46589728,POL,Poland,POL.15_1,Wielkopolskie,Province|Voivodeship
+17.5169653,RUS,Russia,RUS.52_1,Orel,Region
+18.38339179,KAZ,Kazakhstan,KAZ.2_1,Aqmola,Region
+6.30919601,IRL,Ireland,IRL.9_1,Kildare,County
+6.212094938,GBR,United Kingdom,GBR.4_1,Wales,Principality
+9.782132259,NLD,Netherlands,NLD.3_1,Friesland,Province
+10.35493986,NLD,Netherlands,NLD.5_1,Groningen,Province
+17.41873474,DEU,Germany,DEU.4_1,Brandenburg,State
+17.34405796,POL,Poland,POL.7_1,Mazowieckie,Province|Voivodeship
+18.32496456,RUS,Russia,RUS.39_1,Lipetsk,Region
+19.05847772,CHN,China,CHN.11_1,Heilongjiang,Province
+7.375134411,IRL,Ireland,IRL.19_1,Offaly,County
+16.50611252,BLR,Belarus,BLR.1_1,Brest,Region
+17.1935854,BLR,Belarus,BLR.2_1,Homyel',Region
+19.41363563,CHN,China,CHN.19_1,Nei Mongol,Autonomous Region
+7.236177927,IRL,Ireland,IRL.3_1,Clare,County
+6.053706065,IRL,Ireland,IRL.22_1,Tipperary,County
+6.751652914,IRL,Ireland,IRL.11_1,Laoighis,County
+5.74155503,IRL,Ireland,IRL.26_1,Wicklow,County
+10.40344651,NLD,Netherlands,NLD.9_1,Noord-Holland,Province
+6.173696123,NLD,Netherlands,NLD.1_1,Drenthe,Province
+17.53457431,POL,Poland,POL.5_1,Lubuskie,Province|Voivodeship
+10.42732301,NLD,Netherlands,NLD.6_1,IJsselmeer,Water body
+16.56400386,DEU,Germany,DEU.13_1,Sachsen-Anhalt,State
+6.117341144,IRL,Ireland,IRL.10_1,Kilkenny,County
+6.1224799,IRL,Ireland,IRL.1_1,Carlow,County
+6.701955825,IRL,Ireland,IRL.25_1,Wexford,County
+8.803452814,NLD,Netherlands,NLD.2_1,Flevoland,Province
+5.691559338,NLD,Netherlands,NLD.10_1,Overijssel,Province
+17.16027214,RUS,Russia,RUS.63_1,Saratov,Region
+6.477158431,IRL,Ireland,IRL.13_1,Limerick,County
+17.92592012,DEU,Germany,DEU.3_1,Berlin,State
+10.93367451,RUS,Russia,RUS.16_1,Gorno-Altay,Republic
+6.852598926,IRL,Ireland,IRL.8_1,Kerry,County
+5.840945038,NLD,Netherlands,NLD.4_1,Gelderland,Province
+9.446238712,DEU,Germany,DEU.10_1,Nordrhein-Westfalen,State
+17.96842639,RUS,Russia,RUS.37_1,Kursk,Region
+6.548802478,IRL,Ireland,IRL.4_1,Cork,County
+5.4930966,IRL,Ireland,IRL.23_1,Waterford,County
+7.3798534,NLD,Netherlands,NLD.11_1,Utrecht,Province
+17.36610358,POL,Poland,POL.3_1,Łódzkie,Province|Voivodeship
+17.82319024,UKR,Ukraine,UKR.2_1,Chernihiv,Region
+18.05502223,UKR,Ukraine,UKR.21_1,Sumy,Region
+9.90482575,NLD,Netherlands,NLD.14_1,Zuid-Holland,Province
+17.13000177,POL,Poland,POL.4_1,Lubelskie,Province|Voivodeship
+18.94618595,RUS,Russia,RUS.79_1,Voronezh,Region
+10.71125401,MNG,Mongolia,MNG.14_1,Hövsgöl,Province
+16.50238781,UKR,Ukraine,UKR.25_1,Volyn,Region
+16.90034439,UKR,Ukraine,UKR.19_1,Rivne,Region
+11.1294667,NLD,Netherlands,NLD.13_1,Zeeuwse meren,Water body
+6.998510048,NLD,Netherlands,NLD.8_1,Noord-Brabant,Province
+13.55579715,NLD,Netherlands,NLD.7_1,Limburg,Province
+16.61746304,POL,Poland,POL.1_1,Dolnośląskie,Province|Voivodeship
+10.85502833,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,Region
+10.75963279,NLD,Netherlands,NLD.12_1,Zeeland,Province
+10.25562358,DEU,Germany,DEU.7_1,Hessen,State
+13.63983007,DEU,Germany,DEU.16_1,Thüringen,State
+16.87918187,DEU,Germany,DEU.14_1,Sachsen,State
+16.98448417,UKR,Ukraine,UKR.27_1,Zhytomyr,Region
+16.16546844,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,Region
+9.736248516,BEL,Belgium,BEL.2_1,Vlaanderen,Region
+18.28380548,UKR,Ukraine,UKR.12_1,Kiev,Region
+17.20732829,POL,Poland,POL.13_1,Świętokrzyskie,Province|Voivodeship
+18.80874647,RUS,Russia,RUS.7_1,Belgorod,Region
+13.04972983,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,Region
+11.62037093,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,Region
+17.15351384,POL,Poland,POL.8_1,Opolskie,Province|Voivodeship
+16.84561516,POL,Poland,POL.12_1,Śląskie,Province|Voivodeship
+19.54867646,RUS,Russia,RUS.77_1,Volgograd,Region
+9.133605585,FRA,France,FRA.7_1,Hauts-de-France,Region
+8.711744015,DEU,Germany,DEU.11_1,Rheinland-Pfalz,State
+16.75539593,CZE,Czech Republic,CZE.13_1,Ústecký,Region
+15.83558559,CZE,Czech Republic,CZE.6_1,Liberecký,Region
+7.906319282,BEL,Belgium,BEL.3_1,Wallonie,Region
+15.9296136,CZE,Czech Republic,CZE.5_1,Královéhradecký,Region
+16.31670651,POL,Poland,POL.9_1,Podkarpackie,Province|Voivodeship
+15.69913431,MNG,Mongolia,MNG.22_1,Uvs,Province
+16.80942084,CZE,Czech Republic,CZE.12_1,Středočeský,Region
+15.14602814,UKR,Ukraine,UKR.14_1,L'viv,Region
+16.74905817,UKR,Ukraine,UKR.10_1,Khmel'nyts'kyy,Region
+18.7149749,UKR,Ukraine,UKR.11_1,Kiev City,Independent City
+15.18621993,DEU,Germany,DEU.2_1,Bayern, 
+15.01665623,CZE,Czech Republic,CZE.3_1,Karlovarský,Region
+16.16824991,CZE,Czech Republic,CZE.8_1,Olomoucký,Region
+16.49408861,POL,Poland,POL.6_1,Małopolskie,Province|Voivodeship
+18.85414609,UKR,Ukraine,UKR.18_1,Poltava,Region
+18.30445512,UKR,Ukraine,UKR.8_1,Kharkiv,Region
+16.30411256,MNG,Mongolia,MNG.18_1,Selenge,Province
+15.92648003,CZE,Czech Republic,CZE.7_1,Moravskoslezský,Region
+15.66800976,UKR,Ukraine,UKR.22_1,Ternopil',Region
+14.26168154,MNG,Mongolia,MNG.4_1,Bulgan,Province
+18.38257125,MNG,Mongolia,MNG.6_1,Dornod,Province
+9.084247131,FRA,France,FRA.6_1,Grand Est,Region
+2.22942604,LUX,Luxembourg,LUX.1_1,Diekirch,District
+16.60824965,CZE,Czech Republic,CZE.11_1,Prague,Region
+16.22731912,CZE,Czech Republic,CZE.9_1,Pardubický,Region
+18.43881585,UKR,Ukraine,UKR.1_1,Cherkasy,Region
+19.58044394,RUS,Russia,RUS.58_1,Rostov,Region
+7.600069979,FRA,France,FRA.9_1,Normandie,Region
+15.76621654,CZE,Czech Republic,CZE.10_1,Plzeňský,Region
+18.56948942,UKR,Ukraine,UKR.15_1,Luhans'k,Region
+9.655009461,MNG,Mongolia,MNG.2_1,Bayan-Ölgiy,Province
+12.91075882,MNG,Mongolia,MNG.9_1,Dzavhan,Province
+4.26904992,LUX,Luxembourg,LUX.3_1,Luxembourg,District
+5.5027099,LUX,Luxembourg,LUX.2_1,Grevenmacher,District
+12.79827795,DEU,Germany,DEU.1_1,Baden-Württemberg,State
+16.1215438,CZE,Czech Republic,CZE.4_1,Kraj Vysočina,Region
+17.43432731,UKR,Ukraine,UKR.24_1,Vinnytsya,Region
+16.86769366,MNG,Mongolia,MNG.5_1,Darhan-Uul,Municipality
+3.82109,DEU,Germany,DEU.12_1,Saarland,State
+16.27662787,CZE,Czech Republic,CZE.1_1,Jihočeský,Region
+17.29169984,CZE,Czech Republic,CZE.2_1,Jihomoravský,Region
+14.30113876,SVK,Slovakia,SVK.8_1,Žilinský,Region
+16.5009942,CZE,Czech Republic,CZE.14_1,Zlínský,Region
+15.40671467,SVK,Slovakia,SVK.5_1,Prešovský,Region
+14.02793592,UKR,Ukraine,UKR.7_1,Ivano-Frankivs'k,Region
+18.56429813,RUS,Russia,RUS.82_1,Yevrey,Autonomous Region
+18.99204044,USA,United States,USA.24_1,Minnesota,State
+8.0012703,JEY,Jersey,JEY.9_1,Saint Ouen,Parish
+16.39012004,SVK,Slovakia,SVK.6_1,Trenčiansky,Region
+15.79816931,MNG,Mongolia,MNG.12_1,Hentiy,Province
+13.84852161,FRA,France,FRA.8_1,Île-de-France,Region
+15.40746594,UKR,Ukraine,UKR.23_1,Transcarpathia,Region
+18.81473142,UKR,Ukraine,UKR.13_1,Kirovohrad,Region
+18.64029721,UKR,Ukraine,UKR.5_1,Dnipropetrovs'k,Region
+18.69305405,UKR,Ukraine,UKR.6_1,Donets'k,Region
+14.73738881,KAZ,Kazakhstan,KAZ.4_1,Atyrau,Region
+18.4872299,CHN,China,CHN.28_1,Xinjiang Uygur,Autonomous Region
+12.28106595,MNG,Mongolia,MNG.1_1,Arhangay,Province
+14.520175,MNG,Mongolia,MNG.16_1,Orhon,Municipality
+15.88119685,MNG,Mongolia,MNG.20_1,Töv,Province
+0.169687459,USA,United States,USA.48_1,Washington,State
+1.637453751,USA,United States,USA.13_1,Idaho,State
+12.3888843,USA,United States,USA.27_1,Montana,State
+17.73088202,USA,United States,USA.35_1,North Dakota,State
+16.98824471,AUT,Austria,AUT.3_1,Niederösterreich,State
+15.44943895,SVK,Slovakia,SVK.1_1,Banskobystrický,Region
+16.49133858,SVK,Slovakia,SVK.3_1,Košický,Region
+16.00304829,MNG,Mongolia,MNG.13_1,Hovd,Province
+7.695228729,FRA,France,FRA.3_1,Bretagne,Region
+8.563605945,FRA,France,FRA.4_1,Centre-Val de Loire,Region
+18.77374111,SVK,Slovakia,SVK.7_1,Trnavský,Region
+20.85686998,RUS,Russia,RUS.5_1,Astrakhan',Region
+16.1543627,AUT,Austria,AUT.4_1,Oberösterreich,State
+18.91505558,SVK,Slovakia,SVK.2_1,Bratislavský,Region
+18.12271103,SVK,Slovakia,SVK.4_1,Nitriansky,Region
+15.83150008,UKR,Ukraine,UKR.3_1,Chernivtsi,Region
+6.492668973,FRA,France,FRA.12_1,Pays de la Loire,Region
+18.70162899,HUN,Hungary,HUN.4_1,Borsod-Abaúj-Zemplén,County
+17.03381996,MDA,Moldova,MDA.5_1,Briceni,District
+17.10625028,MDA,Moldova,MDA.25_1,Ocniţa,District
+16.4130955,RUS,Russia,RUS.56_1,Primor'ye,Territory
+16.21735603,USA,United States,USA.23_1,Michigan,State
+9.311161392,FRA,France,FRA.2_1,Bourgogne-Franche-Comté,Region
+18.0074005,AUT,Austria,AUT.9_1,Wien,State
+18.34298012,HUN,Hungary,HUN.16_1,Szabolcs-Szatmár-Bereg,County
+17.27780023,MDA,Moldova,MDA.13_1,Donduseni,District
+17.46633337,MDA,Moldova,MDA.31_1,Soroca,District
+17.58542996,HUN,Hungary,HUN.13_1,Nógrád,County
+18.23121274,HUN,Hungary,HUN.10_1,Heves,County
+18.32586012,ROU,Romania,ROU.34_1,Satu Mare,County
+17.87253799,ROU,Romania,ROU.7_1,Botoșani,County
+17.5603002,MDA,Moldova,MDA.16_1,Edineţ,District
+17.65046004,MDA,Moldova,MDA.28_1,Rîşcani,District
+17.57839968,MDA,Moldova,MDA.14_1,Drochia,District
+17.80663333,MDA,Moldova,MDA.18_1,Floreşti,District
+18.31623126,MDA,Moldova,MDA.36_1,Transnistria,Territorial Unit
+18.50908778,UKR,Ukraine,UKR.17_1,Odessa,Region
+19.49191378,UKR,Ukraine,UKR.16_1,Mykolayiv,Region
+18.77977589,UKR,Ukraine,UKR.26_1,Zaporizhzhya,Region
+21.38509214,RUS,Russia,RUS.22_1,Kalmyk,Republic
+15.54850567,MNG,Mongolia,MNG.21_1,Ulaanbaatar,Municipality
+4.493066967,CAN,Canada,CAN.4_1,New Brunswick,Province
+11.78528193,AUT,Austria,AUT.5_1,Salzburg,State
+18.1659703,AUT,Austria,AUT.1_1,Burgenland,State
+19.34172945,HUN,Hungary,HUN.8_1,Gyor-Moson-Sopron,County
+18.47045759,HUN,Hungary,HUN.14_1,Pest,County
+18.88062302,HUN,Hungary,HUN.9_1,Hajdú-Bihar,County
+14.51118614,ROU,Romania,ROU.27_1,Maramureș,County
+14.77867572,ROU,Romania,ROU.36_1,Suceava,County
+18.22289973,MDA,Moldova,MDA.30_1,Şoldăneşti,District
+16.2623005,CHE,Switzerland,CHE.17_1,Schaffhausen,Canton
+14.42128587,AUT,Austria,AUT.6_1,Steiermark,State
+18.78420814,HUN,Hungary,HUN.12_1,Komárom-Esztergom,County
+18.00282528,MDA,Moldova,MDA.20_1,Glodeni,District
+17.7493992,MDA,Moldova,MDA.2_1,Bălţi,City
+17.80515003,MDA,Moldova,MDA.29_1,Sîngerei,District
+18.2751999,MDA,Moldova,MDA.27_1,Rezina,District
+5.437709106,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,Region
+17.35648289,MNG,Mongolia,MNG.10_1,Govi-Altay,Province
+18.29194187,MNG,Mongolia,MNG.19_1,Sühbaatar,Province
+13.44338743,CHE,Switzerland,CHE.1_1,Aargau,Canton
+17.34933735,CHE,Switzerland,CHE.26_1,Zürich,Canton
+17.34510004,CHE,Switzerland,CHE.20_1,Thurgau,Canton
+10.80208613,AUT,Austria,AUT.7_1,Tirol,State
+19.25665,HUN,Hungary,HUN.5_1,Budapest,Capital City
+19.29228322,HUN,Hungary,HUN.11_1,Jász-Nagykun-Szolnok,County
+14.78009505,ROU,Romania,ROU.6_1,Bistrița-Năsăud,County
+18.1475253,MDA,Moldova,MDA.17_1,Făleşti,District
+18.21675015,MDA,Moldova,MDA.35_1,Teleneşti,District
+18.35602523,MDA,Moldova,MDA.26_1,Orhei,District
+16.45277702,MNG,Mongolia,MNG.3_1,Bayanhongor,Province
+9.33273006,USA,United States,USA.20_1,Maine,State
+14.46134995,CHE,Switzerland,CHE.11_1,Jura,Canton
+14.72653357,CHE,Switzerland,CHE.4_1,Basel-Landschaft,Canton
+14.38024995,CHE,Switzerland,CHE.19_1,Solothurn,Canton
+14.53166677,CHE,Switzerland,CHE.16_1,Sankt Gallen,Canton
+17.1282997,CHE,Switzerland,CHE.2_1,Appenzell Ausserrhoden,Canton
+12.35380636,AUT,Austria,AUT.8_1,Vorarlberg,State
+18.94851566,HUN,Hungary,HUN.18_1,Vas,County
+19.3150158,HUN,Hungary,HUN.19_1,Veszprém,County
+19.07832931,HUN,Hungary,HUN.7_1,Fejér,County
+17.05559358,ROU,Romania,ROU.5_1,Bihor,County
+17.02319992,ROU,Romania,ROU.33_1,Sălaj,County
+18.18901238,ROU,Romania,ROU.24_1,Iași,County
+18.05231635,MDA,Moldova,MDA.37_1,Ungheni,District
+17.73064993,MDA,Moldova,MDA.7_1,Calarasi,District
+18.3642502,MDA,Moldova,MDA.15_1,Dubăsari,District
+19.20680957,UKR,Ukraine,UKR.9_1,Kherson,Region
+18.5631678,USA,United States,USA.50_1,Wisconsin,State
+11.30291029,CHE,Switzerland,CHE.6_1,Bern,Canton
+15.66289984,CHE,Switzerland,CHE.12_1,Lucerne,Canton
+13.8599997,CHE,Switzerland,CHE.3_1,Appenzell Innerrhoden,Canton
+15.24877933,ROU,Romania,ROU.14_1,Cluj,County
+15.93951202,ROU,Romania,ROU.30_1,Neamț,County
+18.03109993,MDA,Moldova,MDA.33_1,Străşeni,District
+18.2472,MDA,Moldova,MDA.12_1,Criuleni,District
+10.565551,KAZ,Kazakhstan,KAZ.1_1,Almaty,Region
+16.84974708,MNG,Mongolia,MNG.17_1,Övörhangay,Province
+8.125781554,FRA,France,FRA.10_1,Nouvelle-Aquitaine,Region
+7.825545,CHE,Switzerland,CHE.13_1,Neuchâtel,Canton
+14.81487512,CHE,Switzerland,CHE.18_1,Schwyz,Canton
+11.6630349,CHE,Switzerland,CHE.9_1,Glarus,Canton
+12.2693005,LIE,Liechtenstein,LIE.9_1,Triesen,Commune
+13.38070229,AUT,Austria,AUT.2_1,Kärnten,State
+19.0157946,HUN,Hungary,HUN.1_1,Bács-Kiskun,County
+19.28521566,HUN,Hungary,HUN.3_1,Békés,County
+15.61635849,ROU,Romania,ROU.29_1,Mureș,County
+13.9427,ROU,Romania,ROU.22_1,Harghita,County
+17.8263327,MDA,Moldova,MDA.24_1,Nisporeni,District
+18.86067535,MDA,Moldova,MDA.10_1,Chişinău,City
+18.68397525,MDA,Moldova,MDA.1_1,Anenii Noi,District
+1.29072442,CAN,Canada,CAN.10_1,Prince Edward Island,Province
+-0.104043967,CAN,Canada,CAN.7_1,Nova Scotia,Province
+13.32972153,CHE,Switzerland,CHE.7_1,Fribourg,Canton
+14.7540998,CHE,Switzerland,CHE.15_1,Obwalden,Canton
+13.3126001,CHE,Switzerland,CHE.14_1,Nidwalden,Canton
+9.2360515,CHE,Switzerland,CHE.22_1,Uri,Canton
+8.535672155,CHE,Switzerland,CHE.10_1,Graubünden,Canton
+12.68608367,ITA,Italy,ITA.17_1,Trentino-Alto Adige,Autonomous Region
+19.14892936,HUN,Hungary,HUN.20_1,Zala,County
+20.28916925,HUN,Hungary,HUN.15_1,Somogy,County
+18.30659995,MDA,Moldova,MDA.21_1,Hîncesti,District
+18.73323313,MDA,Moldova,MDA.22_1,Ialoveni,District
+10.49925993,FRA,France,FRA.1_1,Auvergne-Rhône-Alpes,Region
+9.554536807,CHE,Switzerland,CHE.24_1,Vaud,Canton
+18.9288605,SVN,Slovenia,SVN.9_1,Pomurska,Statistical Region
+19.41550562,HUN,Hungary,HUN.17_1,Tolna,County
+19.87764145,HUN,Hungary,HUN.6_1,Csongrád,County
+16.81767924,ROU,Romania,ROU.4_1,Bacău,County
+18.32514736,ROU,Romania,ROU.41_1,Vaslui,County
+18.5490335,MDA,Moldova,MDA.11_1,Cimişlia,District
+18.56269995,MDA,Moldova,MDA.9_1,Causeni,District
+12.91496067,RUS,Russia,RUS.34_1,Krasnodar,Territory
+18.71560729,MNG,Mongolia,MNG.8_1,Dundgovi,Province
+17.5946916,MNG,Mongolia,MNG.11_1,Govisümber,Municipality
+11.39867089,CHE,Switzerland,CHE.21_1,Ticino,Canton
+16.50480942,ITA,Italy,ITA.20_1,Veneto,Region
+13.24710295,ITA,Italy,ITA.7_1,Friuli-Venezia Giulia,Autonomous Region
+17.03087473,SVN,Slovenia,SVN.4_1,Koroška,Statistical Region
+18.3139447,SVN,Slovenia,SVN.8_1,Podravska,Statistical Region
+17.98877265,ROU,Romania,ROU.2_1,Arad,County
+18.59333353,MDA,Moldova,MDA.23_1,Leova,District
+18.26671982,MDA,Moldova,MDA.32_1,Ştefan Voda,District
+20.6585154,MNG,Mongolia,MNG.7_1,Dornogovi,Province
+-1.519291568,CHE,Switzerland,CHE.23_1,Valais,Canton
+10.75301474,ITA,Italy,ITA.13_1,Piemonte,Region
+14.33057375,ITA,Italy,ITA.10_1,Lombardia,Region
+7.545975473,SVN,Slovenia,SVN.2_1,Goriška,Statistical Region
+7.256024522,SVN,Slovenia,SVN.1_1,Gorenjska,Statistical Region
+17.3755615,SVN,Slovenia,SVN.10_1,Savinjska,Statistical Region
+19.4095497,HRV,Croatia,HRV.10_1,Medimurska,County
+15.31938805,ROU,Romania,ROU.1_1,Alba,County
+18.57344963,MDA,Moldova,MDA.8_1,Cantemir,District
+18.94674993,MDA,Moldova,MDA.19_1,Găgăuzia,Autonomous Territory
+18.8731003,MDA,Moldova,MDA.3_1,Basarabeasca,District
+12.07703205,KAZ,Kazakhstan,KAZ.6_1,Mangghystau,Region
+10.1465998,CHE,Switzerland,CHE.8_1,Genève,Canton
+12.0345747,SVN,Slovenia,SVN.7_1,Osrednjeslovenska,Statistical Region
+19.03198338,HRV,Croatia,HRV.17_1,Varaždinska,County
+20.09720014,HRV,Croatia,HRV.7_1,Koprivničko-Križevačka,County
+19.61695279,HUN,Hungary,HUN.2_1,Baranya,County
+15.35383859,ROU,Romania,ROU.23_1,Hunedoara,County
+15.29422308,ROU,Romania,ROU.35_1,Sibiu,County
+20.18412098,CHN,China,CHN.17_1,Jilin,Province
+1.788838983,USA,United States,USA.38_1,Oregon,State
+17.2264004,SVN,Slovenia,SVN.12_1,Zasavska,Statistical Region
+19.1915671,HRV,Croatia,HRV.8_1,Krapinsko-Zagorska,County
+20.71707183,SRB,Serbia,SRB.17_1,Severno-Bački,District
+20.28593997,SRB,Serbia,SRB.18_1,Severno-Banatski,District
+18.57808899,ROU,Romania,ROU.38_1,Timiș,County
+14.52173713,ROU,Romania,ROU.8_1,Brașov,County
+14.59103997,ROU,Romania,ROU.16_1,Covasna,County
+17.6727551,ROU,Romania,ROU.42_1,Vrancea,County
+19.4504552,ROU,Romania,ROU.19_1,Galați,County
+19.12573337,MDA,Moldova,MDA.6_1,Cahul,District
+19.03697537,MDA,Moldova,MDA.34_1,Taraclia,District
+13.22330147,UKR,Ukraine,UKR.4_1,Crimea,Autonomous Republic
+20.15657813,RUS,Russia,RUS.65_1,Stavropol',Territory
+18.5621964,USA,United States,USA.42_1,South Dakota,State
+-0.852648308,ITA,Italy,ITA.19_1,Valle d'Aosta,Autonomous Region
+11.96785247,SVN,Slovenia,SVN.3_1,Jugovzhodna Slovenija,Statistical Region
+19.03285025,SVN,Slovenia,SVN.11_1,Spodnjeposavska,Statistical Region
+17.716609,HRV,Croatia,HRV.21_1,Zagrebačka,County
+19.52530053,HRV,Croatia,HRV.4_1,Grad Zagreb,City
+20.62292024,HRV,Croatia,HRV.1_1,Bjelovarska-Bilogorska,County
+20.04153668,HRV,Croatia,HRV.18_1,Viroviticko-Podravska,County
+19.53068178,SRB,Serbia,SRB.24_1,Zapadno-Bački,District
+8.053234319,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,Region
+10.1307937,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,Region
+10.0344033,SVN,Slovenia,SVN.6_1,Obalno-kraška,Statistical Region
+5.84259655,SVN,Slovenia,SVN.5_1,Notranjsko-kraška,Statistical Region
+19.16794687,HRV,Croatia,HRV.11_1,Osjecko-Baranjska,County
+19.34476132,SRB,Serbia,SRB.5_1,Južno-Bački,District
+19.4393504,SRB,Serbia,SRB.19_1,Srednje-Banatski,District
+17.81591116,ROU,Romania,ROU.11_1,Buzău,County
+8.942348181,HRV,Croatia,HRV.13_1,Primorsko-Goranska,County
+10.41689776,HRV,Croatia,HRV.6_1,Karlovacka,County
+14.81099501,HRV,Croatia,HRV.15_1,Sisacko-Moslavacka,County
+15.71157155,ROU,Romania,ROU.13_1,Caraș-Severin,County
+16.17282168,ROU,Romania,ROU.40_1,Vâlcea,County
+15.45898666,ROU,Romania,ROU.3_1,Argeș,County
+11.02772734,HRV,Croatia,HRV.5_1,Istarska,County
+18.74991471,HRV,Croatia,HRV.12_1,Požeško-Slavonska,County
+19.29069988,HRV,Croatia,HRV.19_1,Vukovarsko-Srijemska,County
+17.51187491,ROU,Romania,ROU.17_1,Dâmbovița,County
+16.18036325,ROU,Romania,ROU.32_1,Prahova,County
+20.07873546,ROU,Romania,ROU.9_1,Brăila,County
+19.79575424,ROU,Romania,ROU.39_1,Tulcea,County
+10.8389766,UZB,Uzbekistan,UZB.5_1,Karakalpakstan,Autononous Region
+14.35328674,JPN,Japan,JPN.12_1,Hokkaido,Circuit
+9.398572858,USA,United States,USA.30_1,New Hampshire,State
+12.44149644,BIH,Bosnia and Herzegovina,BIH.3_1,Repuplika Srpska,Entity
+18.64152032,HRV,Croatia,HRV.2_1,Brodsko-Posavska,County
+19.30054982,SRB,Serbia,SRB.6_1,Južno-Banatski,District
+16.98575202,ROU,Romania,ROU.21_1,Gorj,County
+8.608682997,FRA,France,FRA.13_1,Provence-Alpes-Côte d'Azur,Region
+12.39386711,ITA,Italy,ITA.6_1,Emilia-Romagna,Region
+5.61391745,HRV,Croatia,HRV.9_1,Licko-Senjska,County
+8.528573852,BIH,Bosnia and Herzegovina,BIH.2_1,Federacija Bosna i Hercegovina,Entity
+19.18264996,SRB,Serbia,SRB.20_1,Sremski,District
+6.507886571,RUS,Russia,RUS.1_1,Adygey,Republic
+21.48552944,MNG,Mongolia,MNG.15_1,Ömnögovi,Province
+9.737312734,USA,United States,USA.51_1,Wyoming,State
+15.02681455,USA,United States,USA.33_1,New York,State
+17.05577062,USA,United States,USA.46_1,Vermont,State
+10.48646117,FRA,France,FRA.11_1,Occitanie,Region
+18.3828001,BIH,Bosnia and Herzegovina,BIH.1_1,Brčko,District
+18.50573626,SRB,Serbia,SRB.8_1,Mačvanski,District
+19.0181232,SRB,Serbia,SRB.3_1,Grad Beograd,City
+18.00549998,ROU,Romania,ROU.28_1,Mehedinți,County
+14.98961954,RUS,Russia,RUS.15_1,Dagestan,Republic
+17.93757227,SRB,Serbia,SRB.2_1,Braničevski,District
+20.03676206,ROU,Romania,ROU.31_1,Olt,County
+19.93250002,ROU,Romania,ROU.25_1,Ialomița,County
+19.2708656,ROU,Romania,ROU.15_1,Constanța,County
+3.261239975,UKR,Ukraine,UKR.20_1,Sevastopol',Autonomous Republic
+11.32483878,ITA,Italy,ITA.9_1,Liguria,Region
+18.94805982,SRB,Serbia,SRB.13_1,Podunavski,District
+14.90406,SRB,Serbia,SRB.1_1,Borski,District
+19.85843989,ROU,Romania,ROU.18_1,Dolj,County
+19.28572513,ROU,Romania,ROU.26_1,Ilfov,County
+11.49945528,ITA,Italy,ITA.16_1,Toscana,Region
+10.32186661,HRV,Croatia,HRV.20_1,Zadarska,County
+17.94298018,SRB,Serbia,SRB.7_1,Kolubarski,District
+20.50250874,ROU,Romania,ROU.37_1,Teleorman,County
+19.90012345,ROU,Romania,ROU.20_1,Giurgiu,County
+19.5981998,ROU,Romania,ROU.10_1,Bucharest,Municipality
+20.08797164,ROU,Romania,ROU.12_1,Călărași,County
+10.36542766,RUS,Russia,RUS.25_1,Karachay-Cherkess,Republic
+17.67368846,SRB,Serbia,SRB.21_1,Šumadijski,District
+9.395820078,HRV,Croatia,HRV.14_1,Šibensko-Kninska,County
+13.6417084,SRB,Serbia,SRB.25_1,Zlatiborski,District
+15.89700005,SRB,Serbia,SRB.9_1,Moravički,District
+17.71831098,SRB,Serbia,SRB.14_1,Pomoravski,District
+13.56978003,SRB,Serbia,SRB.23_1,Zaječarski,District
+15.41667509,BGR,Bulgaria,BGR.26_1,Vidin,Province
+19.42883989,BGR,Bulgaria,BGR.18_1,Silistra,Province
+13.5572996,SMR,San Marino,SMR.3_1,Chiesanuova,Municipality
+13.13538866,ITA,Italy,ITA.11_1,Marche,Region
+8.700843418,HRV,Croatia,HRV.16_1,Splitsko-Dalmatinska,County
+20.18407266,BGR,Bulgaria,BGR.16_1,Ruse,Province
+19.25645001,BGR,Bulgaria,BGR.15_1,Razgrad,Province
+15.05887941,BGR,Bulgaria,BGR.3_1,Dobrich,Province
+13.84115941,RUS,Russia,RUS.20_1,Kabardin-Balkar,Republic
+18.07690244,RUS,Russia,RUS.10_1,Chechnya,Republic
+7.786037497,ESP,Spain,ESP.12_1,Galicia,Autonomous Community
+14.47279882,SRB,Serbia,SRB.16_1,Raški,District
+16.78439105,SRB,Serbia,SRB.15_1,Rasinski,District
+14.63450007,SRB,Serbia,SRB.10_1,Nišavski,District
+18.40122661,BGR,Bulgaria,BGR.10_1,Montana,Province
+19.2170071,BGR,Bulgaria,BGR.27_1,Vratsa,Province
+20.37838835,BGR,Bulgaria,BGR.13_1,Pleven,Province
+14.38649177,RUS,Russia,RUS.48_1,North Ossetia,Republic
+9.605077038,UZB,Uzbekistan,UZB.9_1,Navoi,Region
+7.739090956,ESP,Spain,ESP.17_1,Principado de Asturias,Autonomous Community
+12.48735758,ITA,Italy,ITA.18_1,Umbria,Region
+19.51112632,BGR,Bulgaria,BGR.25_1,Veliko Tarnovo,Province
+16.74292306,BGR,Bulgaria,BGR.17_1,Shumen,Province
+6.084331787,GEO,Georgia,GEO.1_1,Abkhazia,Autonomous Republic
+21.05041327,USA,United States,USA.16_1,Iowa,State
+8.387508585,ESP,Spain,ESP.3_1,Cantabria,Autonomous Community
+8.460615126,ESP,Spain,ESP.16_1,País Vasco,Autonomous Community
+4.0682284,MNE,Montenegro,MNE.14_1,Pljevlja,Municipality
+18.8306202,BGR,Bulgaria,BGR.23_1,Targovishte,Province
+13.73837061,BGR,Bulgaria,BGR.24_1,Varna,Province
+16.27362498,RUS,Russia,RUS.17_1,Ingush,Republic
+22.11033284,CHN,China,CHN.18_1,Liaoning,Province
+10.18981358,ESP,Spain,ESP.9_1,Comunidad Foral de Navarra,Autonomous Community
+2.8749134,MNE,Montenegro,MNE.15_1,Plužine,Municipality
+14.00542486,SRB,Serbia,SRB.22_1,Toplički,District
+14.44978334,SRB,Serbia,SRB.12_1,Pirotski,District
+17.53572824,BGR,Bulgaria,BGR.9_1,Lovech,Province
+9.657440638,GEO,Georgia,GEO.9_1,Samegrelo-Zemo Svaneti,Region
+6.808217235,ESP,Spain,ESP.5_1,Castilla y León,Autonomous Community
+11.80876541,HRV,Croatia,HRV.3_1,Dubrovacko-Neretvanska,County
+5.721125037,MNE,Montenegro,MNE.12_1,Nikšic,Municipality
+1.83742005,MNE,Montenegro,MNE.21_1,Žabljak,Municipality
+5.592054975,MNE,Montenegro,MNE.4_1,Bijelo Polje,Municipality
+9.990864271,XKO,Kosovo,XKO.3_1,Kosovska Mitrovica,District
+10.79656519,XKO,Kosovo,XKO.5_1,Pristina,District
+13.62096674,SRB,Serbia,SRB.4_1,Jablanički,District
+14.71266465,BGR,Bulgaria,BGR.21_1,Sofia,Province
+17.22087995,BGR,Bulgaria,BGR.4_1,Gabrovo,Province
+7.687336397,KGZ,Kyrgyzstan,KGZ.3_1,Chüy,Province
+19.75884843,USA,United States,USA.28_1,Nebraska,State
+13.14454308,ESP,Spain,ESP.2_1,Aragón,Autonomous Community
+10.9747059,FRA,France,FRA.5_1,Corse,Region
+2.73425005,MNE,Montenegro,MNE.18_1,Šavnik,Municipality
+2.62705995,MNE,Montenegro,MNE.11_1,Mojkovac,Municipality
+4.464000067,MNE,Montenegro,MNE.3_1,Berane,Municipality
+14.76542296,BGR,Bulgaria,BGR.19_1,Sliven,Province
+11.05184489,BGR,Bulgaria,BGR.2_1,Burgas,Province
+6.8302019,GEO,Georgia,GEO.8_1,Racha-Lechkhumi-Kvemo Svaneti,Region
+11.4392996,KGZ,Kyrgyzstan,KGZ.2_1,Biškek,City
+8.060686461,KGZ,Kyrgyzstan,KGZ.9_1,Ysyk-Köl,Province
+17.07745601,PRK,North Korea,PRK.2_1,Hamgyŏng-bukto,Province
+19.14919825,USA,United States,USA.36_1,Ohio,State
+7.428232387,USA,United States,USA.22_1,Massachusetts,State
+13.06073968,ESP,Spain,ESP.6_1,Cataluña,Autonomous Community
+11.42943162,ITA,Italy,ITA.8_1,Lazio,Region
+11.32082213,ITA,Italy,ITA.1_1,Abruzzo,Region
+3.7523467,MNE,Montenegro,MNE.9_1,Kolašin,Municipality
+2.9963701,MNE,Montenegro,MNE.1_1,Andrijevica,Municipality
+1.37221,MNE,Montenegro,MNE.17_1,Rožaje,Municipality
+4.9121684,XKO,Kosovo,XKO.4_1,Pećki,District
+12.07936504,SRB,Serbia,SRB.11_1,Pčinjski,District
+15.35810005,BGR,Bulgaria,BGR.12_1,Pernik,Province
+15.39411545,BGR,Bulgaria,BGR.5_1,Grad Sofiya,Province
+16.6322958,BGR,Bulgaria,BGR.14_1,Plovdiv,Province
+15.57386208,BGR,Bulgaria,BGR.22_1,Stara Zagora,Province
+11.08825296,GEO,Georgia,GEO.7_1,Mtskheta-Mtianeti,Region
+4.620902516,KGZ,Kyrgyzstan,KGZ.8_1,Talas,Province
+16.76815794,CHN,China,CHN.5_1,Gansu,Province
+11.00724398,ESP,Spain,ESP.15_1,La Rioja,Autonomous Community
+0.41170845,AND,Andorra,AND.2_1,Canillo,Parish
+8.04774025,MNE,Montenegro,MNE.10_1,Kotor,Municipality
+7.341843267,MNE,Montenegro,MNE.6_1,Cetinje,Municipality
+7.88866495,MNE,Montenegro,MNE.7_1,Danilovgrad,Municipality
+8.01458665,MNE,Montenegro,MNE.16_1,Podgorica,Municipality
+7.372907829,ALB,Albania,ALB.10_1,Shkodër,County
+2.5409999,MNE,Montenegro,MNE.13_1,Plav,Municipality
+4.926843825,XKO,Kosovo,XKO.1_1,Đakovica,District
+4.015827538,XKO,Kosovo,XKO.6_1,Prizren,District
+13.4745199,XKO,Kosovo,XKO.2_1,Gnjilane,District
+13.37813838,BGR,Bulgaria,BGR.8_1,Kyustendil,Province
+14.82762769,BGR,Bulgaria,BGR.11_1,Pazardzhik,Province
+11.25905539,BGR,Bulgaria,BGR.28_1,Yambol,Province
+10.74460625,GEO,Georgia,GEO.11_1,Shida Kartli,Region
+11.33452143,TKM,Turkmenistan,TKM.6_1,Tashauz,Province
+22.59539621,CHN,China,CHN.10_1,Hebei,Province
+19.11822327,USA,United States,USA.14_1,Illinois,State
+11.8596001,MNE,Montenegro,MNE.8_1,Herceg Novi,Municipality
+3.90443379,ALB,Albania,ALB.8_1,Kukës,County
+6.06402792,XKO,Kosovo,XKO.7_1,Uroševac,District
+7.605864113,GEO,Georgia,GEO.4_1,Imereti,Region
+15.33493398,GEO,Georgia,GEO.5_1,Kakheti,Region
+7.113908596,KGZ,Kyrgyzstan,KGZ.5_1,Naryn,Province
+18.5716998,PRK,North Korea,PRK.12_1,Rasŏn,Directly Governed City
+9.7313805,MNE,Montenegro,MNE.5_1,Budva,Municipality
+10.63810015,MNE,Montenegro,MNE.2_1,Bar,Municipality
+14.3893995,MKD,Macedonia,MKD.66_1,Staro Nagoričane,Municipality
+12.5026999,MKD,Macedonia,MKD.60_1,Rankovce,Municipality
+12.0242996,MKD,Macedonia,MKD.38_1,Kriva Palanka,Municipality
+11.58260595,TKM,Turkmenistan,TKM.3_1,Balkan,Province
+5.92395809,UZB,Uzbekistan,UZB.14_1,Tashkent,Region
+18.20741497,USA,United States,USA.39_1,Pennsylvania,State
+8.288591443,PRT,Portugal,PRT.18_1,Viana do Castelo,District
+9.15186025,MNE,Montenegro,MNE.20_1,Ulcinj,Municipality
+1.71837,MKD,Macedonia,MKD.74_1,Tetovo,Municipality
+4.95467,MKD,Macedonia,MKD.73_1,Tearce,Municipality
+5.7655802,MKD,Macedonia,MKD.25_1,Gjorče Petrov,Municipality
+5.8552899,MKD,Macedonia,MKD.15_1,Čučer Sandevo,Municipality
+14.6086998,MKD,Macedonia,MKD.43_1,Lipkovo,Municipality
+15.64090015,MKD,Macedonia,MKD.41_1,Kumanovo,Municipality
+13.2412,MKD,Macedonia,MKD.37_1,Kratovo,Municipality
+12.66083,MKD,Macedonia,MKD.35_1,Kočani,Municipality
+11.3764,MKD,Macedonia,MKD.45_1,Makedonska Kamenica,Municipality
+11.86667261,BGR,Bulgaria,BGR.1_1,Blagoevgrad,Province
+8.844402625,BGR,Bulgaria,BGR.6_1,Haskovo,Province
+6.082085735,TUR,Turkey,TUR.50_1,Kirklareli,Province
+10.05778623,GEO,Georgia,GEO.3_1,Guria,Region
+4.804863557,KGZ,Kyrgyzstan,KGZ.4_1,Jalal-Abad,Province
+8.122273208,USA,United States,USA.5_1,California,State
+6.887696462,USA,United States,USA.29_1,Nevada,State
+13.2720472,USA,United States,USA.45_1,Utah,State
+8.861089378,USA,United States,USA.7_1,Connecticut,State
+1.7061703,USA,United States,USA.40_1,Rhode Island,State
+6.925815689,PRT,Portugal,PRT.5_1,Bragança,District
+10.87840505,ITA,Italy,ITA.12_1,Molise,Region
+13.6172057,ITA,Italy,ITA.2_1,Apulia,Region
+7.270978763,ALB,Albania,ALB.9_1,Lezhë,County
+5.1756201,MKD,Macedonia,MKD.6_1,Bogovinje,Municipality
+4.8678799,MKD,Macedonia,MKD.84_1,Želino,Municipality
+5.28338,MKD,Macedonia,MKD.63_1,Saraj,Municipality
+5.88275,MKD,Macedonia,MKD.64_1,Sopište,Municipality
+11.0892501,MKD,Macedonia,MKD.55_1,Petrovec,Municipality
+15.9091997,MKD,Macedonia,MKD.72_1,Sveti Nikole,Municipality
+15.6575003,MKD,Macedonia,MKD.58_1,Probištip,Municipality
+15.8217001,MKD,Macedonia,MKD.14_1,Češinovo-Obleševo,Municipality
+13.31570005,MKD,Macedonia,MKD.79_1,Vinitsa,Municipality
+13.4034996,MKD,Macedonia,MKD.18_1,Delčevo,Municipality
+10.24871154,BGR,Bulgaria,BGR.20_1,Smolyan,Province
+7.15104043,TUR,Turkey,TUR.28_1,Edirne,Province
+9.0682478,TUR,Turkey,TUR.46_1,Kastamonu,Province
+7.024469996,TUR,Turkey,TUR.70_1,Sinop,Province
+13.83683262,UZB,Uzbekistan,UZB.7_1,Khorezm,Region
+15.1437519,PRK,North Korea,PRK.13_1,Ryanggang,Province
+18.31668243,USA,United States,USA.15_1,Indiana,State
+8.476099154,PRT,Portugal,PRT.4_1,Braga,District
+6.926225447,PRT,Portugal,PRT.19_1,Vila Real,District
+2.672943367,ALB,Albania,ALB.2_1,Dibër,County
+-0.79402925,MKD,Macedonia,MKD.47_1,Mavrovo and Rostuša,Municipality
+5.0782099,MKD,Macedonia,MKD.26_1,Gostivar,Municipality
+4.4472367,MKD,Macedonia,MKD.46_1,Makedonski Brod,Municipality
+1.86483,MKD,Macedonia,MKD.70_1,Studeničani,Municipality
+13.6317997,MKD,Macedonia,MKD.83_1,Zelenikovo,Municipality
+16.7180004,MKD,Macedonia,MKD.77_1,Veles,Municipality
+17.0154991,MKD,Macedonia,MKD.44_1,Lozovo,Municipality
+16.60449985,MKD,Macedonia,MKD.67_1,Štip,Municipality
+14.61990025,MKD,Macedonia,MKD.30_1,Karbinci,Municipality
+12.6563333,MKD,Macedonia,MKD.3_1,Berovo,Municipality
+11.5146999,MKD,Macedonia,MKD.54_1,Pehčevo,Municipality
+7.877535033,BGR,Bulgaria,BGR.7_1,Kardzhali,Province
+6.753921022,TUR,Turkey,TUR.13_1,Bartın,Province
+6.915129158,GEO,Georgia,GEO.2_1,Ajaria,Autonomous Republic
+10.64567001,GEO,Georgia,GEO.10_1,Samtskhe-Javakheti,Region
+15.7191,GEO,Georgia,GEO.12_1,Tbilisi,Independent City
+13.9093237,GEO,Georgia,GEO.6_1,Kvemo Kartli,Region
+15.11954652,AZE,Azerbaijan,AZE.9_1,Shaki-Zaqatala,Region
+10.46651651,AZE,Azerbaijan,AZE.8_1,Quba-Khachmaz,Region
+18.71189228,PRK,North Korea,PRK.1_1,Chagang-do,Province
+4.5380001,MKD,Macedonia,MKD.82_1,Zajas,Municipality
+4.28233,MKD,Macedonia,MKD.53_1,Oslomej,Municipality
+5.3650401,MKD,Macedonia,MKD.21_1,Dolneni,Municipality
+6.4076049,MKD,Macedonia,MKD.11_1,Čaška,Municipality
+7.8892498,MKD,Macedonia,MKD.27_1,Gradsko,Municipality
+12.4755604,MKD,Macedonia,MKD.49_1,Negotino,Municipality
+15.9261999,MKD,Macedonia,MKD.59_1,Radoviš,Municipality
+7.942778006,GRC,Greece,GRC.6_1,Macedonia and Thrace,Decentralized administration
+9.919064057,TUR,Turkey,TUR.67_1,Samsun,Province
+10.42057579,TUR,Turkey,TUR.9_1,Ardahan,Province
+8.9505034,PRT,Portugal,PRT.15_1,Porto,District
+10.69256352,ITA,Italy,ITA.5_1,Campania,Region
+8.9262352,ALB,Albania,ALB.3_1,Durrës,County
+8.03226604,ALB,Albania,ALB.11_1,Tiranë,County
+1.32692,MKD,Macedonia,MKD.13_1,Centar župa,Municipality
+4.25831495,MKD,Macedonia,MKD.17_1,Debarca,Municipality
+4.8884399,MKD,Macedonia,MKD.22_1,Drugovo,Municipality
+5.1153302,MKD,Macedonia,MKD.40_1,Kruševo,Municipality
+9.34375408,MKD,Macedonia,MKD.57_1,Prilep,Municipality
+14.18460013,MKD,Macedonia,MKD.32_1,Kavadartsi,Municipality
+7.7905402,MKD,Macedonia,MKD.20_1,Demir Kapija,Municipality
+12.6354856,MKD,Macedonia,MKD.75_1,Valandovo,Municipality
+16.2527008,MKD,Macedonia,MKD.69_1,Strumitsa,Municipality
+16.4834003,MKD,Macedonia,MKD.7_1,Bosilovo,Municipality
+14.6625004,MKD,Macedonia,MKD.51_1,Novo Selo,Municipality
+7.056173188,TUR,Turkey,TUR.73_1,Tekirdag,Province
+7.805441558,TUR,Turkey,TUR.40_1,Istanbul,Province
+6.617903564,TUR,Turkey,TUR.81_1,Zinguldak,Province
+2.21133835,TUR,Turkey,TUR.43_1,Karabük,Province
+7.946781248,TUR,Turkey,TUR.10_1,Artvin,Province
+16.18592421,AZE,Azerbaijan,AZE.4_1,Ganja-Qazakh,Region
+8.571013007,UZB,Uzbekistan,UZB.2_1,Bukhoro,Region
+8.985166921,UZB,Uzbekistan,UZB.8_1,Namangan,Region
+19.74405419,JPN,Japan,JPN.3_1,Aomori,Prefecture
+21.1955122,USA,United States,USA.31_1,New Jersey,State
+10.12121509,ESP,Spain,ESP.4_1,Castilla-La Mancha,Autonomous Community
+12.38264456,ITA,Italy,ITA.14_1,Sardegna,Autonomous Region
+6.093521457,ALB,Albania,ALB.4_1,Elbasan,County
+4.8299198,MKD,Macedonia,MKD.78_1,Vevčani,Municipality
+6.2725801,MKD,Macedonia,MKD.68_1,Struga,Municipality
+5.3208301,MKD,Macedonia,MKD.19_1,Demir Hisar,Municipality
+8.3498297,MKD,Macedonia,MKD.24_1,Gevgelija,Municipality
+8.2591696,MKD,Macedonia,MKD.65_1,Star Dojran,Municipality
+12.58161417,TUR,Turkey,TUR.24_1,Çorum,Province
+12.5590329,ARM,Armenia,ARM.10_1,Tavush,Province
+8.777713518,TKM,Turkmenistan,TKM.4_1,Chardzhou,Province
+9.0194197,UZB,Uzbekistan,UZB.13_1,Tashkent City,City
+7.61787348,PRT,Portugal,PRT.20_1,Viseu,District
+7.254313338,PRT,Portugal,PRT.10_1,Guarda,District
+8.72218895,ESP,Spain,ESP.8_1,Comunidad de Madrid,Autonomous Community
+10.58345208,ITA,Italy,ITA.3_1,Basilicata,Region
+8.1233301,MKD,Macedonia,MKD.42_1,Lake Ohrid,Water body
+5.539397475,MKD,Macedonia,MKD.61_1,Resen,Municipality
+5.601402625,MKD,Macedonia,MKD.4_1,Bitola,Municipality
+6.083789833,MKD,Macedonia,MKD.50_1,Novatsi,Municipality
+7.390168477,TUR,Turkey,TUR.52_1,Kocaeli,Province
+5.870914314,TUR,Turkey,TUR.66_1,Sakarya,Province
+4.225285938,TUR,Turkey,TUR.27_1,Düzce,Province
+8.648389234,TUR,Turkey,TUR.23_1,Çankiri,Province
+9.197848292,TUR,Turkey,TUR.63_1,Ordu,Province
+10.30602509,TUR,Turkey,TUR.75_1,Trabzon,Province
+7.423777631,TUR,Turkey,TUR.65_1,Rize,Province
+9.027113831,TUR,Turkey,TUR.45_1,Kars,Province
+8.233098275,ARM,Armenia,ARM.8_1,Shirak,Province
+10.55956145,ARM,Armenia,ARM.7_1,Lori,Province
+8.56284781,UZB,Uzbekistan,UZB.4_1,Jizzakh,Region
+5.193006255,KGZ,Kyrgyzstan,KGZ.7_1,Osh,Province
+17.59522429,PRK,North Korea,PRK.3_1,Hamgyŏng-namdo,Province
+15.23903528,USA,United States,USA.6_1,Colorado,State
+9.853325622,PRT,Portugal,PRT.1_1,Aveiro,District
+9.620218775,ALB,Albania,ALB.5_1,Fier,County
+6.434134509,ALB,Albania,ALB.7_1,Korçë,County
+7.09904,MKD,Macedonia,MKD.52_1,Ohrid,Municipality
+7.078338449,GRC,Greece,GRC.5_1,Epirus and Western Macedonia,Decentralized administration
+0.738281617,TUR,Turkey,TUR.19_1,Bolu,Province
+13.18862397,TUR,Turkey,TUR.6_1,Amasya,Province
+8.661369985,TUR,Turkey,TUR.34_1,Giresun,Province
+6.704434512,TUR,Turkey,TUR.31_1,Erzurum,Province
+13.48441526,AZE,Azerbaijan,AZE.2_1,Aran,Region
+11.8398177,AZE,Azerbaijan,AZE.3_1,Daglig-Shirvan,Region
+9.011958468,UZB,Uzbekistan,UZB.11_1,Sirdaryo,Region
+4.7845776,TJK,Tajikistan,TJK.4_1,Leninabad,Region
+9.2268862,UZB,Uzbekistan,UZB.1_1,Andijon,Region
+23.19333167,CHN,China,CHN.2_1,Beijing,Municipality
+6.255488586,ALB,Albania,ALB.1_1,Berat,County
+7.558683786,TUR,Turkey,TUR.22_1,Çanakkale,Province
+11.54952511,TUR,Turkey,TUR.74_1,Tokat,Province
+8.449170744,TUR,Turkey,TUR.35_1,Gümüshane,Province
+9.848706895,AZE,Azerbaijan,AZE.1_1,Absheron,Region
+17.84581465,USA,United States,USA.26_1,Missouri,State
+19.39149996,USA,United States,USA.49_1,West Virginia,State
+15.74466223,ESP,Spain,ESP.10_1,Comunidad Valenciana,Autonomous Community
+7.966643333,ALB,Albania,ALB.12_1,Vlorë,County
+6.022986338,TUR,Turkey,TUR.12_1,Balikesir,Province
+6.731735,TUR,Turkey,TUR.79_1,Yalova,Province
+5.370183558,TUR,Turkey,TUR.21_1,Bursa,Province
+5.206553795,TUR,Turkey,TUR.7_1,Ankara,Province
+9.471231755,ARM,Armenia,ARM.1_1,Aragatsotn,Province
+7.54477182,ARM,Armenia,ARM.6_1,Kotayk,Province
+8.245708545,ARM,Armenia,ARM.5_1,Gegharkunik,Province
+10.84880112,UZB,Uzbekistan,UZB.3_1,Ferghana,Region
+19.24739079,CHN,China,CHN.25_1,Shanxi,Province
+21.4728616,PRK,North Korea,PRK.9_1,P'yŏngan-bukto,Province
+9.758471367,PRT,Portugal,PRT.7_1,Coimbra,District
+9.159474016,ESP,Spain,ESP.11_1,Extremadura,Autonomous Community
+5.841611708,ALB,Albania,ALB.6_1,Gjirokastër,County
+2.470390444,TUR,Turkey,TUR.16_1,Bilecik,Province
+7.207838553,TUR,Turkey,TUR.72_1,Sivas,Province
+8.076275679,TUR,Turkey,TUR.15_1,Bayburt,Province
+14.5786286,AZE,Azerbaijan,AZE.10_1,Yukhari-Karabakh,Region
+6.483706775,UZB,Uzbekistan,UZB.10_1,Samarkand,Region
+19.32693155,JPN,Japan,JPN.2_1,Akita,Prefecture
+9.218552492,PRT,Portugal,PRT.6_1,Castelo Branco,District
+7.6543798,GRC,Greece,GRC.2_1,Athos,Decentralized administration
+7.258573506,TUR,Turkey,TUR.49_1,Kinkkale,Province
+15.33670012,ARM,Armenia,ARM.3_1,Armavir,Province
+13.1894999,ARM,Armenia,ARM.4_1,Erevan,City
+10.3960966,AZE,Azerbaijan,AZE.5_1,Kalbajar-Lachin,Region
+5.025253995,KGZ,Kyrgyzstan,KGZ.1_1,Batken,Province
+20.11155798,PRK,North Korea,PRK.10_1,P'yŏngan-namdo,Province
+19.32983339,JPN,Japan,JPN.16_1,Iwate,Prefecture
+11.48922586,ITA,Italy,ITA.4_1,Calabria,Region
+8.789981403,GRC,Greece,GRC.8_1,Thessaly and Central Greece,Decentralized administration
+6.69227684,TUR,Turkey,TUR.32_1,Eskisehir,Province
+8.456583378,TUR,Turkey,TUR.80_1,Yozgat,Province
+12.00427143,TUR,Turkey,TUR.38_1,Iğdır,Province
+13.14519202,ARM,Armenia,ARM.2_1,Ararat,Province
+9.783551463,TKM,Turkmenistan,TKM.1_1,Ahal,Province
+25.16809768,CHN,China,CHN.27_1,Tianjin,Municipality
+22.3659992,PRK,North Korea,PRK.14_1,Sinŭiju,Special Administrative Region
+21.89138494,USA,United States,USA.17_1,Kansas,State
+10.96064637,PRT,Portugal,PRT.11_1,Leiria,District
+14.211155,ESP,Spain,ESP.13_1,Islas Baleares,Autonomous Community
+10.31125512,GRC,Greece,GRC.1_1,Aegean,Decentralized administration
+6.339599826,TUR,Turkey,TUR.30_1,Erzincan,Province
+7.970605471,TUR,Turkey,TUR.4_1,Agri,Province
+8.5846612,ARM,Armenia,ARM.11_1,Vayots Dzor,Province
+22.50899495,USA,United States,USA.8_1,Delaware,State
+11.48761226,PRT,Portugal,PRT.16_1,Santarém,District
+8.738510004,GRC,Greece,GRC.7_1,"Peloponnese, Western Greece and the Ionian Islands",Decentralized administration
+1.635176128,TUR,Turkey,TUR.54_1,Kütahya,Province
+6.547143252,TUR,Turkey,TUR.51_1,Kirsehir,Province
+7.323550075,IRN,Iran,IRN.29_1,West Azarbaijan,Province
+10.94750004,AZE,Azerbaijan,AZE.7_1,Nakhchivan,Region
+9.457699994,ARM,Armenia,ARM.9_1,Syunik,Province
+21.56781442,USA,United States,USA.21_1,Maryland,State
+10.59091207,PRT,Portugal,PRT.14_1,Portalegre,District
+8.393345809,IRN,Iran,IRN.2_1,Ardebil,Province
+14.93011979,PRT,Portugal,PRT.2_1,Azores,'Autonomous Region'
+9.581138555,TUR,Turkey,TUR.61_1,Nevsehir,Province
+3.046176948,TUR,Turkey,TUR.76_1,Tunceli,Province
+2.38331225,TUR,Turkey,TUR.17_1,Bingöl,Province
+2.805188382,TUR,Turkey,TUR.60_1,Mus,Province
+7.052473919,TKM,Turkmenistan,TKM.5_1,Mary,Province
+5.834467435,UZB,Uzbekistan,UZB.6_1,Kashkadarya,Region
+2.461648192,TJK,Tajikistan,TJK.5_1,Tadzhikistan Territories,Region
+-3.470726981,TJK,Tajikistan,TJK.2_1,Gorno-Badakhshan,Region
+20.19001071,CHN,China,CHN.22_1,Shaanxi,Province
+19.89233325,PRK,North Korea,PRK.7_1,Kangwŏn-do,Province
+21.39455987,USA,United States,USA.47_1,Virginia,State
+12.26608332,PRT,Portugal,PRT.12_1,Lisboa,District
+7.394560252,TUR,Turkey,TUR.41_1,Izmir,Province
+5.617357885,TUR,Turkey,TUR.56_1,Manisa,Province
+3.938306252,TUR,Turkey,TUR.3_1,Afyon,Province
+3.676574217,TUR,Turkey,TUR.78_1,Van,Province
+9.032642241,IRN,Iran,IRN.5_1,East Azarbaijan,Province
+12.62966848,AZE,Azerbaijan,AZE.6_1,Lankaran,Region
+8.47518719,CHN,China,CHN.21_1,Qinghai,Province
+18.60402785,CHN,China,CHN.20_1,Ningxia Hui,Autonomous Region
+21.77557776,PRK,North Korea,PRK.11_1,P'yŏngyang,Special City
+17.31130211,USA,United States,USA.18_1,Kentucky,State
+2.896158483,TUR,Turkey,TUR.53_1,Konya,Province
+7.27147767,TUR,Turkey,TUR.47_1,Kayseri,Province
+7.279582075,TUR,Turkey,TUR.55_1,Malatya,Province
+2.538210564,TUR,Turkey,TUR.29_1,Elazığ,Province
+21.34192193,PRK,North Korea,PRK.4_1,Hwanghae-bukto,Province
+17.41278551,JPN,Japan,JPN.45_1,Yamagata,Prefecture
+22.0723,USA,United States,USA.9_1,District of Columbia,Federal District
+11.04086778,PRT,Portugal,PRT.8_1,Évora,District
+4.669772014,TUR,Turkey,TUR.5_1,Aksaray,Province
+3.1329882,TUR,Turkey,TUR.18_1,Bitlis,Province
+6.642679887,UZB,Uzbekistan,UZB.12_1,Surkhandarya,Region
+21.2855691,JPN,Japan,JPN.24_1,Miyagi,Prefecture
+12.08558751,PRT,Portugal,PRT.17_1,Setúbal,District
+3.637819412,TUR,Turkey,TUR.77_1,Usak,Province
+18.47777508,PRK,North Korea,PRK.8_1,Kumgangsan,Special Administrative Region
+10.07180434,ESP,Spain,ESP.1_1,Andalucía,Autonomous Community
+13.18780852,ESP,Spain,ESP.18_1,Región de Murcia,Autonomous Community
+2.980150724,TUR,Turkey,TUR.42_1,K. Maras,Province
+3.681607878,TUR,Turkey,TUR.26_1,Diyarbakir,Province
+8.8023701,TJK,Tajikistan,TJK.1_1,Dushanbe,Region
+10.19094636,TJK,Tajikistan,TJK.3_1,Khatlon,Region
+22.3394757,PRK,North Korea,PRK.5_1,Hwanghae-namdo,Province
+3.750415017,TUR,Turkey,TUR.25_1,Denizli,Province
+1.041189609,TUR,Turkey,TUR.39_1,Isparta,Province
+7.60421205,TUR,Turkey,TUR.62_1,Nigde,Province
+6.552401993,TUR,Turkey,TUR.1_1,Adana,Province
+5.266334175,TUR,Turkey,TUR.14_1,Batman,Province
+-1.432062529,AFG,Afghanistan,AFG.1_1,Badakhshan,Province
+20.24920449,KOR,South Korea,KOR.6_1,Gangwon-do,Province
+8.65746238,JPN,Japan,JPN.29_1,Niigata,Prefecture
+11.65108949,PRT,Portugal,PRT.3_1,Beja,District
+13.43098236,ITA,Italy,ITA.15_1,Sicily,Autonomous Region
+10.40479747,GRC,Greece,GRC.3_1,Attica,Decentralized administration
+9.880316294,IRN,Iran,IRN.8_1,Gilan,Province
+6.67647912,IRN,Iran,IRN.21_1,North Khorasan,Province
+7.569945896,TUR,Turkey,TUR.11_1,Aydin,Province
+4.289132396,TUR,Turkey,TUR.2_1,Adiyaman,Province
+6.580650305,TUR,Turkey,TUR.69_1,Siirt,Province
+9.00608137,IRN,Iran,IRN.9_1,Golestan,Province
+24.92190339,CHN,China,CHN.23_1,Shandong,Province
+22.10855008,PRK,North Korea,PRK.6_1,Kaesŏng,Special Administrative Region
+22.49176351,KOR,South Korea,KOR.8_1,Gyeonggi-do,Province
+5.789704263,TUR,Turkey,TUR.68_1,Sanliurfa,Province
+10.3149996,TKM,Turkmenistan,TKM.2_1,Aşgabat,Independent City
+20.22323126,JPN,Japan,JPN.8_1,Fukushima,Prefecture
+2.452944943,TUR,Turkey,TUR.20_1,Burdur,Province
+4.901820533,TUR,Turkey,TUR.57_1,Mardin,Province
+4.552972338,TUR,Turkey,TUR.71_1,Sirnak,Province
+1.780060364,TUR,Turkey,TUR.36_1,Hakkari,Province
+6.722070712,IRN,Iran,IRN.24_1,Razavi Khorasan,Province
+22.9918499,KOR,South Korea,KOR.11_1,Incheon,Metropolitan City
+7.903373545,TUR,Turkey,TUR.64_1,Osmaniye,Province
+4.095564308,AFG,Afghanistan,AFG.31_1,Takhar,Province
+23.36760045,KOR,South Korea,KOR.16_1,Seoul,Capital Metropolitan City
+12.43662362,PRT,Portugal,PRT.9_1,Faro,District
+7.820839467,TUR,Turkey,TUR.59_1,Mugla,Province
+4.242949484,TUR,Turkey,TUR.8_1,Antalya,Province
+0.892522377,TUR,Turkey,TUR.44_1,Karaman,Province
+5.132627044,TUR,Turkey,TUR.33_1,Gaziantep,Province
+6.295513102,AFG,Afghanistan,AFG.13_1,Jawzjan,Province
+14.73828384,JPN,Japan,JPN.15_1,Ishikawa,Prefecture
+11.19072539,TUN,Tunisia,TUN.4_1,Bizerte,Governorate
+4.040411448,TUR,Turkey,TUR.58_1,Mersin,Province
+8.270679544,SYR,Syria,SYR.1_1,Al Ḥasakah,Province
+7.023965812,IRQ,Iraq,IRQ.12_1,Dihok,Province
+6.691709276,IRQ,Iraq,IRQ.6_1,Arbil,Province
+8.760144589,IRN,Iran,IRN.25_1,Semnan,Province
+7.61206205,AFG,Afghanistan,AFG.4_1,Balkh,Province
+11.43881399,AFG,Afghanistan,AFG.19_1,Kunduz,Province
+10.51543129,DZA,Algeria,DZA.39_1,Skikda,Province
+13.08223313,TUN,Tunisia,TUN.1_1,Ariana,Governorate
+7.419488465,IRN,Iran,IRN.31_1,Zanjan,Province
+3.206345707,AFG,Afghanistan,AFG.8_1,Faryab,Province
+22.39122097,KOR,South Korea,KOR.2_1,Chungcheongbuk-do,Province
+21.00326244,JPN,Japan,JPN.39_1,Tochigi,Prefecture
+22.80326949,USA,United States,USA.3_1,Arizona,State
+21.0586733,USA,United States,USA.32_1,New Mexico,State
+20.51548531,USA,United States,USA.37_1,Oklahoma,State
+11.91295986,DZA,Algeria,DZA.13_1,Boumerdès,Province
+9.468266,DZA,Algeria,DZA.23_1,Jijel,Province
+11.4154999,DZA,Algeria,DZA.5_1,Annaba,Province
+11.04086505,DZA,Algeria,DZA.19_1,El Tarf,Province
+9.814192608,TUN,Tunisia,TUN.7_1,Jendouba,Governorate
+10.00746831,TUN,Tunisia,TUN.2_1,Béja,Governorate
+11.14942503,TUN,Tunisia,TUN.13_1,Manubah,Governorate
+14.49759997,TUN,Tunisia,TUN.16_1,Nabeul,Governorate
+8.060062338,TUR,Turkey,TUR.37_1,Hatay,Province
+5.634322525,TUR,Turkey,TUR.48_1,Kilis,Province
+9.883997025,IRQ,Iraq,IRQ.16_1,Ninawa,Province
+9.097371853,IRN,Iran,IRN.20_1,Mazandaran,Province
+-1.118121521,PAK,Pakistan,PAK.6_1,Northern Areas,Centrally Administered Area
+23.29183454,KOR,South Korea,KOR.3_1,Chungcheongnam-do,Province
+22.49331136,KOR,South Korea,KOR.9_1,Gyeongsangbuk-do,Province
+19.84781704,JPN,Japan,JPN.43_1,Toyama,Prefecture
+19.38137794,JPN,Japan,JPN.26_1,Nagano,Prefecture
+21.03118276,JPN,Japan,JPN.10_1,Gunma,Prefecture
+20.84062603,JPN,Japan,JPN.14_1,Ibaraki,Prefecture
+12.934467,DZA,Algeria,DZA.4_1,Alger,Province
+10.34257699,DZA,Algeria,DZA.47_1,Tizi Ouzou,Province
+9.983564592,DZA,Algeria,DZA.8_1,Béjaïa,Province
+12.7518997,TUN,Tunisia,TUN.23_1,Tunis,Governorate
+12.96549985,TUN,Tunisia,TUN.3_1,Ben Arous (Tunis Sud),Governorate
+7.04837814,SYR,Syria,SYR.2_1,Aleppo,Province
+6.332307591,IRN,Iran,IRN.22_1,Qazvin,Province
+16.57773958,PAK,Pakistan,PAK.5_1,N.W.F.P.,Province
+14.40151461,USA,United States,USA.43_1,Tennessee,State
+21.33758661,USA,United States,USA.34_1,North Carolina,State
+12.29049988,DZA,Algeria,DZA.45_1,Tipaza,Province
+10.8029672,DZA,Algeria,DZA.10_1,Blida,Province
+8.562935011,DZA,Algeria,DZA.12_1,Bouira,Province
+7.139744125,DZA,Algeria,DZA.29_1,Mila,Province
+8.252755743,DZA,Algeria,DZA.21_1,Guelma,Province
+10.74183906,TUN,Tunisia,TUN.24_1,Zaghouan,Governorate
+8.25428217,SYR,Syria,SYR.3_1,Ar Raqqah,Province
+3.287799156,AFG,Afghanistan,AFG.29_1,Samangan,Province
+23.0121002,KOR,South Korea,KOR.15_1,Sejong,Metropolitan Autonomous City
+23.5760636,USA,United States,USA.44_1,Texas,State
+15.70922912,USA,United States,USA.4_1,Arkansas,State
+11.07769163,DZA,Algeria,DZA.14_1,Chlef,Province
+10.48950476,DZA,Algeria,DZA.2_1,Aïn Defla,Province
+8.278941125,DZA,Algeria,DZA.28_1,Médéa,Province
+7.381622633,DZA,Algeria,DZA.11_1,Bordj Bou Arréridj,Province
+6.780975009,DZA,Algeria,DZA.37_1,Sétif,Province
+7.195972771,DZA,Algeria,DZA.15_1,Constantine,Province
+7.308921973,DZA,Algeria,DZA.40_1,Souk Ahras,Province
+8.937620544,TUN,Tunisia,TUN.11_1,Le Kef,Governorate
+9.480466013,TUN,Tunisia,TUN.19_1,Siliana,Governorate
+7.144698901,IRQ,Iraq,IRQ.7_1,As-Sulaymaniyah,Province
+2.844742498,IRN,Iran,IRN.17_1,Kordestan,Province
+0.597922207,AFG,Afghanistan,AFG.30_1,Sari Pul,Province
+2.369641411,AFG,Afghanistan,AFG.3_1,Baghlan,Province
+5.951756552,CHN,China,CHN.29_1,Xizang,Autonomous Region
+23.6537008,KOR,South Korea,KOR.5_1,Daejeon,Metropolitan City
+21.08124625,JPN,Japan,JPN.9_1,Gifu,Prefecture
+12.32868015,DZA,Algeria,DZA.30_1,Mostaganem,Province
+19.3215668,TUN,Tunisia,TUN.20_1,Sousse,Governorate
+7.894745733,SYR,Syria,SYR.10_1,Idlib,Province
+9.626747833,SYR,Syria,SYR.7_1,Dayr Az Zawr,Province
+4.601674768,IRN,Iran,IRN.1_1,Alborz,Province
+24.72318748,CHN,China,CHN.12_1,Henan,Province
+22.88438313,JPN,Japan,JPN.37_1,Shimane,Prefecture
+16.02588718,JPN,Japan,JPN.6_1,Fukui,Prefecture
+11.21814587,DZA,Algeria,DZA.35_1,Relizane,Province
+9.568103367,DZA,Algeria,DZA.34_1,Oum el Bouaghi,Province
+16.90508092,TUN,Tunisia,TUN.8_1,Kairouan,Governorate
+23.1856357,KOR,South Korea,KOR.13_1,Jeollabuk-do,Province
+22.08793353,JPN,Japan,JPN.35_1,Saitama,Prefecture
+8.111866627,DZA,Algeria,DZA.46_1,Tissemsilt,Province
+13.64913676,DZA,Algeria,DZA.26_1,M'Sila,Province
+14.55944639,DZA,Algeria,DZA.42_1,Tébessa,Province
+14.5661001,MLT,Malta,MLT.4_1,Tramuntana,Region
+9.900811067,SYR,Syria,SYR.11_1,Lattakia,Province
+5.590750398,IRN,Iran,IRN.28_1,Tehran,Province
+-1.266571527,AFG,Afghanistan,AFG.2_1,Badghis,Province
+-2.892523603,AFG,Afghanistan,AFG.24_1,Nuristan,Province
+23.17525005,KOR,South Korea,KOR.4_1,Daegu,Metropolitan City
+19.75941259,JPN,Japan,JPN.47_1,Yamanashi,Prefecture
+22.05738429,JPN,Japan,JPN.4_1,Chiba,Prefecture
+10.86996269,MAR,Morocco,MAR.14_1,Tanger - Tétouan,Region
+12.2483429,DZA,Algeria,DZA.32_1,Oran,Province
+14.26525394,DZA,Algeria,DZA.16_1,Djelfa,Province
+10.53957621,DZA,Algeria,DZA.6_1,Batna,Province
+13.99619106,TUN,Tunisia,TUN.9_1,Kassérine,Governorate
+19.0364003,TUN,Tunisia,TUN.15_1,Monastir,Governorate
+7.48648509,SYR,Syria,SYR.8_1,Hamah,Province
+12.06346328,IRQ,Iraq,IRQ.8_1,At-Ta'mim,Province
+4.222554745,IRN,Iran,IRN.10_1,Hamadan,Province
+-5.544114623,AFG,Afghanistan,AFG.27_1,Panjshir,Province
+22.84946272,KOR,South Korea,KOR.10_1,Gyeongsangnam-do,Province
+22.5980412,JPN,Japan,JPN.22_1,Kyoto,Urban Prefecture
+21.78398567,JPN,Japan,JPN.41_1,Tokyo,Metropolis
+11.83415008,DZA,Algeria,DZA.3_1,Aïn Témouchent,Province
+11.02358898,DZA,Algeria,DZA.27_1,Mascara,Province
+8.557954714,DZA,Algeria,DZA.43_1,Tiaret,Province
+15.39209478,DZA,Algeria,DZA.24_1,Khenchela,Province
+20.59052027,TUN,Tunisia,TUN.12_1,Mahdia,Governorate
+9.907876064,GRC,Greece,GRC.4_1,Crete,Decentralized administration
+11.47806707,XNC,Northern Cyprus,XNC.4_1,Iskele,District
+12.56180547,IRQ,Iraq,IRQ.17_1,Sala ad-Din,Province
+3.424527028,IRN,Iran,IRN.19_1,Markazi,Province
+22.8651247,KOR,South Korea,KOR.17_1,Ulsan,Metropolitan City
+21.75798587,JPN,Japan,JPN.13_1,Hyōgo,Prefecture
+21.48571344,JPN,Japan,JPN.36_1,Shiga,Prefecture
+21.25154277,JPN,Japan,JPN.19_1,Kanagawa,Prefecture
+11.02620701,DZA,Algeria,DZA.38_1,Sidi Bel Abbès,Province
+17.43601528,TUN,Tunisia,TUN.18_1,Sidi Bou Zid,Governorate
+3.892422646,AFG,Afghanistan,AFG.12_1,Hirat,Province
+-5.301517745,AFG,Afghanistan,AFG.5_1,Bamyan,Province
+0.478251648,AFG,Afghanistan,AFG.28_1,Parwan,Province
+8.520528183,AFG,Afghanistan,AFG.18_1,Kunar,Province
+5.541851839,IND,India,IND.14_1,Jammu and Kashmir,State
+23.57956086,KOR,South Korea,KOR.14_1,Jeollanam-do,Province
+22.72182481,JPN,Japan,JPN.42_1,Tottori,Prefecture
+22.06657974,JPN,Japan,JPN.38_1,Shizuoka,Prefecture
+11.50047042,MAR,Morocco,MAR.10_1,Oriental,Region
+20.41187274,DZA,Algeria,DZA.9_1,Biskra,Province
+17.40756327,TUN,Tunisia,TUN.17_1,Sfax,Governorate
+11.3371,XNC,Northern Cyprus,XNC.3_1,Güzelyurt,District
+10.9094,XNC,Northern Cyprus,XNC.2_1,Girne,District
+11.43146707,XNC,Northern Cyprus,XNC.1_1,Gazimağusa,District
+8.112000741,SYR,Syria,SYR.9_1,Hims,Province
+-6.906382568,AFG,Afghanistan,AFG.10_1,Ghor,Province
+23.17214965,KOR,South Korea,KOR.1_1,Busan,Metropolitan City
+21.20718407,JPN,Japan,JPN.31_1,Okayama,Prefecture
+23.91814443,JPN,Japan,JPN.1_1,Aichi,Prefecture
+20.46717318,USA,United States,USA.41_1,South Carolina,State
+10.55398096,MAR,Morocco,MAR.15_1,Taza - Al Hoceima - Taounate,Region
+8.615350665,DZA,Algeria,DZA.48_1,Tlemcen,Province
+8.991031918,DZA,Algeria,DZA.36_1,Saïda,Province
+9.744347325,CYP,Cyprus,CYP.5_1,Paphos,District
+9.225479838,CYP,Cyprus,CYP.4_1,Nicosia,District
+11.3466997,XNC,Northern Cyprus,XNC.5_1,Nicosia,District
+11.8259001,XAD,Akrotiri and Dhekelia,XAD.2_1,Dhekelia,Sovereign Base Area
+10.39007855,SYR,Syria,SYR.14_1,Tartus,Province
+10.39592928,IRQ,Iraq,IRQ.1_1,Al-Anbar,Province
+4.316184356,IRN,Iran,IRN.14_1,Kermanshah,Province
+6.551589988,IRN,Iran,IRN.23_1,Qom,Province
+9.088912836,IRN,Iran,IRN.30_1,Yazd,Province
+5.050537043,AFG,Afghanistan,AFG.16_1,Kapisa,Province
+7.822850257,AFG,Afghanistan,AFG.20_1,Laghman,Province
+13.64351583,PAK,Pakistan,PAK.1_1,Azad Kashmir,Centrally Administered Area
+25.97109327,CHN,China,CHN.15_1,Jiangsu,Province
+23.9298,KOR,South Korea,KOR.7_1,Gwangju,Metropolitan City
+22.74860327,JPN,Japan,JPN.11_1,Hiroshima,Prefecture
+23.27458412,JPN,Japan,JPN.23_1,Mie,Prefecture
+14.52777888,USA,United States,USA.25_1,Mississippi,State
+11.55490104,USA,United States,USA.1_1,Alabama,State
+15.37174523,USA,United States,USA.11_1,Georgia,State
+12.83462327,MAR,Morocco,MAR.4_1,Gharb - Chrarda - Béni Hssen,Region
+9.66457614,CYP,Cyprus,CYP.3_1,Limassol,District
+11.3544502,CYP,Cyprus,CYP.2_1,Larnaca,District
+11.87943014,IRQ,Iraq,IRQ.13_1,Diyala,Province
+22.10884985,JPN,Japan,JPN.33_1,Osaka,Urban Prefecture
+-2.688612755,AFG,Afghanistan,AFG.33_1,Wardak,Province
+5.29664735,AFG,Afghanistan,AFG.14_1,Kabul,Province
+10.95772005,AFG,Afghanistan,AFG.22_1,Nangarhar,Province
+16.91499668,PAK,Pakistan,PAK.3_1,F.A.T.A.,Territory
+16.52900289,DZA,Algeria,DZA.25_1,Laghouat,Province
+13.17093342,TUN,Tunisia,TUN.6_1,Gafsa,Governorate
+10.4726801,LBN,Lebanon,LBN.1_1,Akkar,Governorate
+24.98575129,CHN,China,CHN.1_1,Anhui,Province
+23.62558736,JPN,Japan,JPN.27_1,Naoasaki,Prefecture
+20.81169582,JPN,Japan,JPN.46_1,Yamaguchi,Prefecture
+21.45637689,JPN,Japan,JPN.28_1,Nara,Prefecture
+15.37630598,DZA,Algeria,DZA.17_1,El Bayadh,Province
+15.47460463,DZA,Algeria,DZA.18_1,El Oued,Province
+14.29435452,TUN,Tunisia,TUN.22_1,Tozeur,Governorate
+7.1526765,LBN,Lebanon,LBN.7_1,North,Governorate
+4.46733672,LBN,Lebanon,LBN.2_1,Baalbak - Hermel,Governorate
+6.116979306,IRN,Iran,IRN.6_1,Esfahan,Province
+12.47401969,MAR,Morocco,MAR.9_1,Meknès - Tafilalet,Region
+12.41939739,MAR,Morocco,MAR.3_1,Fès - Boulemane,Region
+14.54535687,DZA,Algeria,DZA.31_1,Naâma,Province
+15.24383602,TUN,Tunisia,TUN.5_1,Gabès,Governorate
+4.750380468,IRN,Iran,IRN.18_1,Lorestan,Province
+8.796743508,IRN,Iran,IRN.27_1,South Khorasan,Province
+-2.332474513,AFG,Afghanistan,AFG.6_1,Daykundi,Province
+3.194160417,AFG,Afghanistan,AFG.21_1,Logar,Province
+1.708611982,AFG,Afghanistan,AFG.26_1,Paktya,Province
+15.52208097,CHN,China,CHN.26_1,Sichuan,Province
+21.74058342,JPN,Japan,JPN.17_1,Kagawa,Prefecture
+21.94851775,JPN,Japan,JPN.44_1,Wakayama,Prefecture
+12.20975383,MAR,Morocco,MAR.11_1,Rabat - Salé - Zemmour - Zaer,Region
+13.72097469,TUN,Tunisia,TUN.10_1,Kebili,Governorate
+8.305010143,LBN,Lebanon,LBN.5_1,Mount Lebanon,Governorate
+7.55284908,SYR,Syria,SYR.13_1,Rif Dimashq,Province
+-3.149237371,AFG,Afghanistan,AFG.9_1,Ghazni,Province
+20.76201312,JPN,Japan,JPN.40_1,Tokushima,Prefecture
+13.92388572,DZA,Algeria,DZA.33_1,Ouargla,Province
+5.702792475,LBN,Lebanon,LBN.4_1,Bekaa,Governorate
+8.849866033,IRN,Iran,IRN.12_1,Ilam,Province
+31.6401997,PAK,Pakistan,PAK.7_1,Punjab,Province
+23.70682335,JPN,Japan,JPN.7_1,Fukuoka,Prefecture
+20.40651769,JPN,Japan,JPN.5_1,Ehime,Prefecture
+11.72239899,MAR,Morocco,MAR.1_1,Chaouia - Ouardigha,Region
+14.63419676,TUN,Tunisia,TUN.14_1,Médenine,Governorate
+26.79289915,PAK,Pakistan,PAK.4_1,F.C.T.,Capital Territory
+20.37002087,JPN,Japan,JPN.20_1,Kochi,Prefecture
+13.7873502,MAR,Morocco,MAR.5_1,Grand Casablanca,Region
+9.646769967,LBN,Lebanon,LBN.8_1,South,Governorate
+11.43271501,AFG,Afghanistan,AFG.17_1,Khost,Province
+22.64966002,JPN,Japan,JPN.30_1,Oita,Prefecture
+13.58333592,MAR,Morocco,MAR.2_1,Doukkala - Abda,Region
+9.184264775,LBN,Lebanon,LBN.6_1,Nabatiyeh,Governorate
+12.8931332,IRQ,Iraq,IRQ.10_1,Baghdad,Province
+7.118274874,AFG,Afghanistan,AFG.7_1,Farah,Province
+22.70813338,KOR,South Korea,KOR.12_1,Jeju,Province
+24.3612859,JPN,Japan,JPN.34_1,Saga,Prefecture
+13.4040956,TUN,Tunisia,TUN.21_1,Tataouine,Governorate
+11.67413849,ISR,Israel,ISR.5_1,HaZafon,District
+9.2185725,ISR,Israel,ISR.1_1,Golan,District
+7.741639933,SYR,Syria,SYR.12_1,Quneitra,Province
+8.661853443,SYR,Syria,SYR.6_1,Dar`a,Province
+9.23217826,JOR,Jordan,JOR.10_1,Mafraq,Province
+12.18354266,IRQ,Iraq,IRQ.18_1,Wasit,Province
+9.05744462,AFG,Afghanistan,AFG.11_1,Hilmand,Province
+0.194798738,AFG,Afghanistan,AFG.32_1,Uruzgan,Province
+1.0646771,AFG,Afghanistan,AFG.25_1,Paktika,Province
+14.07877391,LBY,Libya,LBY.10_1,An Nuqat al Khams,District
+7.070461275,SYR,Syria,SYR.4_1,As Suwayda',Province
+11.88614348,IRQ,Iraq,IRQ.9_1,Babil,Province
+14.29295396,IND,India,IND.13_1,Himachal Pradesh,Union Territory
+23.59991706,CHN,China,CHN.13_1,Hubei,Province
+22.02211666,JPN,Japan,JPN.21_1,Kumamoto,Prefecture
+17.70672327,USA,United States,USA.19_1,Louisiana,State
+15.2708069,DZA,Algeria,DZA.20_1,Ghardaïa,Province
+11.59032992,LBY,Libya,LBY.2_1,Al Jabal al Akhdar,District
+12.49872493,ISR,Israel,ISR.3_1,Haifa,District
+12.5834287,IRN,Iran,IRN.15_1,Khuzestan,Province
+-0.759059661,AFG,Afghanistan,AFG.34_1,Zabul,Province
+13.9907999,PRT,Portugal,PRT.13_1,Madeira,'Autonomous Region'
+9.35979617,MAR,Morocco,MAR.13_1,Tadla - Azilal,Region
+13.52635828,LBY,Libya,LBY.11_1,Az Zawiyah,District
+12.72519983,LBY,Libya,LBY.4_1,Al Jifarah,District
+13.59796237,LBY,Libya,LBY.20_1,Tripoli,District
+13.40918571,LBY,Libya,LBY.8_1,Al Marqab,District
+11.87485997,LBY,Libya,LBY.7_1,Al Marj,District
+12.58389263,LBY,Libya,LBY.13_1,Darnah,District
+12.81947168,IRQ,Iraq,IRQ.15_1,Maysan,Province
+22.93226787,JPN,Japan,JPN.25_1,Miyazaki,Prefecture
+14.8438606,MEX,Mexico,MEX.3_1,Baja California,State
+11.95444844,MAR,Morocco,MAR.8_1,Marrakech - Tensift - Al Haouz,Region
+12.82922072,LBY,Libya,LBY.12_1,Benghazi,District
+10.71522838,JOR,Jordan,JOR.5_1,Irbid,Province
+11.36716426,IRQ,Iraq,IRQ.14_1,Karbala',Province
+1.493003623,IRN,Iran,IRN.4_1,Chahar Mahall and Bakhtiari,Province
+27.76192629,MEX,Mexico,MEX.26_1,Sonora,State
+14.91364228,LBY,Libya,LBY.15_1,Misratah,District
+11.18063197,PSE,Palestina,PSE.2_1,West Bank,District
+9.222151234,AFG,Afghanistan,AFG.15_1,Kandahar,Province
+29.49193656,IND,India,IND.28_1,Punjab,State
+17.67766135,DZA,Algeria,DZA.7_1,Béchar,Province
+12.14417715,LBY,Libya,LBY.17_1,Nalut,District
+13.35061761,LBY,Libya,LBY.3_1,Al Jabal al Gharbi,District
+12.93854977,ISR,Israel,ISR.4_1,HaMerkaz,District
+9.4193296,JOR,Jordan,JOR.1_1,Ajlun,Province
+9.4442501,JOR,Jordan,JOR.6_1,Jarash,Province
+11.72064901,IRQ,Iraq,IRQ.5_1,An-Najaf,Province
+12.57946209,IRQ,Iraq,IRQ.4_1,Al-Qadisiyah,Province
+13.25016751,LBY,Libya,LBY.1_1,Al Butnan,District
+12.03657323,JOR,Jordan,JOR.4_1,Balqa,Province
+9.658943373,JOR,Jordan,JOR.12_1,Zarqa,Province
+13.35603804,SAU,Saudi Arabia,SAU.3_1,Al Hudud ash Shamaliyah,Region
+12.02145066,AFG,Afghanistan,AFG.23_1,Nimroz,Province
+23.27409528,CHN,China,CHN.3_1,Chongqing,Municipality
+22.54950301,JPN,Japan,JPN.18_1,Kagoshima,Prefecture
+12.05920811,MAR,Morocco,MAR.12_1,Souss - Massa - Draâ,Region
+8.993977718,JOR,Jordan,JOR.2_1,Amman,Province
+13.66477951,IRQ,Iraq,IRQ.11_1,Dhi-Qar,Province
+10.74721898,IRN,Iran,IRN.13_1,Kerman,Province
+20.41611968,PAK,Pakistan,PAK.2_1,Baluchistan,Province
+22.70882133,MEX,Mexico,MEX.6_1,Chihuahua,State
+12.05452958,ISR,Israel,ISR.2_1,HaDarom,District
+10.9960899,ISR,Israel,ISR.6_1,Jerusalem,District
+11.281003,JOR,Jordan,JOR.9_1,Madaba,Province
+26.20653045,CHN,China,CHN.24_1,Shanghai,Municipality
+13.83427585,EGY,Egypt,EGY.24_1,Matrouh,Governorate
+13.87382315,EGY,Egypt,EGY.23_1,Kafr ash Shaykh,Governorate
+14.34012266,SAU,Saudi Arabia,SAU.4_1,Al Jawf,Region
+13.45194085,IRQ,Iraq,IRQ.3_1,Al-Muthannia,Province
+8.63946045,IRN,Iran,IRN.7_1,Fars,Province
+27.63437823,DZA,Algeria,DZA.1_1,Adrar,Province
+13.19023641,LBY,Libya,LBY.19_1,Surt,District
+15.35712621,EGY,Egypt,EGY.3_1,Al Buhayrah,Governorate
+13.80842503,EGY,Egypt,EGY.1_1,Ad Daqahliyah,Governorate
+13.98162508,EGY,Egypt,EGY.21_1,Dumyat,Governorate
+10.31933514,JOR,Jordan,JOR.7_1,Karak,Province
+7.575611064,IRN,Iran,IRN.16_1,Kohgiluyeh and Buyer Ahmad,Province
+14.91774067,IRN,Iran,IRN.26_1,Sistan and Baluchestan,Province
+18.00309031,IND,India,IND.35_1,Uttarakhand,State
+15.64210034,EGY,Egypt,EGY.20_1,Bur Sa`id,Governorate
+12.27880322,EGY,Egypt,EGY.26_1,Shamal Sina',Governorate
+10.1255721,JOR,Jordan,JOR.8_1,Ma`an,Province
+14.94489837,IRQ,Iraq,IRQ.2_1,Al-Basrah,Province
+14.60629488,LBY,Libya,LBY.9_1,Al Wahat,District
+15.88118755,EGY,Egypt,EGY.6_1,Al Iskandariyah,Governorate
+13.1908331,EGY,Egypt,EGY.5_1,Al Gharbiyah,Governorate
+14.75574218,EGY,Egypt,EGY.16_1,Ash Sharqiyah,Governorate
+21.4605174,CHN,China,CHN.31_1,Zhejiang,Province
+27.10303733,USA,United States,USA.10_1,Florida,State
+14.72184115,EGY,Egypt,EGY.7_1,Al Isma`iliyah,Governorate
+10.42000574,JOR,Jordan,JOR.11_1,Tafilah,Province
+28.6760006,IND,India,IND.6_1,Chandigarh,Union Territory
+29.74416302,IND,India,IND.12_1,Haryana,State
+13.7093252,EGY,Egypt,EGY.9_1,Al Minufiyah,Governorate
+10.18195567,JOR,Jordan,JOR.3_1,Aqaba,Province
+16.38468717,DZA,Algeria,DZA.22_1,Illizi,Province
+13.91506673,EGY,Egypt,EGY.12_1,Al Qalyubiyah,Governorate
+16.0557441,NPL,Nepal,NPL.4_1,Mid-Western,Development Region
+15.69093219,MAR,Morocco,MAR.6_1,Guelmim - Es-Semara,Region
+13.82967154,EGY,Egypt,EGY.8_1,Al Jizah,Governorate
+13.73918338,EGY,Egypt,EGY.15_1,As Suways,Governorate
+29.05535293,IND,India,IND.34_1,Uttar Pradesh,State
+13.60808579,EGY,Egypt,EGY.11_1,Al Qahirah,Governorate
+15.45389047,KWT,Kuwait,KWT.3_1,Al Jahrah,Province
+13.81852438,IRN,Iran,IRN.3_1,Bushehr,Province
+29.94630544,IND,India,IND.29_1,Rajasthan,State
+20.34404604,NPL,Nepal,NPL.3_1,Far-Western,Development Region
+21.38608662,CHN,China,CHN.14_1,Hunan,Province
+13.80200325,EGY,Egypt,EGY.22_1,Janub Sina',Governorate
+21.54440398,CHN,China,CHN.16_1,Jiangxi,Province
+24.80219408,MEX,Mexico,MEX.7_1,Coahuila,State
+23.06375967,DZA,Algeria,DZA.44_1,Tindouf,Province
+25.79089095,DZA,Algeria,DZA.41_1,Tamanghasset,Province
+14.61265247,EGY,Egypt,EGY.4_1,Al Fayyum,Governorate
+13.90938606,LBY,Libya,LBY.22_1,Wadi ash Shati',District
+15.91860789,LBY,Libya,LBY.5_1,Al Jufrah,District
+19.0199764,IND,India,IND.3_1,Arunachal Pradesh,State
+13.88937424,EGY,Egypt,EGY.19_1,Bani Suwayf,Governorate
+15.8441,KWT,Kuwait,KWT.2_1,Al Farwaniyah,Province
+15.9026003,KWT,Kuwait,KWT.6_1,Mubarak Al-Kabeer,Province
+17.78481261,NPL,Nepal,NPL.5_1,West,Development Region
+14.92480356,ESP,Spain,ESP.14_1,Islas Canarias,Autonomous Community
+22.75463023,EGY,Egypt,EGY.2_1,Al Bahr al Ahmar,Governorate
+23.05417591,SAU,Saudi Arabia,SAU.8_1,Ash Sharqiyah,Region
+15.93357139,KWT,Kuwait,KWT.1_1,Al Ahmadi,Province
+20.12715467,CHN,China,CHN.30_1,Yunnan,Province
+21.56526607,CHN,China,CHN.8_1,Guizhou,Province
+15.59730852,SAU,Saudi Arabia,SAU.13_1,Tabuk,Region
+17.14928771,IRN,Iran,IRN.11_1,Hormozgan,Province
+14.01748634,EGY,Egypt,EGY.10_1,Al Minya,Governorate
+15.48814911,SAU,Saudi Arabia,SAU.9_1,Ha'il,Region
+30.03765982,IND,India,IND.25_1,NCT of Delhi,Union Territory
+31.79038211,PAK,Pakistan,PAK.8_1,Sind,Province
+23.1505708,MMR,Myanmar,MMR.4_1,Kachin,State
+22.44833444,NPL,Nepal,NPL.1_1,Central,Development Region
+21.05216953,CHN,China,CHN.4_1,Fujian,Province
+17.45694185,MAR,Morocco,MAR.7_1,Laâyoune - Boujdour - Sakia El Hamra,Region
+20.03924044,NPL,Nepal,NPL.2_1,East,Development Region
+11.64552777,IND,India,IND.30_1,Sikkim,State
+5.991967822,BTN,Bhutan,BTN.4_1,Gasa,District
+25.03323532,MEX,Mexico,MEX.2_1,Baja California Sur,State
+9.293027243,BTN,Bhutan,BTN.14_1,Thimphu,District
+13.09812685,BTN,Bhutan,BTN.18_1,Wangduephodrang,District
+10.55875001,BTN,Bhutan,BTN.1_1,Bumthang,District
+14.09277834,BTN,Bhutan,BTN.6_1,Lhuentse,District
+13.79540816,BTN,Bhutan,BTN.19_1,Yangtse,District
+27.58708848,IND,India,IND.4_1,Assam,State
+15.70299412,LBY,Libya,LBY.14_1,Ghat,District
+14.85470691,LBY,Libya,LBY.18_1,Sabha,District
+14.87813282,EGY,Egypt,EGY.18_1,Asyut,Governorate
+17.16207482,BTN,Bhutan,BTN.10_1,Punakha,District
+24.59589716,MEX,Mexico,MEX.19_1,Nuevo León,State
+26.97846225,MEX,Mexico,MEX.28_1,Tamaulipas,State
+19.65469285,ESH,Western Sahara,ESH.3_1,Laayoune,Province
+20.77699046,ESH,Western Sahara,ESH.2_1,Es Semara,Province
+18.8429257,EGY,Egypt,EGY.14_1,Al Wadi al Jadid,Governorate
+13.79748304,BTN,Bhutan,BTN.5_1,Haa,District
+12.06067492,BTN,Bhutan,BTN.8_1,Paro,District
+16.60293978,BTN,Bhutan,BTN.16_1,Trongsa,District
+25.34286678,SAU,Saudi Arabia,SAU.7_1,Ar Riyad,Region
+28.8973029,IND,India,IND.5_1,Bihar,State
+20.13955689,BTN,Bhutan,BTN.7_1,Monggar,District
+16.9544624,BTN,Bhutan,BTN.15_1,Trashigang,District
+14.80974905,LBY,Libya,LBY.21_1,Wadi al Hayat,District
+16.94055721,EGY,Egypt,EGY.27_1,Suhaj,Governorate
+23.18863719,SAU,Saudi Arabia,SAU.5_1,Al Madinah,Region
+21.66478534,SAU,Saudi Arabia,SAU.6_1,Al Quassim,Region
+21.82762503,BTN,Bhutan,BTN.12_1,Samtse,District
+18.5324165,BTN,Bhutan,BTN.2_1,Chhukha,District
+20.63953367,BTN,Bhutan,BTN.3_1,Dagana,District
+21.90172847,BTN,Bhutan,BTN.20_1,Zhemgang,District
+26.54498507,MMR,Myanmar,MMR.12_1,Sagaing,Division
+31.90742262,MRT,Mauritania,MRT.12_1,Tiris Zemmour,Region
+28.583406,IND,India,IND.36_1,West Bengal,State
+22.2141005,BTN,Bhutan,BTN.17_1,Tsirang,District
+23.85030015,BTN,Bhutan,BTN.13_1,Sarpang,District
+23.7477004,BTN,Bhutan,BTN.9_1,Pemagatshel,District
+23.65361976,BTN,Bhutan,BTN.11_1,Samdrupjongkhar,District
+28.16487635,MEX,Mexico,MEX.25_1,Sinaloa,State
+27.13285065,BHS,Bahamas,BHS.22_1,North Abaco,District
+22.4190504,LBY,Libya,LBY.16_1,Murzuq,District
+21.39185139,LBY,Libya,LBY.6_1,Al Kufrah,District
+23.96025504,IND,India,IND.24_1,Nagaland,State
+20.17607183,MEX,Mexico,MEX.10_1,Durango,State
+27.7068329,BHS,Bahamas,BHS.32_1,West Grand Bahama,District
+27.3299999,BHS,Bahamas,BHS.11_1,East Grand Bahama,District
+26.87861303,IND,India,IND.19_1,Madhya Pradesh,State
+24.619517,JPN,Japan,JPN.32_1,Okinawa,Prefecture
+27.22746723,BHS,Bahamas,BHS.6_1,Central Abaco,District
+21.37133729,EGY,Egypt,EGY.25_1,Qina,Governorate
+28.52498341,BGD,Bangladesh,BGD.6_1,Rangpur,Division
+23.44520869,ESH,Western Sahara,ESH.1_1,Boujdour,Province
+25.50973868,CHN,China,CHN.7_1,Guangxi,Autonomous Region
+27.2276001,BHS,Bahamas,BHS.28_1,South Abaco,District
+18.00960065,BHR,Bahrain,BHR.5_1,Southern,Governorate
+18.17640015,QAT,Qatar,QAT.6_1,Madinat ash Shamal,Municipality
+21.1248498,OMN,Oman,OMN.10_1,Musandam,Province
+18.27715015,QAT,Qatar,QAT.3_1,Al Khor,Municipality
+19.80483771,ARE,United Arab Emirates,ARE.5_1,Ras Al-Khaimah,Emirate
+24.62336199,IND,India,IND.22_1,Meghalaya,State
+27.8642006,BHS,Bahamas,BHS.3_1,Biminis,District
+18.58215514,QAT,Qatar,QAT.5_1,Ar Rayyan,Municipality
+23.24000075,EGY,Egypt,EGY.13_1,Al Uqsur,Governorate
+18.4185009,QAT,Qatar,QAT.2_1,Al Daayen,Municipality
+20.4307499,ARE,United Arab Emirates,ARE.7_1,Umm al-Qaywayn,Emirate
+19.8800396,ARE,United Arab Emirates,ARE.4_1,Fujairah,Emirate
+27.2611008,BHS,Bahamas,BHS.24_1,North Eleuthera,District
+18.5330009,QAT,Qatar,QAT.7_1,Umm Salal,Municipality
+20.2236996,ARE,United Arab Emirates,ARE.2_1,Ajman,Emirate
+23.35383821,IND,India,IND.21_1,Manipur,State
+25.42827262,CHN,China,CHN.6_1,Guangdong,Province
+25.16788435,EGY,Egypt,EGY.17_1,Aswan,Governorate
+18.8404007,QAT,Qatar,QAT.1_1,Ad Dawhah,Municipality
+20.75676917,ARE,United Arab Emirates,ARE.3_1,Dubai,Emirate
+20.41060011,ARE,United Arab Emirates,ARE.6_1,Sharjah,Emirate
+27.34489462,IND,India,IND.15_1,Jharkhand,State
+28.8834068,BGD,Bangladesh,BGD.5_1,Rajshahi,Division
+28.43349999,BGD,Bangladesh,BGD.3_1,Dhaka,Division
+24.13915028,TWN,Taiwan,TWN.3_1,New Taipei,Special Municipality
+19.3762721,MEX,Mexico,MEX.32_1,Zacatecas,State
+27.3973111,BHS,Bahamas,BHS.23_1,North Andros,District
+18.85062504,QAT,Qatar,QAT.4_1,Al Wakrah,Municipality
+27.99478807,BGD,Bangladesh,BGD.7_1,Sylhet,Division
+22.79007094,TWN,Taiwan,TWN.7_1,Taiwan,Province
+24.8423004,TWN,Taiwan,TWN.6_1,Taipei,Special Municipality
+33.92012892,MLI,Mali,MLI.9_1,Timbuktu,Region
+22.9958503,OMN,Oman,OMN.4_1,Al Buraymi,Region
+27.4389992,BHS,Bahamas,BHS.30_1,South Eleuthera,District
+23.23994405,ARE,United Arab Emirates,ARE.1_1,Abu Dhabi,Emirate
+21.90621732,OMN,Oman,OMN.2_1,Al Batinah North,Region
+28.50461425,IND,India,IND.11_1,Gujarat,State
+21.5910371,MEX,Mexico,MEX.24_1,San Luis Potosí,State
+27.49639985,BHS,Bahamas,BHS.7_1,Central Andros,District
+27.70007284,ESH,Western Sahara,ESH.4_1,Oued el Dahab,Province
+27.43226763,IND,India,IND.33_1,Tripura,State
+24.39020586,IND,India,IND.23_1,Mizoram,State
+27.44720017,BHS,Bahamas,BHS.18_1,Mangrove Cay,District
+22.00469972,TWN,Taiwan,TWN.4_1,Taichung,Special Municipality
+27.53196034,BHS,Bahamas,BHS.29_1,South Andros,District
+34.26669668,MRT,Mauritania,MRT.1_1,Adrar,Region
+24.35540875,OMN,Oman,OMN.5_1,Al Dhahira,Region
+28.98310282,BGD,Bangladesh,BGD.4_1,Khulna,Division
+27.53041378,BGD,Bangladesh,BGD.2_1,Chittagong,Division
+23.80927348,MMR,Myanmar,MMR.13_1,Shan,State
+25.83446441,SAU,Saudi Arabia,SAU.11_1,Makkah,Region
+26.4342872,IND,India,IND.7_1,Chhattisgarh,State
+22.38696351,MMR,Myanmar,MMR.3_1,Chin,State
+22.48236142,OMN,Oman,OMN.3_1,Al Batinah South,Region
+27.7380009,BHS,Bahamas,BHS.12_1,Exuma,District
+25.03325734,OMN,Oman,OMN.11_1,Muscat,Province
+26.88141079,MMR,Myanmar,MMR.8_1,Mandalay,Division
+32.18620569,NER,Niger,NER.1_1,Agadez,Department
+24.18568017,OMN,Oman,OMN.1_1,Ad Dakhliyah,Region
+22.97298002,TWN,Taiwan,TWN.2_1,Kaohsiung,Special Municipality
+29.89946895,TCD,Chad,TCD.21_1,Tibesti,Region
+25.22284378,VNM,Vietnam,VNM.26_1,Hà Giang,Province
+27.82715743,TWN,Taiwan,TWN.5_1,Tainan,Special Municipality
+27.1450335,CUB,Cuba,CUB.4_1,Ciudad de la Habana,Province
+26.87982698,CUB,Cuba,CUB.12_1,Mayabeque,Province
+27.32507553,CUB,Cuba,CUB.11_1,Matanzas,Province
+26.54074803,CUB,Cuba,CUB.16_1,Villa Clara,Province
+26.8390999,BHS,Bahamas,BHS.10_1,Crooked Island,District
+29.81166941,SDN,Sudan,SDN.11_1,Red Sea,State
+25.39158595,MEX,Mexico,MEX.18_1,Nayarit,State
+26.72972943,CUB,Cuba,CUB.13_1,Pinar del Río,Province
+27.11034259,CUB,Cuba,CUB.9_1,La Habana,Province
+32.49575618,MRT,Mauritania,MRT.7_1,Hodh ech Chargui,Region
+25.44249347,OMN,Oman,OMN.7_1,Ash Sharqiyah North,Region
+28.43418524,BGD,Bangladesh,BGD.1_1,Barisal,Division
+26.0115667,VNM,Vietnam,VNM.14_1,Cao Bằng,Province
+24.49682363,OMN,Oman,OMN.8_1,Ash Sharqiyah South,Region
+23.36568192,VNM,Vietnam,VNM.36_1,Lai Châu,Province
+24.39900007,VNM,Vietnam,VNM.38_1,Lào Cai,Province
+22.08899168,MEX,Mexico,MEX.14_1,Jalisco,State
+27.06798021,MMR,Myanmar,MMR.7_1,Magway,Division
+27.22555019,VNM,Vietnam,VNM.60_1,Tuyên Quang,Province
+26.25594646,VNM,Vietnam,VNM.4_1,Bắc Kạn,Province
+25.72771127,MEX,Mexico,MEX.30_1,Veracruz,State
+26.42596673,CUB,Cuba,CUB.3_1,Cienfuegos,Province
+26.98994754,CUB,Cuba,CUB.14_1,Sancti Spíritus,Province
+27.11226082,CUB,Cuba,CUB.2_1,Ciego de Ávila,Province
+26.9221001,BHS,Bahamas,BHS.19_1,Mayaguana,District
+27.0298957,IND,India,IND.26_1,Odisha,State
+24.06660608,LAO,Laos,LAO.10_1,Phôngsali,Province
+24.34654998,VNM,Vietnam,VNM.20_1,Điện Biên,Province
+26.86633851,VNM,Vietnam,VNM.35_1,Lạng Sơn,Province
+28.1198006,HKG,Hong Kong,HKG.14_1,Tuen Mun,District
+27.6756992,HKG,Hong Kong,HKG.18_1,Yuen Long,District
+27.4745007,HKG,Hong Kong,HKG.12_1,Tai Po,District
+19.15611255,MEX,Mexico,MEX.1_1,Aguascalientes,State
+27.3395004,HKG,Hong Kong,HKG.3_1,Islands,District
+27.7989006,HKG,Hong Kong,HKG.2_1,Eastern,District
+17.5030188,USA,United States,USA.12_1,Hawaii,State
+27.08628784,CUB,Cuba,CUB.1_1,Camagüey,Province
+31.65384823,SDN,Sudan,SDN.10_1,Northern,State
+24.96155986,VNM,Vietnam,VNM.63_1,Yên Bái,Province
+27.33771253,CUB,Cuba,CUB.8_1,Isla de la Juventud,Province
+31.11881561,TCD,Chad,TCD.3_1,Borkou,Region
+33.11901145,SDN,Sudan,SDN.12_1,River Nile,State
+25.94464211,OMN,Oman,OMN.6_1,Al Wusta,Region
+26.08961397,IND,India,IND.20_1,Maharashtra,State
+24.56204344,VNM,Vietnam,VNM.52_1,Sơn La,Province
+27.68757488,VNM,Vietnam,VNM.56_1,Thái Nguyên,Province
+19.60023945,MEX,Mexico,MEX.11_1,Guanajuato,State
+25.9321995,TCA,Turks and Caicos Islands,TCA.2_1,Middle Caicos,District
+26.0179996,TCA,Turks and Caicos Islands,TCA.6_1,South Caicos and East Caicos,District
+33.26634622,MLI,Mali,MLI.4_1,Kidal,Region
+19.93066746,MEX,Mexico,MEX.22_1,Querétaro,State
+27.13698547,MEX,Mexico,MEX.31_1,Yucatán,State
+26.9380903,MEX,Mexico,MEX.23_1,Quintana Roo,State
+27.41962985,VNM,Vietnam,VNM.44_1,Phú Thọ,Province
+28.06984288,VNM,Vietnam,VNM.3_1,Bắc Giang,Province
+27.32935557,VNM,Vietnam,VNM.49_1,Quảng Ninh,Province
+27.28473327,CUB,Cuba,CUB.10_1,Las Tunas,Province
+26.32657907,MMR,Myanmar,MMR.11_1,Rakhine,State
+24.46930657,LAO,Laos,LAO.7_1,Louang Namtha,Province
+28.17993353,VNM,Vietnam,VNM.62_1,Vĩnh Phúc,Province
+19.09544557,MEX,Mexico,MEX.13_1,Hidalgo,State
+26.86580038,BHS,Bahamas,BHS.16_1,Inagua,District
+27.77493084,MRT,Mauritania,MRT.4_1,Dakhlet Nouadhibou,Region
+28.45595464,VNM,Vietnam,VNM.27_1,Hà Nội,City
+26.61176556,CUB,Cuba,CUB.7_1,Holguín,Province
+30.68024902,MRT,Mauritania,MRT.9_1,Inchiri,Region
+24.8987784,LAO,Laos,LAO.9_1,Oudômxai,Province
+24.95713381,LAO,Laos,LAO.8_1,Louangphrabang,Province
+26.68857652,VNM,Vietnam,VNM.30_1,Hoà Bình,Province
+28.76104925,VNM,Vietnam,VNM.5_1,Bắc Ninh,Province
+28.41304018,VNM,Vietnam,VNM.22_1,Hải Dương,Province
+30.73232479,TCD,Chad,TCD.6_1,Ennedi Ouest,Region
+25.68855105,SAU,Saudi Arabia,SAU.1_1,`Asir,Region
+24.283551,OMN,Oman,OMN.9_1,Dhofar,Province
+23.49240007,LAO,Laos,LAO.5_1,Houaphan,Province
+28.35620053,VNM,Vietnam,VNM.31_1,Hưng Yên,Province
+28.31580018,VNM,Vietnam,VNM.23_1,Hải Phòng,City
+19.37683311,MEX,Mexico,MEX.21_1,Puebla,State
+27.04817378,MEX,Mexico,MEX.4_1,Campeche,State
+26.43331986,CUB,Cuba,CUB.5_1,Granma,Province
+25.58314715,LAO,Laos,LAO.2_1,Bokeo,Province
+25.70709992,CUB,Cuba,CUB.15_1,Santiago de Cuba,Province
+24.07642174,SAU,Saudi Arabia,SAU.2_1,Al Bahah,Region
+27.01280875,VNM,Vietnam,VNM.57_1,Thanh Hóa,Province
+28.3366998,VNM,Vietnam,VNM.28_1,Hà Nam,Province
+28.37933318,VNM,Vietnam,VNM.55_1,Thái Bình,Province
+25.03140006,CUB,Cuba,CUB.6_1,Guantánamo,Province
+26.01187359,THA,Thailand,THA.11_1,Chiang Rai,Province
+28.36365033,VNM,Vietnam,VNM.40_1,Nam Định,Province
+21.97286147,MEX,Mexico,MEX.16_1,Michoacán,State
+16.48381505,MEX,Mexico,MEX.15_1,México,State
+26.8759003,IND,India,IND.8_1,Dadra and Nagar Haveli,Union Territory
+28.22463293,VNM,Vietnam,VNM.42_1,Ninh Bình,Province
+28.59453177,TCD,Chad,TCD.5_1,Ennedi Est,Region
+24.46831578,THA,Thailand,THA.10_1,Chiang Mai,Province
+26.69716819,CHN,China,CHN.9_1,Hainan,Province
+25.30812836,HTI,Haiti,HTI.6_1,Nord-Ouest,Department
+28.09991356,SDN,Sudan,SDN.8_1,North Darfur,State
+22.95247886,LAO,Laos,LAO.18_1,Xiangkhoang,Province
+26.11549425,VNM,Vietnam,VNM.41_1,Nghệ An,Province
+27.9606991,CYM,Cayman Islands,CYM.2_1,Cayman Brac,District
+25.41105271,HTI,Haiti,HTI.3_1,L'Artibonite,Department
+24.5403665,HTI,Haiti,HTI.7_1,Nord,Department
+26.24431952,DOM,Dominican Republic,DOM.17_1,Monte Cristi,Province
+23.94469958,DOM,Dominican Republic,DOM.21_1,Puerto Plata,Province
+27.15819775,IND,India,IND.32_1,Telangana,State
+27.2418995,MMR,Myanmar,MMR.10_1,Naypyitaw,Union territory
+24.82979123,MMR,Myanmar,MMR.5_1,Kayah,State
+24.55733248,THA,Thailand,THA.23_1,Mae Hong Son,Province
+25.61710598,LAO,Laos,LAO.15_1,Xaignabouri,Province
+14.53055843,MEX,Mexico,MEX.29_1,Tlaxcala,State
+26.00485992,HTI,Haiti,HTI.5_1,Nord-Est,Department
+26.42020035,DOM,Dominican Republic,DOM.4_1,Dajabón,Province
+25.9501009,DOM,Dominican Republic,DOM.32_1,Valverde,Province
+22.21285713,DOM,Dominican Republic,DOM.30_1,Santiago,Province
+24.4893341,DOM,Dominican Republic,DOM.8_1,Espaillat,Province
+25.3366499,DOM,Dominican Republic,DOM.15_1,María Trinidad Sánchez,Province
+32.98317967,MRT,Mauritania,MRT.11_1,Tagant,Region
+26.13066301,THA,Thailand,THA.41_1,Phayao,Province
+25.75096493,THA,Thailand,THA.32_1,Nan,Province
+26.31897029,MEX,Mexico,MEX.8_1,Colima,State
+15.71090015,MEX,Mexico,MEX.9_1,Distrito Federal,Federal District
+24.05967978,DOM,Dominican Republic,DOM.29_1,Santiago Rodríguez,Province
+23.7847004,DOM,Dominican Republic,DOM.22_1,Salcedo,Province
+25.47997972,DOM,Dominican Republic,DOM.6_1,Duarte,Province
+25.23646585,SAU,Saudi Arabia,SAU.12_1,Najran,Region
+26.63183615,MMR,Myanmar,MMR.2_1,Bago,Division
+25.20160953,MMR,Myanmar,MMR.6_1,Kayin,State
+24.91344521,HTI,Haiti,HTI.1_1,Centre,Department
+24.29007482,DOM,Dominican Republic,DOM.12_1,La Estrelleta,Province
+20.53587508,DOM,Dominican Republic,DOM.14_1,La Vega,Province
+24.6630001,DOM,Dominican Republic,DOM.23_1,Samaná,Province
+25.9178143,THA,Thailand,THA.19_1,Lampang,Province
+26.37454857,LAO,Laos,LAO.14_1,Vientiane,Province
+24.41391659,LAO,Laos,LAO.16_1,Xaisômboun,Special Region|Zone
+22.79171097,DOM,Dominican Republic,DOM.26_1,San Juan,Province
+25.69939995,DOM,Dominican Republic,DOM.16_1,Monseñor Nouel,Province
+26.6931202,DOM,Dominican Republic,DOM.28_1,Sánchez Ramírez,Province
+26.39680004,DOM,Dominican Republic,DOM.18_1,Monte Plata,Province
+26.31062052,DOM,Dominican Republic,DOM.9_1,Hato Mayor,Province
+23.25253569,MEX,Mexico,MEX.17_1,Morelos,State
+24.76760661,HTI,Haiti,HTI.8_1,Ouest,Department
+23.64754441,DOM,Dominican Republic,DOM.1_1,Azua,Province
+26.01635974,DOM,Dominican Republic,DOM.7_1,El Seybo,Province
+26.64559979,DOM,Dominican Republic,DOM.11_1,La Altagracia,Province
+30.71027556,MRT,Mauritania,MRT.13_1,Trarza,Region
+31.66332894,MLI,Mali,MLI.2_1,Gao,Region
+25.0843391,YEM,Yemen,YEM.12_1,Hadramawt,Governorate
+27.41271552,IND,India,IND.2_1,Andhra Pradesh,State
+25.61035944,LAO,Laos,LAO.3_1,Bolikhamxai,Province
+24.89015374,PHL,Philippines,PHL.18_1,Cagayan,Province
+24.39881332,MEX,Mexico,MEX.12_1,Guerrero,State
+21.75240073,DOM,Dominican Republic,DOM.25_1,San José de Ocoa,Province
+25.12900033,DOM,Dominican Republic,DOM.24_1,San Cristóbal,Province
+24.30995072,YEM,Yemen,YEM.7_1,Al Mahrah,Governorate
+26.58066287,THA,Thailand,THA.47_1,Phrae,Province
+25.59164487,VNM,Vietnam,VNM.29_1,Hà Tĩnh,Province
+22.77845729,MEX,Mexico,MEX.20_1,Oaxaca,State
+27.38711354,MEX,Mexico,MEX.27_1,Tabasco,State
+24.30501419,HTI,Haiti,HTI.2_1,Grand'Anse,Department
+26.14190005,HTI,Haiti,HTI.4_1,Nippes,Department
+24.80681642,DOM,Dominican Republic,DOM.10_1,Independencia,Province
+25.6074398,DOM,Dominican Republic,DOM.2_1,Bahoruco,Province
+26.90049983,DOM,Dominican Republic,DOM.31_1,Santo Domingo,Province
+27.1132498,DOM,Dominican Republic,DOM.27_1,San Pedro de Macorís,Province
+27.2391996,DOM,Dominican Republic,DOM.13_1,La Romana,Province
+30.07155835,NER,Niger,NER.6_1,Tahoua,Department
+25.59437512,THA,Thailand,THA.20_1,Lamphun,Province
+27.44132518,BLZ,Belize,BLZ.3_1,Corozal,District
+26.8330994,JAM,Jamaica,JAM.2_1,Hanover,Parish
+26.19830035,JAM,Jamaica,JAM.10_1,Saint James,Parish
+24.43136663,JAM,Jamaica,JAM.13_1,Trelawny,Parish
+22.87107962,JAM,Jamaica,JAM.7_1,Saint Ann,Parish
+26.26770991,HTI,Haiti,HTI.10_1,Sud,Department
+25.26889993,DOM,Dominican Republic,DOM.3_1,Barahona,Province
+25.79172515,DOM,Dominican Republic,DOM.20_1,Peravia,Province
+26.0955009,PRI,Puerto Rico,PRI.51_1,Moca,Municipality
+25.5911999,PRI,Puerto Rico,PRI.59_1,Quebradillas,Municipality
+25.8927002,PRI,Puerto Rico,PRI.7_1,Arecibo,Municipality
+25.5704994,PRI,Puerto Rico,PRI.9_1,Barceloneta,Municipality
+25.8918991,PRI,Puerto Rico,PRI.74_1,Vega Baja,Municipality
+26.9932995,PRI,Puerto Rico,PRI.70_1,Toa Baja,Municipality
+26.8208008,PRI,Puerto Rico,PRI.65_1,San Juan,Municipality
+26.6744003,PRI,Puerto Rico,PRI.45_1,Loíza,Municipality
+26.5958996,VGB,British Virgin Islands,VGB.4_1,Tortola,District
+32.16799212,MRT,Mauritania,MRT.3_1,Brakna,Region
+26.82934907,MMR,Myanmar,MMR.1_1,Ayeyarwady,Division
+28.21960757,THA,Thailand,THA.4_1,Bueng Kan,Province
+25.62528019,PHL,Philippines,PHL.34_1,Ilocos Norte,Province
+24.2516918,PHL,Philippines,PHL.7_1,Apayao,Province
+26.95078754,BLZ,Belize,BLZ.4_1,Orange Walk,District
+27.1384004,JAM,Jamaica,JAM.14_1,Westmoreland,Parish
+23.8170004,JAM,Jamaica,JAM.11_1,Saint Mary,Parish
+24.01244459,HTI,Haiti,HTI.9_1,Sud-Est,Department
+26.63554955,PRI,Puerto Rico,PRI.50_1,Mayagüez,Municipality
+24.5804996,PRI,Puerto Rico,PRI.43_1,Las Marías,Municipality
+24.0049992,PRI,Puerto Rico,PRI.72_1,Utuado,Municipality
+23.6124992,PRI,Puerto Rico,PRI.38_1,Jayuya,Municipality
+23.7147007,PRI,Puerto Rico,PRI.55_1,Orocovis,Municipality
+24.4085007,PRI,Puerto Rico,PRI.54_1,Naranjito,Municipality
+25.6518993,PRI,Puerto Rico,PRI.4_1,Aguas Buenas,Municipality
+25.8505001,PRI,Puerto Rico,PRI.40_1,Juncos,Municipality
+25.4808006,PRI,Puerto Rico,PRI.53_1,Naguabo,Municipality
+28.2529329,MRT,Mauritania,MRT.10_1,Nouakchott,District
+31.27274184,MRT,Mauritania,MRT.2_1,Assaba,Region
+26.65875925,SAU,Saudi Arabia,SAU.10_1,Jizan,Region
+24.42779689,IND,India,IND.16_1,Karnataka,State
+26.7394375,THA,Thailand,THA.75_1,Uttaradit,Province
+27.64000015,LAO,Laos,LAO.13_1,Vientiane [prefecture],Municipality|Prefecture
+27.98308341,THA,Thailand,THA.35_1,Nong Khai,Province
+26.2520752,JAM,Jamaica,JAM.9_1,Saint Elizabeth,Parish
+24.83374975,JAM,Jamaica,JAM.4_1,Manchester,Parish
+25.47895,JAM,Jamaica,JAM.1_1,Clarendon,Parish
+25.62517498,JAM,Jamaica,JAM.8_1,Saint Catherine,Parish
+22.6882,JAM,Jamaica,JAM.6_1,Saint Andrew,Parish
+21.8731003,JAM,Jamaica,JAM.5_1,Portland,Parish
+25.1810196,DOM,Dominican Republic,DOM.19_1,Pedernales,Province
+26.6578999,PRI,Puerto Rico,PRI.64_1,San Germán,Municipality
+25.4155998,PRI,Puerto Rico,PRI.62_1,Sabana Grande,Municipality
+24.5508995,PRI,Puerto Rico,PRI.57_1,Peñuelas,Municipality
+25.1807995,PRI,Puerto Rico,PRI.58_1,Ponce,Municipality
+25.5809994,PRI,Puerto Rico,PRI.22_1,Coamo,Municipality
+24.8073997,PRI,Puerto Rico,PRI.5_1,Aibonito,Municipality
+24.2840004,PRI,Puerto Rico,PRI.30_1,Guayama,Municipality
+25.9164009,PRI,Puerto Rico,PRI.77_1,Yabucoa,Municipality
+25.96108589,LAO,Laos,LAO.6_1,Khammouan,Province
+27.5657997,MNP,Northern Mariana Islands,MNP.1_1,Northern Islands,Municipality
+24.19858247,MEX,Mexico,MEX.5_1,Chiapas,State
+27.37637816,BLZ,Belize,BLZ.1_1,Belize,District
+25.22153347,JAM,Jamaica,JAM.12_1,Saint Thomas,Parish
+27.4095993,PRI,Puerto Rico,PRI.63_1,Salinas,Municipality
+30.35843385,NER,Niger,NER.2_1,Diffa,Department
+23.39995508,ERI,Eritrea,ERI.2_1,Debub,Region
+26.12075997,THA,Thailand,THA.21_1,Loei,Province
+27.77062416,THA,Thailand,THA.73_1,Udon Thani,Province
+27.91685526,THA,Thailand,THA.56_1,Sakon Nakhon,Province
+27.77570014,THA,Thailand,THA.28_1,Nakhon Phanom,Province
+24.63489188,VNM,Vietnam,VNM.46_1,Quảng Bình,Province
+24.39799998,PHL,Philippines,PHL.1_1,Abra,Province
+26.44053767,GTM,Guatemala,GTM.12_1,Petén,Department
+27.01985075,VIR,"Virgin Islands, U.S.",VIR.1_1,Saint Croix,District
+24.82093151,THA,Thailand,THA.69_1,Tak,Province
+27.49289494,THA,Thailand,THA.65_1,Sukhothai,Province
+27.2978992,ATG,Antigua and Barbuda,ATG.1_1,Barbuda,Dependency
+31.18945265,MRT,Mauritania,MRT.8_1,Hodh el Gharbi,Region
+26.86769056,MMR,Myanmar,MMR.15_1,Yangon,Division
+26.08113715,MMR,Myanmar,MMR.9_1,Mon,State
+26.757042,THA,Thailand,THA.45_1,Phitsanulok,Province
+27.35010001,THA,Thailand,THA.34_1,Nong Bua Lam Phu,Province
+25.19238609,PHL,Philippines,PHL.35_1,Ilocos Sur,Province
+23.16509967,PHL,Philippines,PHL.38_1,Kalinga,Province
+25.54787223,BLZ,Belize,BLZ.2_1,Cayo,District
+28.93960496,NER,Niger,NER.8_1,Zinder,Department
+28.076917,ERI,Eritrea,ERI.6_1,Semenawi Keyih Bahri,Region
+22.88256328,YEM,Yemen,YEM.18_1,Sa`dah,Governorate
+26.0625207,YEM,Yemen,YEM.6_1,Al Jawf,Governorate
+24.5723258,PHL,Philippines,PHL.37_1,Isabela,Province
+21.97535007,PHL,Philippines,PHL.50_1,Mountain Province,Province
+26.22556687,BLZ,Belize,BLZ.5_1,Stann Creek,District
+27.6881008,ATG,Antigua and Barbuda,ATG.7_1,Saint Peter,Parish
+22.64324955,CPV,Cape Verde,CPV.6_1,Porto Novo,County
+30.45297186,SDN,Sudan,SDN.6_1,Kassala,State
+26.72351064,THA,Thailand,THA.42_1,Phetchabun,Province
+27.76217394,THA,Thailand,THA.14_1,Kalasin,Province
+26.63252305,LAO,Laos,LAO.12_1,Savannakhét,Province
+24.79448748,VNM,Vietnam,VNM.50_1,Quảng Trị,Province
+25.9890003,CPV,Cape Verde,CPV.20_1,São Vicente,County
+27.55038379,THA,Thailand,THA.17_1,Khon Kaen,Province
+21.79143763,PHL,Philippines,PHL.13_1,Benguet,Province
+23.45887156,PHL,Philippines,PHL.33_1,Ifugao,Province
+25.7903004,CPV,Cape Verde,CPV.11_1,Sal,County
+29.87294832,TCD,Chad,TCD.9_1,Kanem,Region
+27.08085765,THA,Thailand,THA.15_1,Kamphaeng Phet,Province
+27.31983327,THA,Thailand,THA.25_1,Mukdahan,Province
+26.5971999,PHL,Philippines,PHL.39_1,La Union,Province
+26.08244618,BLZ,Belize,BLZ.6_1,Toledo,District
+24.64850045,CPV,Cape Verde,CPV.8_1,Ribeira Brava,County
+30.13855741,SEN,Senegal,SEN.10_1,Saint-Louis,Region
+30.7580689,MRT,Mauritania,MRT.5_1,Gorgol,Region
+31.41960153,SDN,Sudan,SDN.7_1,Khartoum,State
+29.42344414,YEM,Yemen,YEM.13_1,Hajjah,Governorate
+22.74754613,YEM,Yemen,YEM.10_1,Amran,Governorate
+28.13292487,THA,Thailand,THA.44_1,Phichit,Province
+26.31851511,THA,Thailand,THA.8_1,Chaiyaphum,Province
+24.6814331,VNM,Vietnam,VNM.54_1,Thừa Thiên Huế,Province
+23.11319219,PHL,Philippines,PHL.56_1,Nueva Vizcaya,Province
+23.8178446,PHL,Philippines,PHL.63_1,Quirino,Province
+27.17490067,GLP,Guadeloupe,GLP.2_1,Pointe-à-Pitre,District
+28.89004631,SDN,Sudan,SDN.9_1,North Kurdufan,State
+27.9265764,THA,Thailand,THA.24_1,Maha Sarakham,Province
+27.8070638,THA,Thailand,THA.54_1,Roi Et,Province
+27.1750931,PHL,Philippines,PHL.61_1,Pangasinan,Province
+24.18623735,PHL,Philippines,PHL.8_1,Aurora,Province
+25.95782467,GLP,Guadeloupe,GLP.1_1,Basse-Terre,District
+27.64313612,THA,Thailand,THA.77_1,Yasothon,Province
+27.37723981,THA,Thailand,THA.1_1,Amnat Charoen,Province
+25.64727605,LAO,Laos,LAO.11_1,Saravan,Province
+25.94684985,CPV,Cape Verde,CPV.1_1,Boa Vista,County
+28.79134328,SEN,Senegal,SEN.8_1,Louga,Region
+28.72233936,SEN,Senegal,SEN.9_1,Matam,Region
+29.25409818,TCD,Chad,TCD.1_1,Barh el Ghazel,Region
+26.66176458,ERI,Eritrea,ERI.4_1,Gash Barka,Region
+26.96954148,YEM,Yemen,YEM.16_1,Ma'rib,Governorate
+27.67481384,THA,Thailand,THA.30_1,Nakhon Sawan,Province
+27.14668724,THA,Thailand,THA.72_1,Ubon Ratchathani,Province
+23.39648848,LAO,Laos,LAO.17_1,Xékong,Province
+24.0553999,VNM,Vietnam,VNM.19_1,Đà Nẵng,City
+26.33129422,PHL,Philippines,PHL.55_1,Nueva Ecija,Province
+18.5442572,GTM,Guatemala,GTM.8_1,Huehuetenango,Department
+19.65474279,GTM,Guatemala,GTM.14_1,Quiché,Department
+24.3438724,GTM,Guatemala,GTM.1_1,Alta Verapaz,Department
+25.00069266,HND,Honduras,HND.3_1,Colón,Department
+26.47677951,HND,Honduras,HND.9_1,Gracias a Dios,Department
+29.17303547,MRT,Mauritania,MRT.6_1,Guidimaka,Region
+29.1228777,TCD,Chad,TCD.2_1,Batha,Region
+28.36728635,TCD,Chad,TCD.23_1,Wadi Fira,Region
+22.05208922,YEM,Yemen,YEM.19_1,San`a',City
+24.41665942,VNM,Vietnam,VNM.47_1,Quảng Nam,Province
+26.36441667,GTM,Guatemala,GTM.9_1,Izabal,Department
+25.40650007,HND,Honduras,HND.6_1,Cortés,Department
+24.34600689,HND,Honduras,HND.1_1,Atlántida,Department
+28.45800609,MLI,Mali,MLI.6_1,Mopti,Region
+26.95172306,SDN,Sudan,SDN.2_1,Al Qadarif,State
+28.11696287,ERI,Eritrea,ERI.3_1,Debubawi Keyih Bahri,Region
+31.84174174,YEM,Yemen,YEM.5_1,Al Hudaydah,Governorate
+27.60654511,THA,Thailand,THA.5_1,Buri Ram,Province
+25.66841682,PHL,Philippines,PHL.78_1,Zambales,Province
+26.26088962,PHL,Philippines,PHL.76_1,Tarlac,Province
+24.120532,HND,Honduras,HND.18_1,Yoro,Department
+25.5569992,DMA,Dominica,DMA.4_1,Saint John,Parish
+27.00373622,MLI,Mali,MLI.3_1,Kayes,Region
+29.04091235,NER,Niger,NER.7_1,Tillabéry,Department
+26.44051398,YEM,Yemen,YEM.20_1,Shabwah,Governorate
+25.71654628,IND,India,IND.10_1,Goa,State
+25.9495533,THA,Thailand,THA.16_1,Kanchanaburi,Province
+26.42309507,THA,Thailand,THA.74_1,Uthai Thani,Province
+26.83150322,THA,Thailand,THA.29_1,Nakhon Ratchasima,Province
+24.18603999,HND,Honduras,HND.16_1,Santa Bárbara,Department
+24.17972085,HND,Honduras,HND.15_1,Olancho,Department
+25.3962002,DMA,Dominica,DMA.5_1,Saint Joseph,Parish
+25.1709003,DMA,Dominica,DMA.2_1,Saint David,Parish
+27.82107626,SEN,Senegal,SEN.13_1,Thiès,Region
+26.87729273,MLI,Mali,MLI.5_1,Koulikoro,Region
+27.53133424,MLI,Mali,MLI.7_1,Ségou,Region
+27.68474003,NER,Niger,NER.4_1,Maradi,Department
+29.3051918,SDN,Sudan,SDN.1_1,Al Jazirah,State
+19.33500037,ERI,Eritrea,ERI.1_1,Anseba,Region
+26.41110038,YEM,Yemen,YEM.8_1,Al Mahwit,Governorate
+27.56164696,THA,Thailand,THA.22_1,Lop Buri,Province
+27.4586963,THA,Thailand,THA.68_1,Surin,Province
+26.96255184,THA,Thailand,THA.62_1,Si Sa Ket,Province
+26.04067832,LAO,Laos,LAO.4_1,Champasak,Province
+19.2724091,GTM,Guatemala,GTM.17_1,San Marcos,Department
+20.32458021,GTM,Guatemala,GTM.2_1,Baja Verapaz,Department
+24.28272019,GTM,Guatemala,GTM.22_1,Zacapa,Department
+22.60555808,HND,Honduras,HND.5_1,Copán,Department
+21.19143796,ERI,Eritrea,ERI.5_1,Maekel,Region
+27.85958743,THA,Thailand,THA.7_1,Chai Nat,Province
+25.62228268,LAO,Laos,LAO.1_1,Attapu,Province
+24.45171332,VNM,Vietnam,VNM.48_1,Quảng Ngãi,Province
+26.9033432,PHL,Philippines,PHL.60_1,Pampanga,Province
+26.45279979,PHL,Philippines,PHL.17_1,Bulacan,Province
+18.2470398,GTM,Guatemala,GTM.13_1,Quezaltenango,Department
+14.2342666,GTM,Guatemala,GTM.21_1,Totonicapán,Department
+22.82334993,GTM,Guatemala,GTM.5_1,El Progreso,Department
+24.4270992,CPV,Cape Verde,CPV.12_1,Santa Catarina,County
+24.3806,CPV,Cape Verde,CPV.17_1,São Lourenço dos Órgãos,County
+28.87715001,SDN,Sudan,SDN.18_1,White Nile,State
+23.09369647,VNM,Vietnam,VNM.34_1,Kon Tum,Province
+26.0808677,PHL,Philippines,PHL.62_1,Quezon,Province
+18.85952853,GTM,Guatemala,GTM.3_1,Chimaltenango,Department
+21.86030006,HND,Honduras,HND.13_1,Lempira,Department
+22.42010817,HND,Honduras,HND.4_1,Comayagua,Department
+21.79697038,HND,Honduras,HND.8_1,Francisco Morazán,Department
+25.51324187,NIC,Nicaragua,NIC.1_1,Atlántico Norte,Autonomous Region
+20.4850998,CPV,Cape Verde,CPV.16_1,São Filipe,County
+25.8416996,CPV,Cape Verde,CPV.10_1,Ribeira Grande de Santiago,County
+28.05083338,SEN,Senegal,SEN.2_1,Diourbel,Region
+26.88810308,SEN,Senegal,SEN.12_1,Tambacounda,Region
+28.33911806,BFA,Burkina Faso,BFA.12_1,Sahel,Region
+26.69715719,YEM,Yemen,YEM.17_1,Raymah,Governorate
+22.77547724,YEM,Yemen,YEM.11_1,Dhamar,Governorate
+25.70021817,MMR,Myanmar,MMR.14_1,Tanintharyi,Division
+27.70424285,THA,Thailand,THA.66_1,Suphan Buri,Province
+27.86025045,THA,Thailand,THA.63_1,Sing Buri,Province
+27.20004979,THA,Thailand,THA.60_1,Saraburi,Province
+16.28247498,GTM,Guatemala,GTM.19_1,Sololá,Department
+19.8288597,GTM,Guatemala,GTM.7_1,Guatemala,Department
+19.66739996,GTM,Guatemala,GTM.10_1,Jalapa,Department
+22.97925028,GTM,Guatemala,GTM.4_1,Chiquimula,Department
+25.83370015,MTQ,Martinique,MTQ.3_1,Le Trinité,Arrondissement
+27.32330035,SEN,Senegal,SEN.1_1,Dakar,Region
+27.4705624,SEN,Senegal,SEN.4_1,Kaffrine,Region
+26.17386027,SDN,Sudan,SDN.16_1,West Darfur,State
+22.07448061,ETH,Ethiopia,ETH.11_1,Tigray,State
+23.12928003,YEM,Yemen,YEM.3_1,Al Bayda',Governorate
+27.8819995,THA,Thailand,THA.2_1,Ang Thong,Province
+25.7418251,PHL,Philippines,PHL.10_1,Bataan,Province
+27.3833494,PHL,Philippines,PHL.47_1,Metropolitan Manila,Province
+25.5440661,PHL,Philippines,PHL.64_1,Rizal,Province
+26.72747994,GTM,Guatemala,GTM.15_1,Retalhuleu,Department
+26.42233307,GTM,Guatemala,GTM.20_1,Suchitepéquez,Department
+17.2425003,GTM,Guatemala,GTM.16_1,Sacatepéquez,Department
+19.3735199,HND,Honduras,HND.14_1,Ocotepeque,Department
+20.71557506,HND,Honduras,HND.10_1,Intibucá,Department
+26.6637001,MTQ,Martinique,MTQ.2_1,Le Marin,Arrondissement
+27.8462099,SEN,Senegal,SEN.3_1,Fatick,Region
+27.87498759,THA,Thailand,THA.46_1,Phra Nakhon Si Ayutthaya,Province
+24.89745281,VNM,Vietnam,VNM.8_1,Bình Định,Province
+26.0249733,GTM,Guatemala,GTM.6_1,Escuintla,Department
+24.08629163,GTM,Guatemala,GTM.18_1,Santa Rosa,Department
+23.72793006,GTM,Guatemala,GTM.11_1,Jutiapa,Department
+23.12406004,SLV,El Salvador,SLV.12_1,Santa Ana,Department
+23.75417353,NIC,Nicaragua,NIC.9_1,Jinotega,Department
+27.75474651,SEN,Senegal,SEN.5_1,Kaolack,Region
+27.92898662,NER,Niger,NER.3_1,Dosso,Department
+28.68632501,TCD,Chad,TCD.10_1,Lac,Region
+29.1086407,ETH,Ethiopia,ETH.2_1,Afar,State
+22.53478754,YEM,Yemen,YEM.14_1,Ibb,Governorate
+27.29993343,THA,Thailand,THA.26_1,Nakhon Nayok,Province
+27.0395265,THA,Thailand,THA.49_1,Prachin Buri,Province
+27.54859269,KHM,Cambodia,KHM.15_1,Otdar Mean Chey,Province
+27.20433333,KHM,Cambodia,KHM.22_1,Stœng Trêng,Province
+26.99939711,KHM,Cambodia,KHM.20_1,Rôtânôkiri,Province
+24.68705534,VNM,Vietnam,VNM.21_1,Gia Lai,Province
+26.18965005,PHL,Philippines,PHL.24_1,Cavite,Province
+26.52850003,PHL,Philippines,PHL.40_1,Laguna,Province
+23.69200007,SLV,El Salvador,SLV.3_1,Chalatenango,Department
+20.6320858,HND,Honduras,HND.12_1,La Paz,Department
+23.46291424,HND,Honduras,HND.7_1,El Paraíso,Department
+27.21326,BFA,Burkina Faso,BFA.10_1,Nord,Region
+27.51285503,TCD,Chad,TCD.17_1,Ouaddaï,Region
+27.93570214,YEM,Yemen,YEM.2_1,Abyan,Governorate
+27.93325043,THA,Thailand,THA.37_1,Pathum Thani,Province
+27.0530307,KHM,Cambodia,KHM.18_1,Preah Vihéar,Province
+25.77026655,PHL,Philippines,PHL.19_1,Camarines Norte,Province
+27.31899024,SDN,Sudan,SDN.17_1,West Kurdufan,State
+24.49109188,YEM,Yemen,YEM.4_1,Al Dali',Governorate
+27.97925731,THA,Thailand,THA.27_1,Nakhon Pathom,Province
+27.13560006,THA,Thailand,THA.55_1,Sa Kaeo,Province
+27.68860989,KHM,Cambodia,KHM.1_1,Bântéay Méanchey,Province
+27.34267501,KHM,Cambodia,KHM.21_1,Siemréab,Province
+26.39932515,PHL,Philippines,PHL.12_1,Batangas,Province
+24.55425023,SLV,El Salvador,SLV.1_1,Ahuachapán,Department
+23.81020012,SLV,El Salvador,SLV.5_1,La Libertad,Department
+23.4933004,SLV,El Salvador,SLV.4_1,Cuscatlán,Department
+24.32190035,SLV,El Salvador,SLV.2_1,Cabañas,Department
+23.71763357,SLV,El Salvador,SLV.8_1,Morazán,Department
+22.90790978,NIC,Nicaragua,NIC.16_1,Nueva Segovia,Department
+26.4883995,LCA,Saint Lucia,LCA.5_1,Dennery,Quarter
+27.34333286,BFA,Burkina Faso,BFA.4_1,Centre-Nord,Region
+27.481753,SDN,Sudan,SDN.13_1,Sennar,State
+30.38118136,YEM,Yemen,YEM.15_1,Lahij,Governorate
+26.71351185,THA,Thailand,THA.52_1,Ratchaburi,Province
+28.0671005,THA,Thailand,THA.36_1,Nonthaburi,Province
+28.23410002,THA,Thailand,THA.3_1,Bangkok Metropolis,Province
+27.62701764,THA,Thailand,THA.6_1,Chachoengsao,Province
+25.89188801,PHL,Philippines,PHL.20_1,Camarines Sur,Province
+25.2324009,PHL,Philippines,PHL.23_1,Catanduanes,Province
+24.8963747,SLV,El Salvador,SLV.13_1,Sonsonate,Department
+23.0934,SLV,El Salvador,SLV.10_1,San Salvador,Department
+24.68126613,SLV,El Salvador,SLV.11_1,San Vicente,Department
+24.55068332,SLV,El Salvador,SLV.9_1,San Miguel,Department
+25.64281998,SLV,El Salvador,SLV.7_1,La Unión,Department
+25.67143058,HND,Honduras,HND.2_1,Choluteca,Department
+27.19067787,GMB,Gambia,GMB.3_1,Maccarthy Island,Division
+27.26341531,NGA,Nigeria,NGA.34_1,Sokoto,State
+28.43477236,YEM,Yemen,YEM.21_1,Ta`izz,Governorate
+25.28896675,PHL,Philippines,PHL.57_1,Occidental Mindoro,Province
+24.88132478,SLV,El Salvador,SLV.6_1,La Paz,Department
+24.86682534,SLV,El Salvador,SLV.14_1,Usulután,Department
+27.09454002,HND,Honduras,HND.17_1,Valle,Department
+22.77037528,NIC,Nicaragua,NIC.12_1,Madriz,Department
+27.39891096,GMB,Gambia,GMB.4_1,North Bank,Division
+26.40765363,SEN,Senegal,SEN.7_1,Kolda,Region
+26.63404427,BFA,Burkina Faso,BFA.1_1,Boucle du Mouhoun,Region
+29.0119991,NER,Niger,NER.5_1,Niamey,Capital District
+27.16055897,NGA,Nigeria,NGA.8_1,Borno,State
+19.06927426,ETH,Ethiopia,ETH.3_1,Amhara,State
+28.00035,THA,Thailand,THA.58_1,Samut Sakhon,Province
+28.2784996,THA,Thailand,THA.57_1,Samut Prakan,Province
+25.02460002,VNM,Vietnam,VNM.45_1,Phú Yên,Province
+26.6987,GUM,Guam,GUM.18_1,Yigo,Municipality
+22.06918741,NIC,Nicaragua,NIC.7_1,Estelí,Department
+27.11236667,GMB,Gambia,GMB.2_1,Lower River,Division
+26.89091986,GMB,Gambia,GMB.5_1,Upper River,Division
+26.66257416,SEN,Senegal,SEN.6_1,Kédougou,Region
+26.7552395,BFA,Burkina Faso,BFA.8_1,Est,Region
+24.48721025,SDN,Sudan,SDN.4_1,Central Darfur,State
+26.3622423,IND,India,IND.31_1,Tamil Nadu,State
+26.58706516,IND,India,IND.1_1,Andaman and Nicobar,Union Territory
+27.8327007,THA,Thailand,THA.59_1,Samut Songkhram,Province
+27.58502851,THA,Thailand,THA.12_1,Chon Buri,Province
+27.28129702,KHM,Cambodia,KHM.2_1,Batdâmbâng,Province
+25.30899293,PHL,Philippines,PHL.58_1,Oriental Mindoro,Province
+25.9991007,PHL,Philippines,PHL.45_1,Marinduque,Province
+26.9640999,GUM,Guam,GUM.19_1,Yona,Municipality
+26.68042129,NIC,Nicaragua,NIC.5_1,Chinandega,Department
+24.11041532,NIC,Nicaragua,NIC.15_1,Matagalpa,Department
+25.49626968,NIC,Nicaragua,NIC.2_1,Atlántico Sur,Autonomous Region
+25.6261997,VCT,Saint Vincent and the Grenadines,VCT.6_1,Saint Patrick,Parish
+26.7623005,BRB,Barbados,BRB.2_1,Saint Andrew,Parish
+27.03999997,GMB,Gambia,GMB.6_1,Western,Division
+26.64366668,SEN,Senegal,SEN.11_1,Sédhiou,Region
+25.33307222,NGA,Nigeria,NGA.21_1,Katsina,State
+27.13071627,NGA,Nigeria,NGA.36_1,Yobe,State
+28.11201742,TCD,Chad,TCD.8_1,Hadjer-Lamis,Region
+26.13527797,THA,Thailand,THA.43_1,Phetchaburi,Province
+26.77707903,THA,Thailand,THA.9_1,Chanthaburi,Province
+27.42001243,KHM,Cambodia,KHM.6_1,Kâmpóng Thum,Province
+26.96985563,KHM,Cambodia,KHM.11_1,Krâchéh,Province
+25.94260006,KHM,Cambodia,KHM.14_1,Môndól Kiri,Province
+24.12880261,VNM,Vietnam,VNM.15_1,Đắk Lắk,Province
+25.86330007,PHL,Philippines,PHL.5_1,Albay,Province
+26.27988675,NIC,Nicaragua,NIC.11_1,León,Department
+27.1296005,BRB,Barbados,BRB.1_1,Christ Church,Parish
+26.7043175,SEN,Senegal,SEN.14_1,Ziguinchor,Region
+26.68774451,NGA,Nigeria,NGA.22_1,Kebbi,State
+25.81081062,NGA,Nigeria,NGA.37_1,Zamfara,State
+25.6512953,SDN,Sudan,SDN.14_1,South Darfur,State
+27.43568,THA,Thailand,THA.53_1,Rayong,Province
+26.77913956,NGA,Nigeria,NGA.18_1,Jigawa,State
+26.06035408,CMR,Cameroon,CMR.4_1,Extrême-Nord,Region
+26.8396745,TCD,Chad,TCD.7_1,Guéra,Region
+26.67231485,TCD,Chad,TCD.19_1,Sila,Region
+26.90985839,SDN,Sudan,SDN.5_1,East Darfur,State
+26.1296997,YEM,Yemen,YEM.1_1,`Adan,Governorate
+26.23769997,KHM,Cambodia,KHM.12_1,Krong Pailin,Municipality
+26.28428275,KHM,Cambodia,KHM.17_1,Pouthisat,Province
+26.5636402,PHL,Philippines,PHL.65_1,Romblon,Province
+26.22138308,PHL,Philippines,PHL.69_1,Sorsogon,Province
+24.79292298,NIC,Nicaragua,NIC.3_1,Boaco,Department
+25.90787078,MLI,Mali,MLI.8_1,Sikasso,Region
+25.99557689,BFA,Burkina Faso,BFA.5_1,Centre-Ouest,Region
+26.87817192,BFA,Burkina Faso,BFA.11_1,Plateau-Central,Region
+26.25971371,SDN,Sudan,SDN.15_1,South Kurdufan,State
+24.94484578,IND,India,IND.17_1,Kerala,State
+23.23655925,VNM,Vietnam,VNM.16_1,Đắk Nông,Province
+24.27830009,VNM,Vietnam,VNM.32_1,Khánh Hòa,Province
+26.15352308,NIC,Nicaragua,NIC.13_1,Managua,Department
+25.36806975,NIC,Nicaragua,NIC.6_1,Chontales,Department
+26.08731321,GNB,Guinea-Bissau,GNB.7_1,Oio,Region
+25.82965861,GNB,Guinea-Bissau,GNB.1_1,Bafatá,Region
+25.83092852,GNB,Guinea-Bissau,GNB.6_1,Gabú,Region
+26.21482652,GIN,Guinea,GIN.1_1,Boké,Region
+27.01794981,BFA,Burkina Faso,BFA.7_1,Centre,Region
+29.24077479,DJI,Djibouti,DJI.4_1,Obock,Region
+26.49396826,THA,Thailand,THA.50_1,Prachuap Khiri Khan,Province
+26.99702221,THA,Thailand,THA.71_1,Trat,Province
+27.41699321,KHM,Cambodia,KHM.4_1,Kâmpóng Chhnang,Province
+26.99278985,PHL,Philippines,PHL.46_1,Masbate,Province
+26.52634541,COL,Colombia,COL.18_1,La Guajira,Department
+26.44821345,GNB,Guinea-Bissau,GNB.5_1,Cacheu,Region
+23.98628006,GIN,Guinea,GIN.6_1,Labé,Region
+24.7650874,GIN,Guinea,GIN.4_1,Kankan,Region
+26.38432255,BFA,Burkina Faso,BFA.3_1,Centre-Est,Region
+25.20079012,NGA,Nigeria,NGA.20_1,Kano,State
+24.92764331,NGA,Nigeria,NGA.5_1,Bauchi,State
+27.14378008,TCD,Chad,TCD.4_1,Chari-Baguirmi,Region
+25.94715713,SDN,Sudan,SDN.3_1,Blue Nile,State
+30.027005,DJI,Djibouti,DJI.5_1,Tadjourah,Region
+27.51082858,KHM,Cambodia,KHM.3_1,Kâmpóng Cham,Province
+25.26993776,PHL,Philippines,PHL.54_1,Northern Samar,Province
+28.1043501,BES,"Bonaire, Sint Eustatius and Saba",BES.1_1,Bonaire,Municipality
+26.1233333,BEN,Benin,BEN.1_1,Alibori,Department
+27.19134988,KHM,Cambodia,KHM.25_1,Tbong Khmum,Province
+21.02446295,VNM,Vietnam,VNM.37_1,Lâm Đồng,Province
+26.12996049,PHL,Philippines,PHL.59_1,Palawan,Province
+24.50544123,PHL,Philippines,PHL.66_1,Samar,Province
+24.75186633,PHL,Philippines,PHL.31_1,Eastern Samar,Province
+25.7256002,NIC,Nicaragua,NIC.14_1,Masaya,Department
+26.2173004,NIC,Nicaragua,NIC.8_1,Granada,Department
+25.99641002,VEN,Venezuela,VEN.12_1,Falcón,State
+25.7367001,GRD,Grenada,GRD.4_1,Saint George,Parish
+24.32999429,GIN,Guinea,GIN.3_1,Faranah,Region
+26.15588898,BFA,Burkina Faso,BFA.6_1,Centre-Sud,Region
+27.5692005,TCD,Chad,TCD.22_1,Ville de N'Djamena,Region
+26.371954,SSD,South Sudan,SSD.7_1,Upper Nile,State
+26.2216002,IND,India,IND.27_1,Puducherry,Union Territory
+25.95658946,KHM,Cambodia,KHM.9_1,Kaôh Kong,Province
+25.99432214,VNM,Vietnam,VNM.10_1,Bình Phước,Province
+23.80195999,VNM,Vietnam,VNM.43_1,Ninh Thuận,Province
+25.5018754,NIC,Nicaragua,NIC.4_1,Carazo,Department
+26.32323189,NIC,Nicaragua,NIC.10_1,Lago Nicaragua,Water body
+26.4647007,GNB,Guinea-Bissau,GNB.2_1,Biombo,Region
+26.5618992,GNB,Guinea-Bissau,GNB.3_1,Bissau,Autonomous Sector
+26.33411007,GNB,Guinea-Bissau,GNB.8_1,Quinara,Region
+26.025628,BFA,Burkina Faso,BFA.9_1,Haut-Bassins,Region
+26.13728415,TCD,Chad,TCD.18_1,Salamat,Region
+22.27307958,ETH,Ethiopia,ETH.4_1,Benshangul-Gumaz,State
+25.38240883,SOM,Somalia,SOM.4_1,Bari,Region
+27.01702995,KHM,Cambodia,KHM.5_1,Kâmpóng Spœ,Province
+26.03740015,NIC,Nicaragua,NIC.17_1,Río San Juan,Department
+27.07416484,VEN,Venezuela,VEN.25_1,Zulia,State
+31.96962183,DJI,Djibouti,DJI.2_1,Dikhil,Region
+27.65972022,KHM,Cambodia,KHM.8_1,Kândal,Province
+27.56491544,KHM,Cambodia,KHM.19_1,Prey Vêng,Province
+27.16975359,VNM,Vietnam,VNM.53_1,Tây Ninh,Province
+25.67869992,PHL,Philippines,PHL.6_1,Antique,Province
+26.39427517,PHL,Philippines,PHL.4_1,Aklan,Province
+26.17168046,NIC,Nicaragua,NIC.18_1,Rivas,Department
+26.1551663,GNB,Guinea-Bissau,GNB.4_1,Bolama,Region
+26.43312837,GNB,Guinea-Bissau,GNB.9_1,Tombali,Region
+26.60289955,DJI,Djibouti,DJI.3_1,Djibouti,City
+27.9349995,KHM,Cambodia,KHM.16_1,Phnom Penh,Municipality
+27.59017515,KHM,Cambodia,KHM.23_1,Svay Rieng,Province
+26.66101094,PHL,Philippines,PHL.22_1,Capiz,Province
+24.9452,PHL,Philippines,PHL.14_1,Biliran,Province
+25.44242826,BEN,Benin,BEN.2_1,Atakora,Department
+23.61107537,NGA,Nigeria,NGA.19_1,Kaduna,State
+27.05197117,DJI,Djibouti,DJI.1_1,Ali Sabieh,Region
+28.04315538,SOM,Somalia,SOM.1_1,Awdal,Region
+26.90956001,VNM,Vietnam,VNM.9_1,Bình Dương,Province
+26.23762678,VNM,Vietnam,VNM.17_1,Đồng Nai,Province
+25.74692924,VNM,Vietnam,VNM.11_1,Bình Thuận,Province
+26.93255737,PHL,Philippines,PHL.36_1,Iloilo,Province
+25.73007046,PHL,Philippines,PHL.43_1,Leyte,Province
+25.656472,COL,Colombia,COL.19_1,Magdalena,Department
+25.7068005,TTO,Trinidad and Tobago,TTO.14_1,Tobago,Region
+25.51048952,GIN,Guinea,GIN.5_1,Kindia,Region
+23.38878895,GIN,Guinea,GIN.7_1,Mamou,Region
+25.65103701,BFA,Burkina Faso,BFA.13_1,Sud-Ouest,Region
+25.35866573,NGA,Nigeria,NGA.27_1,Niger,State
+25.58305485,NGA,Nigeria,NGA.16_1,Gombe,State
+24.7647213,SOM,Somalia,SOM.13_1,Sanaag,Region
+27.37555025,KHM,Cambodia,KHM.24_1,Takêv,Province
+26.59168687,PHL,Philippines,PHL.25_1,Cebu,Province
+25.50375334,CRI,Costa Rica,CRI.3_1,Guanacaste,Province
+27.39225005,VEN,Venezuela,VEN.18_1,Nueva Esparta,State
+26.08119993,GHA,Ghana,GHA.7_1,Upper East,Region
+26.13724447,TGO,Togo,TGO.5_1,Savanes,Region
+26.2641674,TCD,Chad,TCD.14_1,Mayo-Kebbi Est,Region
+26.68208475,KHM,Cambodia,KHM.7_1,Kâmpôt,Province
+24.25347867,CRI,Costa Rica,CRI.1_1,Alajuela,Province
+27.70122134,COL,Colombia,COL.4_1,Atlántico,Department
+28.0706005,VEN,Venezuela,VEN.10_1,Dependencias Federales,State
+26.16808043,BFA,Burkina Faso,BFA.2_1,Cascades,Region
+25.59791345,GHA,Ghana,GHA.8_1,Upper West,Region
+25.2483619,CAF,Central African Republic,CAF.17_1,Vakaga,Prefecture
+27.07104396,ETH,Ethiopia,ETH.9_1,Somali,State
+26.29869997,THA,Thailand,THA.13_1,Chumphon,Province
+26.55586018,KHM,Cambodia,KHM.13_1,Krong Preah Sihanouk,Municipality
+27.44056659,VNM,Vietnam,VNM.1_1,An Giang,Province
+27.68164443,VNM,Vietnam,VNM.18_1,Đồng Tháp,Province
+27.56780719,VNM,Vietnam,VNM.39_1,Long An,Province
+27.31213315,VNM,Vietnam,VNM.25_1,Hồ Chí Minh,City
+26.44438711,PHL,Philippines,PHL.51_1,Negros Occidental,Province
+24.31212234,CRI,Costa Rica,CRI.4_1,Heredia,Province
+23.11461258,CRI,Costa Rica,CRI.5_1,Limón,Province
+25.33903156,COL,Colombia,COL.11_1,Cesar,Department
+23.64308685,VEN,Venezuela,VEN.14_1,Lara,State
+24.27677636,VEN,Venezuela,VEN.24_1,Yaracuy,State
+25.7206993,TTO,Trinidad and Tobago,TTO.11_1,San Juan-Laventille,Region
+25.91155055,TTO,Trinidad and Tobago,TTO.15_1,Tunapuna/Piarco,Region
+26.03934955,TTO,Trinidad and Tobago,TTO.12_1,Sangre Grande,Region
+25.08021957,NGA,Nigeria,NGA.2_1,Adamawa,State
+25.84822532,SOM,Somalia,SOM.18_1,Woqooyi Galbeed,Region
+26.74314945,VNM,Vietnam,VNM.7_1,Bà Rịa - Vũng Tàu,Province
+26.43994743,COL,Colombia,COL.5_1,Bolívar,Department
+23.77383574,VEN,Venezuela,VEN.7_1,Carabobo,State
+22.25050012,VEN,Venezuela,VEN.23_1,Vargas,State
+24.79812075,VEN,Venezuela,VEN.16_1,Miranda,State
+24.85196484,VEN,Venezuela,VEN.20_1,Sucre,State
+26.55976673,TTO,Trinidad and Tobago,TTO.3_1,Couva-Tabaquite-Talparo,Region
+25.3551336,CIV,Côte d'Ivoire,CIV.10_1,Savanes,District
+25.82750046,GHA,Ghana,GHA.6_1,Northern,Region
+24.70069604,BEN,Benin,BEN.4_1,Borgou,Department
+26.09501243,THA,Thailand,THA.51_1,Ranong,Province
+27.56484304,VNM,Vietnam,VNM.58_1,Tiền Giang,Province
+27.073,PHL,Philippines,PHL.32_1,Guimaras,Province
+23.34480467,VEN,Venezuela,VEN.4_1,Aragua,State
+26.6125498,TTO,Trinidad and Tobago,TTO.5_1,Mayaro/Rio Claro,Region
+24.61388982,CIV,Côte d'Ivoire,CIV.4_1,Denguélé,District
+25.78610859,TCD,Chad,TCD.16_1,Moyen-Chari,Region
+27.39253526,VNM,Vietnam,VNM.33_1,Kiên Giang,Province
+25.1684499,PHL,Philippines,PHL.71_1,Southern Leyte,Province
+23.15540605,CRI,Costa Rica,CRI.6_1,Puntarenas,Province
+26.32520941,VEN,Venezuela,VEN.2_1,Anzoátegui,State
+26.17424116,VEN,Venezuela,VEN.17_1,Monagas,State
+26.6718998,TTO,Trinidad and Tobago,TTO.9_1,Princes Town,Region
+24.15897541,NGA,Nigeria,NGA.32_1,Plateau,State
+26.01991656,TCD,Chad,TCD.20_1,Tandjilé,Region
+24.77488981,SSD,South Sudan,SSD.9_1,West Bahr-al-Ghazal,State
+26.41342527,SSD,South Sudan,SSD.6_1,Unity,State
+19.74600488,ETH,Ethiopia,ETH.8_1,Oromia,State
+27.72095986,VNM,Vietnam,VNM.12_1,Cần Thơ,City
+27.70657492,VNM,Vietnam,VNM.61_1,Vĩnh Long,Province
+27.56495,VNM,Vietnam,VNM.6_1,Bến Tre,Province
+26.26845598,PHL,Philippines,PHL.52_1,Negros Oriental,Province
+25.9440002,PHL,Philippines,PHL.30_1,Dinagat Islands,Province
+17.95229105,CRI,Costa Rica,CRI.2_1,Cartago,Province
+25.87055443,VEN,Venezuela,VEN.8_1,Cojedes,State
+26.6714001,TTO,Trinidad and Tobago,TTO.13_1,Siparia,Region
+26.6551991,TTO,Trinidad and Tobago,TTO.6_1,Penal-Debe,Region
+25.07599119,TGO,Togo,TGO.2_1,Kara,Region
+24.58867645,NGA,Nigeria,NGA.24_1,Kwara,State
+24.51258765,CMR,Cameroon,CMR.7_1,Nord,Region
+25.30948772,SOM,Somalia,SOM.17_1,Togdheer,Region
+26.71950835,PHL,Philippines,PHL.15_1,Bohol,Province
+21.3669466,CRI,Costa Rica,CRI.7_1,San José,Province
+27.39479999,COL,Colombia,COL.28_1,Sucre,Department
+22.24867726,VEN,Venezuela,VEN.22_1,Trujillo,State
+26.34789646,VEN,Venezuela,VEN.13_1,Guárico,State
+26.22043058,VEN,Venezuela,VEN.9_1,Delta Amacuro,State
+24.9784343,SLE,Sierra Leone,SLE.2_1,Northern,Province
+25.70616756,CIV,Côte d'Ivoire,CIV.14_1,Zanzan,District
+24.47244072,BEN,Benin,BEN.6_1,Donga,Department
+25.32214619,TCD,Chad,TCD.15_1,Mayo-Kebbi Ouest,Region
+26.15736515,SOM,Somalia,SOM.16_1,Sool,Region
+27.6883999,VNM,Vietnam,VNM.24_1,Hậu Giang,Province
+27.67379158,VNM,Vietnam,VNM.51_1,Sóc Trăng,Province
+27.68223318,VNM,Vietnam,VNM.59_1,Trà Vinh,Province
+25.61511276,PHL,Philippines,PHL.74_1,Surigao del Norte,Province
+26.0276054,VEN,Venezuela,VEN.19_1,Portuguesa,State
+26.2795,GIN,Guinea,GIN.2_1,Conakry,Region
+25.80013584,SSD,South Sudan,SSD.5_1,North Bahr-al-Ghazal,State
+24.53532458,ETH,Ethiopia,ETH.5_1,Dire Dawa,City
+26.71763357,LKA,Sri Lanka,LKA.9_1,Jaffna,District
+22.02275628,PAN,Panama,PAN.1_1,Bocas del Toro,Province
+25.35940787,PAN,Panama,PAN.4_1,Colón,Province
+24.85875787,NGA,Nigeria,NGA.35_1,Taraba,State
+25.48394121,TCD,Chad,TCD.13_1,Mandoul,Region
+24.83278455,CAF,Central African Republic,CAF.1_1,Bamingui-Bangoran,Prefecture
+26.70791968,LKA,Sri Lanka,LKA.13_1,Kilinochchi,District
+26.25469181,THA,Thailand,THA.67_1,Surat Thani,Province
+27.57863332,VNM,Vietnam,VNM.2_1,Bạc Liêu,Province
+25.38290787,PAN,Panama,PAN.12_1,Panamá,Province
+25.23409978,PAN,Panama,PAN.8_1,Kuna Yala,Indigenous Territory
+26.68606574,COL,Colombia,COL.13_1,Córdoba,Department
+23.43371559,GIN,Guinea,GIN.8_1,Nzérékoré,Region
+25.89297481,SSD,South Sudan,SSD.3_1,Jungoli,State
+27.28760733,VNM,Vietnam,VNM.13_1,Cà Mau,Province
+25.01231976,PHL,Philippines,PHL.2_1,Agusan del Norte,Province
+17.63418353,VEN,Venezuela,VEN.15_1,Mérida,State
+25.19655858,CIV,Côte d'Ivoire,CIV.11_1,Vallée du Bandama,District
+24.46982305,TGO,Togo,TGO.1_1,Centre,Region
+25.08846493,NGA,Nigeria,NGA.15_1,Federal Capital Territory,State
+25.57658283,NGA,Nigeria,NGA.26_1,Nassarawa,State
+19.9750004,ETH,Ethiopia,ETH.7_1,Harari People,State
+26.2686288,LKA,Sri Lanka,LKA.19_1,Mullaitivu,District
+26.51098564,THA,Thailand,THA.39_1,Phangnga,Province
+25.25700013,PHL,Philippines,PHL.75_1,Surigao del Sur,Province
+25.56306992,PAN,Panama,PAN.11_1,Panamá Oeste,Province
+20.72826552,COL,Colombia,COL.22_1,Norte de Santander,Department
+26.66844201,VEN,Venezuela,VEN.5_1,Barinas,State
+24.23071096,CIV,Côte d'Ivoire,CIV.12_1,Woroba,District
+24.71090122,NGA,Nigeria,NGA.31_1,Oyo,State
+25.39175385,TCD,Chad,TCD.11_1,Logone Occidental,Region
+25.17909236,TCD,Chad,TCD.12_1,Logone Oriental,Region
+23.555965,CAF,Central African Republic,CAF.5_1,Haute-Kotto,Prefecture
+15.00144955,ETH,Ethiopia,ETH.1_1,Addis Abeba,City
+26.29551176,SOM,Somalia,SOM.12_1,Nugaal,Region
+26.6213169,LKA,Sri Lanka,LKA.15_1,Mannar,District
+26.07508577,LKA,Sri Lanka,LKA.25_1,Vavuniya,District
+26.07992879,THA,Thailand,THA.31_1,Nakhon Si Thammarat,Province
+25.15172084,PHL,Philippines,PHL.3_1,Agusan del Sur,Province
+22.73481057,PAN,Panama,PAN.10_1,Ngöbe Buglé,Indigenous Territory
+25.43454625,PAN,Panama,PAN.3_1,Coclé,Province
+25.2999394,PAN,Panama,PAN.5_1,Darién,Province
+24.5717343,SLE,Sierra Leone,SLE.1_1,Eastern,Province
+26.20078116,SSD,South Sudan,SSD.8_1,Warap,State
+26.54991423,LKA,Sri Lanka,LKA.24_1,Trincomalee,District
+24.9732426,PHL,Philippines,PHL.49_1,Misamis Oriental,Province
+24.11985513,PAN,Panama,PAN.2_1,Chiriquí,Province
+24.91004873,PAN,Panama,PAN.13_1,Veraguas,Province
+24.66353338,PAN,Panama,PAN.6_1,Emberá,Indigenous Territory
+22.65691713,COL,Colombia,COL.2_1,Antioquia,Department
+26.35469483,GHA,Ghana,GHA.2_1,Brong Ahafo,Region
+26.41828502,GHA,Ghana,GHA.9_1,Volta,Region
+25.13505249,BEN,Benin,BEN.5_1,Collines,Department
+26.12520903,LKA,Sri Lanka,LKA.2_1,Anuradhapura,District
+25.57593339,COL,Colombia,COL.12_1,Chocó,Department
+22.21571004,VEN,Venezuela,VEN.21_1,Táchira,State
+24.7067176,NGA,Nigeria,NGA.23_1,Kogi,State
+24.47701799,ETH,Ethiopia,ETH.6_1,Gambela Peoples,State
+26.7827143,THA,Thailand,THA.18_1,Krabi,Province
+26.27338218,PHL,Philippines,PHL.79_1,Zamboanga del Norte,Province
+25.88732883,PHL,Philippines,PHL.48_1,Misamis Occidental,Province
+24.53047862,PHL,Philippines,PHL.16_1,Bukidnon,Province
+24.6529493,SLE,Sierra Leone,SLE.4_1,Western,Province
+25.3595287,SLE,Sierra Leone,SLE.3_1,Southern,Province
+24.17832667,LBR,Liberia,LBR.8_1,Lofa,County
+24.62354745,CAF,Central African Republic,CAF.10_1,Nana-Grébizi,Economic Prefecture
+20.47641791,ETH,Ethiopia,ETH.10_1,"Southern Nations, Nationalities and Peoples",State
+26.57518852,LKA,Sri Lanka,LKA.22_1,Puttalam,District
+24.88971284,VEN,Venezuela,VEN.6_1,Bolívar,State
+26.13496551,GUY,Guyana,GUY.1_1,Barima-Waini,Region
+25.3364808,TGO,Togo,TGO.4_1,Plateaux,Region
+24.63505356,CAF,Central African Republic,CAF.15_1,Ouham,Prefecture
+24.08023858,CAF,Central African Republic,CAF.4_1,Haut-Mbomou,Prefecture
+26.31707782,LKA,Sri Lanka,LKA.21_1,Polonnaruwa,District
+26.37612,PHL,Philippines,PHL.41_1,Lanao del Norte,Province
+25.45594296,PAN,Panama,PAN.7_1,Herrera,Province
+26.28333791,VEN,Venezuela,VEN.3_1,Apure,State
+24.19441919,CIV,Côte d'Ivoire,CIV.8_1,Montagnes,District
+24.61603695,NGA,Nigeria,NGA.30_1,Osun,State
+25.65728465,NGA,Nigeria,NGA.7_1,Benue,State
+21.68830102,CMR,Cameroon,CMR.1_1,Adamaoua,Region
+26.39380727,LKA,Sri Lanka,LKA.14_1,Kurunegala,District
+25.95616224,LKA,Sri Lanka,LKA.4_1,Batticaloa,District
+26.9729996,THA,Thailand,THA.48_1,Phuket,Province
+26.15250635,PHL,Philippines,PHL.80_1,Zamboanga del Sur,Province
+24.88931961,PHL,Philippines,PHL.42_1,Lanao del Sur,Province
+25.36155967,PAN,Panama,PAN.9_1,Los Santos,Province
+22.03977527,COL,Colombia,COL.27_1,Santander,Department
+24.97596441,LBR,Liberia,LBR.3_1,Gbapolu,County
+27.09996794,CIV,Côte d'Ivoire,CIV.6_1,Lacs,District
+25.9926938,NGA,Nigeria,NGA.28_1,Ogun,State
+23.05044338,NGA,Nigeria,NGA.13_1,Ekiti,State
+25.18103345,LKA,Sri Lanka,LKA.16_1,Matale,District
+26.30184668,THA,Thailand,THA.70_1,Trang,Province
+26.77486228,PHL,Philippines,PHL.81_1,Zamboanga Sibugay,Province
+26.45674166,PHL,Philippines,PHL.27_1,Davao del Norte,Province
+23.64704615,PHL,Philippines,PHL.26_1,Compostela Valley,Province
+24.27391565,PHL,Philippines,PHL.29_1,Davao Oriental,Province
+25.17205348,CIV,Côte d'Ivoire,CIV.9_1,Sassandra-Marahoué,District
+24.53499347,NGA,Nigeria,NGA.29_1,Ondo,State
+23.05014319,CAF,Central African Republic,CAF.14_1,Ouham-Pendé,Prefecture
+26.02758453,SSD,South Sudan,SSD.4_1,Lakes,State
+25.95782217,THA,Thailand,THA.40_1,Phatthalung,Province
+26.10196646,THA,Thailand,THA.64_1,Songkhla,Province
+26.42692352,GUY,Guyana,GUY.7_1,Pomeroon-Supenaam,Region
+24.58348884,LBR,Liberia,LBR.12_1,Nimba,County
+26.09693868,GHA,Ghana,GHA.1_1,Ashanti,Region
+26.52270661,BEN,Benin,BEN.12_1,Zou,Department
+26.30152234,BEN,Benin,BEN.11_1,Plateau,Department
+24.16905178,CAF,Central African Republic,CAF.13_1,Ouaka,Prefecture
+27.86951484,SOM,Somalia,SOM.11_1,Mudug,Region
+25.75196681,LKA,Sri Lanka,LKA.1_1,Ampara,District
+26.8483938,PHL,Philippines,PHL.44_1,Maguindanao,Province
+26.5526724,PHL,Philippines,PHL.53_1,North Cotabato,Province
+26.3010998,PLW,Palau,PLW.10_1,Ngardmau,State
+24.87585721,LBR,Liberia,LBR.4_1,Grand Cape Mount,County
+24.90633613,LBR,Liberia,LBR.2_1,Bong,County
+24.49188103,NGA,Nigeria,NGA.12_1,Edo,State
+28.97717808,SOM,Somalia,SOM.6_1,Galguduud,Region
+23.08068604,LKA,Sri Lanka,LKA.11_1,Kandy,District
+22.7090505,LKA,Sri Lanka,LKA.3_1,Badulla,District
+25.45841007,LKA,Sri Lanka,LKA.18_1,Moneragala,District
+25.51078425,PHL,Philippines,PHL.28_1,Davao del Sur,Province
+26.3134995,PLW,Palau,PLW.12_1,Ngchesar,State
+26.75883332,CIV,Côte d'Ivoire,CIV.3_1,Comoé,District
+27.23144257,BEN,Benin,BEN.7_1,Kouffo,Department
+26.88727988,LKA,Sri Lanka,LKA.7_1,Gampaha,District
+25.86971663,LKA,Sri Lanka,LKA.12_1,Kegalle,District
+25.09093647,MYS,Malaysia,MYS.13_1,Sabah,State
+24.59808422,COL,Colombia,COL.3_1,Arauca,Intendancy
+24.7766194,GUY,Guyana,GUY.2_1,Cuyuni-Mazaruni,Region
+26.92788348,CIV,Côte d'Ivoire,CIV.13_1,Yamoussoukro,Autonomous district
+26.27274909,GHA,Ghana,GHA.4_1,Eastern,Region
+24.96201424,NGA,Nigeria,NGA.14_1,Enugu,State
+21.47238498,CMR,Cameroon,CMR.6_1,Nord-Ouest,Region
+19.66144993,LKA,Sri Lanka,LKA.20_1,Nuwara Eliya,District
+26.23408725,THA,Thailand,THA.61_1,Satun,Province
+15.0962471,COL,Colombia,COL.6_1,Boyacá,Department
+26.30586687,GUY,Guyana,GUY.5_1,Essequibo Islands-West Demerara,Region
+24.84936618,LBR,Liberia,LBR.1_1,Bomi,County
+26.82691574,GHA,Ghana,GHA.10_1,Western,Region
+27.44954032,BEN,Benin,BEN.3_1,Atlantique,Department
+27.04596707,BEN,Benin,BEN.10_1,Ouémé,Department
+27.1625004,LKA,Sri Lanka,LKA.5_1,Colombo,District
+26.4255009,FSM,Micronesia,FSM.3_1,Pohnpei,State
+26.46049977,GUY,Guyana,GUY.3_1,Demerara-Mahaica,Region
+24.93298308,LBR,Liberia,LBR.11_1,Montserrado,County
+24.95481436,LBR,Liberia,LBR.9_1,Margibi,County
+27.00856319,TGO,Togo,TGO.3_1,Maritime,Region
+27.44917487,BEN,Benin,BEN.9_1,Mono,Department
+25.84678001,NGA,Nigeria,NGA.11_1,Ebonyi,State
+25.05634357,NGA,Nigeria,NGA.9_1,Cross River,State
+24.35096803,SSD,South Sudan,SSD.10_1,West Equatoria,State
+27.28346667,LKA,Sri Lanka,LKA.10_1,Kalutara,District
+24.77575442,LKA,Sri Lanka,LKA.23_1,Ratnapura,District
+26.24078026,THA,Thailand,THA.38_1,Pattani,Province
+25.42402131,PHL,Philippines,PHL.72_1,Sultan Kudarat,Province
+24.79519114,LBR,Liberia,LBR.5_1,GrandBassa,County
+26.31562852,CIV,Côte d'Ivoire,CIV.5_1,Gôh-Djiboua,District
+27.01143269,CIV,Côte d'Ivoire,CIV.7_1,Lagunes,District
+26.37500867,NGA,Nigeria,NGA.25_1,Lagos,State
+25.41806134,NGA,Nigeria,NGA.4_1,Anambra,State
+22.53432957,CAF,Central African Republic,CAF.11_1,Nana-Mambéré,Prefecture
+24.19256517,CAF,Central African Republic,CAF.9_1,Mbomou,Prefecture
+26.7272501,MYS,Malaysia,MYS.10_1,Perlis,State
+25.0461,THA,Thailand,THA.76_1,Yala,Province
+26.13105015,PHL,Philippines,PHL.9_1,Basilan,Province
+25.2152999,PHL,Philippines,PHL.70_1,South Cotabato,Province
+26.38514401,GUY,Guyana,GUY.9_1,Upper Demerara-Berbice,Region
+26.71664532,GUY,Guyana,GUY.6_1,Mahaica-Berbice,Region
+25.10158355,LBR,Liberia,LBR.6_1,GrandGedeh,County
+26.1211951,CIV,Côte d'Ivoire,CIV.2_1,Bas-Sassandra,District
+25.1697646,NGA,Nigeria,NGA.10_1,Delta,State
+23.85203503,CMR,Cameroon,CMR.9_1,Sud-Ouest,Region
+24.54198336,CAF,Central African Republic,CAF.6_1,Kémo,Prefecture
+26.44797161,LKA,Sri Lanka,LKA.8_1,Hambantota,District
+26.10627746,MYS,Malaysia,MYS.2_1,Kedah,State
+25.76118175,THA,Thailand,THA.33_1,Narathiwat,Province
+25.9722925,COL,Colombia,COL.32_1,Vichada,Commissiary
+25.90575241,GUY,Guyana,GUY.4_1,East Berbice-Corentyne,Region
+24.97386426,LBR,Liberia,LBR.13_1,River Cess,County
+26.82768074,GHA,Ghana,GHA.3_1,Central,Region
+21.93586145,CMR,Cameroon,CMR.8_1,Ouest,Region
+26.63436014,LKA,Sri Lanka,LKA.6_1,Galle,District
+25.64394955,LKA,Sri Lanka,LKA.17_1,Matara,District
+25.42101266,PHL,Philippines,PHL.67_1,Sarangani,Province
+25.18374881,COL,Colombia,COL.9_1,Casanare,Intendancy
+25.14397583,VEN,Venezuela,VEN.1_1,Amazonas,State
+27.66664539,GHA,Ghana,GHA.5_1,Greater Accra,Region
+23.27605546,CMR,Cameroon,CMR.2_1,Centre,Region
+24.7603648,SSD,South Sudan,SSD.1_1,Central Equatoria,State
+24.6291022,MYS,Malaysia,MYS.3_1,Kelantan,State
+26.90949974,PHL,Philippines,PHL.73_1,Sulu,Province
+26.86084658,SUR,Suriname,SUR.5_1,Nickerie,District
+26.8932832,SUR,Suriname,SUR.3_1,Coronie,District
+26.69438171,SUR,Suriname,SUR.8_1,Saramacca,District
+26.57947493,SUR,Suriname,SUR.2_1,Commewijne,District
+26.29246917,SUR,Suriname,SUR.4_1,Marowijne,District
+25.01160588,NGA,Nigeria,NGA.17_1,Imo,State
+25.14576009,NGA,Nigeria,NGA.1_1,Abia,State
+23.302415,CMR,Cameroon,CMR.3_1,Est,Region
+25.14233404,SSD,South Sudan,SSD.2_1,Eastern Equatoria,State
+25.08379845,MYS,Malaysia,MYS.9_1,Perak,State
+17.41469937,COL,Colombia,COL.14_1,Cundinamarca,Department
+26.7936993,SUR,Suriname,SUR.10_1,Wanica,District
+25.14073201,LBR,Liberia,LBR.15_1,Sinoe,County
+23.90090856,CAF,Central African Republic,CAF.12_1,Ombella-M'Poko,Prefecture
+24.84706933,MYS,Malaysia,MYS.16_1,Trengganu,State
+18.47972203,COL,Colombia,COL.7_1,Caldas,Department
+25.01038614,GUY,Guyana,GUY.8_1,Potaro-Siparuni,Region
+26.52921247,SUR,Suriname,SUR.6_1,Para,District
+25.45901866,GUF,French Guiana,GUF.2_1,Saint-Laurent-du-Maroni,Arrondissement
+25.33626651,LBR,Liberia,LBR.14_1,River Gee,County
+27.03711429,CIV,Côte d'Ivoire,CIV.1_1,Abidjan,Autonomous district
+24.37274605,CAF,Central African Republic,CAF.3_1,Basse-Kotto,Prefecture
+23.01518027,IDN,Indonesia,IDN.1_1,Aceh,Province
+17.80910148,COL,Colombia,COL.25_1,Risaralda,Department
+25.43813222,GUF,French Guiana,GUF.1_1,Cayenne,Arrondissement
+25.35500002,NGA,Nigeria,NGA.33_1,Rivers,State
+25.30935234,NGA,Nigeria,NGA.3_1,Akwa Ibom,State
+26.74723307,MYS,Malaysia,MYS.11_1,Pulau Pinang,State
+26.69037532,PHL,Philippines,PHL.77_1,Tawi-Tawi,Province
+19.13639788,COL,Colombia,COL.29_1,Tolima,Department
+25.7641463,SUR,Suriname,SUR.9_1,Sipaliwini,District
+26.20192146,SUR,Suriname,SUR.1_1,Brokopondo,District
+25.8190138,NGA,Nigeria,NGA.6_1,Bayelsa,State
+24.33786227,CMR,Cameroon,CMR.5_1,Littoral,Region
+23.56220714,CAF,Central African Republic,CAF.8_1,Mambéré-Kadéï,Prefecture
+23.66623193,COD,Democratic Republic of the Congo,COD.1_1,Bas-Uélé,Province
+29.09479203,SOM,Somalia,SOM.8_1,Hiiraan,Region
+25.62047876,BRA,Brazil,BRA.23_1,Roraima,State
+25.34402232,LBR,Liberia,LBR.10_1,Maryland,County
+24.34758813,COD,Democratic Republic of the Congo,COD.20_1,Nord-Ubangi,Province
+23.19035429,COD,Democratic Republic of the Congo,COD.5_1,Haut-Uélé,Province
+20.51057307,COL,Colombia,COL.30_1,Valle del Cauca,Department
+25.09340039,LBR,Liberia,LBR.7_1,GrandKru,County
+23.84577199,CAF,Central African Republic,CAF.7_1,Lobaye,Prefecture
+27.22040594,KEN,Kenya,KEN.43_1,Turkana,County
+28.44943777,SOM,Somalia,SOM.2_1,Bakool,Region
+27.0104008,BRN,Brunei,BRN.2_1,Brunei and Muara,District
+25.1011981,MYS,Malaysia,MYS.14_1,Sarawak,State
+24.64210663,COL,Colombia,COL.20_1,Meta,Department
+24.40392377,COD,Democratic Republic of the Congo,COD.23_1,Sud-Ubangi,Province
+26.63436633,BRN,Brunei,BRN.4_1,Tutong,District
+25.83895988,BRN,Brunei,BRN.3_1,Temburong,District
+18.284775,COL,Colombia,COL.24_1,Quindío,Department
+24.9906245,MYS,Malaysia,MYS.8_1,Pahang,State
+26.5019667,BRN,Brunei,BRN.1_1,Belait,District
+25.8102485,GUY,Guyana,GUY.10_1,Upper Takutu-Upper Essequibo,Region
+24.4673996,CAF,Central African Republic,CAF.2_1,Bangui,Autonomous Commune
+26.96580875,KEN,Kenya,KEN.25_1,Marsabit,County
+24.30849996,IDN,Indonesia,IDN.29_1,Sulawesi Utara,Province
+25.56257692,BRA,Brazil,BRA.3_1,Amapá,State
+27.07263693,KEN,Kenya,KEN.24_1,Mandera,County
+23.89119685,IDN,Indonesia,IDN.32_1,Sumatera Utara,Province
+25.78718897,IDN,Indonesia,IDN.15_1,Kalimantan Timur,Province
+23.6903499,CAF,Central African Republic,CAF.16_1,Sangha-Mbaéré,Economic Prefecture
+21.28220232,UGA,Uganda,UGA.28_1,Kotido,District
+29.37698726,SOM,Somalia,SOM.7_1,Gedo,Region
+26.2874141,IDN,Indonesia,IDN.16_1,Kepulauan Riau,Province
+25.5323879,COL,Colombia,COL.15_1,Guainía,Commissiary
+27.95573696,SOM,Somalia,SOM.5_1,Bay,Region
+18.56173631,COL,Colombia,COL.17_1,Huila,Department
+23.2963009,GNQ,Equatorial Guinea,GNQ.2_1,Bioko Norte,Province
+24.30871643,UGA,Uganda,UGA.58_1,Yumbe,District
+24.08021966,UGA,Uganda,UGA.41_1,Moyo,District
+22.4287356,UGA,Uganda,UGA.27_1,Kitgum,District
+28.08360583,SOM,Somalia,SOM.14_1,Shabeellaha Dhexe,Region
+26.0334961,MYS,Malaysia,MYS.15_1,Selangor,State
+20.7081251,GNQ,Equatorial Guinea,GNQ.3_1,Bioko Sur,Province
+23.67347407,CMR,Cameroon,CMR.10_1,Sud,Region
+24.36783129,COG,Republic of Congo,COG.7_1,Likouala,Region
+22.29880833,COD,Democratic Republic of the Congo,COD.6_1,Ituri,Province
+23.18787069,UGA,Uganda,UGA.3_1,Arua,District
+28.13723537,KEN,Kenya,KEN.46_1,Wajir,County
+23.61520053,UGA,Uganda,UGA.1_1,Adjumani,District
+22.7950646,UGA,Uganda,UGA.8_1,Gulu,District
+19.12520091,COL,Colombia,COL.10_1,Cauca,Department
+22.52352962,UGA,Uganda,UGA.49_1,Pader,District
+27.46601291,SOM,Somalia,SOM.15_1,Shabeellaha Hoose,Region
+24.37060541,COD,Democratic Republic of the Congo,COD.18_1,Mongala,Province
+21.80733597,UGA,Uganda,UGA.40_1,Moroto,District
+25.90365547,MYS,Malaysia,MYS.7_1,Negeri Sembilan,State
+24.83677731,COL,Colombia,COL.8_1,Caquetá,Intendancy
+26.00322587,COL,Colombia,COL.16_1,Guaviare,Commissiary
+21.76672257,UGA,Uganda,UGA.47_1,Nebbi,District
+25.89243154,MYS,Malaysia,MYS.1_1,Johor,State
+20.92924341,COL,Colombia,COL.21_1,Nariño,Department
+24.23777653,COG,Republic of Congo,COG.12_1,Sangha,Region
+22.53181578,UGA,Uganda,UGA.2_1,Apac,District
+22.6472591,UGA,Uganda,UGA.33_1,Lira,District
+20.39082591,KEN,Kenya,KEN.47_1,West Pokot,County
+25.68873344,IDN,Indonesia,IDN.18_1,Maluku Utara,Province
+25.3833567,BRA,Brazil,BRA.14_1,Pará,State
+21.35771981,UGA,Uganda,UGA.45_1,Nakapiripirit,District
+22.28623861,KEN,Kenya,KEN.37_1,Samburu,County
+26.39665,MYS,Malaysia,MYS.6_1,Melaka,State
+23.64747108,GAB,Gabon,GAB.9_1,Wouleu-Ntem,Province
+24.25167599,COD,Democratic Republic of the Congo,COD.25_1,Tshopo,Province
+22.85447793,UGA,Uganda,UGA.36_1,Masindi,District
+22.98181548,UGA,Uganda,UGA.22_1,Katakwi,District
+26.02943756,IDN,Indonesia,IDN.24_1,Riau,Province
+26.06210581,BRA,Brazil,BRA.4_1,Amazonas,State
+24.65066327,GNQ,Equatorial Guinea,GNQ.6_1,Litoral,Province
+22.83573459,GNQ,Equatorial Guinea,GNQ.4_1,Centro Sur,Province
+23.27165986,GNQ,Equatorial Guinea,GNQ.5_1,Kié-Ntem,Province
+24.90406328,COD,Democratic Republic of the Congo,COD.2_1,Équateur,Province
+27.6098995,SOM,Somalia,SOM.3_1,Banaadir,Region
+25.43398451,COL,Colombia,COL.31_1,Vaupés,Commissiary
+22.91776478,GNQ,Equatorial Guinea,GNQ.7_1,Wele-Nzas,Province
+25.45964324,UGA,Uganda,UGA.31_1,Lake Albert,Water body
+23.43876,UGA,Uganda,UGA.14_1,Kaberamaido,District
+23.92150974,UGA,Uganda,UGA.55_1,Soroti,District
+26.38411246,KEN,Kenya,KEN.9_1,Isiolo,County
+27.93650882,SOM,Somalia,SOM.9_1,Jubbada Dhexe,Region
+25.97555136,IDN,Indonesia,IDN.12_1,Kalimantan Barat,Province
+24.63758222,COD,Democratic Republic of the Congo,COD.26_1,Tshuapa,Province
+24.1261997,STP,São Tomé and Príncipe,STP.1_1,Príncipe,Municipality
+22.92083327,UGA,Uganda,UGA.9_1,Hoima,District
+22.99783621,UGA,Uganda,UGA.46_1,Nakasongola,District
+23.28011275,UGA,Uganda,UGA.29_1,Kumi,District
+17.60198002,UGA,Uganda,UGA.20_1,Kapchorwa,District
+24.22744035,GAB,Gabon,GAB.6_1,Ogooué-Ivindo,Province
+22.66788987,UGA,Uganda,UGA.34_1,Luwero,District
+23.15704002,UGA,Uganda,UGA.23_1,Kayunga,District
+23.53423075,UGA,Uganda,UGA.17_1,Kamuli,District
+20.94261558,KEN,Kenya,KEN.1_1,Baringo,County
+26.3307991,SGP,Singapore,SGP.3_1,North,Region
+25.7544003,SGP,Singapore,SGP.4_1,North-East,Region
+24.52806002,ECU,Ecuador,ECU.8_1,Esmeraldas,Province
+23.69027696,COL,Colombia,COL.23_1,Putumayo,Intendancy
+24.32782155,COG,Republic of Congo,COG.3_1,Cuvette-Ouest,Region
+22.34658189,UGA,Uganda,UGA.25_1,Kiboga,District
+23.31195005,UGA,Uganda,UGA.50_1,Pallisa,District
+19.2005,UGA,Uganda,UGA.54_1,Sironko,District
+17.42065,KEN,Kenya,KEN.42_1,Trans Nzoia,County
+17.73131107,KEN,Kenya,KEN.5_1,Elgeyo-Marakwet,County
+28.09817018,SOM,Somalia,SOM.10_1,Jubbada Hoose,Region
+23.99886233,IDN,Indonesia,IDN.27_1,Sulawesi Tengah,Province
+14.57318293,ECU,Ecuador,ECU.4_1,Carchi,Province
+22.22596632,UGA,Uganda,UGA.5_1,Bundibugyo,District
+21.76665445,UGA,Uganda,UGA.24_1,Kibale,District
+19.30285,UGA,Uganda,UGA.38_1,Mbale,District
+17.65432606,KEN,Kenya,KEN.3_1,Bungoma,County
+25.57994043,GAB,Gabon,GAB.1_1,Estuaire,Province
+20.82364595,UGA,Uganda,UGA.30_1,Kyenjojo,District
+23.1313622,UGA,Uganda,UGA.10_1,Iganga,District
+23.2194996,UGA,Uganda,UGA.56_1,Tororo,District
+16.2785817,KEN,Kenya,KEN.44_1,Uasin Gishu,County
+27.87356402,KEN,Kenya,KEN.7_1,Garissa,County
+24.94055878,IDN,Indonesia,IDN.6_1,Gorontalo,Province
+15.09381796,ECU,Ecuador,ECU.11_1,Imbabura,Province
+20.6929713,COD,Democratic Republic of the Congo,COD.19_1,Nord-Kivu,Province
+19.85673944,UGA,Uganda,UGA.13_1,Kabarole,District
+21.42877041,UGA,Uganda,UGA.43_1,Mubende,District
+22.22970008,KEN,Kenya,KEN.4_1,Busia,County
+17.73828891,KEN,Kenya,KEN.20_1,Laikipia,County
+23.55383456,IDN,Indonesia,IDN.30_1,Sumatera Barat,Province
+26.66340176,IDN,Indonesia,IDN.14_1,Kalimantan Tengah,Province
+24.99589577,ECU,Ecuador,ECU.9_1,Galápagos,Province
+22.54335088,ECU,Ecuador,ECU.22_1,Sucumbios,Province
+21.99118996,UGA,Uganda,UGA.44_1,Mukono,District
+22.5616493,UGA,Uganda,UGA.11_1,Jinja,District
+22.86054992,UGA,Uganda,UGA.4_1,Bugiri,District
+22.7886009,UGA,Uganda,UGA.7_1,Busia,District
+19.70804007,KEN,Kenya,KEN.26_1,Meru,County
+24.85289546,COG,Republic of Congo,COG.4_1,Cuvette,Region
+20.33993643,UGA,Uganda,UGA.21_1,Kasese,District
+21.1324744,UGA,Uganda,UGA.18_1,Kamwenge,District
+22.00721677,UGA,Uganda,UGA.57_1,Wakiso,District
+22.36717851,UGA,Uganda,UGA.32_1,Lake Victoria,Water body
+22.50909933,UGA,Uganda,UGA.37_1,Mayuge,District
+20.62012506,KEN,Kenya,KEN.11_1,Kakamega,County
+18.08539989,KEN,Kenya,KEN.32_1,Nandi,County
+25.03172674,ECU,Ecuador,ECU.14_1,Manabi,Province
+15.40836199,ECU,Ecuador,ECU.19_1,Pichincha,Province
+21.1026001,STP,São Tomé and Príncipe,STP.2_1,São Tomé,Municipality
+24.36267056,GAB,Gabon,GAB.7_1,Ogooué-Lolo,Province
+21.58989995,UGA,Uganda,UGA.42_1,Mpigi,District
+22.60068893,KEN,Kenya,KEN.38_1,Siaya,County
+26.12224259,COL,Colombia,COL.1_1,Amazonas,Commissiary
+25.769104,GAB,Gabon,GAB.3_1,Moyen-Ogooué,Province
+20.57214302,UGA,Uganda,UGA.39_1,Mbarara,District
+21.22628338,UGA,Uganda,UGA.53_1,Sembabule,District
+20.8729,KEN,Kenya,KEN.45_1,Vihiga,County
+16.09085544,KEN,Kenya,KEN.31_1,Nakuru,County
+23.09875551,ECU,Ecuador,ECU.21_1,Santo Domingo de los Tsachilas,Province
+15.51187934,ECU,Ecuador,ECU.16_1,Napo,Province
+24.43499556,ECU,Ecuador,ECU.17_1,Orellana,Province
+26.18431642,PER,Peru,PER.17_1,Loreto,Region
+24.10752791,GAB,Gabon,GAB.2_1,Haut-Ogooué,Province
+23.99658507,COD,Democratic Republic of the Congo,COD.17_1,Maniema,Province
+21.2938501,UGA,Uganda,UGA.35_1,Masaka,District
+22.66931249,KEN,Kenya,KEN.17_1,Kisumu,County
+17.58508883,KEN,Kenya,KEN.12_1,Kericho,County
+13.44326259,KEN,Kenya,KEN.35_1,Nyandarua,County
+15.83737798,KEN,Kenya,KEN.36_1,Nyeri,County
+22.90732503,KEN,Kenya,KEN.41_1,Tharaka-Nithi,County
+24.60879326,KEN,Kenya,KEN.18_1,Kitui,County
+27.14811691,KEN,Kenya,KEN.40_1,Tana River,County
+25.17670705,IDN,Indonesia,IDN.22_1,Papua Barat,Province
+20.73263079,UGA,Uganda,UGA.6_1,Bushenyi,District
+20.69143642,UGA,Uganda,UGA.51_1,Rakai,District
+21.8484497,UGA,Uganda,UGA.15_1,Kalangala,District
+21.02411225,KEN,Kenya,KEN.6_1,Embu,County
+13.2495801,ECU,Ecuador,ECU.6_1,Cotopaxi,Province
+20.94494963,UGA,Uganda,UGA.52_1,Rukungiri,District
+22.20241532,KEN,Kenya,KEN.8_1,Homa Bay,County
+17.5866889,KEN,Kenya,KEN.2_1,Bomet,County
+19.4796996,KEN,Kenya,KEN.15_1,Kirinyaga,County
+25.42639533,ECU,Ecuador,ECU.13_1,Los Rios,Province
+26.08681491,GAB,Gabon,GAB.8_1,Ogooué-Maritime,Province
+19.89496677,KEN,Kenya,KEN.16_1,Kisii,County
+18.4176006,KEN,Kenya,KEN.34_1,Nyamira,County
+18.28168871,KEN,Kenya,KEN.33_1,Narok,County
+18.29143775,KEN,Kenya,KEN.29_1,Murang'a,County
+24.84297653,GAB,Gabon,GAB.4_1,Ngounié,Province
+25.13865541,COD,Democratic Republic of the Congo,COD.16_1,Maï-Ndombe,Province
+20.2606004,UGA,Uganda,UGA.19_1,Kanungu,District
+19.36360008,UGA,Uganda,UGA.48_1,Ntungamo,District
+21.60997772,KEN,Kenya,KEN.27_1,Migori,County
+24.66727086,IDN,Indonesia,IDN.23_1,Papua,Province
+25.89547142,ECU,Ecuador,ECU.10_1,Guayas,Province
+18.26352856,KEN,Kenya,KEN.13_1,Kiambu,County
+21.31891172,KEN,Kenya,KEN.22_1,Machakos,County
+24.99369925,IDN,Indonesia,IDN.8_1,Jambi,Province
+10.31981002,ECU,Ecuador,ECU.23_1,Tungurahua,Province
+24.14993414,ECU,Ecuador,ECU.18_1,Pastaza,Province
+24.62036836,COG,Republic of Congo,COG.9_1,Plateaux,Region
+15.82114985,UGA,Uganda,UGA.26_1,Kisoro,District
+16.38115023,UGA,Uganda,UGA.12_1,Kabale,District
+20.36323833,RWA,Rwanda,RWA.3_1,Iburasirazuba,Province
+20.96033868,TZA,Tanzania,TZA.6_1,Kagera,Region
+22.18157028,TZA,Tanzania,TZA.12_1,Mara,Region
+22.17752308,KEN,Kenya,KEN.10_1,Kajiado,County
+15.17600985,ECU,Ecuador,ECU.2_1,Bolivar,Province
+25.47463737,BRA,Brazil,BRA.10_1,Maranhão,State
+20.57039978,KEN,Kenya,KEN.30_1,Nairobi,County
+23.1825043,IDN,Indonesia,IDN.25_1,Sulawesi Barat,Province
+17.38721804,RWA,Rwanda,RWA.1_1,Amajyaruguru,Province
+26.60530362,IDN,Indonesia,IDN.13_1,Kalimantan Selatan,Province
+24.52640976,PNG,Papua New Guinea,PNG.16_1,New Ireland,Province
+10.21576783,ECU,Ecuador,ECU.5_1,Chimborazo,Province
+20.16780812,ECU,Ecuador,ECU.15_1,Morona Santiago,Province
+17.35754448,RWA,Rwanda,RWA.4_1,Iburengerazuba,Province
+22.7315395,TZA,Tanzania,TZA.16_1,Mwanza,Region
+22.3581781,KEN,Kenya,KEN.23_1,Makueni,County
+26.25313198,IDN,Indonesia,IDN.3_1,Bangka Belitung,Province
+25.6058888,ECU,Ecuador,ECU.20_1,Santa Elena,Province
+24.20342734,COD,Democratic Republic of the Congo,COD.21_1,Sankuru,Province
+20.71490487,COD,Democratic Republic of the Congo,COD.22_1,Sud-Kivu,Province
+21.28464363,TZA,Tanzania,TZA.1_1,Arusha,Region
+27.22793806,KEN,Kenya,KEN.21_1,Lamu,County
+25.63953323,IDN,Indonesia,IDN.31_1,Sumatera Selatan,Province
+24.94491762,COG,Republic of Congo,COG.8_1,Niari,Region
+18.73007774,RWA,Rwanda,RWA.2_1,Amajyepfo,Province
+19.9403496,RWA,Rwanda,RWA.5_1,Umujyi wa Kigali,Province
+23.79594143,IDN,Indonesia,IDN.26_1,Sulawesi Selatan,Province
+26.491075,PNG,Papua New Guinea,PNG.12_1,Manus,Province
+23.86413236,COG,Republic of Congo,COG.6_1,Lékoumou,Region
+22.21625629,TZA,Tanzania,TZA.24_1,Simiyu,Region
+15.01067427,ECU,Ecuador,ECU.3_1,Cañar,Province
+19.18927984,BRA,Brazil,BRA.24_1,Santa Catarina,State
+25.50467421,GAB,Gabon,GAB.5_1,Nyanga,Province
+24.51564036,COD,Democratic Republic of the Congo,COD.9_1,Kasaï,Province
+20.16192016,BDI,Burundi,BDI.10_1,Kirundo,Province
+19.22635733,BDI,Burundi,BDI.13_1,Muyinga,Province
+22.11703987,TZA,Tanzania,TZA.4_1,Geita,Region
+25.65930792,KEN,Kenya,KEN.14_1,Kilifi,County
+23.58887422,IDN,Indonesia,IDN.5_1,Bengkulu,Province
+13.62919343,ECU,Ecuador,ECU.1_1,Azuay,Province
+19.92782498,BDI,Burundi,BDI.6_1,Cibitoke,Province
+19.02118036,BDI,Burundi,BDI.15_1,Ngozi,Province
+24.0006807,KEN,Kenya,KEN.39_1,Taita Taveta,County
+24.32209608,PNG,Papua New Guinea,PNG.18_1,Sandaun,Province
+25.41100862,BRA,Brazil,BRA.18_1,Piauí,State
+25.40086545,BRA,Brazil,BRA.6_1,Ceará,State
+24.66612597,COG,Republic of Congo,COG.11_1,Pool,Region
+18.21436693,BDI,Burundi,BDI.9_1,Kayanza,Province
+19.20244982,BDI,Burundi,BDI.5_1,Cankuzo,Province
+22.02678135,TZA,Tanzania,TZA.8_1,Kigoma,Region
+21.72054335,TZA,Tanzania,TZA.9_1,Kilimanjaro,Region
+25.44284354,IDN,Indonesia,IDN.28_1,Sulawesi Tenggara,Province
+25.36222906,IDN,Indonesia,IDN.19_1,Maluku,Province
+23.42371279,ECU,Ecuador,ECU.7_1,El Oro,Province
+21.13790844,PER,Peru,PER.1_1,Amazonas,Region
+22.78210003,BDI,Burundi,BDI.1_1,Bubanza,Province
+18.5439501,BDI,Burundi,BDI.8_1,Karuzi,Province
+24.43075718,COD,Democratic Republic of the Congo,COD.13_1,Kwilu,Province
+18.1085501,BDI,Burundi,BDI.12_1,Muramvya,Province
+18.42168006,BDI,Burundi,BDI.7_1,Gitega,Province
+19.3550875,BDI,Burundi,BDI.17_1,Ruyigi,Province
+23.21579989,TZA,Tanzania,TZA.23_1,Shinyanga,Region
+20.09648058,ECU,Ecuador,ECU.12_1,Loja,Province
+18.42512953,ECU,Ecuador,ECU.24_1,Zamora Chinchipe,Province
+24.3316002,BDI,Burundi,BDI.2_1,Bujumbura Mairie,Province
+21.34403357,BDI,Burundi,BDI.3_1,Bujumbura Rural,Province
+17.25073303,BDI,Burundi,BDI.14_1,Mwaro,Province
+25.77668768,PNG,Papua New Guinea,PNG.5_1,East Sepik,Province
+25.8599541,PER,Peru,PER.25_1,Tumbes,Region
+26.58075789,COG,Republic of Congo,COG.5_1,Kouilou,Region
+25.34116493,COG,Republic of Congo,COG.1_1,Bouenza,Region
+19.5097003,BDI,Burundi,BDI.4_1,Bururi,Province
+21.7567278,TZA,Tanzania,TZA.11_1,Manyara,Region
+25.17461811,KEN,Kenya,KEN.19_1,Kwale,County
+19.62278335,BDI,Burundi,BDI.16_1,Rutana,Province
+23.11311405,TZA,Tanzania,TZA.26_1,Tabora,Region
+22.47301077,TZA,Tanzania,TZA.25_1,Singida,Region
+25.26671761,IDN,Indonesia,IDN.17_1,Lampung,Province
+24.66792742,COD,Democratic Republic of the Congo,COD.10_1,Kinshasa,Province
+21.41803339,BDI,Burundi,BDI.11_1,Makamba,Province
+25.9221992,KEN,Kenya,KEN.28_1,Mombasa,County
+23.69883457,PNG,Papua New Guinea,PNG.11_1,Madang,Province
+23.87484139,PER,Peru,PER.21_1,Piura,Region
+25.7159996,COG,Republic of Congo,COG.2_1,Brazzaville,Region
+23.18958495,COD,Democratic Republic of the Congo,COD.12_1,Kwango,Province
+23.77438979,COD,Democratic Republic of the Congo,COD.7_1,Kasaï-Central,Province
+24.12828521,TZA,Tanzania,TZA.27_1,Tanga,Region
+23.441951,PNG,Papua New Guinea,PNG.4_1,East New Britain,Province
+26.34230543,AGO,Angola,AGO.4_1,Cabinda,Province
+25.44497733,COD,Democratic Republic of the Congo,COD.11_1,Kongo-Central,Province
+23.3046927,TZA,Tanzania,TZA.3_1,Dodoma,Region
+16.66949433,PER,Peru,PER.6_1,Cajamarca,Region
+26.30683831,BRA,Brazil,BRA.20_1,Rio Grande do Norte,State
+23.67177962,COD,Democratic Republic of the Congo,COD.14_1,Lomami,Province
+26.38224985,TZA,Tanzania,TZA.18_1,Pemba North,Region
+22.92845783,COD,Democratic Republic of the Congo,COD.24_1,Tanganyika,Province
+26.69121627,PNG,Papua New Guinea,PNG.22_1,Western,Province
+17.8316065,PNG,Papua New Guinea,PNG.9_1,Hela,Province
+15.80831254,PNG,Papua New Guinea,PNG.7_1,Enga,Province
+25.05746719,PNG,Papua New Guinea,PNG.20_1,West New Britain,Province
+25.28978059,PNG,Papua New Guinea,PNG.1_1,Bougainville,Autonomous Region
+25.18888578,BRA,Brazil,BRA.27_1,Tocantins,State
+23.58309025,TZA,Tanzania,TZA.7_1,Katavi,Region
+26.31886673,TZA,Tanzania,TZA.19_1,Pemba South,Region
+18.16233826,PNG,Papua New Guinea,PNG.21_1,Western Highlands,Province
+22.20607039,PER,Peru,PER.23_1,San Martín,Region
+18.65794985,PNG,Papua New Guinea,PNG.10_1,Jiwaka,Province
+21.30913059,PNG,Papua New Guinea,PNG.14_1,Morobe,Province
+24.47866586,PER,Peru,PER.14_1,Lambayeque,Region
+24.2953724,COD,Democratic Republic of the Congo,COD.8_1,Kasaï-Oriental,Province
+24.94120776,IDN,Indonesia,IDN.10_1,Jawa Tengah,Province
+26.37710463,AGO,Angola,AGO.18_1,Zaire,Province
+23.70203031,AGO,Angola,AGO.17_1,Uíge,Province
+24.86790617,TZA,Tanzania,TZA.14_1,Morogoro,Region
+26.7180531,TZA,Tanzania,TZA.20_1,Pwani,Region
+26.9097004,TZA,Tanzania,TZA.28_1,Zanzibar North,Region
+24.61567576,IDN,Indonesia,IDN.4_1,Banten,Province
+20.86191284,PNG,Papua New Guinea,PNG.19_1,Southern Highlands,Province
+19.23773893,PNG,Papua New Guinea,PNG.3_1,Chimbu,Province
+18.83618178,PNG,Papua New Guinea,PNG.6_1,Eastern Highlands,Province
+24.60183411,BRA,Brazil,BRA.15_1,Paraíba,State
+26.77280045,TZA,Tanzania,TZA.30_1,Zanzibar West,Region
+26.62634945,TZA,Tanzania,TZA.29_1,Zanzibar South and Central,Region
+23.49716943,IDN,Indonesia,IDN.9_1,Jawa Barat,Province
+23.12148507,COD,Democratic Republic of the Congo,COD.4_1,Haut-Lomami,Province
+26.7814503,IDN,Indonesia,IDN.7_1,Jakarta Raya,Province
+26.4258504,TZA,Tanzania,TZA.2_1,Dar es Salaam,Region
+24.82797897,PNG,Papua New Guinea,PNG.8_1,Gulf,Province
+26.54986679,SLB,Solomon Islands,SLB.2_1,Choiseul,Province
+22.83936433,TZA,Tanzania,TZA.21_1,Rukwa,Region
+21.77939281,TZA,Tanzania,TZA.13_1,Mbeya,Region
+21.490281,TZA,Tanzania,TZA.5_1,Iringa,Region
+24.7234113,IDN,Indonesia,IDN.11_1,Jawa Timur,Province
+26.3770184,SLB,Solomon Islands,SLB.10_1,Western,Province
+17.15000038,PER,Peru,PER.13_1,La Libertad,Region
+22.48667483,AGO,Angola,AGO.12_1,Lunda Norte,Province
+25.36224304,BRA,Brazil,BRA.1_1,Acre,State
+25.7220214,PER,Peru,PER.26_1,Ucayali,Region
+25.30142221,BRA,Brazil,BRA.12_1,Mato Grosso,State
+23.80528705,BRA,Brazil,BRA.17_1,Pernambuco,State
+22.34911581,AGO,Angola,AGO.14_1,Malanje,Province
+26.52727477,SLB,Solomon Islands,SLB.5_1,Isabel,Province
+25.21645443,IDN,Indonesia,IDN.33_1,Yogyakarta,Province
+26.80336484,AGO,Angola,AGO.1_1,Bengo,Province
+22.08439065,COD,Democratic Republic of the Congo,COD.15_1,Lualaba,Province
+21.71285677,COD,Democratic Republic of the Congo,COD.3_1,Haut-Katanga,Province
+23.7893761,PNG,Papua New Guinea,PNG.2_1,Central,Province
+12.91310205,PER,Peru,PER.2_1,Ancash,Region
+25.38387194,BRA,Brazil,BRA.22_1,Rondônia,State
+24.36030698,AGO,Angola,AGO.6_1,Cuanza Norte,Province
+25.59065877,TZA,Tanzania,TZA.10_1,Lindi,Region
+23.99501738,PNG,Papua New Guinea,PNG.17_1,Oro,Province
+23.91269996,IDN,Indonesia,IDN.2_1,Bali,Province
+24.91189832,IDN,Indonesia,IDN.20_1,Nusa Tenggara Barat,Province
+25.28961802,IDN,Indonesia,IDN.21_1,Nusa Tenggara Timur,Province
+25.56725025,TLS,Timor-Leste,TLS.7_1,Dili,District
+17.57355445,PER,Peru,PER.10_1,Huánuco,Region
+22.1667538,AGO,Angola,AGO.13_1,Lunda Sul,Province
+21.92471867,ZMB,Zambia,ZMB.4_1,Luapula,Province
+22.04035628,ZMB,Zambia,ZMB.8_1,Northern,Province
+25.46096,TLS,Timor-Leste,TLS.4_1,Baucau,District
+25.58487157,TLS,Timor-Leste,TLS.9_1,Lautém,District
+24.51376807,PNG,Papua New Guinea,PNG.13_1,Milne Bay,Province
+25.93530001,SLB,Solomon Islands,SLB.7_1,Malaita,Province
+24.07585644,BRA,Brazil,BRA.5_1,Bahia,State
+25.2590008,TLS,Timor-Leste,TLS.10_1,Liquiçá,District
+23.21353337,TLS,Timor-Leste,TLS.1_1,Aileu,District
+25.52304983,TLS,Timor-Leste,TLS.11_1,Manatuto,District
+27.79811635,AGO,Angola,AGO.11_1,Luanda,Province
+19.15019524,TZA,Tanzania,TZA.17_1,Njombe,Region
+22.64429987,TLS,Timor-Leste,TLS.8_1,Ermera,District
+25.49211693,TLS,Timor-Leste,TLS.13_1,Viqueque,District
+24.6193997,PYF,French Polynesia,PYF.3_1,Îles Marquises,Administrative subdivisions
+22.97831663,BRA,Brazil,BRA.2_1,Alagoas,State
+25.02933377,TLS,Timor-Leste,TLS.5_1,Bobonaro,District
+22.9362993,TLS,Timor-Leste,TLS.2_1,Ainaro,District
+25.48377515,TLS,Timor-Leste,TLS.12_1,Manufahi,District
+25.52107964,TLS,Timor-Leste,TLS.6_1,Covalima,District
+26.91395,SLB,Solomon Islands,SLB.1_1,Central,Province
+21.94881313,ZMB,Zambia,ZMB.6_1,Muchinga,Province
+25.85774995,TLS,Timor-Leste,TLS.3_1,Ambeno,District
+23.84933384,TZA,Tanzania,TZA.22_1,Ruvuma,Region
+27.281601,PNG,Papua New Guinea,PNG.15_1,National Capital District,District
+24.6616858,SLB,Solomon Islands,SLB.3_1,Guadalcanal, 
+18.37919777,PER,Peru,PER.20_1,Pasco,Region
+23.40757422,BRA,Brazil,BRA.26_1,Sergipe,State
+20.04616928,MWI,Malawi,MWI.5_1,Chitipa,District
+23.93857677,MWI,Malawi,MWI.8_1,Karonga,District
+26.32111568,BOL,Bolivia,BOL.6_1,Pando,Department
+22.12104764,AGO,Angola,AGO.7_1,Cuanza Sul,Province
+28.16227297,AUS,Australia,AUS.7_1,Queensland,State
+27.37746683,SLB,Solomon Islands,SLB.9_1,Temotu,Province
+25.14070399,PER,Peru,PER.18_1,Madre de Dios,Region
+26.09763288,TZA,Tanzania,TZA.15_1,Mtwara,Region
+25.67537021,SLB,Solomon Islands,SLB.6_1,Makira Ulawa,Province
+11.77171631,PER,Peru,PER.16_1,Lima,Region
+26.74553256,BOL,Bolivia,BOL.3_1,El Beni,Department
+21.86790921,MWI,Malawi,MWI.25_1,Rumphi,District
+26.15968407,MOZ,Mozambique,MOZ.1_1,Cabo Delgado,Province
+15.22860735,PER,Peru,PER.12_1,Junín,Region
+20.59897148,AGO,Angola,AGO.3_1,Bié,Province
+21.3945017,AGO,Angola,AGO.15_1,Moxico,Province
+21.10990588,ZMB,Zambia,ZMB.7_1,North-Western,Province
+20.90935806,MWI,Malawi,MWI.17_1,Mzimba,District
+23.76212938,MWI,Malawi,MWI.19_1,Nkhata Bay,District
+29.66190199,AUS,Australia,AUS.6_1,Northern Territory,Territory
+14.30420913,PER,Peru,PER.8_1,Cusco,Region
+24.56584324,MOZ,Mozambique,MOZ.8_1,Nassa,Province
+20.01350689,AGO,Angola,AGO.9_1,Huambo,Province
+26.2435007,SLB,Solomon Islands,SLB.8_1,Rennell and Bellona,Province
+18.53876687,PER,Peru,PER.15_1,Lima Province,Province
+23.93616059,ZMB,Zambia,ZMB.3_1,Eastern,Province
+22.4602499,COM,Comoros,COM.2_1,Njazídja,Autonomous Island
+18.29543439,BOL,Bolivia,BOL.4_1,La Paz,Department
+22.87492113,AGO,Angola,AGO.2_1,Benguela,Province
+8.950569109,PER,Peru,PER.9_1,Huancavelica,Region
+22.25459275,ZMB,Zambia,ZMB.1_1,Central,Province
+25.30907443,MDG,Madagascar,MDG.2_1,Antsiranana,Autonomous Province
+20.99201194,ZMB,Zambia,ZMB.2_1,Copperbelt,Province
+24.05386821,MWI,Malawi,MWI.20_1,Nkhotakota,District
+23.6716003,COM,Comoros,COM.1_1,Mwali,Autonomous Island
+10.18190514,PER,Peru,PER.5_1,Ayacucho,Region
+22.09008422,MWI,Malawi,MWI.9_1,Kasungu,District
+23.97798021,BRA,Brazil,BRA.9_1,Goiás,State
+26.4666996,MYT,Mayotte,MYT.11_1,M'tsangamouji,Commune
+26.4659996,MYT,Mayotte,MYT.4_1,Boueni,Commune
+20.10634729,PER,Peru,PER.11_1,Ica,Region
+10.72349843,PER,Peru,PER.22_1,Puno,Region
+9.126731608,PER,Peru,PER.3_1,Apurímac,Region
+21.75499994,MWI,Malawi,MWI.23_1,Ntchisi,District
+21.58228946,AGO,Angola,AGO.10_1,Huíla,Province
+22.06462723,MWI,Malawi,MWI.14_1,Mchinji,District
+21.68071112,MWI,Malawi,MWI.7_1,Dowa,District
+24.76075005,MWI,Malawi,MWI.26_1,Salima,District
+23.2565002,WSM,Samoa,WSM.11_1,Vaisigano,District
+22.2474995,WSM,Samoa,WSM.6_1,Gagaifomauga,District
+25.7578001,WSM,Samoa,WSM.4_1,Fa'asaleleaga,District
+26.6613003,BOL,Bolivia,BOL.8_1,Santa Cruz,Department
+25.22249308,AGO,Angola,AGO.16_1,Namibe,Province
+21.54820001,MWI,Malawi,MWI.11_1,Lilongwe,District
+22.72016091,MWI,Malawi,MWI.6_1,Dedza,District
+24.03515765,MWI,Malawi,MWI.13_1,Mangochi,District
+25.97895495,MOZ,Mozambique,MOZ.7_1,Nampula,Province
+25.0447998,WSM,Samoa,WSM.7_1,Palauli,District
+23.12764006,AGO,Angola,AGO.5_1,Cuando Cubango,Province
+23.35057431,ZMB,Zambia,ZMB.10_1,Western,Province
+25.47974965,VUT,Vanuatu,VUT.6_1,Torba,Province
+25.493,WSM,Samoa,WSM.1_1,A'ana,District
+24.7823009,WSM,Samoa,WSM.9_1,Tuamasaga,District
+25.4813004,WSM,Samoa,WSM.3_1,Atua,District
+26.09243053,MDG,Madagascar,MDG.4_1,Mahajanga,Autonomous Province
+24.87693468,AUS,Australia,AUS.11_1,Western Australia,State
+25.32517398,MOZ,Mozambique,MOZ.10_1,Tete,Province
+22.84001103,BRA,Brazil,BRA.13_1,Minas Gerais,State
+22.35454558,MWI,Malawi,MWI.22_1,Ntcheu,District
+24.4192999,MWI,Malawi,MWI.12_1,Machinga,District
+12.45160059,PER,Peru,PER.4_1,Arequipa,Region
+23.62973533,ZMB,Zambia,ZMB.5_1,Lusaka,Province
+25.16708478,VUT,Vanuatu,VUT.3_1,Sanma,Province
+24.93305779,MWI,Malawi,MWI.1_1,Balaka,District
+25.68112518,VUT,Vanuatu,VUT.2_1,Penama,Province
+25.94888749,MOZ,Mozambique,MOZ.11_1,Zambezia,Province
+23.76954798,MDG,Madagascar,MDG.5_1,Toamasina,Autonomous Province
+24.03046407,AGO,Angola,AGO.8_1,Cunene,Province
+24.51425028,MWI,Malawi,MWI.18_1,Neno,District
+23.85280939,MWI,Malawi,MWI.28_1,Zomba,District
+23.19752742,ZMB,Zambia,ZMB.9_1,Southern,Province
+24.71904991,MWI,Malawi,MWI.2_1,Blantyre,District
+21.56420637,BRA,Brazil,BRA.7_1,Distrito Federal,Federal District
+23.8793745,MWI,Malawi,MWI.24_1,Phalombe,District
+26.6413617,FJI,Fiji,FJI.3_1,Northern,Division
+22.91079327,ZWE,Zimbabwe,ZWE.6_1,Mashonaland West,Province
+22.95398608,ZWE,Zimbabwe,ZWE.4_1,Mashonaland Central,Province
+25.58829975,MWI,Malawi,MWI.16_1,Mwanza,District
+22.8824997,MWI,Malawi,MWI.4_1,Chiradzulu,District
+22.18954977,MWI,Malawi,MWI.15_1,Mulanje,District
+19.83966973,BOL,Bolivia,BOL.2_1,Cochabamba,Department
+27.35885002,MWI,Malawi,MWI.3_1,Chikwawa,District
+23.32841652,MWI,Malawi,MWI.27_1,Thyolo,District
+25.90521241,VUT,Vanuatu,VUT.1_1,Malampa,Province
+26.6903,PYF,French Polynesia,PYF.5_1,Îles Tuamotu-Gambier,Administrative subdivisions
+12.27792904,PER,Peru,PER.19_1,Moquegua,Region
+27.2026005,PYF,French Polynesia,PYF.4_1,Îles Sous-le-Vent,Administrative subdivisions
+25.36838554,MOZ,Mozambique,MOZ.4_1,Manica,Province
+27.11227144,MWI,Malawi,MWI.21_1,Nsanje,District
+21.51560404,ZWE,Zimbabwe,ZWE.5_1,Mashonaland East,Province
+26.02097513,VUT,Vanuatu,VUT.4_1,Shefa,Province
+13.62695607,PER,Peru,PER.24_1,Tacna,Region
+27.07457971,MOZ,Mozambique,MOZ.9_1,Sofala,Province
+22.97158744,NAM,Namibia,NAM.6_1,Kunene,Region
+23.68047282,ZWE,Zimbabwe,ZWE.8_1,Matabeleland North,Province
+25.69910507,BRA,Brazil,BRA.11_1,Mato Grosso do Sul,State
+22.69628082,ZWE,Zimbabwe,ZWE.10_1,Midlands,Province
+25.9818999,FJI,Fiji,FJI.2_1,Eastern,Division
+10.48912555,BOL,Bolivia,BOL.5_1,Oruro,Department
+24.17991732,NAM,Namibia,NAM.9_1,Omusati,Region
+24.48910247,NAM,Namibia,NAM.7_1,Ohangwena,Region
+24.57360002,NAM,Namibia,NAM.4_1,Kavango,Region
+21.63065417,ZWE,Zimbabwe,ZWE.3_1,Manicaland,Province
+25.41305554,FJI,Fiji,FJI.5_1,Western,Division
+23.74722527,PYF,French Polynesia,PYF.2_1,Îles du Vent,Administrative subdivisions
+24.87237112,NAM,Namibia,NAM.13_1,Zambezi,Region
+11.1305873,CHL,Chile,CHL.4_1,Arica y Parinacota,Region
+24.92063577,NAM,Namibia,NAM.10_1,Oshana,Region
+24.53390863,NAM,Namibia,NAM.11_1,Oshikoto,Region
+20.6632004,ZWE,Zimbabwe,ZWE.2_1,Harare,City
+21.82364643,MDG,Madagascar,MDG.1_1,Antananarivo,Autonomous Province
+25.55748305,FJI,Fiji,FJI.1_1,Central,Division
+11.69769701,BOL,Bolivia,BOL.7_1,Potosí,Department
+25.39333693,BWA,Botswana,BWA.2_1,Chobe,District
+23.77465698,BRA,Brazil,BRA.8_1,Espírito Santo,State
+26.1578317,BWA,Botswana,BWA.12_1,North-West,District
+26.74993808,MDG,Madagascar,MDG.6_1,Toliary,Autonomous Province
+20.78460254,BOL,Bolivia,BOL.1_1,Chuquisaca,Department
+25.43106652,VUT,Vanuatu,VUT.5_1,Tafea,Province
+14.66386865,CHL,Chile,CHL.15_1,Tarapacá,Region
+23.65629877,NAM,Namibia,NAM.12_1,Otjozondjupa,Region
+25.51539998,BWA,Botswana,BWA.1_1,Central,District
+24.42226376,ZWE,Zimbabwe,ZWE.7_1,Masvingo,Province
+28.41263047,PRY,Paraguay,PRY.1_1,Alto Paraguay,Department
+23.79759594,ZWE,Zimbabwe,ZWE.9_1,Matabeleland South,Province
+24.94274201,NCL,New Caledonia,NCL.2_1,Nord,Province
+26.0952997,TON,Tonga,TON.2_1,Ha'apai,Island Group
+23.44590732,BRA,Brazil,BRA.25_1,São Paulo,State
+27.97717104,PRY,Paraguay,PRY.5_1,Boquerón,Department
+21.7782993,ZWE,Zimbabwe,ZWE.1_1,Bulawayo,City
+23.50958665,MDG,Madagascar,MDG.3_1,Fianarantsoa,Autonomous Province
+25.9885006,MUS,Mauritius,MUS.6_1,Pamplemousses,District
+23.91352028,NAM,Namibia,NAM.8_1,Omaheke,Region
+25.06024935,MUS,Mauritius,MUS.2_1,Black River,District
+24.2621994,MUS,Mauritius,MUS.5_1,Moka,District
+25.5720005,MUS,Mauritius,MUS.3_1,Flacq,District
+24.5928993,MUS,Mauritius,MUS.4_1,Grand Port,District
+25.75177767,NCL,New Caledonia,NCL.1_1,Îles Loyauté,Province
+23.35049634,NAM,Namibia,NAM.2_1,Erongo,Region
+23.92803331,BWA,Botswana,BWA.11_1,North-East,District
+23.3656077,BOL,Bolivia,BOL.9_1,Tarija,Department
+23.64569935,BRA,Brazil,BRA.19_1,Rio de Janeiro,State
+21.86876617,REU,Reunion,REU.2_1,Saint-Denis,Arrondissement
+13.96585243,CHL,Chile,CHL.2_1,Antofagasta,Region
+26.03413922,BWA,Botswana,BWA.5_1,Ghanzi,District
+26.23774201,MOZ,Mozambique,MOZ.3_1,Inhambane,Province
+23.7763996,REU,Reunion,REU.3_1,Saint-Paul,Arrondissement
+21.89449975,REU,Reunion,REU.1_1,Saint-Benoît,Arrondissement
+20.97473333,REU,Reunion,REU.4_1,Saint-Pierre,Arrondissement
+25.4932003,TON,Tonga,TON.1_1,'Eua,Island Group
+27.05070214,MOZ,Mozambique,MOZ.2_1,Gaza,Province
+24.31892162,NCL,New Caledonia,NCL.3_1,Sud,Province
+22.09571987,NAM,Namibia,NAM.5_1,Khomas,Region
+14.30365644,ARG,Argentina,ARG.10_1,Jujuy,Province
+20.86528912,ARG,Argentina,ARG.17_1,Salta,Province
+27.31802,PRY,Paraguay,PRY.17_1,Presidente Hayes,Department
+25.09581189,PRY,Paraguay,PRY.3_1,Amambay,Department
+26.81204925,PRY,Paraguay,PRY.10_1,Concepción,Department
+24.00165699,ZAF,South Africa,ZAF.5_1,Limpopo,Province
+26.37129431,ARG,Argentina,ARG.9_1,Formosa,Province
+21.92054185,BRA,Brazil,BRA.16_1,Paraná,State
+25.66225553,BWA,Botswana,BWA.9_1,Kweneng,District
+23.20503724,NAM,Namibia,NAM.3_1,Hardap,Region
+26.2201261,PRY,Paraguay,PRY.18_1,San Pedro,Department
+25.7551199,BWA,Botswana,BWA.7_1,Kgalagadi,District
+24.10270642,PRY,Paraguay,PRY.8_1,Canindeyú,Department
+25.74697304,BWA,Botswana,BWA.8_1,Kgatleng,District
+24.98538769,BWA,Botswana,BWA.15_1,Southern,District
+20.67314547,ZAF,South Africa,ZAF.6_1,Mpumalanga,Province
+25.48804639,ARG,Argentina,ARG.3_1,Chaco,Province
+25.43960133,MOZ,Mozambique,MOZ.6_1,Maputo,Province
+24.63282441,PRY,Paraguay,PRY.6_1,Caaguazú,Department
+23.24133405,PRY,Paraguay,PRY.2_1,Alto Paraná,Department
+25.8271008,BWA,Botswana,BWA.4_1,Gaborone,City
+24.32852508,BWA,Botswana,BWA.14_1,South-East,District
+23.19915947,ZAF,South Africa,ZAF.7_1,North West,Province
+26.31901441,PRY,Paraguay,PRY.11_1,Cordillera,Department
+22.1931169,ZAF,South Africa,ZAF.8_1,Northern Cape,Province
+23.29328957,NAM,Namibia,NAM.1_1,!Karas,Region
+15.59537692,ARG,Argentina,ARG.2_1,Catamarca,Province
+26.4610004,PRY,Paraguay,PRY.4_1,Asunción,Capital District
+26.08607156,PRY,Paraguay,PRY.9_1,Central,Department
+20.5709525,ZAF,South Africa,ZAF.3_1,Gauteng,Province
+8.549688082,CHL,Chile,CHL.5_1,Atacama,Region
+24.77506881,PRY,Paraguay,PRY.16_1,Paraguarí,Department
+24.12306932,PRY,Paraguay,PRY.12_1,Guairá,Department
+23.31739664,PRY,Paraguay,PRY.7_1,Caazapá,Department
+25.78908023,ARG,Argentina,ARG.22_1,Santiago del Estero,Province
+20.46107889,ARG,Argentina,ARG.14_1,Misiones,Province
+22.50873082,SWZ,Swaziland,SWZ.1_1,Hhohho,District
+26.01780035,MOZ,Mozambique,MOZ.5_1,Maputo City,Province
+25.06771488,PRY,Paraguay,PRY.15_1,Ñeembucú,Department
+25.0473421,SWZ,Swaziland,SWZ.2_1,Lubombo,District
+21.90790622,AUS,Australia,AUS.8_1,South Australia,State
+22.65188011,ARG,Argentina,ARG.24_1,Tucumán,Province
+22.88330371,PRY,Paraguay,PRY.13_1,Itapúa,Department
+23.01794608,SWZ,Swaziland,SWZ.3_1,Manzini,District
+24.12143708,PRY,Paraguay,PRY.14_1,Misiones,Department
+20.87343997,ZAF,South Africa,ZAF.2_1,Free State,Province
+23.11056661,SWZ,Swaziland,SWZ.4_1,Shiselweni,District
+21.41861367,ZAF,South Africa,ZAF.4_1,KwaZulu-Natal,Province
+18.1085777,BRA,Brazil,BRA.21_1,Rio Grande do Sul,State
+23.28756894,ARG,Argentina,ARG.7_1,Corrientes,Province
+20.85031085,ARG,Argentina,ARG.12_1,La Rioja,Province
+23.78535459,ARG,Argentina,ARG.21_1,Santa Fe,Province
+20.89314069,AUS,Australia,AUS.5_1,New South Wales,State
+12.93766496,ARG,Argentina,ARG.18_1,San Juan,Province
+14.25092012,LSO,Lesotho,LSO.2_1,Butha-Buthe,District
+15.74798413,LSO,Lesotho,LSO.3_1,Leribe,District
+13.29401995,LSO,Lesotho,LSO.7_1,Mokhotlong,District
+5.672359341,CHL,Chile,CHL.7_1,Coquimbo,Region
+17.87882859,LSO,Lesotho,LSO.1_1,Berea,District
+23.7728996,NZL,New Zealand,NZL.10_1,Northern Islands,Group of islands
+17.48854615,LSO,Lesotho,LSO.5_1,Maseru,District
+14.97129363,LSO,Lesotho,LSO.10_1,Thaba-Tseka,District
+22.82412861,ARG,Argentina,ARG.6_1,Córdoba,Province
+18.89305031,LSO,Lesotho,LSO.4_1,Mafeteng,District
+16.2126876,LSO,Lesotho,LSO.8_1,Qacha's Nek,District
+17.87469985,LSO,Lesotho,LSO.6_1,Mohale's Hoek,District
+17.30252311,LSO,Lesotho,LSO.9_1,Quthing,District
+19.87153412,ZAF,South Africa,ZAF.1_1,Eastern Cape,Province
+23.62753352,ARG,Argentina,ARG.8_1,Entre Ríos,Province
+23.78630949,URY,Uruguay,URY.1_1,Artigas,Department
+15.47284845,ZAF,South Africa,ZAF.9_1,Western Cape,Province
+24.0005092,URY,Uruguay,URY.15_1,Salto,Department
+20.62282649,URY,Uruguay,URY.13_1,Rivera,Department
+20.91451926,URY,Uruguay,URY.18_1,Tacuarembó,Department
+23.46987559,URY,Uruguay,URY.11_1,Paysandú,Department
+15.09932385,URY,Uruguay,URY.3_1,Cerro Largo,Department
+23.67584383,ARG,Argentina,ARG.19_1,San Luis,Province
+7.211825587,CHL,Chile,CHL.16_1,Valparaíso,Region
+13.54196599,ARG,Argentina,ARG.13_1,Mendoza,Province
+23.56197087,URY,Uruguay,URY.12_1,Río Negro,Department
+20.4753512,URY,Uruguay,URY.5_1,Durazno,Department
+15.93027928,URY,Uruguay,URY.19_1,Treinta y Tres,Department
+4.80798824,CHL,Chile,CHL.14_1,Región Metropolitana de Santiago,Region
+22.83953025,URY,Uruguay,URY.17_1,Soriano,Department
+19.60827173,URY,Uruguay,URY.7_1,Florida,Department
+22.86226454,URY,Uruguay,URY.6_1,Flores,Department
+14.12213407,URY,Uruguay,URY.8_1,Lavalleja,Department
+11.74567634,URY,Uruguay,URY.14_1,Rocha,Department
+20.45847467,ARG,Argentina,ARG.1_1,Buenos Aires,Province
+7.49067372,CHL,Chile,CHL.8_1,Libertador General Bernardo O'Higgins,Region
+22.58101289,URY,Uruguay,URY.4_1,Colonia,Department
+18.85292233,URY,Uruguay,URY.16_1,San José,Department
+12.63681114,URY,Uruguay,URY.9_1,Maldonado,Department
+10.60511347,AUS,Australia,AUS.10_1,Victoria,State
+17.14875281,URY,Uruguay,URY.2_1,Canelones,Department
+22.9022999,ARG,Argentina,ARG.5_1,Ciudad de Buenos Aires,Federal District
+11.24551609,NZL,New Zealand,NZL.11_1,Northland,Region
+6.112864672,CHL,Chile,CHL.12_1,Maule,Region
+21.07594381,ARG,Argentina,ARG.11_1,La Pampa,Province
+10.8139175,AUS,Australia,AUS.2_1,Australian Capital Territory,Territory
+6.832964875,CHL,Chile,CHL.13_1,Ñuble,Region
+6.181601261,ARG,Argentina,ARG.15_1,Neuquén,Province
+10.86480539,NZL,New Zealand,NZL.1_1,Auckland,Region
+7.278996172,CHL,Chile,CHL.6_1,Bío-Bío,Region
+8.102821777,NZL,New Zealand,NZL.17_1,Waikato,Region
+9.1883497,SHN,Saint Helena,SHN.3_1,Tristan da Cunha,Dependency
+7.886233148,NZL,New Zealand,NZL.2_1,Bay of Plenty,Region
+6.058494917,CHL,Chile,CHL.3_1,Araucanía,Region
+8.067072723,NZL,New Zealand,NZL.5_1,Gisborne,Region
+12.47280759,ARG,Argentina,ARG.16_1,Río Negro,Province
+7.484849388,NZL,New Zealand,NZL.7_1,Manawatu-Wanganui,Region
+9.538945307,NZL,New Zealand,NZL.15_1,Taranaki,Region
+7.470144464,NZL,New Zealand,NZL.6_1,Hawke's Bay,Region
+5.800418849,CHL,Chile,CHL.10_1,Los Ríos,Region
+7.639555247,AUS,Australia,AUS.9_1,Tasmania,State
+5.269758211,CHL,Chile,CHL.9_1,Los Lagos,Region
+7.488802959,NZL,New Zealand,NZL.16_1,Tasman,Region
+7.823699381,NZL,New Zealand,NZL.18_1,Wellington,Region
+8.722955362,NZL,New Zealand,NZL.19_1,West Coast,Region
+7.81411005,NZL,New Zealand,NZL.9_1,Nelson,Region
+5.872483173,NZL,New Zealand,NZL.8_1,Marlborough,Region
+7.99136523,NZL,New Zealand,NZL.3_1,Canterbury,Region
+5.308117636,ARG,Argentina,ARG.4_1,Chubut,Province
+8.342494933,NZL,New Zealand,NZL.4_1,Chatham Islands,Territory
+3.289115473,CHL,Chile,CHL.1_1,Aisén del General Carlos Ibáñez del Campo,Region
+7.883013417,NZL,New Zealand,NZL.12_1,Otago,Region
+10.09436885,NZL,New Zealand,NZL.14_1,Southland,Region
+5.112494022,ARG,Argentina,ARG.20_1,Santa Cruz,Province
+4.4594566,ATF,French Southern Territories,ATF.1_1,Îles Crozet,District
+6.90357688,CHL,Chile,CHL.11_1,Magallanes y Antártica Chilena,Region
+1.893736157,ATF,French Southern Territories,ATF.4_1,Kerguelen,District
+7.43582485,NZL,New Zealand,NZL.13_1,Southern Islands,Group of islands
+6.24072021,ARG,Argentina,ARG.23_1,Tierra del Fuego,National Territory
