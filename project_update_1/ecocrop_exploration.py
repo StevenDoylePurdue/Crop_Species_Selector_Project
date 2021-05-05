@@ -32,18 +32,36 @@ if __name__ == '__main__':
 
     fileName = "ecocrop_cleaned.csv"
     DataDF= ReadData(fileName)
-    """
+
+    file2 = 'cropbasics_scrape.csv'
+    olddf = ReadData(file2)
+
+    '''# Plot temps
+    fig = plt.figure()
+    a = plt.hist(DataDF['Rain_Opt_Min'], color='r', alpha = 0.3, density = True, bins = 20, range = (0, 5000))
+    b = plt.hist(olddf['Rain_Opt_Min'], color='b',alpha = 0.3, density = True, bins = 20, range = (0, 5000))
+    plt.title('Initial and Corrected Minimum Optimal Rainfall Probability Density')  # Title
+    plt.xlabel('Rainfall (mm)')  # X axis label
+    plt.ylabel('Probability Density')  # Y axis label
+
+    fig.savefig('rainfall_changes_prob.png')  # Save figure to file as image
+    plt.show()'''
+
+
+
+
+
     # Plot temps
     fig = plt.figure()
-    a = plt.hist(DataDF['Temp_Opt_Max']-DataDF['Temp_Opt_Min'], bins=20, color='b')
-    b = plt.hist(DataDF['Temp_Abs_Max']-DataDF['Temp_Abs_Min'], bins=20, color='r')
-    plt.title('Temperature Ranges (Degrees Celsius)')  # Title
+    a = plt.hist(DataDF['Temp_Opt_Max']-DataDF['Temp_Opt_Min'], color='r', alpha = 0.3, bins = 20, range = (0, 60))
+    b = plt.hist(DataDF['Temp_Abs_Max']-DataDF['Temp_Abs_Min'], color='b',alpha = 0.3, bins = 20, range = (0, 60))
+    plt.title('Temperature Range Distribution')  # Title
     plt.xlabel('Degrees (Celsius)')  # X axis label
-    plt.ylabel('Recordings')  # Y axis label
+    plt.ylabel('Records')  # Y axis label
     
-    fig.savefig('Temp_Difference.png')  # Save figure to file as image
+    fig.savefig('temp_diff.png')  # Save figure to file as image
     plt.show()
-    """
+
     """
     #Plot temp vs alt
     fig = plt.figure()
@@ -55,7 +73,7 @@ if __name__ == '__main__':
     plt.show()
     """
     
-    # Plot salinity
+    '''# Plot salinity
     fig = plt.figure()
     b=DataDF.loc[DataDF.Salinity_Abs =='low (<4 dS/m)', 'Salinity_Abs'].count()
     c=DataDF.loc[DataDF.Salinity_Abs =='medium (4-10 dS/m)', 'Salinity_Abs'].count()
@@ -65,7 +83,7 @@ if __name__ == '__main__':
     a = plt.pie(data, labels=lb)
     plt.title('Absolute Maximum Salinity Tolerance')
     fig.savefig('Maximum_Salinity.png')
-    plt.show()
+    plt.show()'''
     
     
     

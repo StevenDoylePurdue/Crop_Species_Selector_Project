@@ -42,16 +42,17 @@ if __name__ == '__main__':
     text = fscore[fscore['Texture'] == 0].shape[0]
     fert = fscore[fscore['Fertility'] == 0].shape[0]
     cycle = fscore[fscore['Cycle'] == 0].shape[0]
-    labels = ['Altitude', 'Precipitation', 'pH', 'Minimum Temperature', 'Maximum Temperature',
-              'Texture', 'Fertility', 'Growing Period Length']
+    labels = ['Alt', 'Precip', 'pH', 'Min Temp', 'Max Temp',
+              'Texture', 'Fertility', 'Growing Period']
     vars = [alt, rain, ph, tmin, tmax, text, fert, cycle]
     fig = plt.figure(dpi=96)
-    plt.rcParams['figure.figsize'] = (20, 15)
+    plt.rcParams['figure.figsize'] = (20, 30)
     plt.rcParams['font.size'] = '28'
     plt.bar(labels, vars)
     plt.title('Causes of Plant Growth Failure')  # Title
     plt.xlabel('Variable')  # X axis label
     plt.ylabel('Number of Occurrences')  # Y axis label
+    plt.xticks(labels, size=8)
     fig.savefig('Fail_Bar.png')  # Save figure to file as image
     plt.show()'''
 
@@ -81,9 +82,9 @@ if __name__ == '__main__':
     pca.fit(scaled_data)
     x_pca = pca.transform(scaled_data)
 
-    plt.figure(dpi=96)
-    plt.rcParams['figure.figsize'] = (20, 15)
-    plt.rcParams['font.size'] = '28'
+    plt.figure()
+    #plt.rcParams['figure.figsize'] = (20, 15)
+    #plt.rcParams['font.size'] = '28'
     targets = df['Growth'].values
     plt.scatter(x_pca[:, 0], x_pca[:, 1], c=targets, cmap='rainbow')
     plt.xlabel('First principal component')
