@@ -7,6 +7,9 @@ Date: 04.29.2021
 This script reads in the processed environmental attributes csvs, merges them together, and transforms
 them into eco-crop compatible variables.
 
+inputs: 'processed_*.csv'
+outputs: 'env_var.csv'
+
 """
 
 import pandas as pd

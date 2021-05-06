@@ -7,6 +7,9 @@ Date: 04.29.2021
 This script displays the function used to determine whether or not a plant can be grown in a given environment and
 the factors relating to its success.
 
+inputs: 'ecocrop_cleaned.csv', 'env_var.csv'
+outputs: '*_*_*_scores.csv'
+
 """
 
 import pandas as pd

@@ -7,6 +7,10 @@ Date: 04.29.2021
 This script produces descriptive statistics for the results of the cultivation function when specifying a single state
 as the location variable and all plants as the plant variable.
 
+inputs: '*_*_*_scores.csv'
+outputs: '*_pass_metrics.csv', 'Min_Rain_Diff.png', 'Max_Alt.png', '*_all_data.csv', '*_passing_data.csv',
+'*_failing_data.csv'
+
 """
 
 import pandas as pd
@@ -85,7 +89,7 @@ if __name__ == '__main__':
     avg_std(pscore)
 
 
-    '''# Plot Rainfall Min
+    # Plot Rainfall Min
     fig, ax = plt.subplots(dpi=96)
     plt.rcParams['figure.figsize'] = (20, 15)
     ax.boxplot([pscore['Rain_Abs_Min'],totaldf['Rain_Abs_Min']])
@@ -94,7 +98,7 @@ if __name__ == '__main__':
     plt.ylabel('Precipitation (mm)')  # Y axis label
     plt.rcParams['font.size'] = '28'
     fig.savefig('Min_Rain_Diff.png')  # Save figure to file as image
-    plt.show()'''
+    plt.show()
 
     # Plot histogram of altitude
     fig = plt.figure(dpi=96)

@@ -4,6 +4,10 @@ Program: ECO_Crop Exploration
 Programmer: Steven Doyle
 Date: 04.13.2021
 
+This script examines the ecocrop list and produces figures on the dataset's agronomic requirements.
+
+inputs: "ecocrop_cleaned.csv", 'cropbasics_scrape.csv'
+outputs: 'rainfall_changes_prob.png', 'temp_diff.png', 'Minimum_Temp_vs_Altitude.png'
 
 """
 
@@ -36,7 +40,7 @@ if __name__ == '__main__':
     file2 = 'cropbasics_scrape.csv'
     olddf = ReadData(file2)
 
-    '''# Plot temps
+    # Plot temps
     fig = plt.figure()
     a = plt.hist(DataDF['Rain_Opt_Min'], color='r', alpha = 0.3, density = True, bins = 20, range = (0, 5000))
     b = plt.hist(olddf['Rain_Opt_Min'], color='b',alpha = 0.3, density = True, bins = 20, range = (0, 5000))
@@ -45,7 +49,7 @@ if __name__ == '__main__':
     plt.ylabel('Probability Density')  # Y axis label
 
     fig.savefig('rainfall_changes_prob.png')  # Save figure to file as image
-    plt.show()'''
+    plt.show()
 
 
 
@@ -62,7 +66,7 @@ if __name__ == '__main__':
     fig.savefig('temp_diff.png')  # Save figure to file as image
     plt.show()
 
-    """
+
     #Plot temp vs alt
     fig = plt.figure()
     a = plt.scatter(DataDF['Temp_Opt_Min'], DataDF['Alt_Abs_Max'])
@@ -71,19 +75,9 @@ if __name__ == '__main__':
     plt.ylabel('Maximum Altitude (Meters)')
     fig.savefig('Minimum_Temp_vs_Altitude.png')
     plt.show()
-    """
+
     
-    '''# Plot salinity
-    fig = plt.figure()
-    b=DataDF.loc[DataDF.Salinity_Abs =='low (<4 dS/m)', 'Salinity_Abs'].count()
-    c=DataDF.loc[DataDF.Salinity_Abs =='medium (4-10 dS/m)', 'Salinity_Abs'].count()
-    d=DataDF.loc[DataDF.Salinity_Abs =='high (>10 dS/m))', 'Salinity_Abs'].count()
-    data = [b, c, d]
-    lb = ['low (<4 dS/m)', 'medium (4-10 dS/m)', 'high (>10 dS/m))']
-    a = plt.pie(data, labels=lb)
-    plt.title('Absolute Maximum Salinity Tolerance')
-    fig.savefig('Maximum_Salinity.png')
-    plt.show()'''
+
     
     
     

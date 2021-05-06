@@ -9,6 +9,9 @@ relevant attributes for mapping to the checked soils join csv.  It then reads in
 soils join csv, maps the attributes to the soil names, and saves a new csv file of the joined
 soils with attribute values instead of soil names.
 
+inputs: 'checked_soils_join.csv', 'SU_Info.csv'
+outputs: 'processed_soils.csv'
+
 """
 
 import pandas as pd

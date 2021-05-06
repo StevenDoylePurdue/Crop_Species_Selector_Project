@@ -7,6 +7,9 @@ Date: 04.28.2021
 This script reads in the environmental attributes csvs and consolidates each one by taking the average of each
 subnational jurisdiction's attributes and converting them into a new dataframe.
 
+inputs: 'checked_*_join.csv'
+outputs: 'processed_*.csv'
+
 """
 
 import pandas as pd

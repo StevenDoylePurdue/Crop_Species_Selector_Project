@@ -7,6 +7,9 @@ Date: 04.13.2021
 This script reads attribute csv files and filters out any errors. It produces
 filtered csv files.
 
+inputs: '*_join.csv'
+outputs: 'checked_*_join.csv'
+
 """
 
 import pandas as pd

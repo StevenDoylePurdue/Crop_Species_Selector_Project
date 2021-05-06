@@ -33,6 +33,9 @@ na values by column and the number of rows dropped and saves it as a tab delimit
 txt file 'ecocrop_dropped_values.txt'. It also plots figures comparing before 
 and after quality check distributions for attribute values.
 
+inputs: 'cropbasics_scrape.csv'
+outputs: 'ecocrop_cleaned.csv'
+
 """
 
 import pandas as pd
